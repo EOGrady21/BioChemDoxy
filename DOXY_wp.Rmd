@@ -447,7 +447,400 @@ legend('bottomright',  c('Winkler', 'Electrode'), col = c('black', 'blue'), lty 
 plot(H12042_wink_data, H12042_wink_dpth, ylim = (c(5000, 0)), xlim = c(4,9), xlab = 'DO ml/L', ylab = 'Depth (m)', main = 'HUD2012042')
 par(new = TRUE)
 plot(H12042_elec_data, H12042_elec_dpth, ylim = (c(5000, 0)),xlim = c(4,9), axes = FALSE, col = 'blue', xlab = '', ylab = '')
-legend('bottomright',  c('Winkler', 'Electrode'), col = c('black', 'blue'), lty = 1)
+legend('bottomright',  c('Winkler', 'Electrode'), col = c('black', 'blue'), lty = 1, cex = 0.8)
 
 ```
+
+The next step in Analysis was to plot Winkler and Electrode data against each other for each cruise to attempt a linear regression. In an ideal situtation the data would have presented with a 1:1 relationship, high correlation and minimal offset (intercept). 
+
+
+For cruise HUD2011004
+
+```{r}
+H11004_winkelec <- matrix(NA, nrow = 175, ncol = 2)
+for( i in 1:175){
+  if(!is.null(match[[i]])){
+    H11004_winkelec[i,1] <- H11004_wink_data[[i]] 
+    H11004_winkelec[i,2] <- H11004_elec_data[[match[[i]]]]
+  # }else{
+  #   H11004_winkelec[i,] <- NULL
+   }
+}
+
+plot(H11004_winkelec[,1], H11004_winkelec[,2], xlim = c(0,7), ylim = c(0,7),xlab = 'Winkler Data', ylab = 'Electrode Data')
+par(new = TRUE)
+lm <- lm(H11004_winkelec[,1] ~ H11004_winkelec[,2])
+abline(lm)
+abline(coef = c(0, 1), col = 'red')
+title(main = 'HUD2011004')
+title(sub = 'R^2 = 0.9844')
+```
+Where black line represents simple linear regression on the data and red line represents perfect 1:1 relationship with 0 intercept.
+
+Statistic summary
+
+```{r}
+summary(lm)
+plot(lm)
+```
+
+
+For cruise HUD2011043
+
+```{r}
+H11043_winkelec <- matrix(NA, nrow = 310, ncol = 2)
+for( i in 1:309){
+  if(!is.null(match2[[i]])){
+    H11043_winkelec[i,1] <- H11043_wink_data[[i]] 
+    H11043_winkelec[i,2] <- H11043_elec_data[[match2[[i]]]]
+  # }else{
+  #   H11043_winkelec[i,] <- NULL
+   }
+}
+
+plot(H11043_winkelec[,1], H11043_winkelec[,2], xlim = c(0, 7), ylim = c(0,7), xlab = 'Winkler Data', ylab = 'Electrode Data')
+par(new = TRUE)
+lm2 <- lm(H11043_winkelec[,1] ~ H11043_winkelec[,2])
+abline(lm2)
+abline(coef = c(0, 1), col = 'red')
+title(main = 'HUD2011043')
+title(sub = 'R^2 = 0.3697')
+
+```
+Where black line represents simple linear regression on the data and red line represents perfect 1:1 relationship with 0 intercept.
+
+Statistic summary
+
+
+```{r}
+summary(lm2)
+plot(lm2)
+```
+
+For cruise HUD2012042
+
+```{r}
+length(H12042_elec_data) <- 486
+
+H12042_winkelec <- matrix(NA, nrow = 486, ncol = 2)
+for( i in 1:486){
+  if(!is.null(match3[[i]])){
+    H12042_winkelec[i,1] <- H12042_wink_data[[i]] 
+    H12042_winkelec[i,2] <- H12042_elec_data[[match3[[i]]]]
+   # }else{
+   #   H12042_winkelec[i,] <- NULL
+   }
+}
+
+plot(H12042_winkelec[,1], H12042_winkelec[,2],xlim = c(0,7), ylim = c(0,7), xlab = 'Winkler Data', ylab = 'Electrode Data')
+par(new = TRUE)
+lm3 <- lm(H12042_winkelec[,1] ~ H12042_winkelec[,2])
+abline(lm3)
+abline(coef = c(0, 1), col = 'red')
+title(main = 'HUD2012042')
+title(sub = 'R^2 = 0.4968')
+
+```
+Where black line represents simple linear regression on the data and red line represents perfect 1:1 relationship with 0 intercept.
+
+
+Statistic summary
+
+```{r}
+summary(lm3)
+plot(lm3)
+```
+ 
+
+
+In order to determine if the relationship between Winkler and electrode data was pressure dependent the differences by cruise were plotted over depth along with simple linear regression and summary statistics
+
+For HUD2011004
+
+```{r}
+length(H11004_wink_dpth) <- 131
+plot( H11004_wink_dpth, unlist(H11004_wink_elec_1), ylim = c(-2, 2), xlab = 'Depth (m)', ylab = 'Difference (Winkler - electrode)')
+abline(h = 0, col = 'blue')
+ll <- lm( unlist(H11004_wink_elec_1) ~ H11004_wink_dpth)
+abline(ll, col = 'red')
+title(main = 'HUD2011004', sub = 'R^2 = 0.01128')
+
+```
+```{r}
+summary(ll)
+plot(ll)
+```
+
+
+For HUD2011043
+
+```{r}
+dp2 <- list()
+for (i in 1:length(H11043_wink_elec_1)){
+  if(is.null(H11043_wink_elec_1[[i]])){
+    dp2[i] <- NULL
+  } else{
+    dp2[i] <- H11043_wink_dpth[[i]]
+  }
+}
+plot(unlist(dp2), unlist(H11043_wink_elec_1), ylim = c(-2, 2), xlab = 'Depth (m)', ylab = 'Difference (Winkler - Electrode)')
+abline(h = 0, col = 'blue')
+ll2 <- lm(unlist(H11043_wink_elec_1) ~ unlist(dp2))
+abline(ll2, col = 'red')
+title(main = 'HUD2011043', sub = 'R^2 = 0.00944')
+
+```
+```{r}
+summary(ll2)
+plot(ll2)
+```
+
+
+For HUD2012042
+
+```{r}
+dp3 <- list()
+for (i in 1:length(H12042_wink_elec_1)){
+  if(is.null(H12042_wink_elec_1[[i]])){
+    dp3[i] <- NULL
+  } else{
+    dp3[i] <- H12042_wink_dpth[[i]]
+  }
+}
+plot(unlist(dp3), unlist(H12042_wink_elec_1), ylim = c(-2, 2), xlab = 'Depth (m)', ylab = 'Difference (Winkler - Electrode)')
+abline(h = 0, col = 'blue')
+ll3 <- lm(unlist(H12042_wink_elec_1) ~ unlist(dp3))
+abline(ll3, col = 'red')
+title(main = 'HUD2012042', sub = 'R^2 = 0.7767')
+
+```
+```{r}
+summary(ll3)
+plot(ll3)
+```
+
+This procedure was done to mimic CTD QC procedure but may not have signifcant bearing on the statistical results. In theory there should be no relationship between pressure and Winkler - electrode measurements since both measurements are made a t the surface, although there may be some relationship between accuracy/ offset between methods and dissolved oxygen concentration which will be tested next. 
+
+
+Difference (winkler - electrode measurement per sample ID) was plotted over DO concentration for each cruise, blue line are at y = 0 and red lines represent simple linear regression of the data.
+
+For HUD2011004
+
+```{r}
+wd <- list()
+for (i in 1:length(H11004_wink_data)){
+  if (is.null(H11004_wink_elec_1[[i]])){
+    wd[[i]] <- NULL
+  } else{
+    wd[[i]] <- H11004_wink_data[[i]]
+  }
+}
+
+length(H11004_wink_elec_1) <- length(wd)
+plot(unlist(wd), unlist(H11004_wink_elec_1), ylim = c(-3,3), xlab = 'DO Concentrations, ml/l', ylab = 'Difference (Winkler - electrode)')
+abline(h = 0, col = 'blue')
+lh <- lm(unlist(H11004_wink_elec_1) ~ unlist(wd))
+abline(lh, col = 'red')
+title(main = 'HUD2011004')
+
+```
+```{r}
+summary(lh)
+plot(lh)
+```
+
+For HUD2011043
+
+```{r}
+wd2 <- list()
+for (i in 1:length(H11043_wink_elec_1)){
+  if (is.null(H11043_wink_elec_1[[i]])){
+    wd2[[i]] <- NULL
+  } else{
+    wd2[[i]] <- H11043_wink_data[[i]]
+  }
+}
+
+wd2 <- unlist(wd2)
+length(wd2) <- 56
+plot(wd2, unlist(H11043_wink_elec_1), ylim = c(-3,3), xlab = 'DO Concentrations, ml/l', ylab = 'Difference (Winkler - electrode)')
+abline(h = 0, col = 'blue')
+lh2 <- lm(unlist(H11043_wink_elec_1) ~ wd2)
+abline(lh2, col = 'red')
+title(main = 'HUD2011043')
+
+```
+```{r}
+summary(lh2)
+plot(lh2)
+```
+
+For HUD2012042
+
+```{r}
+wd3 <- list()
+
+for (i in 1:length(H12042_wink_elec_1)){
+  if (is.null(H12042_wink_elec_1[[i]])){
+    wd3[[i]] <- NULL
+    }
+  else{
+    wd3[[i]] <- H12042_wink_data[[i]]
+  }
+}
+
+plot(unlist(wd3), unlist(H12042_wink_elec_1), ylim = c(-3,3), xlab = 'DO Concentrations, ml/l', ylab = 'Difference (Winkler - electrode)')
+abline(h = 0, col = 'blue')
+lh3 <- lm(unlist(H12042_wink_elec_1) ~ unlist(wd3))
+abline(lh3, col = 'red')
+title(main = 'HUD2012042')
+```
+```{r}
+summary(lh3)
+plot(lh3)
+```
+
+
+These plots show some interesting trends of accuracy over DO concentrations. 
+
+The trend seems to be a slightly increased under estimation by the electrode at higher DO concentrations. Keeping in mind the small range of DO concentrations that are visible in this data this may be a significant trend. 
+
+
+Groundfish surveys were also analyzed in order to bulk up the data set. A total of 55 new data points were discovered where winkler and lectrode measurments were performed for the same sample ID. 
+
+```{r}
+#read in groundfish data
+data <- readxl::read_xlsx('C:/Users/ChisholmE/Desktop/BIOCHEM/GROUNDFISH OXYGEN DATA.xlsx' )
+#isolate by cruise
+NED2013022 <- (5:935)
+NED2014018 <- (937:1669)
+NED2015017 <- (1674:2161) #CAUTIOUS OF DUPLICATE VALUE, x__4 IS ELECTRODE VALUE AVERAGED BETWEEN REPS
+
+
+#read data column containing difference (Winkler- electrode)
+DIFF <- as.numeric(as.character(data$X__6[-1]))
+diff <- na.omit(DIFF)
+
+
+#plot differences over both cruises due to minimal data points
+plot(diff, type = 'h', xlab = 'Sample ID', ylab = 'Difference between methods (Winkler - Electrode)', main = 'Difference in O2 measurments from Groundfish surveys')
+m <- mean(diff)
+abline(h = m, col = 'red')
+```
+
+Plotting these difference over dissolved oxygen concetrations revealed trends consistent with AZMP data
+
+```{r}
+#isolate concentrations from Winkler measurments for relevant sample IDs
+conc <- list()
+for ( i in 1:2648){
+  if(is.na(data$X__6[-1][i]) ){
+    conc[i] <- NA
+  }else{
+    conc[i] <- as.numeric(data$X__5[-1][i]) 
+  }
+}
+  
+
+c <- na.omit(unlist(conc))
+#conc <- data$X__5[!is.na(DIFF) ]
+
+#plot differences over concentration
+plot(conc, DIFF, xlab = 'Dissolved Oxygen Concentration (ml/L)', ylab = 'Difference between measurements (Winkler - electrode)')
+abline(h = 0, col = 'blue')
+#linear regression
+cm <- lm(unlist(DIFF) ~unlist(conc))
+abline(cm, col = 'red')
+
+#plot potential correction factors 
+#of 2, 4, 6 %
+twoperc <- list()
+for (i in 1:length(conc)){
+  twoperc[i] <- as.numeric(conc[i]) *0.02
+}
+
+pm <- lm(unlist(twoperc)~unlist(conc))
+abline(pm, col = 'green')
+
+fourperc <- list()
+for (i in 1:length(conc)){
+  fourperc[i] <- as.numeric(conc[i]) *0.04
+}
+
+fm <- lm(unlist(fourperc)~unlist(conc))
+abline(fm, col = 'orange')
+
+sixperc <- list()
+for (i in 1:length(conc)){
+  sixperc[i] <- as.numeric(conc[i]) *0.06
+}
+
+sm <- lm(unlist(sixperc)~unlist(conc))
+abline(sm, col = 'purple')
+
+legend('bottomright', legend = c('2%', '4%', '6%'), col = c('green', 'orange', 'purple'), lty = 2, cex = 0.5 )
+```
+
+Potential correction factors of 2, 4,6 % of dissolved oxygen concentrations were also plotted. Through visual inspection it appears the 4% correction factors agrees best with the data although there is still signifcant unexplained variability particularly at higher DO concentration values which may indicate a non linear trend. 
+
+Regression was performed over groundfish surveys and AZMP cruies to find a common trend in the total data set. 
+
+```{r}
+
+#plot original data
+plot(wt, et, xlim = c(0, 10), ylim = c(0,10), col = 'red', xlab = 'Winkler (ml/L)', ylab = 'Electrode (ml/L)')
+#regression of original data
+ttlm <- lm(wt ~as.numeric(et))
+abline(ttlm, col = 'red', lty = 2)
+#plot 1:1 line reference
+abline(coef = c(0,1), col = 'blue')
+
+#apply correction factor following ttlm regression equation
+eet <- list()
+for (i in 1:length(et)){
+  eet[i] <- as.numeric(et[i])*1.1424 - 0.6171
+}
+#plot corrected data for comparision
+par(new = TRUE)
+plot(wt, eet, xlim = c(0,10), ylim = c(0,10), xlab = '', ylab = '', axes = FALSE, col = 'blue')
+mtext(side = 3, 'Original data (red), Corrected data (blue)')
+#regress corrected data to ensure high correlation and 1.00 slope
+ttcor <- lm(wt ~ unlist(eet))
+```
+
+Differences were analyzed before and after correction
+
+
+```{r}
+#calculate original and corrected differences
+wt_et <- list()
+for (i in 1:length(wt)){
+  wt_et[i] <- as.numeric(wt)[i] - as.numeric(et)[i]
+}
+wt_eet <- list()
+for (i in 1:length(wt)){
+  wt_eet[i] <- as.numeric(wt[i]) - as.numeric(eet[i])
+}
+
+#plot differences
+plot(unlist(wt_et), type = 'h', ylim = c(-1,1), col = 'red', xlab = 'Sample ID', ylab = 'Difference (Winkler - electrode)')
+par(new = TRUE)
+plot(unlist(wt_eet), type = 'h', ylim = c(-1,1), axes = FALSE, xlab = '', ylab = '')
+
+etm <- mean(unlist(wt_et), na.rm = TRUE)
+eetm <- mean(unlist(wt_eet), na.rm = TRUE)
+
+abline(h = etm, col = 'red', lty = 2)
+abline(h = eetm, col = 'black', lty = 2)
+mtext(side = 3, 'Original data differences (red), corrected data differences (black)')
+```
+
+Then differences over dissolved oxygen concentration were analyzed to ensure that there was random scatter around zero rather than increasing trend observed in original data
+
+```{r}
+#plot new corrected data over DO concentration
+plot(eet, wt_eet, xlim = c(2,9), ylim = c(-1,1), ylab = 'Differences (Winkler - Electrode**corrected)', xlab = "Dissolved oxygen concentration (ml/L)")
+```
+
+
 

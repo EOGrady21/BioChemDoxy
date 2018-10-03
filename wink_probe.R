@@ -261,6 +261,9 @@ par(new = TRUE)
 plot(x, b, col = 'blue', ylim = c(-2.5, 2.5), axes = FALSE, xlab = '', ylab = '')
 par(new = TRUE)
 plot(x, c, col = 'red', ylim = c(-2.5, 2.5), axes = FALSE, xlab = '', ylab = '')
+abline(h = mean(a, na.rm = TRUE), col = 'black', lty = 2)
+abline(h = mean(b, na.rm = TRUE), col = 'blue', lty = 2)
+abline(h = mean(c, na.rm = TRUE), col = 'red', lty = 2)
 
 #confidence interval lines
 abline(h = ci1[[1]], col = 'black')
@@ -312,9 +315,6 @@ abline(h = ci3[[2]], col = 'red')
 
 
 
-H11004_wink_flags <- H11004_bcd$DIS_DETAIL_DATA_QC_CODE[H11004_bcd$DATA_TYPE_METHOD == 'O2_Winkler_Auto']
-H11004_wink_1 <- H11004_wink_data[H11004_wink_flags == 1]
-H11004_wink_id_1 <- H11004_wink_id[H11004_wink_flags == 1]
 
 #create matching list wink:elec
 # mm <- list()
@@ -479,7 +479,7 @@ mtext('Difference between Winkler and Electrode values (post QC)
 
 #hud2011043
 H11043_wink_elec_1 <- list()
-for( i in 1:310){
+for( i in 1:309){
   if(!is.null(match2[[i]])){
     H11043_wink_elec_1[i] <- H11043_wink_data[[i]] - H11043_elec_data[[match2[[i]]]]
   }else{
@@ -519,7 +519,7 @@ legend('bottomright',  c('Winkler', 'Electrode'), col = c('black', 'blue'), lty 
 plot(H12042_wink_data, H12042_wink_dpth, ylim = (c(5000, 0)), xlim = c(4,9), xlab = 'DO ml/L', ylab = 'Depth (m)', main = 'HUD2012042')
 par(new = TRUE)
 plot(H12042_elec_data, H12042_elec_dpth, ylim = (c(5000, 0)),xlim = c(4,9), axes = FALSE, col = 'blue', xlab = '', ylab = '')
-legend('bottomright',  c('Winkler', 'Electrode'), col = c('black', 'blue'), lty = 1)
+legend('bottomright',  c('Winkler', 'Electrode'), col = c('black', 'blue'), lty = 1, cex = 0.8)
 
 
 #average by depth
@@ -534,3 +534,35 @@ mavg <- list()
 for (i in 1:271){
     mavg[i] <- mean(H11004_wink_dpth_srtd[1][i: i+3], na.rm = TRUE)
 }
+
+##removing values based on flags
+
+H11004_1 <- H11004[H11004$V4 != 7, ]
+H11043_1 <- H11043[H11043$V4 != 7, ]
+H12042_1 <- H12042[H12042$V4 != 7, ]
+
+#plot(H11004_1$V3[H11004$V2 == "O2_Electrode_mll"])
+#plot(H11004_1$V3[H11004$V2 == "O2_Winkler_Auto"])
+
+#x <- duplicated(H11004_1$V5)
+H11004_1$V2 == 'O2_Winkler_Auto'
+mw_1<- H11004_1[1:75,]$V5
+H11004_1$V2 == 'O2_Electrode_mll'
+me_1 <- H11004_1[75:251,]$V5
+
+H11004_edit <- read.csv('H11004.csv', header = TRUE)
+H11004_edit_diff <- H11004_edit$X.7
+
+plot(H11004_edit$X.6, H11004_edit_diff,type = 'h', xlab = 'Sample ID', ylab = 'Winkler - Electrode')
+
+
+
+##underestimation of 2% attempt to correct
+elec <- H11004_1[H11004_1$V2 == 'O2_Electrode_mll',]
+elec_val <- as.numeric(as.character(elec$V3))
+elec_corr <- elec_val*1.02
+wink <-  H11004_1[H11004_1$V2 == 'O2_Winkler_Auto', ]
+wink_val <- as.numeric(as.character(wink$V3))
+
+
+
