@@ -49,6 +49,20 @@ abline(oldlm, lty = 2, col = 'red')
 
 #attempt to estimate RMSE and RMSD
 
+pred2 <- seq(from = 1, to = 8, by = 0.0129399)
+
+
+for (i in 1:length(convElec)){
+  rmse <- sqrt(1/length(convElec) * sum((as.numeric(convElec)[i] - unlist(pred2)[i])^2))
+}
+
+library(seewave)
+d <- unlist(convElec) - unlist(pred2)
+
+RMSD <- rms(d, na.rm = T)
+
+#normalize rmse
+rmse_norm <- rmse/8
 #plot corrected data over concentration
 
 plot(convElec[506:541], dataDiff, xlim = c(2.5, 8.5), ylim = c(-1, 1), xlab = 'DO concentration (ml/L)', ylab = 'Difference (Winkler - electrode, ml/L)')
