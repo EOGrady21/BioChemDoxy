@@ -842,5 +842,20 @@ Then differences over dissolved oxygen concentration were analyzed to ensure tha
 plot(eet, wt_eet, xlim = c(2,9), ylim = c(-1,1), ylab = 'Differences (Winkler - Electrode**corrected)', xlab = "Dissolved oxygen concentration (ml/L)")
 ```
 
+Gordana suggested plotting differences between WInkler and Electrode measurements over lab - in situ temparture differences to see if the temperature difference had a significant effect on the dissolved oxygen readings. 
+
+```{r}
+x <- readxl::read_xlsx('C:/Users/ChisholmE/Desktop/BIOCHEM/hud2011004_tdiff_exercise.xlsx')
+
+w_e_diff <- x$`W - E difference`
+t_diff <- x$`lab - in situ temp (mean)`
+
+plot(t_diff, w_e_diff, xlab = 'Temperature difference (lab - in situ) degC', ylab = 'Oxygen difference (Winkler - Electrode) ml/l')
+abline(h = 0, lty = 2)
+
+```
+
+This plot shows no significant trends in dissolved oxygen concentration over temperature differences.The points are mostly scattered around zero with some outliers at lower temperature differences, as well as some low values between 3 and 5 deg C temperature differences. 
+
 
 
