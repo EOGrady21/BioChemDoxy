@@ -7,3 +7,16 @@ t_diff <- x$`lab - in situ temp (mean)`
 
 plot(t_diff, w_e_diff, xlab = 'Temperature difference (lab - in situ) degC', ylab = 'Oxygen difference (Winkler - Electrode) ml/l')
 abline(h = 0, lty = 2)
+
+
+#hud2011043
+
+x <- readxl::read_xlsx('C:/Users/ChisholmE/Desktop/BIOCHEM/hud2011043_temp_ex.xlsx')
+
+
+w_e_diff <- x$O2_Winkler_Auto - x$o2_ml
+t_diff <- x$`temp diff`
+
+
+plot(t_diff, w_e_diff, xlab = 'Temperature difference (lab - in situ) degC', ylab = 'Oxygen difference (Winkler - Electrode) ml/l')
+abline(h = 0, lty = 2)
