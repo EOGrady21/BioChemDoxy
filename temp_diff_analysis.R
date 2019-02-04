@@ -25,23 +25,6 @@ abline(h = 0, lty = 2)
 
 #PLOT OVER TEMPERATURE
 
-#GET TEMPERATURE PER SAMPLE
-t <- list()
-for (i in 3:359){
-  if (x$X__1[i] == x$X__1[i +1]){
-    t[i] <- (as.numeric(x$X__2[i]) + as.numeric(x$X__2[i+1])) /2
-  } 
-}
-length(t) <- 360
 
-names(t) <- x$X__1
-
-tnew <- list()
-for (i in 1:length(x$X__10)){
-l <- grep(names(t), pattern = x$X__10)
-  if (!is.na(l)){
-  tnew[i] <- t[l]
-  }
-}
-
+plot(x$X__11, w_e_diff, xlab = 'Temperature (degC)', ylab = 'Oxygen Difference (Winkler - electrode) ml/l')
 ##not working yet
