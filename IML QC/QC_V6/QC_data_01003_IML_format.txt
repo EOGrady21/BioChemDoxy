@@ -1,0 +1,134 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL01003_002; 49.55; 222157; doxy; 9.00; Impossible Parameter Value in Profile
+18TL01003_315; 30.32; 222164; doxy; 9.05; Impossible Parameter Value in Profile
+18TL01003_315; 46.22; 222163; doxy; 9.05; Impossible Parameter Value in Profile
+18TL01003_326; 172.29; 222168; cphl; 3.64  4.25  ; Duplicate Problem
+18TL01003_339; 49.80; 222173; cphl; 2.76  3.28  ; Duplicate Problem
+18TL01003_339; 148.97; 222170; phos; 1.73  ; Out of Nutrient Climatology in box(es) 9 (Min=0.52 Max=1.28 n=13)
+18TL01003_014; 30.53; 222184; doxy; 9.19; Impossible Parameter Value in Profile
+18TL01003_014; 41.09; 222183; doxy; 9.17; Impossible Parameter Value in Profile
+18TL01003_014; 51.58; 222182; doxy; 9.02; Impossible Parameter Value in Profile
+18TL01003_014; 4.72; 222187; cphl; 3.30  3.91  ; Duplicate Problem
+18TL01003_014; 10.40; 222186; cphl; 3.52  4.22  ; Duplicate Problem
+18TL01003_014; 20.46; 222185; cphl; 3.52  4.17  ; Duplicate Problem
+18TL01003_014; 30.53; 222184; cphl; 3.30  3.92  ; Duplicate Problem
+18TL01003_014; 41.09; 222183; cphl; 3.77  4.50  ; Duplicate Problem
+18TL01003_014; 51.58; 222182; cphl; 4.12  5.03  ; Duplicate Problem
+18TL01003_014; 74.10; 222181; cphl; 3.81  4.49  ; Duplicate Problem
+18TL01003_025; 39.89; 222190; doxy; 9.27; Impossible Parameter Value in Profile
+18TL01003_025; 4.98; 222194; cphl; 4.85  6.18  ; Duplicate Problem
+18TL01003_025; 9.98; 222193; cphl; 6.76  8.42  ; Duplicate Problem
+18TL01003_025; 20.47; 222192; cphl; 8.04  9.82  ; Duplicate Problem
+18TL01003_025; 29.97; 222191; cphl; 9.83  11.94  ; Duplicate Problem
+18TL01003_025; 39.89; 222190; cphl; 8.86  10.78  ; Duplicate Problem
+18TL01003_025; 50.21; 222189; cphl; 5.34  6.42  ; Duplicate Problem
+18TL01003_036; 39.66; 222197; doxy; 9.29; Impossible Parameter Value in Profile
+18TL01003_036; 4.87; 222683; cphl; 5.46  6.63  ; Duplicate Problem
+18TL01003_036; 9.26; 222200; cphl; 4.89  6.01  ; Duplicate Problem
+18TL01003_036; 19.87; 222199; cphl; 5.50  6.95  ; Duplicate Problem
+18TL01003_036; 29.95; 222198; cphl; 7.06  8.70  ; Duplicate Problem
+18TL01003_036; 39.66; 222197; cphl; 7.75  9.51  ; Duplicate Problem
+18TL01003_036; 49.90; 222196; cphl; 4.63  5.61  ; Duplicate Problem
+18TL01003_036; 74.88; 222195; cphl; 3.57  4.81  ; Duplicate Problem
+18TL01003_047; 39.58; 222686; doxy; 9.29; Impossible Parameter Value in Profile
+18TL01003_047; 50.70; 222685; doxy; 9.02; Impossible Parameter Value in Profile
+18TL01003_047; 5.00; 222690; cphl; 4.08  5.00  ; Duplicate Problem
+18TL01003_047; 10.54; 222689; cphl; 3.17  4.17  ; Duplicate Problem
+18TL01003_047; 19.84; 222688; cphl; 5.31  6.59  ; Duplicate Problem
+18TL01003_047; 29.67; 222687; cphl; 6.99  8.52  ; Duplicate Problem
+18TL01003_047; 39.58; 222686; cphl; 6.12  7.26  ; Duplicate Problem
+18TL01003_047; 50.70; 222685; cphl; 5.70  7.19  ; Duplicate Problem
+18TL01003_047; 68.70; 222684; cphl; 6.55  7.96  ; Duplicate Problem
+18TL01003_058; 40.44; 222693; doxy; 9.50; Impossible Parameter Value in Profile
+18TL01003_058; 50.80; 222692; doxy; 9.47; Impossible Parameter Value in Profile
+18TL01003_058; 4.37; 222697; cphl; 5.25  7.04  ; Duplicate Problem
+18TL01003_058; 9.62; 222696; cphl; 5.35  6.61  ; Duplicate Problem
+18TL01003_058; 20.03; 222695; cphl; 7.06  8.75  ; Duplicate Problem
+18TL01003_058; 30.03; 222694; cphl; 5.98  7.33  ; Duplicate Problem
+18TL01003_058; 40.44; 222693; cphl; 6.28  8.02  ; Duplicate Problem
+18TL01003_058; 50.80; 222692; cphl; 6.35  7.89  ; Duplicate Problem
+18TL01003_058; 69.65; 222691; cphl; 14.03  19.67  ; Duplicate Problem
+18TL01003_069; 40.54; 222700; doxy; 9.25; Impossible Parameter Value in Profile
+18TL01003_069; 50.49; 222699; doxy; 9.09; Impossible Parameter Value in Profile
+18TL01003_069; 10.63; 222703; cphl; 2.88  3.54  ; Duplicate Problem
+18TL01003_069; 19.99; 222702; cphl; 3.04  3.73  ; Duplicate Problem
+18TL01003_069; 29.97; 222701; cphl; 3.32  4.04  ; Duplicate Problem
+18TL01003_069; 40.54; 222700; cphl; 6.39  7.93  ; Duplicate Problem
+18TL01003_069; 50.49; 222699; cphl; 10.12  12.80  ; Duplicate Problem
+18TL01003_069; 67.96; 222698; cphl; 4.41  5.33  ; Duplicate Problem
+18TL01003_080; 31.31; 222708; doxy; 9.25; Impossible Parameter Value in Profile
+18TL01003_080; 39.78; 222707; cphl; 4.14  4.87  ; Duplicate Problem
+18TL01003_080; 50.98; 222706; cphl; 8.42  9.60  ; Duplicate Problem
+18TL01003_080; 64.88; 222705; cphl; 8.96  10.26  ; Duplicate Problem
+18TL01003_091; 59.94; 222712; cphl; 4.39  5.16  ; Duplicate Problem
+18TL01003_102; 40.12; 222721; cphl; 3.44  4.13  ; Duplicate Problem
+18TL01003_102; 49.92; 222720; cphl; 4.26  4.97  ; Duplicate Problem
+18TL01003_102; 60.11; 222719; cphl; 5.16  5.99  ; Duplicate Problem
+18TL01003_312; 30.56; 222907; doxy; 9.34; Impossible Parameter Value in Profile
+18TL01003_312; 40.54; 222906; doxy; 9.26; Impossible Parameter Value in Profile
+18TL01003_312; 49.93; 222905; doxy; 9.24; Impossible Parameter Value in Profile
+18TL01003_312; 5.53; 222910; cphl; 3.29  3.81  ; Duplicate Problem
+18TL01003_312; 10.43; 222909; cphl; 3.21  4.11  ; Duplicate Problem
+18TL01003_312; 20.07; 222908; cphl; 5.03  5.92  ; Duplicate Problem
+18TL01003_312; 30.56; 222907; cphl; 5.79  6.85  ; Duplicate Problem
+18TL01003_312; 40.54; 222906; cphl; 4.57  5.46  ; Duplicate Problem
+18TL01003_312; 49.93; 222905; cphl; 4.11  4.82  ; Duplicate Problem
+18TL01003_314; 31.11; 222915; doxy; 9.71; Impossible Parameter Value in Profile
+18TL01003_314; 40.88; 222914; doxy; 9.56; Impossible Parameter Value in Profile
+18TL01003_314; 50.79; 222913; doxy; 9.51; Impossible Parameter Value in Profile
+18TL01003_314; 5.31; 222918; cphl; 11.08  13.50  ; Duplicate Problem
+18TL01003_314; 11.20; 222917; cphl; 10.29  12.79  ; Duplicate Problem
+18TL01003_314; 21.07; 222916; cphl; 11.85  14.52  ; Duplicate Problem
+18TL01003_314; 31.11; 222915; cphl; 9.88  11.88  ; Duplicate Problem
+18TL01003_314; 40.88; 222914; cphl; 13.46  17.24  ; Duplicate Problem
+18TL01003_314; 50.79; 222913; cphl; 11.38  13.64  ; Duplicate Problem
+18TL01003_316; 30.72; 222922; doxy; 9.66; Impossible Parameter Value in Profile
+18TL01003_316; 40.66; 222921; doxy; 9.57; Impossible Parameter Value in Profile
+18TL01003_316; 50.82; 222920; doxy; 9.48; Impossible Parameter Value in Profile
+18TL01003_316; 5.05; 222925; cphl; 4.26  4.98  ; Duplicate Problem
+18TL01003_316; 10.49; 222924; cphl; 4.25  5.11  ; Duplicate Problem
+18TL01003_316; 20.54; 222923; cphl; 5.23  6.36  ; Duplicate Problem
+18TL01003_316; 30.72; 222922; cphl; 5.10  6.29  ; Duplicate Problem
+18TL01003_316; 40.66; 222921; cphl; 7.35  8.86  ; Duplicate Problem
+18TL01003_316; 50.82; 222920; cphl; 7.55  9.48  ; Duplicate Problem
+18TL01003_316; 76.44; 222919; cphl; 6.76  8.32  ; Duplicate Problem
+18TL01003_318; 41.61; 222930; doxy; 9.42; Impossible Parameter Value in Profile
+18TL01003_318; 51.59; 222929; doxy; 9.03; Impossible Parameter Value in Profile
+18TL01003_318; 5.99; 222934; cphl; 6.44  8.02  ; Duplicate Problem
+18TL01003_318; 10.93; 222933; cphl; 5.70  6.97  ; Duplicate Problem
+18TL01003_318; 20.23; 222932; cphl; 7.14  9.01  ; Duplicate Problem
+18TL01003_318; 29.86; 222931; cphl; 6.84  8.63  ; Duplicate Problem
+18TL01003_318; 41.61; 222930; cphl; 6.44  7.97  ; Duplicate Problem
+18TL01003_318; 51.59; 222929; cphl; 3.94  4.94  ; Duplicate Problem
+18TL01003_319; 5.67; 222942; cphl; 4.97  6.31  ; Duplicate Problem
+18TL01003_319; 10.27; 222941; cphl; 4.84  6.16  ; Duplicate Problem
+18TL01003_319; 19.55; 222940; cphl; 5.43  6.67  ; Duplicate Problem
+18TL01003_319; 31.63; 222939; cphl; 3.84  4.48  ; Duplicate Problem
+18TL01003_320; 31.17; 222948; doxy; 9.25; Impossible Parameter Value in Profile
+18TL01003_320; 39.61; 222947; doxy; 9.25; Impossible Parameter Value in Profile
+18TL01003_320; 49.64; 222946; doxy; 9.22; Impossible Parameter Value in Profile
+18TL01003_320; 31.17; 222948; cphl; 3.38  3.94  ; Duplicate Problem
+18TL01003_320; 49.64; 222946; cphl; 3.37  4.16  ; Duplicate Problem
+18TL01003_321; 30.56; 222957; doxy; 9.21; Impossible Parameter Value in Profile
+18TL01003_321; 41.12; 222956; doxy; 9.15; Impossible Parameter Value in Profile
+18TL01003_321; 50.59; 222955; doxy; 9.06; Impossible Parameter Value in Profile
+18TL01003_321; 4.81; 222960; cphl; 3.81  5.40  ; Duplicate Problem
+18TL01003_321; 10.83; 222959; cphl; 4.00  5.34  ; Duplicate Problem
+18TL01003_321; 21.00; 222958; cphl; 4.06  5.17  ; Duplicate Problem
+18TL01003_321; 30.56; 222957; cphl; 4.35  5.52  ; Duplicate Problem
+18TL01003_321; 41.12; 222956; cphl; 3.44  4.22  ; Duplicate Problem
+18TL01003_322; 30.57; 222967; doxy; 9.27; Impossible Parameter Value in Profile
+18TL01003_322; 40.67; 222966; doxy; 9.30; Impossible Parameter Value in Profile
+18TL01003_322; 50.22; 222965; doxy; 9.41; Impossible Parameter Value in Profile
+18TL01003_322; 30.57; 222967; cphl; 3.96  4.47  ; Duplicate Problem
+18TL01003_322; 40.67; 222966; cphl; 4.20  4.83  ; Duplicate Problem
+18TL01003_322; 50.22; 222965; cphl; 5.99  6.93  ; Duplicate Problem
+18TL01003_323; 30.76; 222977; doxy; 9.17; Impossible Parameter Value in Profile
+18TL01003_323; 40.42; 222976; doxy; 9.00; Impossible Parameter Value in Profile
+18TL01003_324; 40.14; 222984; doxy; 9.04; Impossible Parameter Value in Profile
+18TL01003_328; 40.10; 222994; doxy; 9.12; Impossible Parameter Value in Profile
+18TL01003_328; 49.95; 222993; doxy; 9.05; Impossible Parameter Value in Profile
+18TL01003_027; 30.38; 223194; doxy; 9.13; Impossible Parameter Value in Profile
+18TL01003_027; 40.39; 223193; doxy; 9.14; Impossible Parameter Value in Profile
+18TL01003_027; 50.30; 223192; doxy; 9.11; Impossible Parameter Value in Profile
+18TL01003_027; 75.17; 223191; doxy; 9.06; Impossible Parameter Value in Profile

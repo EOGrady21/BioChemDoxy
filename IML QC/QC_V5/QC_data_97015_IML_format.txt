@@ -1,0 +1,94 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18NA97015_002; 1.00; 147677; doxy; 331.11  ; Global Impossible Parameter Value
+18NA97015_002; 5.00; 147676; doxy; 352.32  ; Global Impossible Parameter Value
+18NA97015_002; 27.00; 147675; doxy; 302.97  ; Global Impossible Parameter Value
+18NA97015_002; 1.00; 147677; doxy; 331.11  ; Regional Impossible Parameter Value
+18NA97015_002; 5.00; 147676; doxy; 352.32  ; Regional Impossible Parameter Value
+18NA97015_002; 27.00; 147675; doxy; 302.97  ; Regional Impossible Parameter Value
+18NA97015_304; 1.00; 147683; doxy; 347.32  ; Global Impossible Parameter Value
+18NA97015_304; 4.00; 147682; doxy; 361.84  ; Global Impossible Parameter Value
+18NA97015_304; 10.00; 147681; doxy; 370.10  ; Global Impossible Parameter Value
+18NA97015_304; 15.00; 147680; doxy; 311.91  ; Global Impossible Parameter Value
+18NA97015_304; 20.00; 147679; doxy; 80.25  ; Global Impossible Parameter Value
+18NA97015_304; 20.00; 147679; phos; 5.43  ; Global Impossible Parameter Value
+18NA97015_304; 35.00; 147678; phos; 12.22  ; Global Impossible Parameter Value
+18NA97015_304; 1.00; 147683; doxy; 347.32  ; Regional Impossible Parameter Value
+18NA97015_304; 4.00; 147682; doxy; 361.84  ; Regional Impossible Parameter Value
+18NA97015_304; 10.00; 147681; doxy; 370.10  ; Regional Impossible Parameter Value
+18NA97015_304; 15.00; 147680; doxy; 311.91  ; Regional Impossible Parameter Value
+18NA97015_304; 20.00; 147679; doxy; 80.25  ; Regional Impossible Parameter Value
+18NA97015_304; 20.00; 147679; phos; 5.43  ; Regional Impossible Parameter Value
+18NA97015_304; 35.00; 147678; phos; 12.22  ; Regional Impossible Parameter Value
+18NA97015_326; 1.00; 147686; doxy; 321.33  ; Global Impossible Parameter Value
+18NA97015_326; 8.00; 147685; doxy; 94.77  ; Global Impossible Parameter Value
+18NA97015_326; 15.00; 147684; doxy; 68.73  ; Global Impossible Parameter Value
+18NA97015_326; 1.00; 147686; doxy; 321.33  ; Regional Impossible Parameter Value
+18NA97015_326; 8.00; 147685; doxy; 94.77  ; Regional Impossible Parameter Value
+18NA97015_326; 15.00; 147684; doxy; 68.73  ; Regional Impossible Parameter Value
+18NA97015_326; 1.00 to 8.00; 147686, 147685; ntrz; 0.00  12.14  ; Gradient or Inversion too high
+18NA97015_036; 4.00; 147688; doxy; 357.37  ; Global Impossible Parameter Value
+18NA97015_036; 8.00; 147687; doxy; 371.39  ; Global Impossible Parameter Value
+18NA97015_036; 4.00; 147688; doxy; 357.37  ; Regional Impossible Parameter Value
+18NA97015_036; 8.00; 147687; doxy; 371.39  ; Regional Impossible Parameter Value
+18NA97015_036; 4.00; 147688; ntrz; 0.00  ; Constant profile problem
+18NA97015_036; 8.00; 147687; ntrz; 0.00  ; Constant profile problem
+18NA97015_127; 1.00; 147690; doxy; 352.37  ; Global Impossible Parameter Value
+18NA97015_127; 7.00; 147689; doxy; 357.68  ; Global Impossible Parameter Value
+18NA97015_127; 1.00; 147690; doxy; 352.37  ; Regional Impossible Parameter Value
+18NA97015_127; 7.00; 147689; doxy; 357.68  ; Regional Impossible Parameter Value
+18NA97015_127; 1.00; 147690; ntrz; 0.00  ; Constant profile problem
+18NA97015_127; 7.00; 147689; ntrz; 0.00  ; Constant profile problem
+18NA97015_138; 1.00; 147692; doxy; 356.74  ; Global Impossible Parameter Value
+18NA97015_138; 5.00; 147691; doxy; 356.65  ; Global Impossible Parameter Value
+18NA97015_138; 1.00; 147692; doxy; 356.74  ; Regional Impossible Parameter Value
+18NA97015_138; 5.00; 147691; doxy; 356.65  ; Regional Impossible Parameter Value
+18NA97015_138; 1.00; 147692; ntrz; 0.00  ; Constant profile problem
+18NA97015_138; 5.00; 147691; ntrz; 0.00  ; Constant profile problem
+18NA97015_149; 1.00; 147694; doxy; 332.54  ; Global Impossible Parameter Value
+18NA97015_149; 4.00; 147693; doxy; 359.16  ; Global Impossible Parameter Value
+18NA97015_149; 1.00; 147694; doxy; 332.54  ; Regional Impossible Parameter Value
+18NA97015_149; 4.00; 147693; doxy; 359.16  ; Regional Impossible Parameter Value
+18NA97015_149; 1.00; 147694; ntrz; 0.00  ; Constant profile problem
+18NA97015_149; 4.00; 147693; ntrz; 0.00  ; Constant profile problem
+18NA97015_160; 1.00; 147696; doxy; 324.05  ; Global Impossible Parameter Value
+18NA97015_160; 7.00; 147695; doxy; 381.75  ; Global Impossible Parameter Value
+18NA97015_160; 1.00; 147696; doxy; 324.05  ; Regional Impossible Parameter Value
+18NA97015_160; 7.00; 147695; doxy; 381.75  ; Regional Impossible Parameter Value
+18NA97015_160; 1.00; 147696; ntrz; 0.00  ; Constant profile problem
+18NA97015_160; 7.00; 147695; ntrz; 0.00  ; Constant profile problem
+18NA97015_237; 1.00; 180609; doxy; 352.19  ; Global Impossible Parameter Value
+18NA97015_237; 5.00; 180608; doxy; 326.06  ; Global Impossible Parameter Value
+18NA97015_237; 17.00; 180607; doxy; 300.74  ; Global Impossible Parameter Value
+18NA97015_237; 1.00; 180609; doxy; 352.19  ; Regional Impossible Parameter Value
+18NA97015_237; 5.00; 180608; doxy; 326.06  ; Regional Impossible Parameter Value
+18NA97015_237; 17.00; 180607; doxy; 300.74  ; Regional Impossible Parameter Value
+18NA97015_239; 5.00; 180611; doxy; 341.69  ; Global Impossible Parameter Value
+18NA97015_239; 15.00; 180610; doxy; 369.56  ; Global Impossible Parameter Value
+18NA97015_239; 5.00; 180611; doxy; 341.69  ; Regional Impossible Parameter Value
+18NA97015_239; 15.00; 180610; doxy; 369.56  ; Regional Impossible Parameter Value
+18NA97015_243; 1.00; 180615; doxy; 346.52  ; Global Impossible Parameter Value
+18NA97015_243; 5.00; 180614; doxy; 347.59  ; Global Impossible Parameter Value
+18NA97015_243; 15.00; 180613; doxy; 345.71  ; Global Impossible Parameter Value
+18NA97015_243; 37.00; 180612; doxy; 344.91  ; Global Impossible Parameter Value
+18NA97015_243; 1.00; 180615; doxy; 346.52  ; Regional Impossible Parameter Value
+18NA97015_243; 5.00; 180614; doxy; 347.59  ; Regional Impossible Parameter Value
+18NA97015_243; 15.00; 180613; doxy; 345.71  ; Regional Impossible Parameter Value
+18NA97015_243; 37.00; 180612; doxy; 344.91  ; Regional Impossible Parameter Value
+18NA97015_244; 1.00; 180618; doxy; 341.47  ; Global Impossible Parameter Value
+18NA97015_244; 5.00; 180617; doxy; 341.69  ; Global Impossible Parameter Value
+18NA97015_244; 17.00; 180616; doxy; 364.29  ; Global Impossible Parameter Value
+18NA97015_244; 1.00; 180618; doxy; 341.47  ; Regional Impossible Parameter Value
+18NA97015_244; 5.00; 180617; doxy; 341.69  ; Regional Impossible Parameter Value
+18NA97015_244; 17.00; 180616; doxy; 364.29  ; Regional Impossible Parameter Value
+18NA97015_244; 1.00; 180618; ntrz; 0.00  ; Constant profile problem
+18NA97015_244; 5.00; 180617; ntrz; 0.00  ; Constant profile problem
+18NA97015_244; 17.00; 180616; ntrz; 0.00  ; Constant profile problem
+18NA97015_247; 1.00; 180621; doxy; 338.84  ; Global Impossible Parameter Value
+18NA97015_247; 5.00; 180620; doxy; 339.10  ; Global Impossible Parameter Value
+18NA97015_247; 10.00; 180619; doxy; 386.71  ; Global Impossible Parameter Value
+18NA97015_247; 1.00; 180621; doxy; 338.84  ; Regional Impossible Parameter Value
+18NA97015_247; 5.00; 180620; doxy; 339.10  ; Regional Impossible Parameter Value
+18NA97015_247; 10.00; 180619; doxy; 386.71  ; Regional Impossible Parameter Value
+18NA97015_247; 1.00; 180621; ntrz; 0.00  ; Constant profile problem
+18NA97015_247; 5.00; 180620; ntrz; 0.00  ; Constant profile problem
+18NA97015_247; 10.00; 180619; ntrz; 0.00  ; Constant profile problem

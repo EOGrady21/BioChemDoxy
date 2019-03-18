@@ -1,0 +1,22 @@
+18OL03064_668: Test 3.6 -> Profile 18OL03064_668 outside TS Monthly Climatology polygons
+18OL03064_668: Test 3.6 -> Profile 18OL03064_668 outside Monthly Nutrient Climatology polygons
+18OL03064_669: Test 3.6 -> Profile 18OL03064_669 outside TS Monthly Climatology polygons
+18OL03064_669: Test 3.6 -> Profile 18OL03064_669 outside Monthly Nutrient Climatology polygons
+18OL03064_670: Test 3.6 -> Profile 18OL03064_670 outside TS Monthly Climatology polygons
+18OL03064_670: Test 3.6 -> Profile 18OL03064_670 outside Monthly Nutrient Climatology polygons
+18OL03064_671: Test 3.6 -> Profile 18OL03064_671 outside TS Monthly Climatology polygons
+18OL03064_671: Test 3.6 -> Profile 18OL03064_671 outside Monthly Nutrient Climatology polygons
+18OL03064_672: Test 3.6 -> Profile 18OL03064_672 outside TS Monthly Climatology polygons
+18OL03064_672: Test 3.6 -> Profile 18OL03064_672 outside Monthly Nutrient Climatology polygons
+18OL03064_673: Test 3.6 -> Profile 18OL03064_673 outside TS Monthly Climatology polygons
+18OL03064_673: Test 3.6 -> Profile 18OL03064_673 outside Monthly Nutrient Climatology polygons
+18OL03064_674: Test 3.6 -> Profile 18OL03064_674 outside TS Monthly Climatology polygons
+18OL03064_674: Test 3.6 -> Profile 18OL03064_674 outside Monthly Nutrient Climatology polygons
+18OL03064_675: Test 3.6 -> Profile 18OL03064_675 outside TS Monthly Climatology polygons
+18OL03064_675: Test 3.6 -> Profile 18OL03064_675 outside Monthly Nutrient Climatology polygons
+18OL03064_676: Test 3.6 -> Profile 18OL03064_676 outside TS Monthly Climatology polygons
+18OL03064_676: Test 3.6 -> Profile 18OL03064_676 outside Monthly Nutrient Climatology polygons
+18OL03064_677: Test 3.6 -> Profile 18OL03064_677 outside TS Monthly Climatology polygons
+18OL03064_677: Test 3.6 -> Profile 18OL03064_677 outside Monthly Nutrient Climatology polygons
+18OL03064_684: Test 3.5 -> Profile 18OL03064_684 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18OL03064_684: Test 3.6 -> Profile 18OL03064_684 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes

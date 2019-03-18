@@ -1,0 +1,31 @@
+Test 1.4 -> 18PZ96027_003 is on land
+Test 1.4 -> 18PZ96027_339 is on land
+Test 1.5 ->Negative cruise velocity -> Check time of
+    The end of 18PZ96027_113 and the beginning of 18PZ96027_225 (deltaT=-0.0 h; deltaD=61.0 nm)
+    The end of 18PZ96027_225 and the beginning of 18PZ96027_264 (deltaT=-0.0 h; deltaD=4.8 nm)
+    The end of 18PZ96027_003 and the beginning of 18PZ96027_326 (deltaT=-0.0 h; deltaD=184.5 nm)
+    The end of 18PZ96027_326 and the beginning of 18PZ96027_339 (deltaT=-0.0 h; deltaD=180.0 nm)
+    The end of 18PZ96027_025 and the beginning of 18PZ96027_036 (deltaT=-0.0 h; deltaD=4.2 nm)
+    The end of 18PZ96027_036 and the beginning of 18PZ96027_047 (deltaT=-0.0 h; deltaD=5.3 nm)
+    The end of 18PZ96027_102 and the beginning of 18PZ96027_114 (deltaT=-0.0 h; deltaD=0.5 nm)
+    The end of 18PZ96027_114 and the beginning of 18PZ96027_127 (deltaT=-0.0 h; deltaD=105.4 nm)
+    The end of 18PZ96027_127 and the beginning of 18PZ96027_138 (deltaT=-0.0 h; deltaD=61.2 nm)
+    The end of 18PZ96027_138 and the beginning of 18PZ96027_149 (deltaT=-0.0 h; deltaD=14.4 nm)
+    The end of 18PZ96027_171 and the beginning of 18PZ96027_182 (deltaT=-0.0 h; deltaD=14.5 nm)
+Test 1.6 -> No known depth for 18PZ96027_326
+Test 1.6 -> No known depth for 18PZ96027_025
+Test 1.6 -> No known depth for 18PZ96027_036
+Test 1.6 -> No known depth for 18PZ96027_047
+Test 1.6 -> No known depth for 18PZ96027_102
+Test 1.6 -> No known depth for 18PZ96027_114
+Test 1.6 -> No known depth for 18PZ96027_127
+Test 1.6 -> No known depth for 18PZ96027_138
+Test 1.6 -> No known depth for 18PZ96027_149
+Test 1.6 -> No known depth for 18PZ96027_171
+Test 1.6 -> No known depth for 18PZ96027_182
+18PZ96027_003: Test 3.5 -> Profile 18PZ96027_003 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18PZ96027_003: Test 3.6 -> Profile 18PZ96027_003 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18PZ96027_326: Test 3.6 -> Profile 18PZ96027_326 outside TS Monthly Climatology polygons
+18PZ96027_326: Test 3.6 -> Profile 18PZ96027_326 outside Monthly Nutrient Climatology polygons
+18PZ96027_339: Test 3.5 -> Profile 18PZ96027_339 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18PZ96027_339: Test 3.6 -> Profile 18PZ96027_339 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes

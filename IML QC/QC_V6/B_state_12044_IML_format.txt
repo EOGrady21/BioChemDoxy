@@ -1,0 +1,46 @@
+18HU12044_1274: Test 3.5 -> Profile 18HU12044_1274 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU12044_1274: Test 3.6 -> Profile 18HU12044_1274 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU12044_1275: Test 3.6 -> Profile 18HU12044_1275 outside TS Monthly Climatology polygons
+18HU12044_1275: Test 3.6 -> Profile 18HU12044_1275 outside Monthly Nutrient Climatology polygons
+18HU12044_1249: Test 3.6 -> Profile 18HU12044_1249 outside TS Monthly Climatology polygons
+18HU12044_1249: Test 3.6 -> Profile 18HU12044_1249 outside Monthly Nutrient Climatology polygons
+18HU12044_1250: Test 3.6 -> Profile 18HU12044_1250 outside TS Monthly Climatology polygons
+18HU12044_1250: Test 3.6 -> Profile 18HU12044_1250 outside Monthly Nutrient Climatology polygons
+18HU12044_1251: Test 3.6 -> Profile 18HU12044_1251 outside TS Monthly Climatology polygons
+18HU12044_1251: Test 3.6 -> Profile 18HU12044_1251 outside Monthly Nutrient Climatology polygons
+18HU12044_1253: Test 3.6 -> Profile 18HU12044_1253 outside TS Monthly Climatology polygons
+18HU12044_1253: Test 3.6 -> Profile 18HU12044_1253 outside Monthly Nutrient Climatology polygons
+18HU12044_1254: Test 3.6 -> Profile 18HU12044_1254 outside TS Monthly Climatology polygons
+18HU12044_1254: Test 3.6 -> Profile 18HU12044_1254 outside Monthly Nutrient Climatology polygons
+18HU12044_1255: Test 3.6 -> Profile 18HU12044_1255 outside TS Monthly Climatology polygons
+18HU12044_1255: Test 3.6 -> Profile 18HU12044_1255 outside Monthly Nutrient Climatology polygons
+18HU12044_1256: Test 3.6 -> Profile 18HU12044_1256 outside TS Monthly Climatology polygons
+18HU12044_1256: Test 3.6 -> Profile 18HU12044_1256 outside Monthly Nutrient Climatology polygons
+18HU12044_1257: Test 3.6 -> Profile 18HU12044_1257 outside TS Monthly Climatology polygons
+18HU12044_1257: Test 3.6 -> Profile 18HU12044_1257 outside Monthly Nutrient Climatology polygons
+18HU12044_1258: Test 3.6 -> Profile 18HU12044_1258 outside TS Monthly Climatology polygons
+18HU12044_1258: Test 3.6 -> Profile 18HU12044_1258 outside Monthly Nutrient Climatology polygons
+18HU12044_1259: Test 3.6 -> Profile 18HU12044_1259 outside TS Monthly Climatology polygons
+18HU12044_1259: Test 3.6 -> Profile 18HU12044_1259 outside Monthly Nutrient Climatology polygons
+18HU12044_1260: Test 3.6 -> Profile 18HU12044_1260 outside TS Monthly Climatology polygons
+18HU12044_1260: Test 3.6 -> Profile 18HU12044_1260 outside Monthly Nutrient Climatology polygons
+18HU12044_1267: Test 3.6 -> Profile 18HU12044_1267 outside TS Monthly Climatology polygons
+18HU12044_1267: Test 3.6 -> Profile 18HU12044_1267 outside Monthly Nutrient Climatology polygons
+18HU12044_1268: Test 3.6 -> Profile 18HU12044_1268 outside TS Monthly Climatology polygons
+18HU12044_1268: Test 3.6 -> Profile 18HU12044_1268 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU12044_1268: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 198.6 m
+18HU12044_1268: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 215.5 m
+18HU12044_1268: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 198.6 m
+18HU12044_1268: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 215.5 m
+18HU12044_1268: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 198.6 m
+18HU12044_1268: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 215.5 m
+18HU12044_1269: Test 3.6 -> Profile 18HU12044_1269 outside TS Monthly Climatology polygons
+18HU12044_1269: Test 3.6 -> Profile 18HU12044_1269 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU12044_1269: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 2.1 m
+18HU12044_1269: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 5.0 m
+18HU12044_1270: Test 3.6 -> Profile 18HU12044_1270 outside TS Monthly Climatology polygons
+18HU12044_1270: Test 3.6 -> Profile 18HU12044_1270 outside Monthly Nutrient Climatology polygons
+18HU12044_1271: Test 3.6 -> Profile 18HU12044_1271 outside TS Monthly Climatology polygons
+18HU12044_1271: Test 3.6 -> Profile 18HU12044_1271 outside Monthly Nutrient Climatology polygons
+18HU12044_1272: Test 3.6 -> Profile 18HU12044_1272 outside TS Monthly Climatology polygons
+18HU12044_1272: Test 3.6 -> Profile 18HU12044_1272 outside Monthly Nutrient Climatology polygons

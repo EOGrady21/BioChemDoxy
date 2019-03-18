@@ -1,0 +1,23 @@
+18TL14133_2103: Test 3.6 -> Profile 18TL14133_2103 outside TS Monthly Climatology polygons
+18TL14133_2103: Test 3.6 -> Profile 18TL14133_2103 outside Monthly Nutrient Climatology polygons
+18TL14133_2104: Test 3.6 -> Profile 18TL14133_2104 outside TS Monthly Climatology polygons
+18TL14133_2104: Test 3.6 -> Profile 18TL14133_2104 outside Monthly Nutrient Climatology polygons
+18TL14133_2105: Test 3.6 -> Profile 18TL14133_2105 outside TS Monthly Climatology polygons
+18TL14133_2105: Test 3.6 -> Profile 18TL14133_2105 outside Monthly Nutrient Climatology polygons
+18TL14133_2106: Test 3.6 -> Profile 18TL14133_2106 outside TS Monthly Climatology polygons
+18TL14133_2106: Test 3.6 -> Profile 18TL14133_2106 outside Monthly Nutrient Climatology polygons
+18TL14133_2107: Test 3.6 -> Profile 18TL14133_2107 outside TS Monthly Climatology polygons
+18TL14133_2107: Test 3.6 -> Profile 18TL14133_2107 outside Monthly Nutrient Climatology polygons
+18TL14133_2108: Test 3.6 -> Profile 18TL14133_2108 outside TS Monthly Climatology polygons
+18TL14133_2108: Test 3.6 -> Profile 18TL14133_2108 outside Monthly Nutrient Climatology polygons
+18TL14133_2109: Test 3.6 -> Profile 18TL14133_2109 outside TS Monthly Climatology polygons
+18TL14133_2109: Test 3.6 -> Profile 18TL14133_2109 outside Monthly Nutrient Climatology polygons
+18TL14133_2110: Test 3.6 -> Profile 18TL14133_2110 outside TS Monthly Climatology polygons
+18TL14133_2110: Test 3.6 -> Profile 18TL14133_2110 outside Monthly Nutrient Climatology polygons
+18TL14133_2111: Test 3.6 -> Profile 18TL14133_2111 outside TS Monthly Climatology polygons
+18TL14133_2111: Test 3.6 -> Profile 18TL14133_2111 outside Monthly Nutrient Climatology polygons
+18TL14133_2112: Test 3.6 -> Profile 18TL14133_2112 outside TS Monthly Climatology polygons
+18TL14133_2112: Test 3.6 -> Profile 18TL14133_2112 outside Monthly Nutrient Climatology polygons
+18TL14133_2113: Test 3.6 -> Profile 18TL14133_2113 outside TS Monthly Climatology polygons
+18TL14133_2113: Test 3.6 -> Profile 18TL14133_2113 outside Monthly Nutrient Climatology polygons
+18TL14133_2114: Test 3.5 -> Profile 18TL14133_2114 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes

@@ -1,0 +1,49 @@
+18TL13030_1306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1306: Test 3.6 -> Profile 18TL13030_1306 outside TS Monthly Climatology polygons
+18TL13030_1306: Test 3.6 -> Profile 18TL13030_1306 outside Monthly Nutrient Climatology polygons
+18TL13030_1307: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1307: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1307: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1307: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1307: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1307: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1308: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1308: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1308: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1308: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1308: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1308: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1308: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1308: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1308: Test 3.5 -> Profile 18TL13030_1308 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18TL13030_1308: Test 3.6 -> Profile 18TL13030_1308 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18TL13030_1308: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 1.3 m
+18TL13030_1308: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 7.6 m
+18TL13030_1308: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 50.6 m
+18TL13030_1309: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1309: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1309: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1309: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1309: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1309: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1309: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1309: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1309: Test 3.6 -> Profile 18TL13030_1309 outside TS Monthly Climatology polygons
+18TL13030_1309: Test 3.6 -> Profile 18TL13030_1309 outside Monthly Nutrient Climatology polygons
+18TL13030_1310: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1310: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1310: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1310: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL13030_1310: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1310: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1310: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1310: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL13030_1310: Test 3.6 -> Profile 18TL13030_1310 outside TS Monthly Climatology polygons
+18TL13030_1310: Test 3.6 -> Profile 18TL13030_1310 outside Monthly Nutrient Climatology polygons

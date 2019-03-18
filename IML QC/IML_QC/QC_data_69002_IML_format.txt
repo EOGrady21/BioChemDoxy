@@ -1,0 +1,4 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18VA69002_1764; 5 to 15 m; NaN; temp; 3.07  ; Out of TS Climatology by more than 3*std in box(es) 66 (14.14 ± 6.51)
+18VA69002_1764; 15 to 25 m; NaN; temp; 2.82  ; Out of TS Climatology by more than 3*std in box(es) 66 (11.24 ± 7.53)
+18VA69002_1781; 140 to 160 m; NaN; temp; 4.50  ; Out of TS Climatology by more than 3*std in box(es) 67 (2.26 ± 1.59)

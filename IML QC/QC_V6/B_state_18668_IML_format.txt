@@ -1,0 +1,2 @@
+18VA18668_1719: Test 3.6 -> Profile 18VA18668_1719 outside TS Monthly Climatology polygons
+18VA18668_1719: Test 3.6 -> Profile 18VA18668_1719 outside Monthly Nutrient Climatology polygons

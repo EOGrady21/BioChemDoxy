@@ -1,0 +1,24 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18NA96022_339; 100.00; 175692; slca; 16.39  ; Out of Nutrient Climatology in box(es) 6 (Min=0.27 Max=12.93 n=158)
+18NA96022_339; 149.00; 175691; slca; 29.00  ; Out of Nutrient Climatology in box(es) 6 (Min=3.72 Max=26.12 n=52)
+18NA96022_339; 170.00; 175690; slca; 29.41  ; Out of Nutrient Climatology in box(es) 6 (Min=3.72 Max=26.12 n=52)
+18NA96022_036; 100.00; 175705; slca; 16.67  ; Out of Nutrient Climatology in box(es) 6 (Min=0.27 Max=12.93 n=158)
+18NA96022_036; 150.00; 175704; slca; 27.53  ; Out of Nutrient Climatology in box(es) 6 (Min=3.72 Max=26.12 n=52)
+18NA96022_036; 247.00; 175703; slca; 27.09  ; Out of Nutrient Climatology in box(es) 6 (Min=3.72 Max=26.12 n=52)
+18NA96022_127; 20.00; 175731; phos; 5.68  ; Global Impossible Parameter Value
+18NA96022_127; 25.00; 175730; phos; 8.24  ; Global Impossible Parameter Value
+18NA96022_127; 39.00; 175729; phos; 10.24  ; Global Impossible Parameter Value
+18NA96022_127; 20.00; 175731; phos; 5.68  ; Regional Impossible Parameter Value
+18NA96022_127; 25.00; 175730; phos; 8.24  ; Regional Impossible Parameter Value
+18NA96022_127; 39.00; 175729; phos; 10.24  ; Regional Impossible Parameter Value
+18NA96022_127; 10.00 to 15.00; 175733, 175732; ntrz; 1.21  11.89  ; Gradient or Inversion too high
+18NA96022_127; 15.00 to 20.00; 175732, 175731; ntrz; 11.89  0.56  ; Gradient or Inversion too high
+18NA96022_257; 7.00; 175778; cphl; 0.64  ; Constant profile problem
+18NA96022_257; 25.00; 175777; cphl; 0.64  ; Constant profile problem
+18NA96022_279; 25.00; 175797; slca; 9.79  ; Out of Nutrient Climatology in box(es) 6 (Min=0.00 Max=9.44 n=94)
+18NA96022_305; 1.00; 175844; cphl; 0.56  ; Constant profile problem
+18NA96022_305; 5.00; 175843; cphl; 0.56  ; Constant profile problem
+18NA96022_308; 17.00; 175852; slca; 10.63  ; Out of Nutrient Climatology in box(es) 6 (Min=0.00 Max=9.44 n=94)
+18NA96022_309; 20.00; 175854; ntrz; 9.07  ; Out of Nutrient Climatology in box(es) 6 (Min=0.00 Max=6.66 n=84)
+18NA96022_309; 20.00; 175854; phos; 1.50  ; Out of Nutrient Climatology in box(es) 6 (Min=0.03 Max=0.95 n=92)
+18NA96022_309; 20.00; 175854; slca; 13.72  ; Out of Nutrient Climatology in box(es) 6 (Min=0.00 Max=9.44 n=94)

@@ -1,0 +1,251 @@
+    The end of 18VA17667_002 and the beginning of 18VA17667_113 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_113 and the beginning of 18VA17667_225 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_225 and the beginning of 18VA17667_264 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_264 and the beginning of 18VA17667_284 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_284 and the beginning of 18VA17667_304 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_304 and the beginning of 18VA17667_315 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_315 and the beginning of 18VA17667_326 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_326 and the beginning of 18VA17667_339 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_339 and the beginning of 18VA17667_003 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_003 and the beginning of 18VA17667_014 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_014 and the beginning of 18VA17667_025 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_025 and the beginning of 18VA17667_036 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_036 and the beginning of 18VA17667_047 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_047 and the beginning of 18VA17667_058 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_058 and the beginning of 18VA17667_069 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_069 and the beginning of 18VA17667_080 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_080 and the beginning of 18VA17667_091 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_091 and the beginning of 18VA17667_102 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_102 and the beginning of 18VA17667_114 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_114 and the beginning of 18VA17667_127 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_127 and the beginning of 18VA17667_138 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_138 and the beginning of 18VA17667_149 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_149 and the beginning of 18VA17667_160 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_160 and the beginning of 18VA17667_171 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_171 and the beginning of 18VA17667_182 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_182 and the beginning of 18VA17667_193 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_193 and the beginning of 18VA17667_204 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_204 and the beginning of 18VA17667_215 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_215 and the beginning of 18VA17667_226 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_226 and the beginning of 18VA17667_237 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_237 and the beginning of 18VA17667_239 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_239 and the beginning of 18VA17667_243 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_243 and the beginning of 18VA17667_244 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_244 and the beginning of 18VA17667_247 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_247 and the beginning of 18VA17667_253 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_253 and the beginning of 18VA17667_257 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_257 and the beginning of 18VA17667_261 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_261 and the beginning of 18VA17667_263 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_263 and the beginning of 18VA17667_265 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_265 and the beginning of 18VA17667_275 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_275 and the beginning of 18VA17667_276 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_276 and the beginning of 18VA17667_277 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_277 and the beginning of 18VA17667_278 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_278 and the beginning of 18VA17667_279 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_279 and the beginning of 18VA17667_280 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_280 and the beginning of 18VA17667_281 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_281 and the beginning of 18VA17667_282 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_282 and the beginning of 18VA17667_283 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_283 and the beginning of 18VA17667_285 (found ship velocity is 0.00 kt)
+    The end of 18VA17667_285 and the beginning of 18VA17667_295 (found ship velocity is 0.00 kt)
+Test 1.6 -> No known depth for 18VA17667_002
+Test 1.6 -> No known depth for 18VA17667_113
+Test 1.6 -> No known depth for 18VA17667_225
+Test 1.6 -> No known depth for 18VA17667_264
+Test 1.6 -> No known depth for 18VA17667_284
+Test 1.6 -> No known depth for 18VA17667_304
+Test 1.6 -> No known depth for 18VA17667_315
+Test 1.6 -> No known depth for 18VA17667_326
+Test 1.6 -> No known depth for 18VA17667_339
+Test 1.6 -> No known depth for 18VA17667_003
+Test 1.6 -> No known depth for 18VA17667_014
+Test 1.6 -> No known depth for 18VA17667_025
+Test 1.6 -> No known depth for 18VA17667_036
+Test 1.6 -> No known depth for 18VA17667_047
+Test 1.6 -> No known depth for 18VA17667_058
+Test 1.6 -> No known depth for 18VA17667_069
+Test 1.6 -> No known depth for 18VA17667_080
+Test 1.6 -> No known depth for 18VA17667_091
+Test 1.6 -> No known depth for 18VA17667_102
+Test 1.6 -> No known depth for 18VA17667_114
+Test 1.6 -> No known depth for 18VA17667_127
+Test 1.6 -> No known depth for 18VA17667_138
+Test 1.6 -> No known depth for 18VA17667_149
+Test 1.6 -> No known depth for 18VA17667_160
+Test 1.6 -> No known depth for 18VA17667_171
+Test 1.6 -> No known depth for 18VA17667_182
+Test 1.6 -> No known depth for 18VA17667_193
+Test 1.6 -> No known depth for 18VA17667_204
+Test 1.6 -> No known depth for 18VA17667_215
+Test 1.6 -> No known depth for 18VA17667_226
+Test 1.6 -> No known depth for 18VA17667_237
+Test 1.6 -> No known depth for 18VA17667_239
+Test 1.6 -> No known depth for 18VA17667_243
+Test 1.6 -> No known depth for 18VA17667_244
+Test 1.6 -> No known depth for 18VA17667_247
+Test 1.6 -> No known depth for 18VA17667_253
+Test 1.6 -> No known depth for 18VA17667_257
+Test 1.6 -> No known depth for 18VA17667_261
+Test 1.6 -> No known depth for 18VA17667_263
+Test 1.6 -> No known depth for 18VA17667_265
+Test 1.6 -> No known depth for 18VA17667_275
+Test 1.6 -> No known depth for 18VA17667_276
+Test 1.6 -> No known depth for 18VA17667_277
+Test 1.6 -> No known depth for 18VA17667_278
+Test 1.6 -> No known depth for 18VA17667_279
+Test 1.6 -> No known depth for 18VA17667_280
+Test 1.6 -> No known depth for 18VA17667_281
+Test 1.6 -> No known depth for 18VA17667_282
+Test 1.6 -> No known depth for 18VA17667_283
+Test 1.6 -> No known depth for 18VA17667_285
+Test 1.6 -> No known depth for 18VA17667_295
+18VA17667_002: Test 3.6 -> Profile 18VA17667_002 outside TS Monthly Climatology polygons
+18VA17667_002: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.5 m
+18VA17667_002: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.5 m
+18VA17667_113: Test 3.6 -> Profile 18VA17667_113 outside TS Monthly Climatology polygons
+18VA17667_113: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_113: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_225: Test 3.6 -> Profile 18VA17667_225 outside TS Monthly Climatology polygons
+18VA17667_225: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.9 m
+18VA17667_225: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.9 m
+18VA17667_264: Test 3.6 -> Profile 18VA17667_264 outside TS Monthly Climatology polygons
+18VA17667_264: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.8 m
+18VA17667_264: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.8 m
+18VA17667_284: Test 3.6 -> Profile 18VA17667_284 outside TS Monthly Climatology polygons
+18VA17667_284: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_284: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_284: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_304: Test 3.6 -> Profile 18VA17667_304 outside TS Monthly Climatology polygons
+18VA17667_304: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.8 m
+18VA17667_304: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.8 m
+18VA17667_315: Test 3.6 -> Profile 18VA17667_315 outside TS Monthly Climatology polygons
+18VA17667_315: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_315: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_326: Test 3.6 -> Profile 18VA17667_326 outside TS Monthly Climatology polygons
+18VA17667_326: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.8 m
+18VA17667_326: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.8 m
+18VA17667_339: Test 3.6 -> Profile 18VA17667_339 outside TS Monthly Climatology polygons
+18VA17667_339: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.8 m
+18VA17667_339: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.5 m
+18VA17667_339: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_003: Test 3.6 -> Profile 18VA17667_003 outside TS Monthly Climatology polygons
+18VA17667_003: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.5 m
+18VA17667_014: Test 3.6 -> Profile 18VA17667_014 outside TS Monthly Climatology polygons
+18VA17667_014: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.4 m
+18VA17667_025: Test 3.6 -> Profile 18VA17667_025 outside TS Monthly Climatology polygons
+18VA17667_036: Test 3.6 -> Profile 18VA17667_036 outside TS Monthly Climatology polygons
+18VA17667_047: Test 3.6 -> Profile 18VA17667_047 outside TS Monthly Climatology polygons
+18VA17667_058: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18VA17667_058: Test 3.6 -> Profile 18VA17667_058 outside TS Monthly Climatology polygons
+18VA17667_069: Test 3.6 -> Profile 18VA17667_069 outside TS Monthly Climatology polygons
+18VA17667_069: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 1.4 m
+18VA17667_080: Test 3.6 -> Profile 18VA17667_080 outside TS Monthly Climatology polygons
+18VA17667_080: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 1.7 m
+18VA17667_080: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 5.5 m
+18VA17667_091: Test 3.6 -> Profile 18VA17667_091 outside TS Monthly Climatology polygons
+18VA17667_102: Test 3.6 -> Profile 18VA17667_102 outside TS Monthly Climatology polygons
+18VA17667_102: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 1.4 m
+18VA17667_102: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.4 m
+18VA17667_114: Test 3.6 -> Profile 18VA17667_114 outside TS Monthly Climatology polygons
+18VA17667_127: Test 3.6 -> Profile 18VA17667_127 outside TS Monthly Climatology polygons
+18VA17667_138: Test 3.6 -> Profile 18VA17667_138 outside TS Monthly Climatology polygons
+18VA17667_149: Test 3.6 -> Profile 18VA17667_149 outside TS Monthly Climatology polygons
+18VA17667_149: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.8 m
+18VA17667_149: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.8 m
+18VA17667_160: Test 3.6 -> Profile 18VA17667_160 outside TS Monthly Climatology polygons
+18VA17667_160: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_160: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_171: Test 3.6 -> Profile 18VA17667_171 outside TS Monthly Climatology polygons
+18VA17667_171: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_171: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_182: Test 3.6 -> Profile 18VA17667_182 outside TS Monthly Climatology polygons
+18VA17667_182: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_182: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.4 m
+18VA17667_182: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_193: Test 3.6 -> Profile 18VA17667_193 outside TS Monthly Climatology polygons
+18VA17667_193: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_204: Test 3.6 -> Profile 18VA17667_204 outside TS Monthly Climatology polygons
+18VA17667_204: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_215: Test 3.6 -> Profile 18VA17667_215 outside TS Monthly Climatology polygons
+18VA17667_215: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_215: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_226: Test 3.6 -> Profile 18VA17667_226 outside TS Monthly Climatology polygons
+18VA17667_226: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_226: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_237: Test 3.6 -> Profile 18VA17667_237 outside TS Monthly Climatology polygons
+18VA17667_237: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.5 m
+18VA17667_237: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.5 m
+18VA17667_239: Test 3.6 -> Profile 18VA17667_239 outside TS Monthly Climatology polygons
+18VA17667_239: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_239: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_243: Test 3.6 -> Profile 18VA17667_243 outside TS Monthly Climatology polygons
+18VA17667_243: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.0 m
+18VA17667_243: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.0 m
+18VA17667_244: Test 3.6 -> Profile 18VA17667_244 outside TS Monthly Climatology polygons
+18VA17667_244: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.0 m
+18VA17667_244: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+18VA17667_244: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.0 m
+18VA17667_247: Test 3.6 -> Profile 18VA17667_247 outside TS Monthly Climatology polygons
+18VA17667_247: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_247: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_253: Test 3.6 -> Profile 18VA17667_253 outside TS Monthly Climatology polygons
+18VA17667_253: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_253: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.6 m
+18VA17667_257: Test 3.6 -> Profile 18VA17667_257 outside TS Monthly Climatology polygons
+18VA17667_257: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 61.2 m
+18VA17667_261: Test 3.6 -> Profile 18VA17667_261 outside TS Monthly Climatology polygons
+18VA17667_261: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_263: Test 3.6 -> Profile 18VA17667_263 outside TS Monthly Climatology polygons
+18VA17667_263: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.5 m
+18VA17667_265: Test 3.6 -> Profile 18VA17667_265 outside TS Monthly Climatology polygons
+18VA17667_265: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 61.0 m
+18VA17667_265: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 61.0 m
+18VA17667_265: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 61.0 m
+18VA17667_275: Test 3.6 -> Profile 18VA17667_275 outside TS Monthly Climatology polygons
+18VA17667_275: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_275: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_275: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_276: Test 3.6 -> Profile 18VA17667_276 outside TS Monthly Climatology polygons
+18VA17667_276: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_276: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_276: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_277: Test 3.6 -> Profile 18VA17667_277 outside TS Monthly Climatology polygons
+18VA17667_277: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 60.8 m
+18VA17667_277: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.8 m
+18VA17667_277: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.8 m
+18VA17667_278: Test 3.6 -> Profile 18VA17667_278 outside TS Monthly Climatology polygons
+18VA17667_278: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_278: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_278: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_279: Test 3.6 -> Profile 18VA17667_279 outside TS Monthly Climatology polygons
+18VA17667_279: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_279: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_279: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_280: Test 3.6 -> Profile 18VA17667_280 outside TS Monthly Climatology polygons
+18VA17667_280: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_280: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_280: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_281: Test 3.6 -> Profile 18VA17667_281 outside TS Monthly Climatology polygons
+18VA17667_281: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_281: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_281: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_282: Test 3.6 -> Profile 18VA17667_282 outside TS Monthly Climatology polygons
+18VA17667_282: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_282: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_282: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_283: Test 3.6 -> Profile 18VA17667_283 outside TS Monthly Climatology polygons
+18VA17667_283: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 10.5 m
+18VA17667_283: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_283: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_285: Test 3.6 -> Profile 18VA17667_285 outside TS Monthly Climatology polygons
+18VA17667_285: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 1.4 m
+18VA17667_285: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 10.6 m
+18VA17667_285: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_285: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.6 m
+18VA17667_285: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 60.6 m
+18VA17667_295: Test 3.6 -> Profile 18VA17667_295 outside TS Monthly Climatology polygons
+18VA17667_295: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 1.4 m
+18VA17667_295: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 10.4 m
+18VA17667_295: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 10.4 m
+18VA17667_295: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 60.7 m
+18VA17667_295: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.4 m

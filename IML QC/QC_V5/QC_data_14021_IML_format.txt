@@ -1,0 +1,74 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL14021_1394; 15.77; 414646; doxy; 317.22  ; Global Impossible Parameter Value
+18TL14021_1394; 51.06; 414644; doxy; 343.55  ; Global Impossible Parameter Value
+18TL14021_1394; 250.63; 414643; doxy; 154.99  ; Global Impossible Parameter Value
+18TL14021_1394; 480.37; 414642; doxy; 155.17  ; Global Impossible Parameter Value
+18TL14021_1394; 15.77; 414646; doxy; 317.22  ; Regional Impossible Parameter Value
+18TL14021_1394; 51.06; 414644; doxy; 343.55  ; Regional Impossible Parameter Value
+18TL14021_1394; 250.63; 414643; doxy; 154.99  ; Regional Impossible Parameter Value
+18TL14021_1394; 480.37; 414642; doxy; 155.17  ; Regional Impossible Parameter Value
+18TL14021_1387; 15.37; 414652; doxy; 356.95  ; Global Impossible Parameter Value
+18TL14021_1387; 50.47; 414650; doxy; 343.30  ; Global Impossible Parameter Value
+18TL14021_1387; 250.93; 414649; doxy; 162.50  ; Global Impossible Parameter Value
+18TL14021_1387; 519.75; 414648; doxy; 163.25  ; Global Impossible Parameter Value
+18TL14021_1387; 15.37; 414652; doxy; 356.95  ; Regional Impossible Parameter Value
+18TL14021_1387; 50.47; 414650; doxy; 343.30  ; Regional Impossible Parameter Value
+18TL14021_1387; 250.93; 414649; doxy; 162.50  ; Regional Impossible Parameter Value
+18TL14021_1387; 519.75; 414648; doxy; 163.25  ; Regional Impossible Parameter Value
+18TL14021_1387; 31.23; 414651; slca; 0.59  ; Out of Nutrient Climatology in box(es) 8 (Min=1.39 Max=9.12 n=32)
+18TL14021_1388; 15.57; 414657; doxy; 265.08  ; Global Impossible Parameter Value
+18TL14021_1388; 50.37; 414655; doxy; 343.59  ; Global Impossible Parameter Value
+18TL14021_1388; 243.30; 414654; doxy; 163.59  ; Global Impossible Parameter Value
+18TL14021_1388; 15.57; 414657; doxy; 265.08  ; Regional Impossible Parameter Value
+18TL14021_1388; 50.37; 414655; doxy; 343.59  ; Regional Impossible Parameter Value
+18TL14021_1388; 243.30; 414654; doxy; 163.59  ; Regional Impossible Parameter Value
+18TL14021_1388; 2.48; 414658; phos; 0.06  ; Out of Nutrient Climatology in box(es) 8 (Min=0.09 Max=0.73 n=31)
+18TL14021_1388; 15.57; 414657; phos; 0.08  ; Out of Nutrient Climatology in box(es) 8 (Min=0.14 Max=0.75 n=32)
+18TL14021_1388; 18.05; 414656; phos; 0.12  ; Out of Nutrient Climatology in box(es) 8 (Min=0.14 Max=0.75 n=32)
+18TL14021_1389; 14.78; 414663; doxy; 327.98  ; Global Impossible Parameter Value
+18TL14021_1389; 49.48; 414661; doxy; 346.16  ; Global Impossible Parameter Value
+18TL14021_1389; 249.65; 414660; doxy; 158.90  ; Global Impossible Parameter Value
+18TL14021_1389; 462.88; 414659; doxy; 165.38  ; Global Impossible Parameter Value
+18TL14021_1389; 14.78; 414663; doxy; 327.98  ; Regional Impossible Parameter Value
+18TL14021_1389; 49.48; 414661; doxy; 346.16  ; Regional Impossible Parameter Value
+18TL14021_1389; 249.65; 414660; doxy; 158.90  ; Regional Impossible Parameter Value
+18TL14021_1389; 462.88; 414659; doxy; 165.38  ; Regional Impossible Parameter Value
+18TL14021_1389; 1.78; 414664; phos; 0.03  ; Out of Nutrient Climatology in box(es) 8 (Min=0.09 Max=0.73 n=31)
+18TL14021_1389; 462.88; 414659; slca; 33.20  ; Out of Nutrient Climatology in box(es) 8 (Min=3.63 Max=32.87 n=74)
+18TL14021_1390; 15.27; 414669; doxy; 323.70  ; Global Impossible Parameter Value
+18TL14021_1390; 51.16; 414667; doxy; 343.44  ; Global Impossible Parameter Value
+18TL14021_1390; 251.93; 414666; doxy; 148.32  ; Global Impossible Parameter Value
+18TL14021_1390; 458.63; 414665; doxy; 155.39  ; Global Impossible Parameter Value
+18TL14021_1390; 15.27; 414669; doxy; 323.70  ; Regional Impossible Parameter Value
+18TL14021_1390; 51.16; 414667; doxy; 343.44  ; Regional Impossible Parameter Value
+18TL14021_1390; 251.93; 414666; doxy; 148.32  ; Regional Impossible Parameter Value
+18TL14021_1390; 458.63; 414665; doxy; 155.39  ; Regional Impossible Parameter Value
+18TL14021_1390; 1.88; 414670; phos; 0.07  ; Out of Nutrient Climatology in box(es) 8 (Min=0.09 Max=0.73 n=31)
+18TL14021_1390; 34.41; 414668; slca; 0.23  ; Out of Nutrient Climatology in box(es) 8 (Min=1.39 Max=9.12 n=32)
+18TL14021_1390; 458.63; 414665; slca; 35.02  ; Out of Nutrient Climatology in box(es) 8 (Min=3.63 Max=32.87 n=74)
+18TL14021_1391; 15.07; 414675; doxy; 321.62  ; Global Impossible Parameter Value
+18TL14021_1391; 50.57; 414673; doxy; 344.89  ; Global Impossible Parameter Value
+18TL14021_1391; 251.34; 414672; doxy; 140.59  ; Global Impossible Parameter Value
+18TL14021_1391; 316.70; 414671; doxy; 143.20  ; Global Impossible Parameter Value
+18TL14021_1391; 15.07; 414675; doxy; 321.62  ; Regional Impossible Parameter Value
+18TL14021_1391; 50.57; 414673; doxy; 344.89  ; Regional Impossible Parameter Value
+18TL14021_1391; 251.34; 414672; doxy; 140.59  ; Regional Impossible Parameter Value
+18TL14021_1391; 316.70; 414671; doxy; 143.20  ; Regional Impossible Parameter Value
+18TL14021_1391; 316.70; 414671; ntrz; 22.60  ; Out of Nutrient Climatology in box(es) 6 (Min=5.52 Max=21.98 n=58)
+18TL14021_1391; 35.90; 414674; slca; 0.52  ; Out of Nutrient Climatology in box(es) 6 (Min=0.53 Max=17.15 n=209)
+18TL14021_1392; 14.87; 414681; doxy; 340.22  ; Global Impossible Parameter Value
+18TL14021_1392; 50.57; 414679; doxy; 346.36  ; Global Impossible Parameter Value
+18TL14021_1392; 250.14; 414678; doxy; 135.54  ; Global Impossible Parameter Value
+18TL14021_1392; 360.84; 414677; doxy; 137.84  ; Global Impossible Parameter Value
+18TL14021_1392; 14.87; 414681; doxy; 340.22  ; Regional Impossible Parameter Value
+18TL14021_1392; 50.57; 414679; doxy; 346.36  ; Regional Impossible Parameter Value
+18TL14021_1392; 250.14; 414678; doxy; 135.54  ; Regional Impossible Parameter Value
+18TL14021_1392; 360.84; 414677; doxy; 137.84  ; Regional Impossible Parameter Value
+18TL14021_1393; 16.56; 414686; doxy; 333.97  ; Global Impossible Parameter Value
+18TL14021_1393; 51.95; 414685; doxy; 335.75  ; Global Impossible Parameter Value
+18TL14021_1393; 251.22; 414684; doxy; 136.57  ; Global Impossible Parameter Value
+18TL14021_1393; 449.89; 414683; doxy; 156.64  ; Global Impossible Parameter Value
+18TL14021_1393; 16.56; 414686; doxy; 333.97  ; Regional Impossible Parameter Value
+18TL14021_1393; 51.95; 414685; doxy; 335.75  ; Regional Impossible Parameter Value
+18TL14021_1393; 251.22; 414684; doxy; 136.57  ; Regional Impossible Parameter Value
+18TL14021_1393; 449.89; 414683; doxy; 156.64  ; Regional Impossible Parameter Value

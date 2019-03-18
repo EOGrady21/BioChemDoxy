@@ -1,0 +1,164 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18NA96022 FLAG Report:,  2019-03-15 12:05:19
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged SILICATE, event 13, station CAST#1:
+
+           sample_key depth  value method qc
+ 18NA96022_036_175709     1  3.200 SiO4_0  1
+ 18NA96022_036_175708     5  3.645 SiO4_0  1
+ 18NA96022_036_175707    15  3.240 SiO4_0  2
+ 18NA96022_036_175706    50  7.140 SiO4_0  2
+ 18NA96022_036_175705   100 16.670 SiO4_0  2
+ 18NA96022_036_175704   150 27.530 SiO4_0  1
+ 18NA96022_036_175703   247 27.085 SiO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 22, station CAST#1:
+
+           sample_key depth value method qc
+ 18NA96022_138_175737     1 0.302  PO4_0  1
+ 18NA96022_138_175736     7 0.291  PO4_0  4
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 22, station CAST#1:
+
+           sample_key depth value method qc
+ 18NA96022_138_175737     1 6.845 SiO4_0  4
+ 18NA96022_138_175736     7 7.670 SiO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 23, station CAST#1:
+
+           sample_key depth value   method qc
+ 18NA96022_149_175739     5  0.47 NO2NO3_0  1
+ 18NA96022_149_175738     9  1.20 NO2NO3_0  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 23, station CAST#1:
+
+           sample_key depth  value method qc
+ 18NA96022_149_175739     5 0.2985  PO4_0  7
+ 18NA96022_149_175738     9 0.3590  PO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 23, station CAST#1:
+
+           sample_key depth value method qc
+ 18NA96022_149_175739     5  7.50 SiO4_0  1
+ 18NA96022_149_175738     9  5.76 SiO4_0  4
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 24, station CAST#1:
+
+           sample_key depth value method qc
+ 18NA96022_160_175741     3 7.515 SiO4_0  1
+ 18NA96022_160_175740     6 6.415 SiO4_0  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 43, station CAST#1:
+
+           sample_key depth  value method qc
+ 18NA96022_277_175793     1 0.1515  PO4_0  1
+ 18NA96022_277_175792     5 0.1740  PO4_0  7
+ 18NA96022_277_175791    15 0.1775  PO4_0  1
+ 18NA96022_277_175790    56 0.8310  PO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 43, station CAST#1:
+
+           sample_key depth  value method qc
+ 18NA96022_277_175793     1  3.150 SiO4_0  7
+ 18NA96022_277_175792     5  3.225 SiO4_0  1
+ 18NA96022_277_175791    15  3.355 SiO4_0  1
+ 18NA96022_277_175790    56 12.010 SiO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 51, station CAST#1:
+
+           sample_key depth value   method qc
+ 18NA96022_295_175824     1 0.350 NO2NO3_0  1
+ 18NA96022_295_175823     5 0.310 NO2NO3_0  1
+ 18NA96022_295_175822    40 3.430 NO2NO3_0  1
+ 18NA96022_295_175821    68 4.115 NO2NO3_0  2
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

@@ -1,0 +1,23 @@
+18HU06060_876: Test 3.6 -> Profile 18HU06060_876 outside TS Monthly Climatology polygons
+18HU06060_876: Test 3.6 -> Profile 18HU06060_876 outside Monthly Nutrient Climatology polygons
+18HU06060_877: Test 3.6 -> Profile 18HU06060_877 outside TS Monthly Climatology polygons
+18HU06060_877: Test 3.6 -> Profile 18HU06060_877 outside Monthly Nutrient Climatology polygons
+18HU06060_878: Test 3.6 -> Profile 18HU06060_878 outside TS Monthly Climatology polygons
+18HU06060_878: Test 3.6 -> Profile 18HU06060_878 outside Monthly Nutrient Climatology polygons
+18HU06060_879: Test 3.6 -> Profile 18HU06060_879 outside TS Monthly Climatology polygons
+18HU06060_879: Test 3.6 -> Profile 18HU06060_879 outside Monthly Nutrient Climatology polygons
+18HU06060_880: Test 3.6 -> Profile 18HU06060_880 outside TS Monthly Climatology polygons
+18HU06060_880: Test 3.6 -> Profile 18HU06060_880 outside Monthly Nutrient Climatology polygons
+18HU06060_881: Test 3.6 -> Profile 18HU06060_881 outside TS Monthly Climatology polygons
+18HU06060_881: Test 3.6 -> Profile 18HU06060_881 outside Monthly Nutrient Climatology polygons
+18HU06060_882: Test 3.6 -> Profile 18HU06060_882 outside TS Monthly Climatology polygons
+18HU06060_882: Test 3.6 -> Profile 18HU06060_882 outside Monthly Nutrient Climatology polygons
+18HU06060_883: Test 3.6 -> Profile 18HU06060_883 outside TS Monthly Climatology polygons
+18HU06060_883: Test 3.6 -> Profile 18HU06060_883 outside Monthly Nutrient Climatology polygons
+18HU06060_884: Test 3.6 -> Profile 18HU06060_884 outside TS Monthly Climatology polygons
+18HU06060_884: Test 3.6 -> Profile 18HU06060_884 outside Monthly Nutrient Climatology polygons
+18HU06060_885: Test 3.6 -> Profile 18HU06060_885 outside TS Monthly Climatology polygons
+18HU06060_885: Test 3.6 -> Profile 18HU06060_885 outside Monthly Nutrient Climatology polygons
+18HU06060_888: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 322.6 m
+18HU06060_892: Test 3.5 -> Profile 18HU06060_892 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU06060_892: Test 3.6 -> Profile 18HU06060_892 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes

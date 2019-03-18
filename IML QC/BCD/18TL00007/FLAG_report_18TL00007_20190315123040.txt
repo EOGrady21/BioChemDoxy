@@ -1,0 +1,101 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18TL00007 FLAG Report:,  2019-03-15 12:30:40
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged NITRATE, event 18, station FC-12:
+
+           sample_key depth value   method qc
+ 18TL00007_091_221651     6  0.00 NO2NO3_0  1
+ 18TL00007_091_221650    11  0.00 NO2NO3_0  1
+ 18TL00007_091_221649    20  0.00 NO2NO3_0  1
+ 18TL00007_091_221648    31  0.00 NO2NO3_0  1
+ 18TL00007_091_221647    41  0.00 NO2NO3_0  1
+ 18TL00007_091_221646    51  2.83 NO2NO3_0  1
+ 18TL00007_091_221644    75  6.93 NO2NO3_0  1
+ 18TL00007_091_221645   102  8.23 NO2NO3_0  1
+ 18TL00007_091_221643   128  9.34 NO2NO3_0  3
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 18, station FC-12:
+
+           sample_key depth value method qc
+ 18TL00007_091_221651     6  0.97  PO4_0  1
+ 18TL00007_091_221650    11  0.94  PO4_0  1
+ 18TL00007_091_221649    20  1.07  PO4_0  1
+ 18TL00007_091_221648    31  0.98  PO4_0  1
+ 18TL00007_091_221647    41  0.99  PO4_0  1
+ 18TL00007_091_221646    51  1.73  PO4_0  1
+ 18TL00007_091_221644    75  1.83  PO4_0  3
+ 18TL00007_091_221645   102  1.82  PO4_0  1
+ 18TL00007_091_221643   128  2.14  PO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 4, station FC-01:
+
+           sample_key depth value   method qc
+ 18TL00007_264_221489     6  0.00 NO2NO3_0  1
+ 18TL00007_264_221488    10  0.05 NO2NO3_0  1
+ 18TL00007_264_221487    20  0.05 NO2NO3_0  7
+ 18TL00007_264_221486    31  1.54 NO2NO3_0  1
+ 18TL00007_264_221485    40  2.45 NO2NO3_0  1
+ 18TL00007_264_221484    51  2.84 NO2NO3_0  1
+ 18TL00007_264_221483    75  4.25 NO2NO3_0  1
+ 18TL00007_264_221482    91  4.83 NO2NO3_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 6, station FC-03:
+
+           sample_key depth value   method qc
+ 18TL00007_304_221499     5  0.00 NO2NO3_0  1
+ 18TL00007_304_221498    10  0.00 NO2NO3_0  1
+ 18TL00007_304_221497    20  0.00 NO2NO3_0  1
+ 18TL00007_304_221496    30  0.01 NO2NO3_0  1
+ 18TL00007_304_221495    40  0.00 NO2NO3_0  1
+ 18TL00007_304_221494    50  2.03 NO2NO3_0  1
+ 18TL00007_304_221492   100  9.77 NO2NO3_0  7
+ 18TL00007_304_221491   148 10.51 NO2NO3_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

@@ -1,0 +1,7 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL18196_2549; 4.66; 442293; ntrz; 0.73  ; Constant profile problem
+18TL18196_2549; 22.91; 442292; ntrz; 0.73  ; Constant profile problem
+18TL18196_2549; 4.66; 442293; phos; 0.47  ; Constant profile problem
+18TL18196_2549; 22.91; 442292; phos; 0.47  ; Constant profile problem
+18TL18196_2555; 5.45; 442310; ntrz; 0.06  ; Constant profile problem
+18TL18196_2555; 22.31; 442309; ntrz; 0.06  ; Constant profile problem

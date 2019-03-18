@@ -1,0 +1,26 @@
+Test 1.6 -> No known depth for 18BA87001_113
+Test 1.6 -> No known depth for 18BA87001_225
+Test 1.6 -> No known depth for 18BA87001_264
+18BA87001_113: Test 3.6 -> Profile 18BA87001_113 outside TS Monthly Climatology polygons
+18BA87001_113: Test 3.6 -> Profile 18BA87001_113 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18BA87001_113: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 10.0 m
+18BA87001_113: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 10.0 m
+18BA87001_113: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 30.0 m
+18BA87001_113: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 30.0 m
+18BA87001_113: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 30.0 m
+18BA87001_113: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 66.0 m
+18BA87001_113: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 10.0 m
+18BA87001_113: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 10.0 m
+18BA87001_113: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 30.0 m
+18BA87001_113: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 30.0 m
+18BA87001_113: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 30.0 m
+18BA87001_113: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 66.0 m
+18BA87001_113: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 10.0 m
+18BA87001_113: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 10.0 m
+18BA87001_113: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 30.0 m
+18BA87001_113: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 30.0 m
+18BA87001_113: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 30.0 m
+18BA87001_225: Test 3.6 -> Profile 18BA87001_225 outside TS Monthly Climatology polygons
+18BA87001_225: Test 3.6 -> Profile 18BA87001_225 outside Monthly Nutrient Climatology polygons
+18BA87001_264: Test 3.6 -> Profile 18BA87001_264 outside TS Monthly Climatology polygons
+18BA87001_264: Test 3.6 -> Profile 18BA87001_264 outside Monthly Nutrient Climatology polygons

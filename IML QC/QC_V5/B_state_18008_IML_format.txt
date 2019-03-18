@@ -1,0 +1,59 @@
+Test 1.6 -> No known depth for 18HU18008_284
+Test 1.6 -> No known depth for 18HU18008_121
+Test 1.6 -> No known depth for 18HU18008_123
+Test 1.6 -> No known depth for 18HU18008_129
+Test 1.6 -> No known depth for 18HU18008_131
+Test 1.6 -> No known depth for 18HU18008_133
+Test 1.6 -> No known depth for 18HU18008_140
+Test 1.6 -> No known depth for 18HU18008_152
+Test 1.6 -> No known depth for 18HU18008_153
+Test 1.6 -> No known depth for 18HU18008_154
+Test 1.6 -> No known depth for 18HU18008_158
+Test 1.6 -> No known depth for 18HU18008_162
+Test 1.6 -> No known depth for 18HU18008_164
+Test 1.6 -> No known depth for 18HU18008_167
+Test 1.6 -> No known depth for 18HU18008_172
+Test 1.6 -> No known depth for 18HU18008_175
+Test 1.6 -> No known depth for 18HU18008_177
+Test 1.6 -> No known depth for 18HU18008_180
+Test 1.6 -> No known depth for 18HU18008_183
+Test 1.6 -> No known depth for 18HU18008_185
+Test 1.6 -> No known depth for 18HU18008_190
+18HU18008_284: Test 3.6 -> Profile 18HU18008_284 outside TS Monthly Climatology polygons
+18HU18008_284: Test 3.6 -> Profile 18HU18008_284 outside Monthly Nutrient Climatology polygons
+18HU18008_121: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 250.0 m
+18HU18008_121: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 368.8 m
+18HU18008_123: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 20.0 m
+18HU18008_123: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 800.0 m
+18HU18008_129: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 500.0 m
+18HU18008_129: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 4140.5 m
+18HU18008_131: Test 3.6 -> Profile 18HU18008_131 outside TS Monthly Climatology polygons
+18HU18008_131: Test 3.6 -> Profile 18HU18008_131 outside Monthly Nutrient Climatology polygons
+18HU18008_133: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU18008_133: Test 3.6 -> Profile 18HU18008_133 outside TS Monthly Climatology polygons
+18HU18008_133: Test 3.6 -> Profile 18HU18008_133 outside Monthly Nutrient Climatology polygons
+18HU18008_140: Test 3.6 -> Profile 18HU18008_140 outside TS Monthly Climatology polygons
+18HU18008_140: Test 3.6 -> Profile 18HU18008_140 outside Monthly Nutrient Climatology polygons
+18HU18008_152: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU18008_152: Test 3.6 -> Profile 18HU18008_152 outside TS Monthly Climatology polygons
+18HU18008_152: Test 3.6 -> Profile 18HU18008_152 outside Monthly Nutrient Climatology polygons
+18HU18008_153: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU18008_153: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU18008_153: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU18008_153: Test 3.6 -> Profile 18HU18008_153 outside TS Monthly Climatology polygons
+18HU18008_153: Test 3.6 -> Profile 18HU18008_153 outside Monthly Nutrient Climatology polygons
+18HU18008_154: Test 3.6 -> Profile 18HU18008_154 outside TS Monthly Climatology polygons
+18HU18008_154: Test 3.6 -> Profile 18HU18008_154 outside Monthly Nutrient Climatology polygons
+18HU18008_158: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 250.0 m
+18HU18008_158: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 600.0 m
+18HU18008_158: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 399.4 m
+18HU18008_158: Test 3.6 -> phos in box(es) 7 is out of Nutrient Climatology at 24.8 m
+18HU18008_158: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 4400.9 m
+18HU18008_158: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 4502.2 m
+18HU18008_164: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 500.0 m
+18HU18008_167: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 399.7 m
+18HU18008_175: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 299.6 m
+18HU18008_177: Test 3.6 -> ntrz in box(es) 1 is out of Nutrient Climatology at 4.6 m
+18HU18008_177: Test 3.6 -> ntrz in box(es) 1 is out of Nutrient Climatology at 10.4 m
+18HU18008_177: Test 3.6 -> ntrz in box(es) 1 is out of Nutrient Climatology at 99.8 m
+18HU18008_177: Test 3.6 -> slca in box(es) 1 is out of Nutrient Climatology at 99.8 m

@@ -1,0 +1,96 @@
+18HU18051_1707: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1707: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1707: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1707: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1707: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1707: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1707: Test 3.6 -> Profile 18HU18051_1707 outside TS Monthly Climatology polygons
+18HU18051_1707: Test 3.6 -> Profile 18HU18051_1707 outside Monthly Nutrient Climatology polygons
+18HU18051_1708: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1708: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1708: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1708: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1708: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1708: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1708: Test 3.6 -> Profile 18HU18051_1708 outside TS Monthly Climatology polygons
+18HU18051_1708: Test 3.6 -> Profile 18HU18051_1708 outside Monthly Nutrient Climatology polygons
+18HU18051_1709: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1709: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1709: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1709: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1709: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1709: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1709: Test 3.6 -> Profile 18HU18051_1709 outside TS Monthly Climatology polygons
+18HU18051_1709: Test 3.6 -> Profile 18HU18051_1709 outside Monthly Nutrient Climatology polygons
+18HU18051_1710: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1710: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1710: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1710: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1710: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1710: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1710: Test 3.6 -> Profile 18HU18051_1710 outside TS Monthly Climatology polygons
+18HU18051_1710: Test 3.6 -> Profile 18HU18051_1710 outside Monthly Nutrient Climatology polygons
+18HU18051_1699: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1699: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1699: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1699: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1699: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1699: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1699: Test 3.6 -> Profile 18HU18051_1699 outside TS Monthly Climatology polygons
+18HU18051_1699: Test 3.6 -> Profile 18HU18051_1699 outside Monthly Nutrient Climatology polygons
+18HU18051_1700: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1700: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1700: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1700: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1700: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1700: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1700: Test 3.6 -> Profile 18HU18051_1700 outside TS Monthly Climatology polygons
+18HU18051_1700: Test 3.6 -> Profile 18HU18051_1700 outside Monthly Nutrient Climatology polygons
+18HU18051_1701: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1701: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1701: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1701: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1701: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1701: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1701: Test 3.6 -> Profile 18HU18051_1701 outside TS Monthly Climatology polygons
+18HU18051_1701: Test 3.6 -> Profile 18HU18051_1701 outside Monthly Nutrient Climatology polygons
+18HU18051_1702: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1702: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1702: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1702: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1702: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1702: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1702: Test 3.6 -> Profile 18HU18051_1702 outside TS Monthly Climatology polygons
+18HU18051_1702: Test 3.6 -> Profile 18HU18051_1702 outside Monthly Nutrient Climatology polygons
+18HU18051_1703: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1703: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1703: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1703: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1703: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1703: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1703: Test 3.6 -> Profile 18HU18051_1703 outside TS Monthly Climatology polygons
+18HU18051_1703: Test 3.6 -> Profile 18HU18051_1703 outside Monthly Nutrient Climatology polygons
+18HU18051_1704: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1704: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1704: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1704: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1704: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1704: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1704: Test 3.6 -> Profile 18HU18051_1704 outside TS Monthly Climatology polygons
+18HU18051_1704: Test 3.6 -> Profile 18HU18051_1704 outside Monthly Nutrient Climatology polygons
+18HU18051_1705: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1705: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1705: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1705: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1705: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1705: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1705: Test 3.6 -> Profile 18HU18051_1705 outside TS Monthly Climatology polygons
+18HU18051_1705: Test 3.6 -> Profile 18HU18051_1705 outside Monthly Nutrient Climatology polygons
+18HU18051_1706: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1706: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1706: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU18051_1706: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1706: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1706: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU18051_1706: Test 3.6 -> Profile 18HU18051_1706 outside TS Monthly Climatology polygons
+18HU18051_1706: Test 3.6 -> Profile 18HU18051_1706 outside Monthly Nutrient Climatology polygons

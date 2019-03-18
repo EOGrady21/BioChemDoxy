@@ -1,0 +1,136 @@
+Test 1.6 -> No known depth for 18TL16003_002
+Test 1.6 -> No known depth for 18TL16003_113
+Test 1.6 -> No known depth for 18TL16003_225
+Test 1.6 -> No known depth for 18TL16003_264
+Test 1.6 -> No known depth for 18TL16003_284
+Test 1.6 -> No known depth for 18TL16003_326
+Test 1.6 -> No known depth for 18TL16003_339
+Test 1.6 -> No known depth for 18TL16003_003
+Test 1.6 -> No known depth for 18TL16003_025
+Test 1.6 -> No known depth for 18TL16003_036
+Test 1.6 -> No known depth for 18TL16003_047
+Test 1.6 -> No known depth for 18TL16003_069
+Test 1.6 -> No known depth for 18TL16003_080
+Test 1.6 -> No known depth for 18TL16003_091
+Test 1.6 -> No known depth for 18TL16003_114
+Test 1.6 -> No known depth for 18TL16003_127
+Test 1.6 -> No known depth for 18TL16003_138
+Test 1.6 -> No known depth for 18TL16003_149
+Test 1.6 -> No known depth for 18TL16003_160
+Test 1.6 -> No known depth for 18TL16003_171
+Test 1.6 -> No known depth for 18TL16003_182
+Test 1.6 -> No known depth for 18TL16003_193
+Test 1.6 -> No known depth for 18TL16003_204
+Test 1.6 -> No known depth for 18TL16003_215
+Test 1.6 -> No known depth for 18TL16003_237
+Test 1.6 -> No known depth for 18TL16003_243
+Test 1.6 -> No known depth for 18TL16003_244
+Test 1.6 -> No known depth for 18TL16003_247
+Test 1.6 -> No known depth for 18TL16003_253
+Test 1.6 -> No known depth for 18TL16003_257
+Test 1.6 -> No known depth for 18TL16003_261
+Test 1.6 -> No known depth for 18TL16003_263
+Test 1.6 -> No known depth for 18TL16003_275
+Test 1.6 -> No known depth for 18TL16003_276
+Test 1.6 -> No known depth for 18TL16003_277
+Test 1.6 -> No known depth for 18TL16003_279
+Test 1.6 -> No known depth for 18TL16003_280
+Test 1.6 -> No known depth for 18TL16003_281
+Test 1.6 -> No known depth for 18TL16003_282
+Test 1.6 -> No known depth for 18TL16003_283
+Test 1.6 -> No known depth for 18TL16003_295
+Test 1.6 -> No known depth for 18TL16003_296
+Test 1.6 -> No known depth for 18TL16003_297
+Test 1.6 -> No known depth for 18TL16003_298
+Test 1.6 -> No known depth for 18TL16003_299
+Test 1.6 -> No known depth for 18TL16003_300
+Test 1.6 -> No known depth for 18TL16003_302
+Test 1.6 -> No known depth for 18TL16003_303
+Test 1.6 -> No known depth for 18TL16003_306
+Test 1.6 -> No known depth for 18TL16003_307
+Test 1.6 -> No known depth for 18TL16003_308
+Test 1.6 -> No known depth for 18TL16003_310
+Test 1.6 -> No known depth for 18TL16003_311
+Test 1.6 -> No known depth for 18TL16003_312
+Test 1.6 -> No known depth for 18TL16003_313
+Test 1.6 -> No known depth for 18TL16003_314
+Test 1.6 -> No known depth for 18TL16003_316
+Test 1.6 -> No known depth for 18TL16003_317
+Test 1.6 -> No known depth for 18TL16003_318
+Test 1.6 -> No known depth for 18TL16003_319
+Test 1.6 -> No known depth for 18TL16003_320
+Test 1.6 -> No known depth for 18TL16003_321
+Test 1.6 -> No known depth for 18TL16003_322
+Test 1.6 -> No known depth for 18TL16003_324
+Test 1.6 -> No known depth for 18TL16003_325
+Test 1.6 -> No known depth for 18TL16003_328
+Test 1.6 -> No known depth for 18TL16003_330
+Test 1.6 -> No known depth for 18TL16003_333
+18TL16003_002: Test 3.5 -> psal in box(es) 22 is out of TS Climatology by more than 3*std at 100.0 m
+18TL16003_002: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 109.8 m
+18TL16003_002: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 109.8 m
+18TL16003_113: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 5.4 m
+18TL16003_113: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 24.5 m
+18TL16003_225: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 50.9 m
+18TL16003_003: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 211.4 m
+18TL16003_036: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 179.9 m
+18TL16003_036: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 50.8 m
+18TL16003_047: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 4.8 m
+18TL16003_047: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 25.4 m
+18TL16003_047: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 50.2 m
+18TL16003_069: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 4.6 m
+18TL16003_069: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 24.7 m
+18TL16003_069: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 51.6 m
+18TL16003_127: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 100.8 m
+18TL16003_127: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 6.2 m
+18TL16003_127: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 25.1 m
+18TL16003_138: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 6.0 m
+18TL16003_138: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 26.3 m
+18TL16003_138: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 50.1 m
+18TL16003_160: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 4.7 m
+18TL16003_160: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 4.7 m
+18TL16003_160: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 123.9 m
+18TL16003_160: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 24.9 m
+18TL16003_160: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 50.9 m
+18TL16003_160: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 123.9 m
+18TL16003_171: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 5.7 m
+18TL16003_171: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 25.9 m
+18TL16003_171: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 50.7 m
+18TL16003_182: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 4.8 m
+18TL16003_182: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 25.8 m
+18TL16003_182: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 50.0 m
+18TL16003_215: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 4.6 m
+18TL16003_215: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 25.1 m
+18TL16003_237: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 4.8 m
+18TL16003_243: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 4.9 m
+18TL16003_243: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 25.8 m
+18TL16003_244: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 5.5 m
+18TL16003_244: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 25.6 m
+18TL16003_244: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 152.0 m
+18TL16003_247: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 5.0 m
+18TL16003_247: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 24.4 m
+18TL16003_253: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 109.4 m
+18TL16003_310: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 24.8 m
+18TL16003_311: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.4 m
+18TL16003_311: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.4 m
+18TL16003_312: Test 3.5 -> Profile 18TL16003_312 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18TL16003_312: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.3 m
+18TL16003_312: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.3 m
+18TL16003_312: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 5.0 m
+18TL16003_313: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.2 m
+18TL16003_313: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.2 m
+18TL16003_314: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 24.9 m
+18TL16003_314: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 24.9 m
+18TL16003_316: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.9 m
+18TL16003_316: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.9 m
+18TL16003_317: Test 3.5 -> psal in box(es) 55 is out of TS Climatology by more than 3*std at 75.0 m
+18TL16003_317: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 24.4 m
+18TL16003_317: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 24.4 m
+18TL16003_318: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 26.1 m
+18TL16003_319: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 24.4 m
+18TL16003_320: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 24.9 m
+18TL16003_320: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 104.0 m
+18TL16003_321: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.2 m
+18TL16003_330: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 50.3 m
+18TL16003_330: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 109.4 m
+18TL16003_333: Test 3.5 -> psal in box(es) 14 is out of TS Climatology by more than 3*std at 0.0 m

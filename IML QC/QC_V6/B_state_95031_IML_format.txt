@@ -1,0 +1,12 @@
+18NE95031_451: Test 3.6 -> Profile 18NE95031_451 outside TS Monthly Climatology polygons
+18NE95031_451: Test 3.6 -> Profile 18NE95031_451 outside Monthly Nutrient Climatology polygons
+18NE95031_447: Test 3.5 -> Profile 18NE95031_447 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NE95031_447: Test 3.6 -> Profile 18NE95031_447 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NE95031_447: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 322.6 m
+18NE95031_448: Test 3.5 -> Profile 18NE95031_448 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NE95031_448: Test 3.6 -> Profile 18NE95031_448 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NE95031_449: Test 3.6 -> Profile 18NE95031_449 outside TS Monthly Climatology polygons
+18NE95031_449: Test 3.6 -> Profile 18NE95031_449 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NE95031_449: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 49.7 m
+18NE95031_450: Test 3.5 -> Profile 18NE95031_450 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NE95031_450: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 416.1 m

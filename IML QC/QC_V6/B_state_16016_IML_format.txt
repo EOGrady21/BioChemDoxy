@@ -1,0 +1,244 @@
+Test 1.6 -> No known depth for 18NE16016_002
+Test 1.6 -> No known depth for 18NE16016_264
+Test 1.6 -> No known depth for 18NE16016_304
+Test 1.6 -> No known depth for 18NE16016_315
+Test 1.6 -> No known depth for 18NE16016_326
+Test 1.6 -> No known depth for 18NE16016_339
+Test 1.6 -> No known depth for 18NE16016_003
+Test 1.6 -> No known depth for 18NE16016_014
+Test 1.6 -> No known depth for 18NE16016_025
+Test 1.6 -> No known depth for 18NE16016_036
+Test 1.6 -> No known depth for 18NE16016_047
+Test 1.6 -> No known depth for 18NE16016_069
+Test 1.6 -> No known depth for 18NE16016_091
+Test 1.6 -> No known depth for 18NE16016_102
+Test 1.6 -> No known depth for 18NE16016_114
+Test 1.6 -> No known depth for 18NE16016_127
+Test 1.6 -> No known depth for 18NE16016_138
+Test 1.6 -> No known depth for 18NE16016_149
+Test 1.6 -> No known depth for 18NE16016_160
+Test 1.6 -> No known depth for 18NE16016_182
+Test 1.6 -> No known depth for 18NE16016_193
+Test 1.6 -> No known depth for 18NE16016_215
+Test 1.6 -> No known depth for 18NE16016_226
+Test 1.6 -> No known depth for 18NE16016_237
+Test 1.6 -> No known depth for 18NE16016_239
+Test 1.6 -> No known depth for 18NE16016_243
+Test 1.6 -> No known depth for 18NE16016_244
+Test 1.6 -> No known depth for 18NE16016_247
+Test 1.6 -> No known depth for 18NE16016_253
+Test 1.6 -> No known depth for 18NE16016_257
+Test 1.6 -> No known depth for 18NE16016_263
+Test 1.6 -> No known depth for 18NE16016_265
+Test 1.6 -> No known depth for 18NE16016_275
+Test 1.6 -> No known depth for 18NE16016_276
+Test 1.6 -> No known depth for 18NE16016_277
+Test 1.6 -> No known depth for 18NE16016_279
+Test 1.6 -> No known depth for 18NE16016_280
+Test 1.6 -> No known depth for 18NE16016_281
+Test 1.6 -> No known depth for 18NE16016_282
+Test 1.6 -> No known depth for 18NE16016_283
+Test 1.6 -> No known depth for 18NE16016_285
+Test 1.6 -> No known depth for 18NE16016_295
+Test 1.6 -> No known depth for 18NE16016_297
+Test 1.6 -> No known depth for 18NE16016_298
+Test 1.6 -> No known depth for 18NE16016_299
+Test 1.6 -> No known depth for 18NE16016_300
+Test 1.6 -> No known depth for 18NE16016_302
+Test 1.6 -> No known depth for 18NE16016_303
+Test 1.6 -> No known depth for 18NE16016_305
+Test 1.6 -> No known depth for 18NE16016_306
+Test 1.6 -> No known depth for 18NE16016_308
+Test 1.6 -> No known depth for 18NE16016_309
+Test 1.6 -> No known depth for 18NE16016_310
+Test 1.6 -> No known depth for 18NE16016_311
+Test 1.6 -> No known depth for 18NE16016_314
+Test 1.6 -> No known depth for 18NE16016_317
+Test 1.6 -> No known depth for 18NE16016_318
+Test 1.6 -> No known depth for 18NE16016_319
+Test 1.6 -> No known depth for 18NE16016_320
+Test 1.6 -> No known depth for 18NE16016_321
+Test 1.6 -> No known depth for 18NE16016_322
+Test 1.6 -> No known depth for 18NE16016_323
+Test 1.6 -> No known depth for 18NE16016_324
+Test 1.6 -> No known depth for 18NE16016_325
+Test 1.6 -> No known depth for 18NE16016_327
+Test 1.6 -> No known depth for 18NE16016_328
+Test 1.6 -> No known depth for 18NE16016_329
+Test 1.6 -> No known depth for 18NE16016_330
+Test 1.6 -> No known depth for 18NE16016_334
+Test 1.6 -> No known depth for 18NE16016_335
+Test 1.6 -> No known depth for 18NE16016_337
+Test 1.6 -> No known depth for 18NE16016_338
+Test 1.6 -> No known depth for 18NE16016_340
+Test 1.6 -> No known depth for 18NE16016_354
+Test 1.6 -> No known depth for 18NE16016_369
+Test 1.6 -> No known depth for 18NE16016_370
+Test 1.6 -> No known depth for 18NE16016_371
+Test 1.6 -> No known depth for 18NE16016_389
+Test 1.6 -> No known depth for 18NE16016_407
+Test 1.6 -> No known depth for 18NE16016_409
+Test 1.6 -> No known depth for 18NE16016_004
+Test 1.6 -> No known depth for 18NE16016_006
+Test 1.6 -> No known depth for 18NE16016_009
+Test 1.6 -> No known depth for 18NE16016_010
+Test 1.6 -> No known depth for 18NE16016_011
+Test 1.6 -> No known depth for 18NE16016_012
+Test 1.6 -> No known depth for 18NE16016_015
+Test 1.6 -> No known depth for 18NE16016_016
+Test 1.6 -> No known depth for 18NE16016_017
+Test 1.6 -> No known depth for 18NE16016_018
+Test 1.6 -> No known depth for 18NE16016_019
+Test 1.6 -> No known depth for 18NE16016_020
+Test 1.6 -> No known depth for 18NE16016_021
+Test 1.6 -> No known depth for 18NE16016_022
+Test 1.6 -> No known depth for 18NE16016_023
+Test 1.6 -> No known depth for 18NE16016_026
+Test 1.6 -> No known depth for 18NE16016_027
+Test 1.6 -> No known depth for 18NE16016_029
+Test 1.6 -> No known depth for 18NE16016_068
+Test 1.6 -> No known depth for 18NE16016_075
+Test 1.6 -> No known depth for 18NE16016_076
+Test 1.6 -> No known depth for 18NE16016_077
+Test 1.6 -> No known depth for 18NE16016_078
+Test 1.6 -> No known depth for 18NE16016_079
+Test 1.6 -> No known depth for 18NE16016_081
+Test 1.6 -> No known depth for 18NE16016_082
+Test 1.6 -> No known depth for 18NE16016_083
+Test 1.6 -> No known depth for 18NE16016_085
+Test 1.6 -> No known depth for 18NE16016_086
+Test 1.6 -> No known depth for 18NE16016_087
+Test 1.6 -> No known depth for 18NE16016_088
+Test 1.6 -> No known depth for 18NE16016_089
+Test 1.6 -> No known depth for 18NE16016_090
+Test 1.6 -> No known depth for 18NE16016_093
+Test 1.6 -> No known depth for 18NE16016_094
+Test 1.6 -> No known depth for 18NE16016_095
+Test 1.6 -> No known depth for 18NE16016_097
+Test 1.6 -> No known depth for 18NE16016_098
+Test 1.6 -> No known depth for 18NE16016_099
+Test 1.6 -> No known depth for 18NE16016_100
+Test 1.6 -> No known depth for 18NE16016_101
+Test 1.6 -> No known depth for 18NE16016_103
+Test 1.6 -> No known depth for 18NE16016_104
+Test 1.6 -> No known depth for 18NE16016_105
+Test 1.6 -> No known depth for 18NE16016_106
+Test 1.6 -> No known depth for 18NE16016_107
+Test 1.6 -> No known depth for 18NE16016_108
+Test 1.6 -> No known depth for 18NE16016_111
+Test 1.6 -> No known depth for 18NE16016_112
+Test 1.6 -> No known depth for 18NE16016_118
+Test 1.6 -> No known depth for 18NE16016_119
+Test 1.6 -> No known depth for 18NE16016_120
+Test 1.6 -> No known depth for 18NE16016_121
+Test 1.6 -> No known depth for 18NE16016_122
+Test 1.6 -> No known depth for 18NE16016_123
+Test 1.6 -> No known depth for 18NE16016_124
+Test 1.6 -> No known depth for 18NE16016_125
+Test 1.6 -> No known depth for 18NE16016_126
+Test 1.6 -> No known depth for 18NE16016_128
+Test 1.6 -> No known depth for 18NE16016_129
+Test 1.6 -> No known depth for 18NE16016_130
+Test 1.6 -> No known depth for 18NE16016_131
+Test 1.6 -> No known depth for 18NE16016_133
+Test 1.6 -> No known depth for 18NE16016_134
+Test 1.6 -> No known depth for 18NE16016_135
+Test 1.6 -> No known depth for 18NE16016_136
+Test 1.6 -> No known depth for 18NE16016_137
+Test 1.6 -> No known depth for 18NE16016_139
+Test 1.6 -> No known depth for 18NE16016_140
+Test 1.6 -> No known depth for 18NE16016_141
+Test 1.6 -> No known depth for 18NE16016_142
+Test 1.6 -> No known depth for 18NE16016_143
+Test 1.6 -> No known depth for 18NE16016_145
+Test 1.6 -> No known depth for 18NE16016_146
+Test 1.6 -> No known depth for 18NE16016_148
+Test 1.6 -> No known depth for 18NE16016_150
+Test 1.6 -> No known depth for 18NE16016_152
+Test 1.6 -> No known depth for 18NE16016_153
+Test 1.6 -> No known depth for 18NE16016_155
+Test 1.6 -> No known depth for 18NE16016_157
+Test 1.6 -> No known depth for 18NE16016_159
+Test 1.6 -> No known depth for 18NE16016_162
+Test 1.6 -> No known depth for 18NE16016_163
+Test 1.6 -> No known depth for 18NE16016_164
+Test 1.6 -> No known depth for 18NE16016_165
+Test 1.6 -> No known depth for 18NE16016_166
+Test 1.6 -> No known depth for 18NE16016_167
+Test 1.6 -> No known depth for 18NE16016_168
+Test 1.6 -> No known depth for 18NE16016_169
+Test 1.6 -> No known depth for 18NE16016_170
+Test 1.6 -> No known depth for 18NE16016_172
+Test 1.6 -> No known depth for 18NE16016_173
+Test 1.6 -> No known depth for 18NE16016_174
+Test 1.6 -> No known depth for 18NE16016_175
+Test 1.6 -> No known depth for 18NE16016_177
+Test 1.6 -> No known depth for 18NE16016_178
+Test 1.6 -> No known depth for 18NE16016_179
+Test 1.6 -> No known depth for 18NE16016_181
+Test 1.6 -> No known depth for 18NE16016_183
+Test 1.6 -> No known depth for 18NE16016_184
+Test 1.6 -> No known depth for 18NE16016_185
+Test 1.6 -> No known depth for 18NE16016_186
+Test 1.6 -> No known depth for 18NE16016_187
+Test 1.6 -> No known depth for 18NE16016_188
+Test 1.6 -> No known depth for 18NE16016_189
+Test 1.6 -> No known depth for 18NE16016_190
+Test 1.6 -> No known depth for 18NE16016_191
+Test 1.6 -> No known depth for 18NE16016_194
+Test 1.6 -> No known depth for 18NE16016_195
+Test 1.6 -> No known depth for 18NE16016_196
+Test 1.6 -> No known depth for 18NE16016_197
+Test 1.6 -> No known depth for 18NE16016_198
+Test 1.6 -> No known depth for 18NE16016_200
+Test 1.6 -> No known depth for 18NE16016_201
+Test 1.6 -> No known depth for 18NE16016_202
+Test 1.6 -> No known depth for 18NE16016_203
+Test 1.6 -> No known depth for 18NE16016_205
+Test 1.6 -> No known depth for 18NE16016_207
+Test 1.6 -> No known depth for 18NE16016_208
+Test 1.6 -> No known depth for 18NE16016_209
+Test 1.6 -> No known depth for 18NE16016_210
+Test 1.6 -> No known depth for 18NE16016_211
+Test 1.6 -> No known depth for 18NE16016_212
+Test 1.6 -> No known depth for 18NE16016_213
+Test 1.6 -> No known depth for 18NE16016_214
+Test 1.6 -> No known depth for 18NE16016_216
+Test 1.6 -> No known depth for 18NE16016_217
+Test 1.6 -> No known depth for 18NE16016_218
+Test 1.6 -> No known depth for 18NE16016_219
+Test 1.6 -> No known depth for 18NE16016_220
+Test 1.6 -> No known depth for 18NE16016_221
+Test 1.6 -> No known depth for 18NE16016_222
+Test 1.6 -> No known depth for 18NE16016_223
+Test 1.6 -> No known depth for 18NE16016_224
+18NE16016_014: Test 3.5 -> psal in box(es) 16 is out of TS Climatology by more than 3*std at 100.0 m
+18NE16016_299: Test 3.5 -> Profile 18NE16016_299 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NE16016_305: Test 3.5 -> Profile 18NE16016_305 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NE16016_308: Test 3.5 -> Profile 18NE16016_308 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NE16016_046: Test 3.6 -> phos in box(es) 6 is out of Nutrient Climatology at 291.0 m
+18NE16016_052: Test 3.6 -> phos in box(es) 6 is out of Nutrient Climatology at 331.8 m
+18NE16016_054: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 100.1 m
+18NE16016_054: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 100.1 m
+18NE16016_056: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 100.3 m
+18NE16016_056: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 100.3 m
+18NE16016_129: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 112.1 m
+18NE16016_130: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 113.0 m
+18NE16016_130: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 113.0 m
+18NE16016_131: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 4.1 m
+18NE16016_131: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.6 m
+18NE16016_131: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 51.1 m
+18NE16016_134: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 113.3 m
+18NE16016_134: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 113.3 m
+18NE16016_139: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 5.0 m
+18NE16016_140: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 5.2 m
+18NE16016_148: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.3 m
+18NE16016_148: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 145.0 m
+18NE16016_155: Test 3.5 -> psal in box(es) 11 is out of TS Climatology by more than 3*std at 100.0 m
+18NE16016_162: Test 3.5 -> psal in box(es) 10 is out of TS Climatology by more than 3*std at 150.0 m
+18NE16016_198: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 250.0 m
+18NE16016_198: Test 3.6 -> phos in box(es) 6 is out of Nutrient Climatology at 101.0 m
+18NE16016_213: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 5.1 m
+18NE16016_214: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 4.4 m
+18NE16016_219: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 200.0 m
+18NE16016_222: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 126.7 m

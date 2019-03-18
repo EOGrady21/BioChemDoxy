@@ -1,0 +1,117 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18NA95908_002; 5.00; 152203; doxy; 264.39  ; Global Impossible Parameter Value
+18NA95908_002; 25.00; 152202; phos; 18.82  ; Global Impossible Parameter Value
+18NA95908_002; 44.00; 152201; phos; 24.30  ; Global Impossible Parameter Value
+18NA95908_002; 5.00; 152203; doxy; 264.39  ; Regional Impossible Parameter Value
+18NA95908_002; 25.00; 152202; phos; 18.82  ; Regional Impossible Parameter Value
+18NA95908_002; 44.00; 152201; phos; 24.30  ; Regional Impossible Parameter Value
+18NA95908_002; 25.00; 152202; doxy; 0.00  ; Constant profile problem
+18NA95908_002; 44.00; 152201; doxy; 0.00  ; Constant profile problem
+18NA95908_002; 5.00 to 5.00; 152203, 152244; ntrz; 0.28  0.00  ; Gradient or Inversion too high
+18NA95908_002; 5.00 to 5.00; 152203, 152244; phos; 0.39  0.29  ; Gradient or Inversion too high
+18NA95908_113; 1.00; 152205; doxy; 277.34  ; Global Impossible Parameter Value
+18NA95908_113; 5.00; 152204; doxy; 274.21  ; Global Impossible Parameter Value
+18NA95908_113; 1.00; 152205; doxy; 277.34  ; Regional Impossible Parameter Value
+18NA95908_113; 5.00; 152204; doxy; 274.21  ; Regional Impossible Parameter Value
+18NA95908_225; 5.00; 152208; doxy; 268.41  ; Global Impossible Parameter Value
+18NA95908_225; 19.00; 152207; doxy; 192.04  ; Global Impossible Parameter Value
+18NA95908_225; 30.00; 152206; doxy; 141.13  ; Global Impossible Parameter Value
+18NA95908_225; 5.00; 152208; doxy; 268.41  ; Regional Impossible Parameter Value
+18NA95908_225; 19.00; 152207; doxy; 192.04  ; Regional Impossible Parameter Value
+18NA95908_225; 30.00; 152206; doxy; 141.13  ; Regional Impossible Parameter Value
+18NA95908_225; 5.00 to 5.00; 152208, 152245; ntrz; 0.20  0.00  ; Gradient or Inversion too high
+18NA95908_225; 30.00 to 30.00; 152206, 152247; ntrz; 9.90  12.49  ; Gradient or Inversion too high
+18NA95908_225; 5.00 to 5.00; 152208, 152245; phos; 0.23  0.20  ; Gradient or Inversion too high
+18NA95908_225; 30.00 to 30.00; 152206, 152247; phos; 1.82  2.11  ; Gradient or Inversion too high
+18NA95908_264; 5.00; 152210; doxy; 269.30  ; Global Impossible Parameter Value
+18NA95908_264; 13.00; 152209; doxy; 189.36  ; Global Impossible Parameter Value
+18NA95908_264; 5.00; 152210; doxy; 269.30  ; Regional Impossible Parameter Value
+18NA95908_264; 13.00; 152209; doxy; 189.36  ; Regional Impossible Parameter Value
+18NA95908_284; 5.00; 152212; doxy; 280.46  ; Global Impossible Parameter Value
+18NA95908_284; 9.00; 152211; doxy; 229.11  ; Global Impossible Parameter Value
+18NA95908_284; 5.00; 152212; doxy; 280.46  ; Regional Impossible Parameter Value
+18NA95908_284; 9.00; 152211; doxy; 229.11  ; Regional Impossible Parameter Value
+18NA95908_284; 5.00 to 5.00; 152212, 152248; ntrz; 0.18  0.03  ; Gradient or Inversion too high
+18NA95908_284; 5.00 to 5.00; 152212, 152248; phos; 0.16  0.17  ; Gradient or Inversion too high
+18NA95908_304; 5.00; 152214; doxy; 275.11  ; Global Impossible Parameter Value
+18NA95908_304; 9.00; 152213; doxy; 259.03  ; Global Impossible Parameter Value
+18NA95908_304; 5.00; 152214; doxy; 275.11  ; Regional Impossible Parameter Value
+18NA95908_304; 9.00; 152213; doxy; 259.03  ; Regional Impossible Parameter Value
+18NA95908_304; 5.00; 152214; ntrz; 0.00  ; Constant profile problem
+18NA95908_304; 9.00; 152213; ntrz; 0.00  ; Constant profile problem
+18NA95908_315; 5.00; 152216; doxy; 274.21  ; Global Impossible Parameter Value
+18NA95908_315; 10.00; 152215; doxy; 238.04  ; Global Impossible Parameter Value
+18NA95908_315; 5.00; 152216; doxy; 274.21  ; Regional Impossible Parameter Value
+18NA95908_315; 10.00; 152215; doxy; 238.04  ; Regional Impossible Parameter Value
+18NA95908_315; 10.00 to 10.00; 152215, 152250; ntrz; 0.07  0.05  ; Gradient or Inversion too high
+18NA95908_315; 10.00 to 10.00; 152215, 152250; phos; 0.43  0.46  ; Gradient or Inversion too high
+18NA95908_326; 5.00; 152218; doxy; 274.21  ; Global Impossible Parameter Value
+18NA95908_326; 9.00; 152217; doxy; 245.18  ; Global Impossible Parameter Value
+18NA95908_326; 5.00; 152218; doxy; 274.21  ; Regional Impossible Parameter Value
+18NA95908_326; 9.00; 152217; doxy; 245.18  ; Regional Impossible Parameter Value
+18NA95908_326; 9.00 to 9.00; 152217, 152251; ntrz; 0.06  0.00  ; Gradient or Inversion too high
+18NA95908_326; 9.00 to 9.00; 152217, 152251; phos; 0.25  0.24  ; Gradient or Inversion too high
+18NA95908_339; 5.00; 152220; doxy; 277.34  ; Global Impossible Parameter Value
+18NA95908_339; 9.00; 152219; doxy; 273.32  ; Global Impossible Parameter Value
+18NA95908_339; 5.00; 152220; doxy; 277.34  ; Regional Impossible Parameter Value
+18NA95908_339; 9.00; 152219; doxy; 273.32  ; Regional Impossible Parameter Value
+18NA95908_339; 5.00 to 5.00; 152220, 152254; ntrz; 0.00  0.17  ; Gradient or Inversion too high
+18NA95908_339; 5.00 to 5.00; 152220, 152254; phos; 0.17  0.05  ; Gradient or Inversion too high
+18NA95908_003; 5.00; 152222; doxy; 278.23  ; Global Impossible Parameter Value
+18NA95908_003; 20.00; 152221; doxy; 223.30  ; Global Impossible Parameter Value
+18NA95908_003; 5.00; 152222; doxy; 278.23  ; Regional Impossible Parameter Value
+18NA95908_003; 20.00; 152221; doxy; 223.30  ; Regional Impossible Parameter Value
+18NA95908_014; 7.00; 152225; doxy; 277.34  ; Global Impossible Parameter Value
+18NA95908_014; 25.00; 152224; doxy; 247.42  ; Global Impossible Parameter Value
+18NA95908_014; 75.00; 152223; doxy; 321.11  ; Global Impossible Parameter Value
+18NA95908_014; 7.00; 152225; doxy; 277.34  ; Regional Impossible Parameter Value
+18NA95908_014; 25.00; 152224; doxy; 247.42  ; Regional Impossible Parameter Value
+18NA95908_014; 75.00; 152223; doxy; 321.11  ; Regional Impossible Parameter Value
+18NA95908_014; 7.00 to 7.00; 152225, 152255; ntrz; 0.01  0.01  ; Gradient or Inversion too high
+18NA95908_014; 25.00 to 25.00; 152224, 152256; ntrz; 1.93  2.03  ; Gradient or Inversion too high
+18NA95908_014; 7.00 to 7.00; 152225, 152255; phos; 0.11  0.08  ; Gradient or Inversion too high
+18NA95908_014; 25.00 to 25.00; 152224, 152256; phos; 0.43  0.42  ; Gradient or Inversion too high
+18NA95908_025; 1.00; 152227; doxy; 279.13  ; Global Impossible Parameter Value
+18NA95908_025; 7.00; 152226; doxy; 255.01  ; Global Impossible Parameter Value
+18NA95908_025; 1.00; 152227; doxy; 279.13  ; Regional Impossible Parameter Value
+18NA95908_025; 7.00; 152226; doxy; 255.01  ; Regional Impossible Parameter Value
+18NA95908_025; 7.00 to 7.00; 152226, 152258; ntrz; 0.41  0.06  ; Gradient or Inversion too high
+18NA95908_025; 7.00 to 7.00; 152226, 152258; phos; 0.28  0.27  ; Gradient or Inversion too high
+18NA95908_036; 1.00; 152229; doxy; 274.21  ; Global Impossible Parameter Value
+18NA95908_036; 5.00; 152228; doxy; 267.07  ; Global Impossible Parameter Value
+18NA95908_036; 1.00; 152229; doxy; 274.21  ; Regional Impossible Parameter Value
+18NA95908_036; 5.00; 152228; doxy; 267.07  ; Regional Impossible Parameter Value
+18NA95908_036; 5.00 to 5.00; 152228, 152260; ntrz; 0.00  0.02  ; Gradient or Inversion too high
+18NA95908_036; 5.00 to 5.00; 152228, 152260; phos; 0.18  0.15  ; Gradient or Inversion too high
+18NA95908_047; 3.00; 152230; doxy; 270.19  ; Global Impossible Parameter Value
+18NA95908_047; 3.00; 152230; doxy; 270.19  ; Regional Impossible Parameter Value
+18NA95908_047; 3.00; 152230; ntrz; 0.00  ; Constant profile problem
+18NA95908_047; 3.00; 152259; ntrz; 0.00  ; Constant profile problem
+18NA95908_047; 3.00 to 3.00; 152230, 152259; phos; 0.16  0.15  ; Gradient or Inversion too high
+18NA95908_058; 5.00; 152232; doxy; 286.27  ; Global Impossible Parameter Value
+18NA95908_058; 20.00; 152231; doxy; 265.28  ; Global Impossible Parameter Value
+18NA95908_058; 5.00; 152232; doxy; 286.27  ; Regional Impossible Parameter Value
+18NA95908_058; 20.00; 152231; doxy; 265.28  ; Regional Impossible Parameter Value
+18NA95908_069; 5.00; 152234; doxy; 287.16  ; Global Impossible Parameter Value
+18NA95908_069; 20.00; 152233; doxy; 273.32  ; Global Impossible Parameter Value
+18NA95908_069; 5.00; 152234; doxy; 287.16  ; Regional Impossible Parameter Value
+18NA95908_069; 20.00; 152233; doxy; 273.32  ; Regional Impossible Parameter Value
+18NA95908_080; 5.00; 152237; doxy; 283.14  ; Global Impossible Parameter Value
+18NA95908_080; 20.00; 152236; doxy; 268.41  ; Global Impossible Parameter Value
+18NA95908_080; 75.00; 152235; doxy; 287.16  ; Global Impossible Parameter Value
+18NA95908_080; 5.00; 152237; doxy; 283.14  ; Regional Impossible Parameter Value
+18NA95908_080; 20.00; 152236; doxy; 268.41  ; Regional Impossible Parameter Value
+18NA95908_080; 75.00; 152235; doxy; 287.16  ; Regional Impossible Parameter Value
+18NA95908_080; 5.00 to 5.00; 152237, 152263; phos; 0.13  0.10  ; Gradient or Inversion too high
+18NA95908_091; 5.00; 152239; doxy; 282.25  ; Global Impossible Parameter Value
+18NA95908_091; 20.00; 152238; doxy; 252.33  ; Global Impossible Parameter Value
+18NA95908_091; 5.00; 152239; doxy; 282.25  ; Regional Impossible Parameter Value
+18NA95908_091; 20.00; 152238; doxy; 252.33  ; Regional Impossible Parameter Value
+18NA95908_102; 5.00; 152241; doxy; 282.25  ; Global Impossible Parameter Value
+18NA95908_102; 20.00; 152240; doxy; 264.39  ; Global Impossible Parameter Value
+18NA95908_102; 5.00; 152241; doxy; 282.25  ; Regional Impossible Parameter Value
+18NA95908_102; 20.00; 152240; doxy; 264.39  ; Regional Impossible Parameter Value
+18NA95908_114; 5.00; 152243; doxy; 267.07  ; Global Impossible Parameter Value
+18NA95908_114; 20.00; 152242; doxy; 260.37  ; Global Impossible Parameter Value
+18NA95908_114; 5.00; 152243; doxy; 267.07  ; Regional Impossible Parameter Value
+18NA95908_114; 20.00; 152242; doxy; 260.37  ; Regional Impossible Parameter Value

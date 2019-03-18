@@ -1,0 +1,796 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18HU14030 FLAG Report:,  2019-03-15 11:08:15
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged NITRATE, event 100, station STAB_05:
+
+           sample_key  depth value        method qc
+ 18HU14030_004_405410   2.52  0.00 NO2NO3_Tech_F  1
+ 18HU14030_004_405408   9.95  0.00 NO2NO3_Tech_F  1
+ 18HU14030_004_405407  20.28  0.26 NO2NO3_Tech_F  1
+ 18HU14030_004_405405  28.87  3.06 NO2NO3_Tech_F  1
+ 18HU14030_004_405404  40.24  3.36 NO2NO3_Tech_F  1
+ 18HU14030_004_405403  50.11  4.54 NO2NO3_Tech_F  1
+ 18HU14030_004_405402  60.03  6.34 NO2NO3_Tech_F  1
+ 18HU14030_004_405401  80.36  9.59 NO2NO3_Tech_F  1
+ 18HU14030_004_405399 100.17 12.90 NO2NO3_Tech_F  2
+ 18HU14030_004_405398 150.42 15.18 NO2NO3_Tech_F  1
+ 18HU14030_004_405397 200.06 17.42 NO2NO3_Tech_F  1
+ 18HU14030_004_405396 300.78 22.44 NO2NO3_Tech_F  1
+ 18HU14030_004_405394 364.75 21.33 NO2NO3_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 100, station STAB_05:
+
+           sample_key  depth value      method qc
+ 18HU14030_004_405410   2.52  0.26 SiO4_Tech_F  2
+ 18HU14030_004_405408   9.95  0.30 SiO4_Tech_F  2
+ 18HU14030_004_405407  20.28  0.62 SiO4_Tech_F  1
+ 18HU14030_004_405405  28.87  4.11 SiO4_Tech_F  2
+ 18HU14030_004_405404  40.24  2.54 SiO4_Tech_F  1
+ 18HU14030_004_405403  50.11  2.76 SiO4_Tech_F  1
+ 18HU14030_004_405402  60.03  3.82 SiO4_Tech_F  1
+ 18HU14030_004_405401  80.36  7.90 SiO4_Tech_F  1
+ 18HU14030_004_405399 100.17 13.04 SiO4_Tech_F  2
+ 18HU14030_004_405398 150.42 13.82 SiO4_Tech_F  1
+ 18HU14030_004_405397 200.06 13.46 SiO4_Tech_F  1
+ 18HU14030_004_405396 300.78 32.15 SiO4_Tech_F  1
+ 18HU14030_004_405394 364.75 32.11 SiO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 106, station CSL_02:
+
+           sample_key  depth value      method qc
+ 18HU14030_010_405449   2.19  0.30 SiO4_Tech_F  1
+ 18HU14030_010_405447  10.85  0.40 SiO4_Tech_F  1
+ 18HU14030_010_405446  20.50  0.70 SiO4_Tech_F  1
+ 18HU14030_010_405445  31.16  3.72 SiO4_Tech_F  1
+ 18HU14030_010_405444  41.27 11.66 SiO4_Tech_F  1
+ 18HU14030_010_405443  50.80 13.38 SiO4_Tech_F  2
+ 18HU14030_010_405442  60.04 14.52 SiO4_Tech_F  2
+ 18HU14030_010_405441  81.02 11.60 SiO4_Tech_F  1
+ 18HU14030_010_405440 100.63 10.99 SiO4_Tech_F  1
+ 18HU14030_010_405439 151.27 17.50 SiO4_Tech_F  1
+ 18HU14030_010_405438 181.23 19.30 SiO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 109, station CSL_03:
+
+           sample_key  depth value      method qc
+ 18HU14030_013_405463   2.48  1.06 SiO4_Tech_F  1
+ 18HU14030_013_405461  10.89  1.02 SiO4_Tech_F  1
+ 18HU14030_013_405460  20.95  1.32 SiO4_Tech_F  1
+ 18HU14030_013_405459  29.31  1.02 SiO4_Tech_F  1
+ 18HU14030_013_405458  40.73  8.70 SiO4_Tech_F  1
+ 18HU14030_013_405457  50.62 10.30 SiO4_Tech_F  1
+ 18HU14030_013_405456  61.24 10.10 SiO4_Tech_F  1
+ 18HU14030_013_405455  81.54  9.38 SiO4_Tech_F  1
+ 18HU14030_013_405454  99.94 10.80 SiO4_Tech_F  1
+ 18HU14030_013_405453 152.91 15.79 SiO4_Tech_F  1
+ 18HU14030_013_405452 200.95 18.33 SiO4_Tech_F  1
+ 18HU14030_013_405451 250.36 21.36 SiO4_Tech_F  1
+ 18HU14030_013_405450 329.36 26.84 SiO4_Tech_F  2
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 112, station CSL_04:
+
+           sample_key  depth value        method qc
+ 18HU14030_017_405482   2.60  0.00 NO2NO3_Tech_F  1
+ 18HU14030_017_405479  10.03  0.00 NO2NO3_Tech_F  1
+ 18HU14030_017_405478  21.05  1.49 NO2NO3_Tech_F  1
+ 18HU14030_017_405476  30.39  4.46 NO2NO3_Tech_F  1
+ 18HU14030_017_405475  39.44  5.00 NO2NO3_Tech_F  1
+ 18HU14030_017_405474  49.81  6.42 NO2NO3_Tech_F  1
+ 18HU14030_017_405473  59.56  7.38 NO2NO3_Tech_F  1
+ 18HU14030_017_405471  80.70 10.28 NO2NO3_Tech_F  1
+ 18HU14030_017_405470 100.19 11.40 NO2NO3_Tech_F  2
+ 18HU14030_017_405469 150.41 16.50 NO2NO3_Tech_F  1
+ 18HU14030_017_405468 200.44 17.26 NO2NO3_Tech_F  1
+ 18HU14030_017_405467 250.50 20.27 NO2NO3_Tech_F  1
+ 18HU14030_017_405466 300.21 22.05 NO2NO3_Tech_F  1
+ 18HU14030_017_405464 460.42 21.44 NO2NO3_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 121, station LL_02:
+
+           sample_key  depth value      method qc
+ 18HU14030_027_405541   2.84  0.00 SiO4_Tech_F  2
+ 18HU14030_027_405539  11.00  0.00 SiO4_Tech_F  2
+ 18HU14030_027_405538  19.98  0.24 SiO4_Tech_F  1
+ 18HU14030_027_405537  30.27  2.74 SiO4_Tech_F  1
+ 18HU14030_027_405536  40.98  2.68 SiO4_Tech_F  1
+ 18HU14030_027_405535  51.15  4.38 SiO4_Tech_F  1
+ 18HU14030_027_405534  61.49  6.00 SiO4_Tech_F  1
+ 18HU14030_027_405533  81.18 11.27 SiO4_Tech_F  1
+ 18HU14030_027_405532 100.16 13.34 SiO4_Tech_F  1
+ 18HU14030_027_405531 132.29 15.00 SiO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 123, station LL_03:
+
+           sample_key  depth value      method qc
+ 18HU14030_029_405552   2.32  0.06 SiO4_Tech_F  2
+ 18HU14030_029_405550   9.70  0.10 SiO4_Tech_F  2
+ 18HU14030_029_405549  19.94  0.72 SiO4_Tech_F  1
+ 18HU14030_029_405548  30.39  1.62 SiO4_Tech_F  1
+ 18HU14030_029_405547  40.40  2.94 SiO4_Tech_F  1
+ 18HU14030_029_405546  50.37  5.54 SiO4_Tech_F  1
+ 18HU14030_029_405545  60.88  8.23 SiO4_Tech_F  1
+ 18HU14030_029_405544  80.49  9.56 SiO4_Tech_F  1
+ 18HU14030_029_405543 100.71 12.37 SiO4_Tech_F  1
+ 18HU14030_029_405542 132.64 15.64 SiO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 127, station LL_04:
+
+           sample_key depth value      method qc
+ 18HU14030_033_405566  2.85  0.20 SiO4_Tech_F  2
+ 18HU14030_033_405563  9.57  0.21 SiO4_Tech_F  2
+ 18HU14030_033_405562 20.25  0.19 SiO4_Tech_F  2
+ 18HU14030_033_405560 29.97  1.42 SiO4_Tech_F  1
+ 18HU14030_033_405559 41.13  2.96 SiO4_Tech_F  1
+ 18HU14030_033_405557 50.23  5.72 SiO4_Tech_F  1
+ 18HU14030_033_405556 61.07  7.32 SiO4_Tech_F  1
+ 18HU14030_033_405555 80.09  8.55 SiO4_Tech_F  1
+ 18HU14030_033_405553 86.03  8.57 SiO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SALINITY, event 134, station LL_08:
+
+           sample_key depth.x Salinity_CTD qc.x depth.y Salinity_Sal_PSS qc.y
+ 18HU14030_041_405605 2905.38      34.9068    0 2905.38           34.924    1
+ 18HU14030_041_405606 2002.35      34.8483    0      NA               NA <NA>
+ 18HU14030_041_405607 1502.77      34.8755    0      NA               NA <NA>
+ 18HU14030_041_405608  999.10      34.8777    0      NA               NA <NA>
+ 18HU14030_041_405609  499.40      34.3270    0      NA               NA <NA>
+ 18HU14030_041_405610  252.04      33.7967    0  252.04           35.564    7
+ 18HU14030_041_405611  152.09      34.0614    0      NA               NA <NA>
+ 18HU14030_041_405612  100.68      34.3288    0      NA               NA <NA>
+ 18HU14030_041_405613   78.32      34.7712    0      NA               NA <NA>
+ 18HU14030_041_405614   60.49      34.8362    0      NA               NA <NA>
+ 18HU14030_041_405615   51.46      37.4255    0      NA               NA <NA>
+ 18HU14030_041_405616   40.41      37.3812    0      NA               NA <NA>
+ 18HU14030_041_405617   30.85      35.2734    0      NA               NA <NA>
+ 18HU14030_041_405618   19.22      32.6714    0      NA               NA <NA>
+ 18HU14030_041_405619   12.22      34.0389    0      NA               NA <NA>
+ 18HU14030_041_405620    3.14      34.5907    0      NA               NA <NA>
+ 18HU14030_041_405621    2.97      34.6669    0    2.97           33.417    7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event 134, station LL_08:
+
+           sample_key   depth O2_CTD_mLL qc
+ 18HU14030_041_405605 2905.38     3.6892  0
+ 18HU14030_041_405606 2002.35     3.7175  0
+ 18HU14030_041_405607 1502.77     3.7179  0
+ 18HU14030_041_405608  999.10     3.4504  0
+ 18HU14030_041_405609  499.40     3.1435  0
+ 18HU14030_041_405610  252.04     3.6918  0
+ 18HU14030_041_405611  152.09     3.6007  0
+ 18HU14030_041_405612  100.68     3.5808  0
+ 18HU14030_041_405613   78.32     3.2075  0
+ 18HU14030_041_405614   60.49     2.9822  0
+ 18HU14030_041_405615   51.46     3.3205  0
+ 18HU14030_041_405616   40.41     3.3934  0
+ 18HU14030_041_405617   30.85     3.6148  0
+ 18HU14030_041_405618   19.22     3.1626  0
+ 18HU14030_041_405619   12.22     3.4434  0
+ 18HU14030_041_405620    3.14     3.4604  0
+ 18HU14030_041_405621    2.97     3.3657  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 14, station HL_03:
+
+           sample_key  depth value      method qc
+ 18HU14030_047_404040   2.30  0.75 SiO4_Tech_F  1
+ 18HU14030_047_404038  10.14  0.56 SiO4_Tech_F  1
+ 18HU14030_047_404037  20.30  0.71 SiO4_Tech_F  1
+ 18HU14030_047_404036  30.77  1.23 SiO4_Tech_F  1
+ 18HU14030_047_404035  40.82  2.10 SiO4_Tech_F  1
+ 18HU14030_047_404034  49.79  3.11 SiO4_Tech_F  1
+ 18HU14030_047_404033  60.08  5.14 SiO4_Tech_F  1
+ 18HU14030_047_404032  79.54  7.90 SiO4_Tech_F  1
+ 18HU14030_047_404031  99.91 10.66 SiO4_Tech_F  1
+ 18HU14030_047_404029 199.94 14.93 SiO4_Tech_F  1
+ 18HU14030_047_404028 261.80 20.90 SiO4_Tech_F  2
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 142, station LHB_07:
+
+           sample_key   depth value     method qc
+ 18HU14030_050_405681    3.18 0.000 PO4_Tech_F  2
+ 18HU14030_050_405680    8.96 0.000 PO4_Tech_F  2
+ 18HU14030_050_405679   20.33 0.000 PO4_Tech_F  2
+ 18HU14030_050_405678   30.86 0.000 PO4_Tech_F  2
+ 18HU14030_050_405677   41.23 0.000 PO4_Tech_F  2
+ 18HU14030_050_405676   51.77 0.086 PO4_Tech_F  1
+ 18HU14030_050_405675   60.69 0.282 PO4_Tech_F  1
+ 18HU14030_050_405674   78.77 0.466 PO4_Tech_F  1
+ 18HU14030_050_405673  100.04 0.524 PO4_Tech_F  1
+ 18HU14030_050_405672  247.66 1.034 PO4_Tech_F  1
+ 18HU14030_050_405671  500.28 1.454 PO4_Tech_F  1
+ 18HU14030_050_405670 1000.27 1.178 PO4_Tech_F  1
+ 18HU14030_050_405669 1501.25 1.190 PO4_Tech_F  1
+ 18HU14030_050_405668 1997.92 1.178 PO4_Tech_F  1
+ 18HU14030_050_405667 2501.59 1.154 PO4_Tech_F  1
+ 18HU14030_050_405666 2796.14 1.124 PO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 153, station BBL_04:
+
+           sample_key depth value        method qc
+ 18HU14030_062_404760  3.36  0.00 NO2NO3_Tech_F  1
+ 18HU14030_062_404758 10.08  0.00 NO2NO3_Tech_F  1
+ 18HU14030_062_404757 21.37  0.00 NO2NO3_Tech_F  1
+ 18HU14030_062_404756 30.26  0.00 NO2NO3_Tech_F  2
+ 18HU14030_062_404755 40.64  1.06 NO2NO3_Tech_F  1
+ 18HU14030_062_404754 50.36  7.67 NO2NO3_Tech_F  1
+ 18HU14030_062_404753 60.78  7.54 NO2NO3_Tech_F  1
+ 18HU14030_062_404752 81.19  7.84 NO2NO3_Tech_F  1
+ 18HU14030_062_404751 95.52  8.13 NO2NO3_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 153, station BBL_04:
+
+           sample_key depth value     method qc
+ 18HU14030_062_404760  3.36 0.102 PO4_Tech_F  1
+ 18HU14030_062_404758 10.08 0.112 PO4_Tech_F  2
+ 18HU14030_062_404757 21.37 0.110 PO4_Tech_F  2
+ 18HU14030_062_404756 30.26 0.110 PO4_Tech_F  2
+ 18HU14030_062_404755 40.64 0.256 PO4_Tech_F  1
+ 18HU14030_062_404754 50.36 0.711 PO4_Tech_F  1
+ 18HU14030_062_404753 60.78 0.702 PO4_Tech_F  1
+ 18HU14030_062_404752 81.19 0.750 PO4_Tech_F  1
+ 18HU14030_062_404751 95.52 0.754 PO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 155, station PS_05:
+
+           sample_key  depth value     method qc
+ 18HU14030_064_404786   3.51 0.000 PO4_Tech_F  2
+ 18HU14030_064_404785   9.65 0.000 PO4_Tech_F  2
+ 18HU14030_064_404784  19.46 0.000 PO4_Tech_F  2
+ 18HU14030_064_404783  30.08 0.264 PO4_Tech_F  1
+ 18HU14030_064_404782  39.87 0.371 PO4_Tech_F  1
+ 18HU14030_064_404781  50.62 0.558 PO4_Tech_F  1
+ 18HU14030_064_404780  59.76 0.672 PO4_Tech_F  1
+ 18HU14030_064_404779  75.73 0.794 PO4_Tech_F  1
+ 18HU14030_064_404778 100.82 0.812 PO4_Tech_F  1
+ 18HU14030_064_404777 127.37 0.805 PO4_Tech_F  1
+ 18HU14030_064_404776 150.56 0.819 PO4_Tech_F  1
+ 18HU14030_064_404775 175.46 1.076 PO4_Tech_F  1
+ 18HU14030_064_404774 233.75 1.264 PO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 155, station PS_05:
+
+           sample_key  depth value      method qc
+ 18HU14030_064_404786   3.51  0.00 SiO4_Tech_F  2
+ 18HU14030_064_404785   9.65  0.00 SiO4_Tech_F  2
+ 18HU14030_064_404784  19.46  0.00 SiO4_Tech_F  2
+ 18HU14030_064_404783  30.08  1.83 SiO4_Tech_F  1
+ 18HU14030_064_404782  39.87  2.50 SiO4_Tech_F  1
+ 18HU14030_064_404781  50.62  3.64 SiO4_Tech_F  1
+ 18HU14030_064_404780  59.76  4.36 SiO4_Tech_F  1
+ 18HU14030_064_404779  75.73  5.70 SiO4_Tech_F  1
+ 18HU14030_064_404778 100.82  5.80 SiO4_Tech_F  1
+ 18HU14030_064_404777 127.37  6.10 SiO4_Tech_F  1
+ 18HU14030_064_404776 150.56  6.24 SiO4_Tech_F  1
+ 18HU14030_064_404775 175.46  8.66 SiO4_Tech_F  1
+ 18HU14030_064_404774 233.75 11.22 SiO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 161, station PS_08:
+
+           sample_key  depth value     method qc
+ 18HU14030_071_404830   3.36 0.279 PO4_Tech_F  1
+ 18HU14030_071_404829   9.89 0.264 PO4_Tech_F  1
+ 18HU14030_071_404828  20.48 0.219 PO4_Tech_F  1
+ 18HU14030_071_404827  31.17 0.192 PO4_Tech_F  2
+ 18HU14030_071_404826  40.71 0.224 PO4_Tech_F  1
+ 18HU14030_071_404825  50.64 0.553 PO4_Tech_F  1
+ 18HU14030_071_404824  60.24 0.668 PO4_Tech_F  1
+ 18HU14030_071_404823  74.85 0.804 PO4_Tech_F  1
+ 18HU14030_071_404822 100.31 0.883 PO4_Tech_F  1
+ 18HU14030_071_404821 125.44 1.022 PO4_Tech_F  1
+ 18HU14030_071_404820 151.21 1.034 PO4_Tech_F  1
+ 18HU14030_071_404819 176.49 1.101 PO4_Tech_F  1
+ 18HU14030_071_404818 201.38 1.211 PO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 166, station PS_04:
+
+           sample_key  depth value     method qc
+ 18HU14030_076_404856   1.82 0.166 PO4_Tech_F  1
+ 18HU14030_076_404855   9.77 0.164 PO4_Tech_F  1
+ 18HU14030_076_404854  19.76 0.164 PO4_Tech_F  1
+ 18HU14030_076_404853  31.51 0.158 PO4_Tech_F  2
+ 18HU14030_076_404852  40.31 0.172 PO4_Tech_F  2
+ 18HU14030_076_404851  50.46 0.452 PO4_Tech_F  1
+ 18HU14030_076_404850  60.12 0.661 PO4_Tech_F  1
+ 18HU14030_076_404849  75.05 0.764 PO4_Tech_F  1
+ 18HU14030_076_404848 104.14 0.806 PO4_Tech_F  1
+ 18HU14030_076_404847 121.67 0.896 PO4_Tech_F  1
+ 18HU14030_076_404846 150.69 0.784 PO4_Tech_F  1
+ 18HU14030_076_404845 176.38 1.022 PO4_Tech_F  1
+ 18HU14030_076_404844 221.12 1.180 PO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 179, station BBL_02:
+
+           sample_key  depth value        method qc
+ 18HU14030_090_404923   3.08  0.00 NO2NO3_Tech_F  1
+ 18HU14030_090_404921   9.92  0.00 NO2NO3_Tech_F  1
+ 18HU14030_090_404920  20.87  0.00 NO2NO3_Tech_F  1
+ 18HU14030_090_404919  30.30  0.00 NO2NO3_Tech_F  2
+ 18HU14030_090_404918  40.21  0.00 NO2NO3_Tech_F  2
+ 18HU14030_090_404917  49.99  1.29 NO2NO3_Tech_F  1
+ 18HU14030_090_404916  60.26  3.20 NO2NO3_Tech_F  1
+ 18HU14030_090_404915  80.67 10.27 NO2NO3_Tech_F  1
+ 18HU14030_090_404914 109.58 10.40 NO2NO3_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 25, station HL_05:
+
+           sample_key depth value     method qc
+ 18HU14030_171_404068  3.03 0.096 PO4_Tech_F  1
+ 18HU14030_171_404066 10.16 0.098 PO4_Tech_F  1
+ 18HU14030_171_404065 19.78 0.098 PO4_Tech_F  1
+ 18HU14030_171_404064 30.31 0.138 PO4_Tech_F  2
+ 18HU14030_171_404063 40.32 0.202 PO4_Tech_F  1
+ 18HU14030_171_404062 51.61 0.284 PO4_Tech_F  1
+ 18HU14030_171_404061 60.49 0.468 PO4_Tech_F  1
+ 18HU14030_171_404060 80.24 0.823 PO4_Tech_F  1
+ 18HU14030_171_404059 96.08 0.824 PO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 28, station HL_06:
+
+           sample_key   depth value        method qc
+ 18HU14030_204_404087    2.52  0.00 NO2NO3_Tech_F  1
+ 18HU14030_204_404084   10.16  0.00 NO2NO3_Tech_F  1
+ 18HU14030_204_404083   19.72  0.00 NO2NO3_Tech_F  1
+ 18HU14030_204_404081   30.81  0.00 NO2NO3_Tech_F  1
+ 18HU14030_204_404080   39.20  0.00 NO2NO3_Tech_F  1
+ 18HU14030_204_404079   49.87  0.86 NO2NO3_Tech_F  1
+ 18HU14030_204_404078   61.29  4.18 NO2NO3_Tech_F  1
+ 18HU14030_204_404077   79.57  7.32 NO2NO3_Tech_F  1
+ 18HU14030_204_404075  100.34  9.06 NO2NO3_Tech_F  1
+ 18HU14030_204_404074  148.54 14.82 NO2NO3_Tech_F  1
+ 18HU14030_204_404073  250.98 24.04 NO2NO3_Tech_F  2
+ 18HU14030_204_404071  501.15 19.76 NO2NO3_Tech_F  1
+ 18HU14030_204_404070  750.34 17.96 NO2NO3_Tech_F  1
+ 18HU14030_204_404069 1089.67 17.57 NO2NO3_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 28, station HL_06:
+
+           sample_key   depth value      method qc
+ 18HU14030_204_404087    2.52  0.70 SiO4_Tech_F  1
+ 18HU14030_204_404084   10.16  0.84 SiO4_Tech_F  1
+ 18HU14030_204_404083   19.72  0.62 SiO4_Tech_F  1
+ 18HU14030_204_404081   30.81  0.68 SiO4_Tech_F  2
+ 18HU14030_204_404080   39.20  1.04 SiO4_Tech_F  1
+ 18HU14030_204_404079   49.87  1.94 SiO4_Tech_F  1
+ 18HU14030_204_404078   61.29  3.13 SiO4_Tech_F  1
+ 18HU14030_204_404077   79.57  4.36 SiO4_Tech_F  1
+ 18HU14030_204_404075  100.34  4.96 SiO4_Tech_F  1
+ 18HU14030_204_404074  148.54  7.26 SiO4_Tech_F  1
+ 18HU14030_204_404073  250.98 14.66 SiO4_Tech_F  1
+ 18HU14030_204_404071  501.15 12.78 SiO4_Tech_F  1
+ 18HU14030_204_404070  750.34 11.50 SiO4_Tech_F  1
+ 18HU14030_204_404069 1089.67 11.88 SiO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 30, station HL_07:
+
+           sample_key   depth value     method qc
+ 18HU14030_226_404105    2.79 0.000 PO4_Tech_F  2
+ 18HU14030_226_404102   20.48 0.000 PO4_Tech_F  2
+ 18HU14030_226_404101   29.28 0.026 PO4_Tech_F  1
+ 18HU14030_226_404100   39.39 0.000 PO4_Tech_F  2
+ 18HU14030_226_404099   47.96 0.232 PO4_Tech_F  1
+ 18HU14030_226_404098   58.45 0.190 PO4_Tech_F  1
+ 18HU14030_226_404097   80.71 0.498 PO4_Tech_F  1
+ 18HU14030_226_404096  100.11 0.584 PO4_Tech_F  1
+ 18HU14030_226_404094  250.37 1.265 PO4_Tech_F  1
+ 18HU14030_226_404093  499.89 1.456 PO4_Tech_F  1
+ 18HU14030_226_404092  749.86 1.225 PO4_Tech_F  1
+ 18HU14030_226_404091 1000.20 1.175 PO4_Tech_F  1
+ 18HU14030_226_404090 1500.29 1.180 PO4_Tech_F  1
+ 18HU14030_226_404089 2000.32 1.174 PO4_Tech_F  1
+ 18HU14030_226_404088 2791.79 1.129 PO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 38, station HL_05.5:
+
+           sample_key  depth value     method qc
+ 18HU14030_261_404122   2.13 0.064 PO4_Tech_F  1
+ 18HU14030_261_404120  10.53 0.060 PO4_Tech_F  1
+ 18HU14030_261_404119  21.37 0.068 PO4_Tech_F  1
+ 18HU14030_261_404118  30.28 0.000 PO4_Tech_F  2
+ 18HU14030_261_404117  40.44 0.208 PO4_Tech_F  1
+ 18HU14030_261_404116  50.61 0.277 PO4_Tech_F  1
+ 18HU14030_261_404115  60.24 0.401 PO4_Tech_F  1
+ 18HU14030_261_404114  81.08 0.669 PO4_Tech_F  1
+ 18HU14030_261_404113 101.97 0.742 PO4_Tech_F  1
+ 18HU14030_261_404112 249.26 1.523 PO4_Tech_F  1
+ 18HU14030_261_404111 430.67 1.474 PO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 38, station HL_05.5:
+
+           sample_key  depth value      method qc
+ 18HU14030_261_404122   2.13  0.52 SiO4_Tech_F  2
+ 18HU14030_261_404120  10.53  0.52 SiO4_Tech_F  2
+ 18HU14030_261_404119  21.37  0.51 SiO4_Tech_F  2
+ 18HU14030_261_404118  30.28  0.52 SiO4_Tech_F  2
+ 18HU14030_261_404117  40.44  1.27 SiO4_Tech_F  1
+ 18HU14030_261_404116  50.61  1.73 SiO4_Tech_F  1
+ 18HU14030_261_404115  60.24  2.34 SiO4_Tech_F  1
+ 18HU14030_261_404114  81.08  4.32 SiO4_Tech_F  1
+ 18HU14030_261_404113 101.97  5.12 SiO4_Tech_F  1
+ 18HU14030_261_404112 249.26 13.28 SiO4_Tech_F  1
+ 18HU14030_261_404111 430.67 13.92 SiO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 40, station HL_06.3:
+
+           sample_key   depth value     method qc
+ 18HU14030_265_404138    2.28 0.000 PO4_Tech_F  2
+ 18HU14030_265_404136   10.18 0.000 PO4_Tech_F  2
+ 18HU14030_265_404135   19.56 0.000 PO4_Tech_F  2
+ 18HU14030_265_404134   28.07 0.000 PO4_Tech_F  2
+ 18HU14030_265_404133   40.62 0.090 PO4_Tech_F  1
+ 18HU14030_265_404132   50.70 0.272 PO4_Tech_F  1
+ 18HU14030_265_404131   61.09 0.470 PO4_Tech_F  1
+ 18HU14030_265_404130   79.65 0.642 PO4_Tech_F  1
+ 18HU14030_265_404129  103.69 0.766 PO4_Tech_F  1
+ 18HU14030_265_404128  251.15 1.537 PO4_Tech_F  1
+ 18HU14030_265_404127  495.47 1.347 PO4_Tech_F  1
+ 18HU14030_265_404126  749.45 1.212 PO4_Tech_F  1
+ 18HU14030_265_404125 1003.49 1.184 PO4_Tech_F  1
+ 18HU14030_265_404124 1501.43 1.144 PO4_Tech_F  1
+ 18HU14030_265_404123 1668.12 1.180 PO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 42, station HL_06.7:
+
+           sample_key   depth value     method qc
+ 18HU14030_276_404154    2.70 0.000 PO4_Tech_F  2
+ 18HU14030_276_404153   10.41 0.000 PO4_Tech_F  2
+ 18HU14030_276_404152   21.19 0.000 PO4_Tech_F  2
+ 18HU14030_276_404151   26.19 0.000 PO4_Tech_F  2
+ 18HU14030_276_404150   41.69 0.000 PO4_Tech_F  2
+ 18HU14030_276_404149   50.56 0.000 PO4_Tech_F  2
+ 18HU14030_276_404148   62.46 0.064 PO4_Tech_F  1
+ 18HU14030_276_404147   79.06 0.402 PO4_Tech_F  1
+ 18HU14030_276_404146  101.82 0.814 PO4_Tech_F  1
+ 18HU14030_276_404145  248.70 1.514 PO4_Tech_F  1
+ 18HU14030_276_404144  500.69 1.378 PO4_Tech_F  1
+ 18HU14030_276_404143  749.57 1.269 PO4_Tech_F  1
+ 18HU14030_276_404142 1001.31 1.224 PO4_Tech_F  1
+ 18HU14030_276_404141 1499.74 1.226 PO4_Tech_F  1
+ 18HU14030_276_404140 2002.77 1.166 PO4_Tech_F  1
+ 18HU14030_276_404139 2311.73 1.148 PO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 45, station HL_09:
+
+           sample_key   depth value     method qc
+ 18HU14030_279_404196    3.15 0.000 PO4_Tech_F  2
+ 18HU14030_279_404194   10.35 0.026 PO4_Tech_F  1
+ 18HU14030_279_404193   20.21 0.020 PO4_Tech_F  1
+ 18HU14030_279_404192   30.71 0.021 PO4_Tech_F  2
+ 18HU14030_279_404191   40.24 0.027 PO4_Tech_F  1
+ 18HU14030_279_404190   49.74 0.034 PO4_Tech_F  1
+ 18HU14030_279_404189   63.33 0.174 PO4_Tech_F  1
+ 18HU14030_279_404187  100.68 0.448 PO4_Tech_F  1
+ 18HU14030_279_404186  251.01 0.972 PO4_Tech_F  1
+ 18HU14030_279_404185  506.20 1.090 PO4_Tech_F  1
+ 18HU14030_279_404184  998.71 0.991 PO4_Tech_F  1
+ 18HU14030_279_404183 1506.96 0.994 PO4_Tech_F  1
+ 18HU14030_279_404182 2004.56 1.177 PO4_Tech_F  1
+ 18HU14030_279_404181 2500.53 1.182 PO4_Tech_F  1
+ 18HU14030_279_404180 3001.31 0.942 PO4_Tech_F  1
+ 18HU14030_279_404179 3500.39 1.020 PO4_Tech_F  1
+ 18HU14030_279_404178 3940.29 0.858 PO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 52, station HL_10:
+
+           sample_key   depth value     method qc
+ 18HU14030_296_404219    2.53 0.000 PO4_Tech_F  2
+ 18HU14030_296_404218   10.55 0.000 PO4_Tech_F  2
+ 18HU14030_296_404217   20.28 0.000 PO4_Tech_F  2
+ 18HU14030_296_404216   29.74 0.000 PO4_Tech_F  2
+ 18HU14030_296_404215   40.39 0.000 PO4_Tech_F  2
+ 18HU14030_296_404214   50.80 0.000 PO4_Tech_F  2
+ 18HU14030_296_404213   59.81 0.052 PO4_Tech_F  1
+ 18HU14030_296_404212   79.69 0.232 PO4_Tech_F  1
+ 18HU14030_296_404211  102.01 0.396 PO4_Tech_F  1
+ 18HU14030_296_404210  251.68 0.934 PO4_Tech_F  1
+ 18HU14030_296_404209  501.95 1.566 PO4_Tech_F  1
+ 18HU14030_296_404208 1002.89 1.230 PO4_Tech_F  1
+ 18HU14030_296_404207 1502.50 1.177 PO4_Tech_F  1
+ 18HU14030_296_404206 1995.26 1.187 PO4_Tech_F  1
+ 18HU14030_296_404205 2498.03 1.214 PO4_Tech_F  1
+ 18HU14030_296_404204 2997.34 1.160 PO4_Tech_F  1
+ 18HU14030_296_404203 3495.03 1.158 PO4_Tech_F  1
+ 18HU14030_296_404202 4139.98 1.192 PO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 59, station HL_11:
+
+           sample_key   depth value     method qc
+ 18HU14030_303_404248    2.93 0.014 PO4_Tech_F  2
+ 18HU14030_303_404245   10.38 0.014 PO4_Tech_F  2
+ 18HU14030_303_404244   19.57 0.025 PO4_Tech_F  1
+ 18HU14030_303_404242   29.34 0.031 PO4_Tech_F  1
+ 18HU14030_303_404241   38.96 0.000 PO4_Tech_F  2
+ 18HU14030_303_404240   48.80 0.000 PO4_Tech_F  2
+ 18HU14030_303_404239   61.61 0.128 PO4_Tech_F  1
+ 18HU14030_303_404238   79.98 0.256 PO4_Tech_F  1
+ 18HU14030_303_404236  100.21 0.364 PO4_Tech_F  1
+ 18HU14030_303_404235  253.85 0.866 PO4_Tech_F  1
+ 18HU14030_303_404233  500.82 1.555 PO4_Tech_F  1
+ 18HU14030_303_404232 1001.72 1.223 PO4_Tech_F  1
+ 18HU14030_303_404231 1501.14 1.169 PO4_Tech_F  1
+ 18HU14030_303_404230 2001.70 1.170 PO4_Tech_F  1
+ 18HU14030_303_404229 2498.15 1.190 PO4_Tech_F  1
+ 18HU14030_303_404228 2998.04 1.195 PO4_Tech_F  1
+ 18HU14030_303_404227 3500.25 1.163 PO4_Tech_F  1
+ 18HU14030_303_404226 4001.34 1.203 PO4_Tech_F  1
+ 18HU14030_303_404225 4522.22 1.284 PO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event 77, station GULD_04:
+
+           sample_key   depth O2_CTD_mLL qc
+ 18HU14030_323_405309 2087.36     5.9289  0
+ 18HU14030_323_405310 1500.63     5.8503  0
+ 18HU14030_323_405311  750.70     5.6400  0
+ 18HU14030_323_405312  500.05     5.0052  0
+ 18HU14030_323_405313  250.15     3.5265  0
+ 18HU14030_323_405314  250.06     3.5663  0
+ 18HU14030_323_405315  100.42     5.6565  0
+ 18HU14030_323_405316  100.53     5.6464  0
+ 18HU14030_323_405317   80.14     6.2370  0
+ 18HU14030_323_405318   60.04     6.8345  0
+ 18HU14030_323_405319   50.28     6.6566  0
+ 18HU14030_323_405320   40.39     6.8562  0
+ 18HU14030_323_405321   30.27     5.7676  0
+ 18HU14030_323_405322   20.75     5.7297  0
+ 18HU14030_323_405323   20.94     5.7248  0
+ 18HU14030_323_405324   10.28     5.7228  0
+ 18HU14030_323_405325    1.82     5.7247  0
+ 18HU14030_323_405326    2.13     5.7146  0
+ 18HU14030_323_405327    2.13     5.7132  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 98, station STAB_04:
+
+           sample_key  depth value      method qc
+ 18HU14030_408_405393   2.78  0.23 SiO4_Tech_F  1
+ 18HU14030_408_405392  10.53  0.09 SiO4_Tech_F  1
+ 18HU14030_408_405391  20.88  6.44 SiO4_Tech_F  1
+ 18HU14030_408_405390  30.54 11.64 SiO4_Tech_F  1
+ 18HU14030_408_405389  40.76 13.48 SiO4_Tech_F  2
+ 18HU14030_408_405388  50.74  9.10 SiO4_Tech_F  1
+ 18HU14030_408_405387  59.88  7.10 SiO4_Tech_F  1
+ 18HU14030_408_405386  80.48 10.32 SiO4_Tech_F  1
+ 18HU14030_408_405385 100.90 12.73 SiO4_Tech_F  1
+ 18HU14030_408_405384 150.21 19.48 SiO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

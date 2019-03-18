@@ -1,0 +1,114 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU11111_2615; 19.83; 365211; doxy; 326.11  ; Global Impossible Parameter Value
+18HU11111_2615; 49.38; 365208; doxy; 323.52  ; Global Impossible Parameter Value
+18HU11111_2615; 100.73; 365206; doxy; 327.40  ; Global Impossible Parameter Value
+18HU11111_2615; 151.08; 365205; doxy; 315.79  ; Global Impossible Parameter Value
+18HU11111_2615; 19.83; 365211; doxy; 326.11  ; Regional Impossible Parameter Value
+18HU11111_2615; 49.38; 365208; doxy; 323.52  ; Regional Impossible Parameter Value
+18HU11111_2615; 100.73; 365206; doxy; 327.40  ; Regional Impossible Parameter Value
+18HU11111_2615; 151.08; 365205; doxy; 315.79  ; Regional Impossible Parameter Value
+18HU11111_2619; 5.36; 365246; doxy; 320.08  ; Global Impossible Parameter Value
+18HU11111_2619; 19.93; 365244; doxy; 324.01  ; Global Impossible Parameter Value
+18HU11111_2619; 29.65; 365243; doxy; 323.92  ; Global Impossible Parameter Value
+18HU11111_2619; 39.86; 365242; doxy; 324.45  ; Global Impossible Parameter Value
+18HU11111_2619; 50.07; 365241; doxy; 295.96  ; Global Impossible Parameter Value
+18HU11111_2619; 5.36; 365246; doxy; 320.08  ; Regional Impossible Parameter Value
+18HU11111_2619; 19.93; 365244; doxy; 324.01  ; Regional Impossible Parameter Value
+18HU11111_2619; 29.65; 365243; doxy; 323.92  ; Regional Impossible Parameter Value
+18HU11111_2619; 39.86; 365242; doxy; 324.45  ; Regional Impossible Parameter Value
+18HU11111_2619; 50.07; 365241; doxy; 295.96  ; Regional Impossible Parameter Value
+18HU11111_2623; 4.76; 365401; doxy; 327.13  ; Global Impossible Parameter Value
+18HU11111_2623; 20.83; 365399; doxy; 324.95  ; Global Impossible Parameter Value
+18HU11111_2623; 49.60; 365396; doxy; 308.51  ; Global Impossible Parameter Value
+18HU11111_2623; 74.59; 365395; doxy; 298.37  ; Global Impossible Parameter Value
+18HU11111_2623; 99.68; 365394; doxy; 290.29  ; Global Impossible Parameter Value
+18HU11111_2623; 4.76; 365401; doxy; 327.13  ; Regional Impossible Parameter Value
+18HU11111_2623; 20.83; 365399; doxy; 324.95  ; Regional Impossible Parameter Value
+18HU11111_2623; 49.60; 365396; doxy; 308.51  ; Regional Impossible Parameter Value
+18HU11111_2623; 74.59; 365395; doxy; 298.37  ; Regional Impossible Parameter Value
+18HU11111_2623; 99.68; 365394; doxy; 290.29  ; Regional Impossible Parameter Value
+18HU11111_2581; 5.16; 365428; doxy; 312.22  ; Global Impossible Parameter Value
+18HU11111_2581; 10.81; 365427; doxy; 312.58  ; Global Impossible Parameter Value
+18HU11111_2581; 30.45; 365425; doxy; 306.19  ; Global Impossible Parameter Value
+18HU11111_2581; 49.60; 365423; doxy; 310.97  ; Global Impossible Parameter Value
+18HU11111_2581; 63.38; 365422; doxy; 290.74  ; Global Impossible Parameter Value
+18HU11111_2581; 5.16; 365428; doxy; 312.22  ; Regional Impossible Parameter Value
+18HU11111_2581; 10.81; 365427; doxy; 312.58  ; Regional Impossible Parameter Value
+18HU11111_2581; 30.45; 365425; doxy; 306.19  ; Regional Impossible Parameter Value
+18HU11111_2581; 49.60; 365423; doxy; 310.97  ; Regional Impossible Parameter Value
+18HU11111_2581; 63.38; 365422; doxy; 290.74  ; Regional Impossible Parameter Value
+18HU11111_2585; 6.45; 365456; doxy; 303.33  ; Global Impossible Parameter Value
+18HU11111_2585; 11.41; 365455; doxy; 303.91  ; Global Impossible Parameter Value
+18HU11111_2585; 31.24; 365453; doxy; 301.45  ; Global Impossible Parameter Value
+18HU11111_2585; 51.28; 365451; doxy; 306.81  ; Global Impossible Parameter Value
+18HU11111_2585; 68.53; 365450; doxy; 256.88  ; Global Impossible Parameter Value
+18HU11111_2585; 6.45; 365456; doxy; 303.33  ; Regional Impossible Parameter Value
+18HU11111_2585; 11.41; 365455; doxy; 303.91  ; Regional Impossible Parameter Value
+18HU11111_2585; 31.24; 365453; doxy; 301.45  ; Regional Impossible Parameter Value
+18HU11111_2585; 51.28; 365451; doxy; 306.81  ; Regional Impossible Parameter Value
+18HU11111_2585; 68.53; 365450; doxy; 256.88  ; Regional Impossible Parameter Value
+18HU11111_2589; 74.87; 365471; phos; 1.27  ; Out of Nutrient Climatology in box(es) 9 (Min=0.04 Max=1.26 n=65)
+18HU11111_2589; 74.87; 365471; slca; 16.56  ; Out of Nutrient Climatology in box(es) 9 (Min=0.49 Max=13.84 n=64)
+18HU11111_2590; 10.51; 365486; doxy; 328.47  ; Global Impossible Parameter Value
+18HU11111_2590; 30.74; 365484; doxy; 324.81  ; Global Impossible Parameter Value
+18HU11111_2590; 39.86; 365483; doxy; 326.29  ; Global Impossible Parameter Value
+18HU11111_2590; 60.49; 365482; doxy; 327.89  ; Global Impossible Parameter Value
+18HU11111_2590; 149.30; 365479; doxy; 296.23  ; Global Impossible Parameter Value
+18HU11111_2590; 10.51; 365486; doxy; 328.47  ; Regional Impossible Parameter Value
+18HU11111_2590; 30.74; 365484; doxy; 324.81  ; Regional Impossible Parameter Value
+18HU11111_2590; 39.86; 365483; doxy; 326.29  ; Regional Impossible Parameter Value
+18HU11111_2590; 60.49; 365482; doxy; 327.89  ; Regional Impossible Parameter Value
+18HU11111_2590; 149.30; 365479; doxy; 296.23  ; Regional Impossible Parameter Value
+18HU11111_2590; 149.30; 365479; phos; 1.23  ; Out of Nutrient Climatology in box(es) 9 (Min=0.87 Max=0.98 n=3)
+18HU11111_2590; 167.94; 365478; phos; 1.20  ; Out of Nutrient Climatology in box(es) 9 (Min=0.87 Max=0.98 n=3)
+18HU11111_2590; 149.30; 365479; slca; 15.27  ; Out of Nutrient Climatology in box(es) 9 (Min=8.99 Max=9.41 n=3)
+18HU11111_2590; 167.94; 365478; slca; 15.40  ; Out of Nutrient Climatology in box(es) 9 (Min=8.99 Max=9.41 n=3)
+18HU11111_2591; 174.47; 365488; phos; 1.06  ; Out of Nutrient Climatology in box(es) 9 (Min=0.87 Max=0.98 n=3)
+18HU11111_2591; 174.47; 365488; slca; 14.24  ; Out of Nutrient Climatology in box(es) 9 (Min=8.99 Max=9.41 n=3)
+18HU11111_2594; 139.39; 365511; slca; 9.41  ; Out of Nutrient Climatology in box(es) 9 (Min=8.99 Max=9.41 n=3)
+18HU11111_2597; 3.57; 365543; doxy; 146.48  ; Global Impossible Parameter Value
+18HU11111_2597; 18.94; 365541; doxy; 146.93  ; Global Impossible Parameter Value
+18HU11111_2597; 30.35; 365540; doxy; 141.13  ; Global Impossible Parameter Value
+18HU11111_2597; 73.88; 365537; doxy; 135.54  ; Global Impossible Parameter Value
+18HU11111_2597; 99.45; 365536; doxy; 133.40  ; Global Impossible Parameter Value
+18HU11111_2597; 149.31; 365535; doxy; 106.29  ; Global Impossible Parameter Value
+18HU11111_2597; 368.62; 365534; doxy; 98.30  ; Global Impossible Parameter Value
+18HU11111_2597; 3.57; 365543; doxy; 146.48  ; Regional Impossible Parameter Value
+18HU11111_2597; 18.94; 365541; doxy; 146.93  ; Regional Impossible Parameter Value
+18HU11111_2597; 30.35; 365540; doxy; 141.13  ; Regional Impossible Parameter Value
+18HU11111_2597; 73.88; 365537; doxy; 135.54  ; Regional Impossible Parameter Value
+18HU11111_2597; 99.45; 365536; doxy; 133.40  ; Regional Impossible Parameter Value
+18HU11111_2597; 149.31; 365535; doxy; 106.29  ; Regional Impossible Parameter Value
+18HU11111_2597; 368.62; 365534; doxy; 98.30  ; Regional Impossible Parameter Value
+18HU11111_2601; 4.76; 365583; doxy; 141.39  ; Global Impossible Parameter Value
+18HU11111_2601; 9.52; 365582; doxy; 141.57  ; Global Impossible Parameter Value
+18HU11111_2601; 19.24; 365581; doxy; 142.38  ; Global Impossible Parameter Value
+18HU11111_2601; 29.46; 365580; doxy; 139.70  ; Global Impossible Parameter Value
+18HU11111_2601; 39.67; 365579; doxy; 136.21  ; Global Impossible Parameter Value
+18HU11111_2601; 49.69; 365578; doxy; 127.73  ; Global Impossible Parameter Value
+18HU11111_2601; 99.36; 365576; doxy; 106.51  ; Global Impossible Parameter Value
+18HU11111_2601; 150.32; 365575; doxy; 89.14  ; Global Impossible Parameter Value
+18HU11111_2601; 1984.38; 365574; doxy; 127.77  ; Global Impossible Parameter Value
+18HU11111_2601; 4.76; 365583; doxy; 141.39  ; Regional Impossible Parameter Value
+18HU11111_2601; 9.52; 365582; doxy; 141.57  ; Regional Impossible Parameter Value
+18HU11111_2601; 19.24; 365581; doxy; 142.38  ; Regional Impossible Parameter Value
+18HU11111_2601; 29.46; 365580; doxy; 139.70  ; Regional Impossible Parameter Value
+18HU11111_2601; 39.67; 365579; doxy; 136.21  ; Regional Impossible Parameter Value
+18HU11111_2601; 49.69; 365578; doxy; 127.73  ; Regional Impossible Parameter Value
+18HU11111_2601; 99.36; 365576; doxy; 106.51  ; Regional Impossible Parameter Value
+18HU11111_2601; 150.32; 365575; doxy; 89.14  ; Regional Impossible Parameter Value
+18HU11111_2601; 1984.38; 365574; doxy; 127.77  ; Regional Impossible Parameter Value
+18HU11111_2605; 3.77; 365620; doxy; 145.77  ; Global Impossible Parameter Value
+18HU11111_2605; 8.83; 365619; doxy; 145.73  ; Global Impossible Parameter Value
+18HU11111_2605; 18.45; 365618; doxy; 145.50  ; Global Impossible Parameter Value
+18HU11111_2605; 28.46; 365617; doxy; 145.01  ; Global Impossible Parameter Value
+18HU11111_2605; 48.99; 365615; doxy; 140.28  ; Global Impossible Parameter Value
+18HU11111_2605; 73.68; 365614; doxy; 143.00  ; Global Impossible Parameter Value
+18HU11111_2605; 98.06; 365613; doxy; 146.53  ; Global Impossible Parameter Value
+18HU11111_2605; 3.77; 365620; doxy; 145.77  ; Regional Impossible Parameter Value
+18HU11111_2605; 8.83; 365619; doxy; 145.73  ; Regional Impossible Parameter Value
+18HU11111_2605; 18.45; 365618; doxy; 145.50  ; Regional Impossible Parameter Value
+18HU11111_2605; 28.46; 365617; doxy; 145.01  ; Regional Impossible Parameter Value
+18HU11111_2605; 48.99; 365615; doxy; 140.28  ; Regional Impossible Parameter Value
+18HU11111_2605; 73.68; 365614; doxy; 143.00  ; Regional Impossible Parameter Value
+18HU11111_2605; 98.06; 365613; doxy; 146.53  ; Regional Impossible Parameter Value

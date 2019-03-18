@@ -1,0 +1,97 @@
+Test 1.6 -> No known depth for 18HU13037_036
+Test 1.6 -> No known depth for 18HU13037_080
+Test 1.6 -> No known depth for 18HU13037_102
+Test 1.6 -> No known depth for 18HU13037_182
+Test 1.6 -> No known depth for 18HU13037_237
+Test 1.6 -> No known depth for 18HU13037_244
+Test 1.6 -> No known depth for 18HU13037_257
+Test 1.6 -> No known depth for 18HU13037_263
+Test 1.6 -> No known depth for 18HU13037_276
+Test 1.6 -> No known depth for 18HU13037_279
+Test 1.6 -> No known depth for 18HU13037_282
+Test 1.6 -> No known depth for 18HU13037_285
+Test 1.6 -> No known depth for 18HU13037_295
+Test 1.6 -> No known depth for 18HU13037_303
+Test 1.6 -> No known depth for 18HU13037_308
+Test 1.6 -> No known depth for 18HU13037_312
+Test 1.6 -> No known depth for 18HU13037_317
+Test 1.6 -> No known depth for 18HU13037_324
+Test 1.6 -> No known depth for 18HU13037_328
+Test 1.6 -> No known depth for 18HU13037_334
+Test 1.6 -> No known depth for 18HU13037_337
+Test 1.6 -> No known depth for 18HU13037_340
+Test 1.6 -> No known depth for 18HU13037_354
+Test 1.6 -> No known depth for 18HU13037_045
+Test 1.6 -> No known depth for 18HU13037_050
+Test 1.6 -> No known depth for 18HU13037_054
+Test 1.6 -> No known depth for 18HU13037_057
+Test 1.6 -> No known depth for 18HU13037_061
+Test 1.6 -> No known depth for 18HU13037_063
+Test 1.6 -> No known depth for 18HU13037_065
+Test 1.6 -> No known depth for 18HU13037_067
+Test 1.6 -> No known depth for 18HU13037_070
+Test 1.6 -> No known depth for 18HU13037_072
+Test 1.6 -> No known depth for 18HU13037_074
+Test 1.6 -> No known depth for 18HU13037_076
+Test 1.6 -> No known depth for 18HU13037_078
+Test 1.6 -> No known depth for 18HU13037_081
+Test 1.6 -> No known depth for 18HU13037_083
+Test 1.6 -> No known depth for 18HU13037_085
+Test 1.6 -> No known depth for 18HU13037_087
+Test 1.6 -> No known depth for 18HU13037_092
+Test 1.6 -> No known depth for 18HU13037_094
+Test 1.6 -> No known depth for 18HU13037_096
+Test 1.6 -> No known depth for 18HU13037_098
+Test 1.6 -> No known depth for 18HU13037_103
+Test 1.6 -> No known depth for 18HU13037_105
+Test 1.6 -> No known depth for 18HU13037_107
+Test 1.6 -> No known depth for 18HU13037_109
+Test 1.6 -> No known depth for 18HU13037_111
+Test 1.6 -> No known depth for 18HU13037_115
+Test 1.6 -> No known depth for 18HU13037_119
+Test 1.6 -> No known depth for 18HU13037_121
+Test 1.6 -> No known depth for 18HU13037_122
+Test 1.6 -> No known depth for 18HU13037_123
+Test 1.6 -> No known depth for 18HU13037_124
+Test 1.6 -> No known depth for 18HU13037_125
+Test 1.6 -> No known depth for 18HU13037_128
+Test 1.6 -> No known depth for 18HU13037_130
+Test 1.6 -> No known depth for 18HU13037_133
+Test 1.6 -> No known depth for 18HU13037_136
+Test 1.6 -> No known depth for 18HU13037_140
+Test 1.6 -> No known depth for 18HU13037_142
+Test 1.6 -> No known depth for 18HU13037_144
+Test 1.6 -> No known depth for 18HU13037_146
+Test 1.6 -> No known depth for 18HU13037_148
+Test 1.6 -> No known depth for 18HU13037_152
+Test 1.6 -> No known depth for 18HU13037_154
+Test 1.6 -> No known depth for 18HU13037_156
+Test 1.6 -> No known depth for 18HU13037_159
+Test 1.6 -> No known depth for 18HU13037_162
+Test 1.6 -> No known depth for 18HU13037_164
+Test 1.6 -> No known depth for 18HU13037_170
+Test 1.6 -> No known depth for 18HU13037_173
+18HU13037_036: Test 3.5 -> psal in box(es) 14 is out of TS Climatology by more than 3*std at 75.0 m
+18HU13037_237: Test 3.6 -> phos in box(es) 6 is out of Nutrient Climatology at 10.0 m
+18HU13037_257: Test 3.6 -> slca in box(es) 1 is out of Nutrient Climatology at 10.0 m
+18HU13037_282: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+18HU13037_285: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+18HU13037_295: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 0.0 m
+18HU13037_295: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 30.0 m
+18HU13037_312: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 250.0 m
+18HU13037_324: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 250.0 m
+18HU13037_389: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 150.0 m
+18HU13037_012: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 150.0 m
+18HU13037_054: Test 3.5 -> Profile 18HU13037_054 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU13037_057: Test 3.6 -> Profile 18HU13037_057 outside TS Monthly Climatology polygons
+18HU13037_061: Test 3.6 -> Profile 18HU13037_061 outside TS Monthly Climatology polygons
+18HU13037_063: Test 3.6 -> Profile 18HU13037_063 outside TS Monthly Climatology polygons
+18HU13037_065: Test 3.6 -> Profile 18HU13037_065 outside TS Monthly Climatology polygons
+18HU13037_067: Test 3.6 -> Profile 18HU13037_067 outside TS Monthly Climatology polygons
+18HU13037_070: Test 3.6 -> Profile 18HU13037_070 outside TS Monthly Climatology polygons
+18HU13037_072: Test 3.5 -> Profile 18HU13037_072 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU13037_072: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 250.0 m
+18HU13037_074: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 250.0 m
+18HU13037_162: Test 3.6 -> Profile 18HU13037_162 outside TS Monthly Climatology polygons
+18HU13037_170: Test 3.5 -> psal in box(es) 14 is out of TS Climatology by more than 3*std at 0.0 m
+18HU13037_173: Test 3.5 -> psal in box(es) 14 is out of TS Climatology by more than 3*std at 10.0 m

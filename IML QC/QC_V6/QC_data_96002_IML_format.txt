@@ -1,0 +1,18 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18NA96002_113; 1.00; 147407; cphl; 0.24  ; Constant profile problem
+18NA96002_113; 14.00; 147406; cphl; 0.24  ; Constant profile problem
+18NA96002_113; 1.00; 147407; ntrz; 0.03  ; Constant profile problem
+18NA96002_113; 14.00; 147406; ntrz; 0.03  ; Constant profile problem
+18NA96002_284; 1.00; 147417; cphl; 0.00  ; Constant profile problem
+18NA96002_284; 5.00; 147416; cphl; 0.00  ; Constant profile problem
+18NA96002_284; 15.00; 147415; cphl; 0.00  ; Constant profile problem
+18NA96002_114; 1.00; 147458; ntrz; 0.06  ; Constant profile problem
+18NA96002_114; 5.00; 147457; ntrz; 0.06  ; Constant profile problem
+18NA96002_261; 25.00; 147603; phos; 10.35  ; Global Impossible Parameter Value
+18NA96002_261; 42.00; 147500; phos; 12.11  ; Global Impossible Parameter Value
+18NA96002_261; 25.00; 147603; phos; 10.35  ; Regional Impossible Parameter Value
+18NA96002_261; 42.00; 147500; phos; 12.11  ; Regional Impossible Parameter Value
+18NA96002_281; 7.00; 147625; cphl; 0.40  ; Constant profile problem
+18NA96002_281; 25.00; 147624; cphl; 0.40  ; Constant profile problem
+18NA96002_302; 1.00; 147661; cphl; 0.16  ; Constant profile problem
+18NA96002_302; 5.00; 147660; cphl; 0.16  ; Constant profile problem

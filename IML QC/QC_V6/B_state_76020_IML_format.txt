@@ -1,0 +1,61 @@
+Test 1.5 -> Cruise velocity > permitted -> Check time and position of
+    the end of 18HU76020_320 and the beginning of 18HU76020_321 (found ship velocity is 19.7 kt)
+Test 1.6 -> No known depth for 18HU76020_284
+Test 1.6 -> No known depth for 18HU76020_304
+Test 1.6 -> No known depth for 18HU76020_326
+Test 1.6 -> No known depth for 18HU76020_003
+Test 1.6 -> No known depth for 18HU76020_014
+Test 1.6 -> No known depth for 18HU76020_036
+Test 1.6 -> No known depth for 18HU76020_058
+Test 1.6 -> No known depth for 18HU76020_080
+Test 1.6 -> No known depth for 18HU76020_102
+Test 1.6 -> No known depth for 18HU76020_127
+Test 1.6 -> No known depth for 18HU76020_149
+Test 1.6 -> No known depth for 18HU76020_171
+Test 1.6 -> No known depth for 18HU76020_239
+Test 1.6 -> No known depth for 18HU76020_243
+Test 1.6 -> No known depth for 18HU76020_247
+Test 1.6 -> No known depth for 18HU76020_253
+Test 1.6 -> No known depth for 18HU76020_257
+Test 1.6 -> No known depth for 18HU76020_265
+Test 1.6 -> No known depth for 18HU76020_275
+Test 1.6 -> No known depth for 18HU76020_276
+Test 1.6 -> No known depth for 18HU76020_277
+Test 1.6 -> No known depth for 18HU76020_278
+Test 1.6 -> No known depth for 18HU76020_280
+Test 1.6 -> No known depth for 18HU76020_281
+Test 1.6 -> No known depth for 18HU76020_282
+Test 1.6 -> No known depth for 18HU76020_283
+Test 1.6 -> No known depth for 18HU76020_285
+Test 1.6 -> No known depth for 18HU76020_295
+Test 1.6 -> No known depth for 18HU76020_296
+Test 1.6 -> No known depth for 18HU76020_297
+Test 1.6 -> No known depth for 18HU76020_298
+Test 1.6 -> No known depth for 18HU76020_299
+Test 1.6 -> No known depth for 18HU76020_300
+Test 1.6 -> No known depth for 18HU76020_301
+Test 1.6 -> No known depth for 18HU76020_302
+Test 1.6 -> No known depth for 18HU76020_303
+Test 1.6 -> No known depth for 18HU76020_305
+Test 1.6 -> No known depth for 18HU76020_306
+Test 1.6 -> No known depth for 18HU76020_307
+Test 1.6 -> No known depth for 18HU76020_308
+Test 1.6 -> No known depth for 18HU76020_317
+Test 1.6 -> No known depth for 18HU76020_318
+Test 1.6 -> No known depth for 18HU76020_319
+Test 1.6 -> No known depth for 18HU76020_320
+Test 1.6 -> No known depth for 18HU76020_321
+Test 1.6 -> No known depth for 18HU76020_322
+18HU76020_304: Test 3.6 -> phos in box(es) 1 is out of Nutrient Climatology at 100.0 m
+18HU76020_304: Test 3.6 -> slca in box(es) 1 is out of Nutrient Climatology at 100.0 m
+18HU76020_275: Test 3.6 -> slca in box(es) 1 is out of Nutrient Climatology at 100.0 m
+18HU76020_283: Test 3.5 -> psal in box(es) 32 is out of TS Climatology by more than 3*std at 10.0 m
+18HU76020_285: Test 3.5 -> psal in box(es) 32 is out of TS Climatology by more than 3*std at 10.0 m
+18HU76020_295: Test 3.5 -> psal in box(es) 16 is out of TS Climatology by more than 3*std at 30.0 m
+18HU76020_295: Test 3.5 -> psal in box(es) 16 is out of TS Climatology by more than 3*std at 75.0 m
+18HU76020_296: Test 3.5 -> psal in box(es) 16 is out of TS Climatology by more than 3*std at 50.0 m
+18HU76020_300: Test 3.6 -> slca in box(es) 1 is out of Nutrient Climatology at 100.0 m
+18HU76020_303: Test 3.6 -> slca in box(es) 1 is out of Nutrient Climatology at 100.0 m
+18HU76020_306: Test 3.6 -> slca in box(es) 1 is out of Nutrient Climatology at 100.0 m
+18HU76020_307: Test 3.6 -> slca in box(es) 1 is out of Nutrient Climatology at 100.0 m
+18HU76020_308: Test 3.6 -> slca in box(es) 1 is out of Nutrient Climatology at 100.0 m

@@ -1,0 +1,13 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU01068_264; 100.95; 253819; phos; 1.88  ; Out of Nutrient Climatology in box(es) 9 (Min=0.42 Max=1.26 n=9)
+18HU01068_264; 151.26; 253818; phos; 1.86  ; Out of Nutrient Climatology in box(es) 9 (Min=0.42 Max=1.26 n=9)
+18HU01068_264; 169.76; 253817; phos; 1.90  ; Out of Nutrient Climatology in box(es) 9 (Min=0.42 Max=1.26 n=9)
+18HU01068_264; 151.26; 253818; slca; 16.62  ; Out of Nutrient Climatology in box(es) 9 (Min=2.45 Max=16.32 n=9)
+18HU01068_264; 169.76; 253817; slca; 16.44  ; Out of Nutrient Climatology in box(es) 9 (Min=2.45 Max=16.32 n=9)
+18HU01068_025; 29.74; 253874; slca; 0.10  ; Out of Nutrient Climatology in box(es) 9 (Min=0.14 Max=8.88 n=122)
+18HU01068_114; 5.96 to 10.86; 253924, 253923; psal; 35.00  34.50  ; Gradient or Inversion too high
+18HU01068_301; 20.23 to 29.61; 254153, 254152; ntrz; 0.01  11.69  ; Gradient or Inversion too high
+18HU01068_301; 29.61 to 41.31; 254152, 254151; ntrz; 11.69  29.82  ; Gradient or Inversion too high
+18HU01068_301; 41.31 to 50.18; 254151, 254150; ntrz; 29.82  0.00  ; Gradient or Inversion too high
+18HU01068_301; 74.89 to 99.42; 254149, 254148; ntrz; 0.00  27.36  ; Gradient or Inversion too high
+18HU01068_322; 4.99 to 9.52; 254324, 254323; ntrz; 0.55  13.09  ; Gradient or Inversion too high

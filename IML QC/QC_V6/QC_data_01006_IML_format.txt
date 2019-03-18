@@ -1,0 +1,17 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL01006_002; 30.60; 253007; doxy; 9.19; Impossible Parameter Value in Profile
+18TL01006_002; 38.98; 253006; doxy; 9.00; Impossible Parameter Value in Profile
+18TL01006_264; 31.31; 253015; doxy; 9.12; Impossible Parameter Value in Profile
+18TL01006_315; 30.88; 253033; doxy; 9.51; Impossible Parameter Value in Profile
+18TL01006_315; 41.39; 253032; doxy; 9.22; Impossible Parameter Value in Profile
+18TL01006_326; 31.21; 253042; doxy; 9.27; Impossible Parameter Value in Profile
+18TL01006_326; 40.78; 253041; doxy; 9.08; Impossible Parameter Value in Profile
+18TL01006_003; 31.23; 253050; doxy; 9.14; Impossible Parameter Value in Profile
+18TL01006_003; 41.22; 253049; doxy; 9.35; Impossible Parameter Value in Profile
+18TL01006_036; 39.79; 253064; doxy; 9.11; Impossible Parameter Value in Profile
+18TL01006_058; 30.75; 253075; doxy; 9.29; Impossible Parameter Value in Profile
+18TL01006_058; 40.83; 253074; doxy; 9.60; Impossible Parameter Value in Profile
+18TL01006_058; 50.82; 253073; doxy; 9.24; Impossible Parameter Value in Profile
+18TL01006_095; 30.35; 253593; doxy; 9.61; Impossible Parameter Value in Profile
+18TL01006_095; 40.17; 253592; doxy; 9.55; Impossible Parameter Value in Profile
+18TL01006_095; 50.59; 253591; doxy; 9.15; Impossible Parameter Value in Profile

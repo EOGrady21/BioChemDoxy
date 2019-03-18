@@ -1,0 +1,15 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18NA97052_002; 25.00; 180701; ntrz; 11.64  ; Out of Nutrient Climatology in box(es) 6 (Min=0.00 Max=6.66 n=84)
+18NA97052_002; 15.00; 180702; phos; 1.63  ; Out of Nutrient Climatology in box(es) 6 (Min=0.03 Max=0.95 n=92)
+18NA97052_002; 25.00; 180701; phos; 2.27  ; Out of Nutrient Climatology in box(es) 6 (Min=0.03 Max=0.95 n=92)
+18NA97052_002; 15.00; 180702; slca; 14.36  ; Out of Nutrient Climatology in box(es) 6 (Min=0.00 Max=9.44 n=94)
+18NA97052_002; 25.00; 180701; slca; 19.57  ; Out of Nutrient Climatology in box(es) 6 (Min=0.00 Max=9.44 n=94)
+18NA97052_113; 10.00; 180705; slca; 7.57  ; Out of Nutrient Climatology in box(es) 6 (Min=0.00 Max=5.56 n=157)
+18NA97052_225; 18.00; 180708; slca; 11.23  ; Out of Nutrient Climatology in box(es) 6 (Min=0.00 Max=9.44 n=94)
+18NA97052_149; 25.00; 180739; phos; 10.00  ; Global Impossible Parameter Value
+18NA97052_149; 43.00; 180738; phos; 14.00  ; Global Impossible Parameter Value
+18NA97052_149; 25.00; 180739; phos; 10.00  ; Regional Impossible Parameter Value
+18NA97052_149; 43.00; 180738; phos; 14.00  ; Regional Impossible Parameter Value
+18NA97052_149; 10.00 to 15.00; 180743, 180742; ntrz; 1.24  24.58  ; Gradient or Inversion too high
+18NA97052_149; 15.00 to 20.00; 180742, 180741; ntrz; 24.58  5.50  ; Gradient or Inversion too high
+18NA97052_149; 20.00 to 25.00; 180741, 180739; ntrz; 5.50  0.35  ; Gradient or Inversion too high

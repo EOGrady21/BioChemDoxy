@@ -1,0 +1,51 @@
+Test 1.6 -> No known depth for 181C05624_002
+Test 1.6 -> No known depth for 181C05624_113
+Test 1.6 -> No known depth for 181C05624_225
+Test 1.6 -> No known depth for 181C05624_264
+Test 1.6 -> No known depth for 181C05624_284
+Test 1.6 -> No known depth for 181C05624_304
+Test 1.6 -> No known depth for 181C05624_315
+Test 1.6 -> No known depth for 181C05624_326
+Test 1.6 -> No known depth for 181C05624_339
+Test 1.6 -> No known depth for 181C05624_003
+Test 1.6 -> No known depth for 181C05624_014
+Test 1.6 -> No known depth for 181C05624_025
+Test 1.6 -> No known depth for 181C05624_036
+Test 1.6 -> No known depth for 181C05624_338
+Test 1.6 -> No known depth for 181C05624_340
+Test 1.6 -> No known depth for 181C05624_353
+Test 1.6 -> No known depth for 181C05624_354
+181C05624_002: Test 3.6 -> Profile 181C05624_002 outside TS Monthly Climatology polygons
+181C05624_002: Test 3.6 -> Profile 181C05624_002 outside Monthly Nutrient Climatology polygons
+181C05624_113: Test 3.6 -> Profile 181C05624_113 outside TS Monthly Climatology polygons
+181C05624_113: Test 3.6 -> Profile 181C05624_113 outside Monthly Nutrient Climatology polygons
+181C05624_225: Test 3.6 -> Profile 181C05624_225 outside TS Monthly Climatology polygons
+181C05624_225: Test 3.6 -> Profile 181C05624_225 outside Monthly Nutrient Climatology polygons
+181C05624_264: Test 3.6 -> Profile 181C05624_264 outside TS Monthly Climatology polygons
+181C05624_264: Test 3.6 -> Profile 181C05624_264 outside Monthly Nutrient Climatology polygons
+181C05624_284: Test 3.6 -> Profile 181C05624_284 outside TS Monthly Climatology polygons
+181C05624_284: Test 3.6 -> Profile 181C05624_284 outside Monthly Nutrient Climatology polygons
+181C05624_304: Test 3.6 -> Profile 181C05624_304 outside TS Monthly Climatology polygons
+181C05624_304: Test 3.6 -> Profile 181C05624_304 outside Monthly Nutrient Climatology polygons
+181C05624_315: Test 3.6 -> Profile 181C05624_315 outside TS Monthly Climatology polygons
+181C05624_315: Test 3.6 -> Profile 181C05624_315 outside Monthly Nutrient Climatology polygons
+181C05624_326: Test 3.6 -> Profile 181C05624_326 outside TS Monthly Climatology polygons
+181C05624_326: Test 3.6 -> Profile 181C05624_326 outside Monthly Nutrient Climatology polygons
+181C05624_339: Test 3.6 -> Profile 181C05624_339 outside TS Monthly Climatology polygons
+181C05624_339: Test 3.6 -> Profile 181C05624_339 outside Monthly Nutrient Climatology polygons
+181C05624_003: Test 3.6 -> Profile 181C05624_003 outside TS Monthly Climatology polygons
+181C05624_003: Test 3.6 -> Profile 181C05624_003 outside Monthly Nutrient Climatology polygons
+181C05624_014: Test 3.6 -> Profile 181C05624_014 outside TS Monthly Climatology polygons
+181C05624_014: Test 3.6 -> Profile 181C05624_014 outside Monthly Nutrient Climatology polygons
+181C05624_025: Test 3.6 -> Profile 181C05624_025 outside TS Monthly Climatology polygons
+181C05624_025: Test 3.6 -> Profile 181C05624_025 outside Monthly Nutrient Climatology polygons
+181C05624_036: Test 3.6 -> Profile 181C05624_036 outside TS Monthly Climatology polygons
+181C05624_036: Test 3.6 -> Profile 181C05624_036 outside Monthly Nutrient Climatology polygons
+181C05624_338: Test 3.6 -> Profile 181C05624_338 outside TS Monthly Climatology polygons
+181C05624_338: Test 3.6 -> Profile 181C05624_338 outside Monthly Nutrient Climatology polygons
+181C05624_340: Test 3.6 -> Profile 181C05624_340 outside TS Monthly Climatology polygons
+181C05624_340: Test 3.6 -> Profile 181C05624_340 outside Monthly Nutrient Climatology polygons
+181C05624_353: Test 3.6 -> Profile 181C05624_353 outside TS Monthly Climatology polygons
+181C05624_353: Test 3.6 -> Profile 181C05624_353 outside Monthly Nutrient Climatology polygons
+181C05624_354: Test 3.6 -> Profile 181C05624_354 outside TS Monthly Climatology polygons
+181C05624_354: Test 3.6 -> Profile 181C05624_354 outside Monthly Nutrient Climatology polygons

@@ -1,0 +1,18 @@
+18TL04033_721: Test 3.5 -> Profile 18TL04033_721 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18TL04033_721: Test 3.6 -> Profile 18TL04033_721 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18TL04033_723: Test 3.6 -> Profile 18TL04033_723 outside TS Monthly Climatology polygons
+18TL04033_723: Test 3.6 -> Profile 18TL04033_723 outside Monthly Nutrient Climatology polygons
+18TL04033_724: Test 3.6 -> Profile 18TL04033_724 outside TS Monthly Climatology polygons
+18TL04033_724: Test 3.6 -> Profile 18TL04033_724 outside Monthly Nutrient Climatology polygons
+18TL04033_726: Test 3.6 -> Profile 18TL04033_726 outside TS Monthly Climatology polygons
+18TL04033_726: Test 3.6 -> Profile 18TL04033_726 outside Monthly Nutrient Climatology polygons
+18TL04033_727: Test 3.6 -> Profile 18TL04033_727 outside TS Monthly Climatology polygons
+18TL04033_727: Test 3.6 -> Profile 18TL04033_727 outside Monthly Nutrient Climatology polygons
+18TL04033_728: Test 3.6 -> Profile 18TL04033_728 outside TS Monthly Climatology polygons
+18TL04033_728: Test 3.6 -> Profile 18TL04033_728 outside Monthly Nutrient Climatology polygons
+18TL04033_729: Test 3.6 -> Profile 18TL04033_729 outside TS Monthly Climatology polygons
+18TL04033_729: Test 3.6 -> Profile 18TL04033_729 outside Monthly Nutrient Climatology polygons
+18TL04033_720: Test 3.6 -> Profile 18TL04033_720 outside TS Monthly Climatology polygons
+18TL04033_720: Test 3.6 -> Profile 18TL04033_720 outside Monthly Nutrient Climatology polygons
+18TL04033_722: Test 3.6 -> Profile 18TL04033_722 outside TS Monthly Climatology polygons
+18TL04033_722: Test 3.6 -> Profile 18TL04033_722 outside Monthly Nutrient Climatology polygons

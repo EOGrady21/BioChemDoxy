@@ -1,0 +1,32 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18MF01015_572; 2.48; 217698; doxy; 342.10  ; Global Impossible Parameter Value
+18MF01015_572; 250.83; 217691; doxy; 177.52  ; Global Impossible Parameter Value
+18MF01015_572; 2.48; 217698; doxy; 342.10  ; Regional Impossible Parameter Value
+18MF01015_572; 250.83; 217691; doxy; 177.52  ; Regional Impossible Parameter Value
+18MF01015_572; 2.48; 217698; phos; 0.15  ; Out of Nutrient Climatology in box(es) 8 (Min=0.18 Max=0.76 n=134)
+18MF01015_573; 2.68; 217708; doxy; 346.78  ; Global Impossible Parameter Value
+18MF01015_573; 463.28; 217699; doxy; 211.91  ; Global Impossible Parameter Value
+18MF01015_573; 2.68; 217708; doxy; 346.78  ; Regional Impossible Parameter Value
+18MF01015_573; 463.28; 217699; doxy; 211.91  ; Regional Impossible Parameter Value
+18MF01015_574; 2.88; 217718; doxy; 344.11  ; Global Impossible Parameter Value
+18MF01015_574; 449.92; 217709; doxy; 193.82  ; Global Impossible Parameter Value
+18MF01015_574; 2.88; 217718; doxy; 344.11  ; Regional Impossible Parameter Value
+18MF01015_574; 449.92; 217709; doxy; 193.82  ; Regional Impossible Parameter Value
+18MF01015_575; 0.99; 217727; doxy; 333.39  ; Global Impossible Parameter Value
+18MF01015_575; 315.61; 217719; doxy; 140.68  ; Global Impossible Parameter Value
+18MF01015_575; 0.99; 217727; doxy; 333.39  ; Regional Impossible Parameter Value
+18MF01015_575; 315.61; 217719; doxy; 140.68  ; Regional Impossible Parameter Value
+18MF01015_576; 2.38; 217734; doxy; 357.28  ; Global Impossible Parameter Value
+18MF01015_576; 174.76; 217728; doxy; 166.14  ; Global Impossible Parameter Value
+18MF01015_576; 2.38; 217734; doxy; 357.28  ; Regional Impossible Parameter Value
+18MF01015_576; 174.76; 217728; doxy; 166.14  ; Regional Impossible Parameter Value
+18MF01015_577; 0.79; 217740; doxy; 346.56  ; Global Impossible Parameter Value
+18MF01015_577; 64.45; 217735; doxy; 338.08  ; Global Impossible Parameter Value
+18MF01015_577; 0.79; 217740; doxy; 346.56  ; Regional Impossible Parameter Value
+18MF01015_577; 64.45; 217735; doxy; 338.08  ; Regional Impossible Parameter Value
+18MF01015_578; 0.99; 217746; doxy; 331.60  ; Global Impossible Parameter Value
+18MF01015_578; 50.47; 217741; doxy; 368.22  ; Global Impossible Parameter Value
+18MF01015_578; 0.99; 217746; doxy; 331.60  ; Regional Impossible Parameter Value
+18MF01015_578; 50.47; 217741; doxy; 368.22  ; Regional Impossible Parameter Value
+18MF01015_579; 0.99; 217751; doxy; 331.82  ; Global Impossible Parameter Value
+18MF01015_579; 0.99; 217751; doxy; 331.82  ; Regional Impossible Parameter Value

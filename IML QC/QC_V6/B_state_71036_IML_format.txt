@@ -1,0 +1,26 @@
+    The end of 18MT71036_435 and the beginning of 18MT71036_436 (found ship velocity is 0.00 kt)
+    The end of 18MT71036_436 and the beginning of 18MT71036_437 (found ship velocity is 0.00 kt)
+    The end of 18MT71036_437 and the beginning of 18MT71036_438 (found ship velocity is 0.00 kt)
+    The end of 18MT71036_438 and the beginning of 18MT71036_439 (found ship velocity is 0.00 kt)
+    The end of 18MT71036_439 and the beginning of 18MT71036_440 (found ship velocity is 0.00 kt)
+    The end of 18MT71036_440 and the beginning of 18MT71036_441 (found ship velocity is 0.00 kt)
+18MT71036_435: Test 3.6 -> Profile 18MT71036_435 outside TS Monthly Climatology polygons
+18MT71036_435: Test 3.6 -> Profile 18MT71036_435 outside Monthly Nutrient Climatology polygons
+18MT71036_436: Test 3.6 -> Profile 18MT71036_436 outside TS Monthly Climatology polygons
+18MT71036_436: Test 3.6 -> Profile 18MT71036_436 outside Monthly Nutrient Climatology polygons
+18MT71036_437: Test 3.6 -> Profile 18MT71036_437 outside TS Monthly Climatology polygons
+18MT71036_437: Test 3.6 -> Profile 18MT71036_437 outside Monthly Nutrient Climatology polygons
+18MT71036_438: Test 3.6 -> Profile 18MT71036_438 outside TS Monthly Climatology polygons
+18MT71036_438: Test 3.6 -> Profile 18MT71036_438 outside Monthly Nutrient Climatology polygons
+18MT71036_439: Test 3.6 -> Profile 18MT71036_439 outside TS Monthly Climatology polygons
+18MT71036_439: Test 3.6 -> Profile 18MT71036_439 outside Monthly Nutrient Climatology polygons
+18MT71036_440: Test 3.6 -> Profile 18MT71036_440 outside TS Monthly Climatology polygons
+18MT71036_440: Test 3.6 -> Profile 18MT71036_440 outside Monthly Nutrient Climatology polygons
+18MT71036_441: Test 3.6 -> Profile 18MT71036_441 outside TS Monthly Climatology polygons
+18MT71036_441: Test 3.6 -> Profile 18MT71036_441 outside Monthly Nutrient Climatology polygons
+18MT71036_443: Test 3.6 -> Profile 18MT71036_443 outside TS Monthly Climatology polygons
+18MT71036_443: Test 3.6 -> Profile 18MT71036_443 outside Monthly Nutrient Climatology polygons
+18MT71036_434: Test 3.6 -> Profile 18MT71036_434 outside TS Monthly Climatology polygons
+18MT71036_434: Test 3.6 -> Profile 18MT71036_434 outside Monthly Nutrient Climatology polygons
+18MT71036_442: Test 3.6 -> Profile 18MT71036_442 outside TS Monthly Climatology polygons
+18MT71036_442: Test 3.6 -> Profile 18MT71036_442 outside Monthly Nutrient Climatology polygons

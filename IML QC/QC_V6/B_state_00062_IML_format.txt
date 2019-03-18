@@ -1,0 +1,11 @@
+Test 1.6 -> No known depth for 18HU00062_116
+18HU00062_566: Test 3.6 -> Profile 18HU00062_566 outside TS Monthly Climatology polygons
+18HU00062_566: Test 3.6 -> Profile 18HU00062_566 outside Monthly Nutrient Climatology polygons
+18HU00062_567: Test 3.6 -> Profile 18HU00062_567 outside TS Monthly Climatology polygons
+18HU00062_567: Test 3.6 -> Profile 18HU00062_567 outside Monthly Nutrient Climatology polygons
+18HU00062_569: Test 3.6 -> Profile 18HU00062_569 outside TS Monthly Climatology polygons
+18HU00062_569: Test 3.6 -> Profile 18HU00062_569 outside Monthly Nutrient Climatology polygons
+18HU00062_570: Test 3.6 -> Profile 18HU00062_570 outside TS Monthly Climatology polygons
+18HU00062_570: Test 3.6 -> Profile 18HU00062_570 outside Monthly Nutrient Climatology polygons
+18HU00062_571: Test 3.6 -> Profile 18HU00062_571 outside TS Monthly Climatology polygons
+18HU00062_571: Test 3.6 -> Profile 18HU00062_571 outside Monthly Nutrient Climatology polygons

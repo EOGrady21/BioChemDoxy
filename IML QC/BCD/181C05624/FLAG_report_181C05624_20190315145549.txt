@@ -1,0 +1,64 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+181C05624 FLAG Report:,  2019-03-15 14:55:49
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged OXYGEN, event 6, station FC-05:
+
+           sample_key depth O2_Winkler_Molar qc
+ 181C05624_304_259944     5            305.5  1
+ 181C05624_304_259943    10            316.2  1
+ 181C05624_304_259942    20            329.6  1
+ 181C05624_304_259941    30            381.8  1
+ 181C05624_304_259940    40            390.8  1
+ 181C05624_304_259939    49            363.5  1
+ 181C05624_304_259938    75            352.4  1
+ 181C05624_304_259937    99            347.5  1
+ 181C05624_304_259936   133            263.9  3
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event 89, station TB-10:
+
+           sample_key depth O2_Winkler_Molar qc
+ 181C05624_338_260467     5            326.9  1
+ 181C05624_338_260466    10            339.9  1
+ 181C05624_338_260465    19            357.3  1
+ 181C05624_338_260464    29            371.6  1
+ 181C05624_338_260463    40            367.1  1
+ 181C05624_338_260462    50            364.4  1
+ 181C05624_338_260461    75            342.1  1
+ 181C05624_338_260460   100            332.3  1
+ 181C05624_338_260459   150            319.3  1
+ 181C05624_338_260458   290            237.6  3
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

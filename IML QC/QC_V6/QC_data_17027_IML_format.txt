@@ -1,0 +1,26 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL17027_1640; 14.28; 421878; doxy; 5.68; Bottle-CTD Difference Problem
+18TL17027_1640; 50.17; 421877; doxy; 7.84; Bottle-CTD Difference Problem
+18TL17027_1640; 250.13; 421876; doxy; 3.14; Bottle-CTD Difference Problem
+18TL17027_1640; 345.48; 421875; doxy; 3.35; Bottle-CTD Difference Problem
+18TL17027_1641; 15.27; 421888; doxy; 7.46; Bottle-CTD Difference Problem
+18TL17027_1641; 50.96; 421886; doxy; 7.50; Bottle-CTD Difference Problem
+18TL17027_1641; 250.33; 421882; doxy; 3.08; Bottle-CTD Difference Problem
+18TL17027_1641; 518.57; 421879; doxy; 3.72; Bottle-CTD Difference Problem
+18TL17027_1641; 100.43; 421885; ntrz; 8.80  ; Out of Nutrient Climatology in box(es) 8 (Min=0.00 Max=8.26 n=32)
+18TL17027_1641; 2.58; 421889; phos; 0.07  ; Out of Nutrient Climatology in box(es) 8 (Min=0.09 Max=0.73 n=31)
+18TL17027_1642; 15.87; 421893; doxy; 5.82; Bottle-CTD Difference Problem
+18TL17027_1642; 52.95; 421892; doxy; 7.68; Bottle-CTD Difference Problem
+18TL17027_1642; 248.84; 421891; doxy; 2.71; Bottle-CTD Difference Problem
+18TL17027_1642; 494.42; 421890; doxy; 3.75; Bottle-CTD Difference Problem
+18TL17027_1643; 14.97; 421897; doxy; 5.91; Bottle-CTD Difference Problem
+18TL17027_1643; 54.53; 421896; doxy; 7.61; Bottle-CTD Difference Problem
+18TL17027_1643; 251.82; 421895; doxy; 3.04; Bottle-CTD Difference Problem
+18TL17027_1643; 488.39; 421894; doxy; 3.67; Bottle-CTD Difference Problem
+18TL17027_1644; 15.67; 421900; doxy; 7.08; Bottle-CTD Difference Problem
+18TL17027_1644; 51.26; 421899; doxy; 6.75; Bottle-CTD Difference Problem
+18TL17027_1644; 215.76; 421898; doxy; 2.72; Bottle-CTD Difference Problem
+18TL17027_1645; 14.97; 421910; doxy; 7.29; Bottle-CTD Difference Problem
+18TL17027_1645; 51.46; 421908; doxy; 7.67; Bottle-CTD Difference Problem
+18TL17027_1645; 249.83; 421904; doxy; 2.80; Bottle-CTD Difference Problem
+18TL17027_1645; 440.00; 421901; doxy; 3.62; Bottle-CTD Difference Problem

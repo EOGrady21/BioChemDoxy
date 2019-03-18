@@ -1,0 +1,8 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL17002_058; 5.80; 436903; slca; 0.00  ; Constant profile problem
+18TL17002_058; 26.14; 436902; slca; 0.00  ; Constant profile problem
+18TL17002_058; 49.74; 436901; slca; 0.00  ; Constant profile problem
+18TL17002_058; 26.14; 436902; slca; 0.00  ; Out of Nutrient Climatology in box(es) 2 (Min=0.28 Max=15.00 n=64)
+18TL17002_182; 4.96; 436931; slca; 5.80  ; Constant profile problem
+18TL17002_182; 24.68; 436930; slca; 5.80  ; Constant profile problem
+18TL17002_182; 60.47; 436929; slca; 5.80  ; Constant profile problem

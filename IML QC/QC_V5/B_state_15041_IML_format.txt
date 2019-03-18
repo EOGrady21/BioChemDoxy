@@ -1,0 +1,131 @@
+18HU15041_1475: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1475: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1475: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1475: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1475: Test 3.6 -> Profile 18HU15041_1475 outside TS Monthly Climatology polygons
+18HU15041_1475: Test 3.6 -> Profile 18HU15041_1475 outside Monthly Nutrient Climatology polygons
+18HU15041_1486: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1486: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1486: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1486: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1486: Test 3.6 -> Profile 18HU15041_1486 outside TS Monthly Climatology polygons
+18HU15041_1486: Test 3.6 -> Profile 18HU15041_1486 outside Monthly Nutrient Climatology polygons
+18HU15041_1487: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1487: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1487: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1487: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1487: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1487: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1487: Test 3.6 -> Profile 18HU15041_1487 outside TS Monthly Climatology polygons
+18HU15041_1487: Test 3.6 -> Profile 18HU15041_1487 outside Monthly Nutrient Climatology polygons
+18HU15041_1488: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1488: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1488: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1488: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1488: Test 3.6 -> Profile 18HU15041_1488 outside TS Monthly Climatology polygons
+18HU15041_1488: Test 3.6 -> Profile 18HU15041_1488 outside Monthly Nutrient Climatology polygons
+18HU15041_1489: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1489: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1489: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1489: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1489: Test 3.6 -> Profile 18HU15041_1489 outside TS Monthly Climatology polygons
+18HU15041_1489: Test 3.6 -> Profile 18HU15041_1489 outside Monthly Nutrient Climatology polygons
+18HU15041_1490: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1490: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1490: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1490: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1490: Test 3.6 -> Profile 18HU15041_1490 outside TS Monthly Climatology polygons
+18HU15041_1490: Test 3.6 -> Profile 18HU15041_1490 outside Monthly Nutrient Climatology polygons
+18HU15041_1491: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1491: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1491: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1491: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1491: Test 3.6 -> Profile 18HU15041_1491 outside TS Monthly Climatology polygons
+18HU15041_1491: Test 3.6 -> Profile 18HU15041_1491 outside Monthly Nutrient Climatology polygons
+18HU15041_1492: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1492: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1492: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1492: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1492: Test 3.6 -> Profile 18HU15041_1492 outside TS Monthly Climatology polygons
+18HU15041_1492: Test 3.6 -> Profile 18HU15041_1492 outside Monthly Nutrient Climatology polygons
+18HU15041_1474: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1474: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1474: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1474: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1474: Test 3.6 -> Profile 18HU15041_1474 outside TS Monthly Climatology polygons
+18HU15041_1474: Test 3.6 -> Profile 18HU15041_1474 outside Monthly Nutrient Climatology polygons
+18HU15041_1476: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1476: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1476: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1476: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1476: Test 3.6 -> Profile 18HU15041_1476 outside TS Monthly Climatology polygons
+18HU15041_1476: Test 3.6 -> Profile 18HU15041_1476 outside Monthly Nutrient Climatology polygons
+18HU15041_1477: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1477: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1477: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1477: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1477: Test 3.6 -> Profile 18HU15041_1477 outside TS Monthly Climatology polygons
+18HU15041_1477: Test 3.6 -> Profile 18HU15041_1477 outside Monthly Nutrient Climatology polygons
+18HU15041_1478: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1478: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1478: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1478: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1478: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1478: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1478: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 298.7 m
+18HU15041_1478: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 316.8 m
+18HU15041_1478: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 298.7 m
+18HU15041_1478: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 316.8 m
+18HU15041_1479: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1479: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1479: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1479: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1479: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1479: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1480: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1480: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1480: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1480: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1480: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1480: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1481: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1481: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1481: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1481: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1481: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1481: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1481: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 300.9 m
+18HU15041_1481: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 400.6 m
+18HU15041_1481: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 451.7 m
+18HU15041_1482: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1482: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1482: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1482: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1482: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1482: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1482: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 300.8 m
+18HU15041_1482: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 399.7 m
+18HU15041_1483: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1483: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1483: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1483: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1483: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1483: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1484: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1484: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1484: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1484: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1484: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1484: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1484: Test 3.5 -> Profile 18HU15041_1484 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU15041_1484: Test 3.6 -> Profile 18HU15041_1484 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU15041_1484: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 299.9 m
+18HU15041_1484: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 399.9 m
+18HU15041_1485: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1485: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1485: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU15041_1485: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1485: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1485: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU15041_1485: Test 3.6 -> Profile 18HU15041_1485 outside TS Monthly Climatology polygons
+18HU15041_1485: Test 3.6 -> Profile 18HU15041_1485 outside Monthly Nutrient Climatology polygons

@@ -1,0 +1,139 @@
+Test 1.6 -> No known depth for 18OL17001_304
+Test 1.6 -> No known depth for 18OL17001_003
+Test 1.6 -> No known depth for 18OL17001_025
+Test 1.6 -> No known depth for 18OL17001_047
+Test 1.6 -> No known depth for 18OL17001_058
+Test 1.6 -> No known depth for 18OL17001_069
+Test 1.6 -> No known depth for 18OL17001_080
+Test 1.6 -> No known depth for 18OL17001_091
+Test 1.6 -> No known depth for 18OL17001_102
+Test 1.6 -> No known depth for 18OL17001_114
+Test 1.6 -> No known depth for 18OL17001_127
+Test 1.6 -> No known depth for 18OL17001_149
+Test 1.6 -> No known depth for 18OL17001_171
+Test 1.6 -> No known depth for 18OL17001_182
+Test 1.6 -> No known depth for 18OL17001_204
+Test 1.6 -> No known depth for 18OL17001_215
+Test 1.6 -> No known depth for 18OL17001_237
+Test 1.6 -> No known depth for 18OL17001_239
+Test 1.6 -> No known depth for 18OL17001_243
+Test 1.6 -> No known depth for 18OL17001_244
+Test 1.6 -> No known depth for 18OL17001_253
+Test 1.6 -> No known depth for 18OL17001_261
+Test 1.6 -> No known depth for 18OL17001_263
+Test 1.6 -> No known depth for 18OL17001_275
+Test 1.6 -> No known depth for 18OL17001_276
+Test 1.6 -> No known depth for 18OL17001_278
+Test 1.6 -> No known depth for 18OL17001_279
+Test 1.6 -> No known depth for 18OL17001_280
+Test 1.6 -> No known depth for 18OL17001_282
+Test 1.6 -> No known depth for 18OL17001_283
+Test 1.6 -> No known depth for 18OL17001_297
+Test 1.6 -> No known depth for 18OL17001_298
+Test 1.6 -> No known depth for 18OL17001_301
+Test 1.6 -> No known depth for 18OL17001_302
+Test 1.6 -> No known depth for 18OL17001_305
+Test 1.6 -> No known depth for 18OL17001_306
+Test 1.6 -> No known depth for 18OL17001_308
+Test 1.6 -> No known depth for 18OL17001_310
+Test 1.6 -> No known depth for 18OL17001_312
+Test 1.6 -> No known depth for 18OL17001_314
+Test 1.6 -> No known depth for 18OL17001_318
+Test 1.6 -> No known depth for 18OL17001_319
+Test 1.6 -> No known depth for 18OL17001_321
+Test 1.6 -> No known depth for 18OL17001_323
+Test 1.6 -> No known depth for 18OL17001_325
+Test 1.6 -> No known depth for 18OL17001_327
+Test 1.6 -> No known depth for 18OL17001_333
+Test 1.6 -> No known depth for 18OL17001_335
+Test 1.6 -> No known depth for 18OL17001_336
+Test 1.6 -> No known depth for 18OL17001_338
+Test 1.6 -> No known depth for 18OL17001_340
+Test 1.6 -> No known depth for 18OL17001_354
+Test 1.6 -> No known depth for 18OL17001_369
+Test 1.6 -> No known depth for 18OL17001_407
+Test 1.6 -> No known depth for 18OL17001_408
+Test 1.6 -> No known depth for 18OL17001_004
+Test 1.6 -> No known depth for 18OL17001_005
+Test 1.6 -> No known depth for 18OL17001_006
+Test 1.6 -> No known depth for 18OL17001_008
+Test 1.6 -> No known depth for 18OL17001_010
+Test 1.6 -> No known depth for 18OL17001_012
+Test 1.6 -> No known depth for 18OL17001_013
+Test 1.6 -> No known depth for 18OL17001_057
+Test 1.6 -> No known depth for 18OL17001_060
+Test 1.6 -> No known depth for 18OL17001_062
+Test 1.6 -> No known depth for 18OL17001_064
+Test 1.6 -> No known depth for 18OL17001_065
+Test 1.6 -> No known depth for 18OL17001_067
+Test 1.6 -> No known depth for 18OL17001_070
+Test 1.6 -> No known depth for 18OL17001_072
+Test 1.6 -> No known depth for 18OL17001_074
+Test 1.6 -> No known depth for 18OL17001_076
+Test 1.6 -> No known depth for 18OL17001_085
+18OL17001_091: Test 3.6 -> ntrz in box(es) 3 is out of Nutrient Climatology at 30.7 m
+18OL17001_091: Test 3.6 -> ntrz in box(es) 3 is out of Nutrient Climatology at 40.6 m
+18OL17001_114: Test 3.6 -> ntrz in box(es) 3 is out of Nutrient Climatology at 40.4 m
+18OL17001_114: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 40.4 m
+18OL17001_239: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 30.5 m
+18OL17001_239: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 40.1 m
+18OL17001_283: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+18OL17001_283: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 50.0 m
+18OL17001_298: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+18OL17001_298: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 50.0 m
+18OL17001_302: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+18OL17001_333: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 250.0 m
+18OL17001_336: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+18OL17001_408: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+18OL17001_004: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 250.0 m
+18OL17001_005: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 0.0 m
+18OL17001_006: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+18OL17001_016: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+18OL17001_027: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 0.0 m
+18OL17001_034: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 1.8 m
+18OL17001_034: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 19.9 m
+18OL17001_034: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 30.0 m
+18OL17001_034: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 39.7 m
+18OL17001_037: Test 3.5 -> Profile 18OL17001_037 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18OL17001_037: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 51.0 m
+18OL17001_038: Test 3.5 -> Profile 18OL17001_038 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18OL17001_038: Test 3.5 -> psal in box(es) 2 is out of TS Climatology by more than 3*std at 0.0 m
+18OL17001_041: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 1.6 m
+18OL17001_041: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 10.3 m
+18OL17001_041: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 20.3 m
+18OL17001_041: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 30.1 m
+18OL17001_044: Test 3.5 -> psal in box(es) 68 is out of TS Climatology by more than 3*std at 0.0 m
+18OL17001_044: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 1.9 m
+18OL17001_044: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 10.2 m
+18OL17001_044: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 19.6 m
+18OL17001_044: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 30.1 m
+18OL17001_048: Test 3.5 -> psal in box(es) 67 is out of TS Climatology by more than 3*std at 0.0 m
+18OL17001_048: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 2.1 m
+18OL17001_048: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 10.1 m
+18OL17001_048: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 19.5 m
+18OL17001_051: Test 3.5 -> psal in box(es) 67 is out of TS Climatology by more than 3*std at 0.0 m
+18OL17001_057: Test 3.6 -> Profile 18OL17001_057 outside TS Monthly Climatology polygons
+18OL17001_057: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 11.1 m
+18OL17001_060: Test 3.5 -> Profile 18OL17001_060 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18OL17001_060: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 250.0 m
+18OL17001_060: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 10.4 m
+18OL17001_060: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 20.9 m
+18OL17001_062: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 250.0 m
+18OL17001_062: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 2.6 m
+18OL17001_062: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 9.1 m
+18OL17001_062: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 19.3 m
+18OL17001_065: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 2.5 m
+18OL17001_065: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 10.3 m
+18OL17001_065: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 19.2 m
+18OL17001_065: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 30.4 m
+18OL17001_065: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 40.3 m
+18OL17001_067: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 2.3 m
+18OL17001_067: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 10.5 m
+18OL17001_067: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 19.9 m
+18OL17001_067: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 30.0 m
+18OL17001_067: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 41.0 m
+18OL17001_070: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 2.8 m
+18OL17001_070: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 9.6 m
+18OL17001_070: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 19.3 m
+18OL17001_070: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 39.9 m
+18OL17001_070: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 48.4 m

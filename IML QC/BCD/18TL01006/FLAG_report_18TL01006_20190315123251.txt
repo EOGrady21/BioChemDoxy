@@ -1,0 +1,157 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18TL01006 FLAG Report:,  2019-03-15 12:32:51
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged NITRATE, event 1, station STN27:
+
+           sample_key depth value   method qc
+ 18TL01006_002_253009     9  0.34 NO2NO3_0  1
+ 18TL01006_002_253008    20  0.00 NO2NO3_0  3
+ 18TL01006_002_253007    30  0.93 NO2NO3_0  1
+ 18TL01006_002_253006    39  0.52 NO2NO3_0  1
+ 18TL01006_002_253005    50  0.40 NO2NO3_0  1
+ 18TL01006_002_253004    74  3.92 NO2NO3_0  1
+ 18TL01006_002_253003   101  6.91 NO2NO3_0  1
+ 18TL01006_002_253002   150  7.50 NO2NO3_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 10, station FC-07:
+
+           sample_key depth value   method qc
+ 18TL01006_003_253053     6  0.00 NO2NO3_0  1
+ 18TL01006_003_253052    11  0.00 NO2NO3_0  1
+ 18TL01006_003_253051    21  0.00 NO2NO3_0  3
+ 18TL01006_003_253050    31  0.00 NO2NO3_0  1
+ 18TL01006_003_253049    41  0.00 NO2NO3_0  1
+ 18TL01006_003_253048    50  3.54 NO2NO3_0  1
+ 18TL01006_003_253047    75  7.05 NO2NO3_0  1
+ 18TL01006_003_253046   100  6.23 NO2NO3_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 10, station FC-07:
+
+           sample_key depth value method qc
+ 18TL01006_003_253053     6  0.31  PO4_0  1
+ 18TL01006_003_253052    11  0.22  PO4_0  3
+ 18TL01006_003_253051    21  0.16  PO4_0  1
+ 18TL01006_003_253050    31  0.25  PO4_0  1
+ 18TL01006_003_253049    41  0.43  PO4_0  1
+ 18TL01006_003_253048    50  1.16  PO4_0  1
+ 18TL01006_003_253047    75  1.49  PO4_0  1
+ 18TL01006_003_253046   100  1.01  PO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 13, station FC-10:
+
+           sample_key depth value method qc
+ 18TL01006_036_253068     5  0.39  PO4_0  3
+ 18TL01006_036_253067    10  0.35  PO4_0  1
+ 18TL01006_036_253066    20  0.35  PO4_0  1
+ 18TL01006_036_253065    30  0.22  PO4_0  1
+ 18TL01006_036_253064    39  0.57  PO4_0  1
+ 18TL01006_036_253063    50  1.21  PO4_0  1
+ 18TL01006_036_253062    76  1.89  PO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 4, station FC-01:
+
+           sample_key depth value method qc
+ 18TL01006_264_253018     6  0.39 SiO4_0  1
+ 18TL01006_264_253017    12  0.11 SiO4_0  1
+ 18TL01006_264_253016    21  0.41 SiO4_0  1
+ 18TL01006_264_253015    31  0.33 SiO4_0  1
+ 18TL01006_264_253014    40  0.30 SiO4_0  1
+ 18TL01006_264_253013    49  0.24 SiO4_0  3
+ 18TL01006_264_253012    76  3.33 SiO4_0  1
+ 18TL01006_264_253011    96  6.32 SiO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 6, station FC-03:
+
+           sample_key depth value method qc
+ 18TL01006_304_253027     6  0.12 SiO4_0  1
+ 18TL01006_304_253026    10  0.08 SiO4_0  1
+ 18TL01006_304_253025    21  0.18 SiO4_0  1
+ 18TL01006_304_253024    31  0.41 SiO4_0  1
+ 18TL01006_304_253023    41  0.19 SiO4_0  3
+ 18TL01006_304_253022    50  0.07 SiO4_0  1
+ 18TL01006_304_253021    75  0.91 SiO4_0  1
+ 18TL01006_304_253020   100  8.32 SiO4_0  1
+ 18TL01006_304_253019   151 16.46 SiO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 8, station FC-05:
+
+           sample_key depth value method qc
+ 18TL01006_326_253045     6  0.27 SiO4_0  1
+ 18TL01006_326_253044    11  0.26 SiO4_0  3
+ 18TL01006_326_253043    21  0.27 SiO4_0  1
+ 18TL01006_326_253042    31  0.93 SiO4_0  1
+ 18TL01006_326_253041    40  0.64 SiO4_0  1
+ 18TL01006_326_253040    51  3.29 SiO4_0  1
+ 18TL01006_326_253039    76  1.25 SiO4_0  1
+ 18TL01006_326_253038   101  5.89 SiO4_0  1
+ 18TL01006_326_253037   130  1.95 SiO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

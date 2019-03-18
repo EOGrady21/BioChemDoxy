@@ -1,0 +1,35 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18NE17020_279; 25.17; 437136; psal; 32.44; Bottle-CTD Difference Problem
+18NE17020_307; 5.20; 437198; psal; 31.68; Bottle-CTD Difference Problem
+18NE17020_307; 25.42; 437197; psal; 32.05; Bottle-CTD Difference Problem
+18NE17020_307; 50.52; 437196; psal; 32.28; Bottle-CTD Difference Problem
+18NE17020_307; 127.16; 437195; psal; 32.74; Bottle-CTD Difference Problem
+18NE17020_307; 5.20; 437198; doxy; 6.87; Bottle-CTD Difference Problem
+18NE17020_307; 127.16; 437195; doxy; 5.86; Bottle-CTD Difference Problem
+18NE17020_313; 217.15; 437216; doxy; 5.55; Bottle-CTD Difference Problem
+18NE17020_322; 5.49; 437244; slca; 0.00  ; Out of Nutrient Climatology in box(es) 3 (Min=0.09 Max=7.56 n=328)
+18NE17020_323; 5.07; 437249; slca; 0.00  ; Out of Nutrient Climatology in box(es) 3 (Min=0.09 Max=7.56 n=328)
+18NE17020_327; 5.21; 437254; slca; 0.00  ; Out of Nutrient Climatology in box(es) 3 (Min=0.09 Max=7.56 n=328)
+18NE17020_328; 5.69; 437258; slca; 0.00  ; Out of Nutrient Climatology in box(es) 3 (Min=0.09 Max=7.56 n=328)
+18NE17020_340; 5.21; 437290; psal; 34.50; Bottle-CTD Difference Problem
+18NE17020_340; 5 to 15 m; NaN; psal; 34.50  ; Out of TS Climatology by more than 3*std in box(es) 36 (32.67 ± 1.32)
+18NE17020_354; 5.23; 437295; psal; 35.28; Bottle-CTD Difference Problem
+18NE17020_354; 100.85; 437298; doxy; 5.20; Bottle-CTD Difference Problem
+18NE17020_354; 5 to 15 m; NaN; psal; 35.28  ; Out of TS Climatology by more than 3*std in box(es) 28 (32.34 ± 0.75)
+18NE17020_354; 5.23; 437295; ntrz; 11.89  ; Out of Nutrient Climatology in box(es) 2 (Min=0.00 Max=4.04 n=118)
+18NE17020_354; 100.85; 437298; ntrz; 0.21  ; Out of Nutrient Climatology in box(es) 2 (Min=5.55 Max=20.19 n=24)
+18NE17020_354; 50.93; 437297; phos; 0.09  ; Out of Nutrient Climatology in box(es) 2 (Min=0.10 Max=1.22 n=175)
+18NE17020_354; 100.85; 437298; phos; 0.10  ; Out of Nutrient Climatology in box(es) 2 (Min=0.50 Max=1.46 n=24)
+18NE17020_354; 5.23; 437295; slca; 5.83  ; Out of Nutrient Climatology in box(es) 2 (Min=0.00 Max=4.76 n=129)
+18NE17020_354; 100.85; 437298; slca; 0.15  ; Out of Nutrient Climatology in box(es) 2 (Min=5.15 Max=15.80 n=24)
+18NE17020_012; 5.58; 437350; doxy; 6.77; Bottle-CTD Difference Problem
+18NE17020_041; 5.39; 437433; doxy; 4.00; Bottle-CTD Difference Problem
+18NE17020_042; 4.69; 437437; doxy; 4.10; Bottle-CTD Difference Problem
+18NE17020_071; 332.85; 437524; phos; 1.82  ; Out of Nutrient Climatology in box(es) 6 (Min=0.00 Max=1.77 n=636)
+18NE17020_071; 332.85; 437524; slca; 30.80  ; Out of Nutrient Climatology in box(es) 6 (Min=0.65 Max=30.74 n=643)
+18NE17020_139; 240 to 260 m; NaN; psal; 34.77  ; Out of TS Climatology by more than 3*std in box(es) 8 (34.92 ± 0.00)
+18NE17020_141; 190 to 210 m; NaN; psal; 34.84  ; Out of TS Climatology by more than 3*std in box(es) 8 (34.93 ± 0.00)
+18NE17020_142; 190 to 210 m; NaN; psal; 34.61  ; Out of TS Climatology by more than 3*std in box(es) 8 (34.93 ± 0.00)
+18NE17020_154; 24.86; 437756; ntrz; 2.24  ; Out of Nutrient Climatology in box(es) 7 (Min=0.00 Max=2.01 n=39)
+18NE17020_157; 121.00; 437766; ntrz; 7.97  ; Out of Nutrient Climatology in box(es) 7 (Min=8.55 Max=24.01 n=49)
+18NE17020_159; 37.77; 437770; slca; 0.47  ; Out of Nutrient Climatology in box(es) 6 (Min=0.53 Max=17.15 n=209)

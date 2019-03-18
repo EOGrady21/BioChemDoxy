@@ -1,0 +1,116 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18TL02005 FLAG Report:,  2019-03-15 12:33:28
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged NITRATE, event 6, station SEGB-05:
+
+           sample_key depth value   method qc
+ 18TL02005_304_254360     5  2.76 NO2NO3_0  1
+ 18TL02005_304_254359    10  2.68 NO2NO3_0  1
+ 18TL02005_304_254358    20  3.04 NO2NO3_0  1
+ 18TL02005_304_254357    30  2.96 NO2NO3_0  1
+ 18TL02005_304_254356    40  4.36 NO2NO3_0  1
+ 18TL02005_304_254355    49  5.10 NO2NO3_0  7
+ 18TL02005_304_254354    74  5.92 NO2NO3_0  1
+ 18TL02005_304_254353    84  5.65 NO2NO3_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 6, station SEGB-05:
+
+           sample_key depth value method qc
+ 18TL02005_304_254360     5  1.03  PO4_0  1
+ 18TL02005_304_254359    10  0.76  PO4_0  1
+ 18TL02005_304_254358    20  0.70  PO4_0  1
+ 18TL02005_304_254357    30  0.91  PO4_0  1
+ 18TL02005_304_254356    40  0.92  PO4_0  7
+ 18TL02005_304_254355    49  1.11  PO4_0  1
+ 18TL02005_304_254354    74  1.23  PO4_0  1
+ 18TL02005_304_254353    84  1.03  PO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 6, station SEGB-05:
+
+           sample_key depth value method qc
+ 18TL02005_304_254360     5  1.65 SiO4_0  1
+ 18TL02005_304_254359    10  1.50 SiO4_0  1
+ 18TL02005_304_254358    20  1.15 SiO4_0  7
+ 18TL02005_304_254357    30  1.43 SiO4_0  1
+ 18TL02005_304_254356    40  3.12 SiO4_0  1
+ 18TL02005_304_254355    49  4.25 SiO4_0  1
+ 18TL02005_304_254354    74  5.57 SiO4_0  1
+ 18TL02005_304_254353    84  5.36 SiO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 7, station SEGB-06:
+
+           sample_key depth value   method qc
+ 18TL02005_315_254367     5  5.44 NO2NO3_0  1
+ 18TL02005_315_254366    10  5.27 NO2NO3_0  1
+ 18TL02005_315_254365    20  5.23 NO2NO3_0  1
+ 18TL02005_315_254364    30  5.12 NO2NO3_0  1
+ 18TL02005_315_254363    40  5.52 NO2NO3_0  1
+ 18TL02005_315_254362    49  5.52 NO2NO3_0  7
+ 18TL02005_315_254361    74  6.65 NO2NO3_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 8, station SEGB-07:
+
+           sample_key depth value method qc
+ 18TL02005_326_254374     5  0.74  PO4_0  1
+ 18TL02005_326_254373    11  0.72  PO4_0  1
+ 18TL02005_326_254372    21  0.76  PO4_0  1
+ 18TL02005_326_254371    30  0.78  PO4_0  1
+ 18TL02005_326_254370    40  0.70  PO4_0  1
+ 18TL02005_326_254369    50  0.89  PO4_0  7
+ 18TL02005_326_254368    76  1.13  PO4_0  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

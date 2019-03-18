@@ -1,0 +1,7 @@
+18TL10052_1109: Test 3.5 -> Profile 18TL10052_1109 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18TL10052_1109: Test 3.6 -> Profile 18TL10052_1109 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18TL10052_1109: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 53.4 m
+18TL10052_1112: Test 3.5 -> Profile 18TL10052_1112 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18TL10052_1112: Test 3.6 -> Profile 18TL10052_1112 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18TL10052_1113: Test 3.6 -> Profile 18TL10052_1113 outside TS Monthly Climatology polygons
+18TL10052_1113: Test 3.6 -> Profile 18TL10052_1113 outside Monthly Nutrient Climatology polygons

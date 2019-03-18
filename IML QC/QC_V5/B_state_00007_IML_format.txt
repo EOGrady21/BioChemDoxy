@@ -1,0 +1,220 @@
+Test 1.6 -> No known depth for 18TL00007_002
+Test 1.6 -> No known depth for 18TL00007_264
+Test 1.6 -> No known depth for 18TL00007_284
+Test 1.6 -> No known depth for 18TL00007_304
+Test 1.6 -> No known depth for 18TL00007_315
+Test 1.6 -> No known depth for 18TL00007_326
+Test 1.6 -> No known depth for 18TL00007_339
+Test 1.6 -> No known depth for 18TL00007_003
+Test 1.6 -> No known depth for 18TL00007_047
+Test 1.6 -> No known depth for 18TL00007_058
+Test 1.6 -> No known depth for 18TL00007_069
+Test 1.6 -> No known depth for 18TL00007_080
+Test 1.6 -> No known depth for 18TL00007_091
+Test 1.6 -> No known depth for 18TL00007_123
+18TL00007_002: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_002: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_002: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_002: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_002: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_002: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_002: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_002: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_002: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_002: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_002: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_002: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_002: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_002: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_002: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_002: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_002: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_002: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_002: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_002: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_002: Test 3.6 -> Profile 18TL00007_002 outside TS Monthly Climatology polygons
+18TL00007_002: Test 3.6 -> Profile 18TL00007_002 outside Monthly Nutrient Climatology polygons
+18TL00007_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_264: Test 3.6 -> Profile 18TL00007_264 outside TS Monthly Climatology polygons
+18TL00007_264: Test 3.6 -> Profile 18TL00007_264 outside Monthly Nutrient Climatology polygons
+18TL00007_284: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_284: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_284: Test 3.6 -> Profile 18TL00007_284 outside TS Monthly Climatology polygons
+18TL00007_284: Test 3.6 -> Profile 18TL00007_284 outside Monthly Nutrient Climatology polygons
+18TL00007_304: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_304: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_304: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_304: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_304: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_304: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_304: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_304: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_304: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_304: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_304: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_304: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_304: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_304: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_304: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_304: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_304: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_304: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_304: Test 3.6 -> Profile 18TL00007_304 outside TS Monthly Climatology polygons
+18TL00007_304: Test 3.6 -> Profile 18TL00007_304 outside Monthly Nutrient Climatology polygons
+18TL00007_315: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_315: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_315: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_315: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_315: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_315: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_315: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_315: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_315: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_315: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_315: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_315: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_315: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_315: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_315: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_315: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_315: Test 3.6 -> Profile 18TL00007_315 outside TS Monthly Climatology polygons
+18TL00007_315: Test 3.6 -> Profile 18TL00007_315 outside Monthly Nutrient Climatology polygons
+18TL00007_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_326: Test 3.6 -> Profile 18TL00007_326 outside TS Monthly Climatology polygons
+18TL00007_326: Test 3.6 -> Profile 18TL00007_326 outside Monthly Nutrient Climatology polygons
+18TL00007_339: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_339: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_339: Test 3.6 -> Profile 18TL00007_339 outside TS Monthly Climatology polygons
+18TL00007_339: Test 3.6 -> Profile 18TL00007_339 outside Monthly Nutrient Climatology polygons
+18TL00007_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_003: Test 3.6 -> Profile 18TL00007_003 outside TS Monthly Climatology polygons
+18TL00007_003: Test 3.6 -> Profile 18TL00007_003 outside Monthly Nutrient Climatology polygons
+18TL00007_047: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_047: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_047: Test 3.6 -> Profile 18TL00007_047 outside TS Monthly Climatology polygons
+18TL00007_047: Test 3.6 -> Profile 18TL00007_047 outside Monthly Nutrient Climatology polygons
+18TL00007_058: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_058: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_058: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_058: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_058: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_058: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_058: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_058: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_058: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_058: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_058: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_058: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_058: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_058: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_058: Test 3.6 -> Profile 18TL00007_058 outside TS Monthly Climatology polygons
+18TL00007_058: Test 3.6 -> Profile 18TL00007_058 outside Monthly Nutrient Climatology polygons
+18TL00007_069: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_069: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_069: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_069: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_069: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_069: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_069: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_069: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_069: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_069: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_069: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_069: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_069: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_069: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_069: Test 3.6 -> Profile 18TL00007_069 outside TS Monthly Climatology polygons
+18TL00007_069: Test 3.6 -> Profile 18TL00007_069 outside Monthly Nutrient Climatology polygons
+18TL00007_080: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_080: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_080: Test 3.6 -> Profile 18TL00007_080 outside TS Monthly Climatology polygons
+18TL00007_080: Test 3.6 -> Profile 18TL00007_080 outside Monthly Nutrient Climatology polygons
+18TL00007_091: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_091: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_091: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_091: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_091: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_091: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_091: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_091: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_091: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_091: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_091: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_091: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_091: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_091: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_091: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_091: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_091: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_091: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_091: Test 3.6 -> Profile 18TL00007_091 outside TS Monthly Climatology polygons
+18TL00007_091: Test 3.6 -> Profile 18TL00007_091 outside Monthly Nutrient Climatology polygons
+18TL00007_123: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_123: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_123: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_123: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_123: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_123: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_123: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_123: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_123: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_123: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL00007_123: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_123: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_123: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_123: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_123: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_123: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_123: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_123: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_123: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_123: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL00007_123: Test 3.6 -> Profile 18TL00007_123 outside TS Monthly Climatology polygons
+18TL00007_123: Test 3.6 -> Profile 18TL00007_123 outside Monthly Nutrient Climatology polygons

@@ -1,0 +1,15 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL02005_264; 147.12; 254343; phos; 1.39  ; Out of Nutrient Climatology in box(es) 9 (Min=0.52 Max=1.28 n=13)
+18TL02005_264; 164.85; 254342; phos; 1.57  ; Out of Nutrient Climatology in box(es) 9 (Min=0.52 Max=1.28 n=13)
+18TL02005_315; 5.35; 254367; phos; 1.21  ; Out of Nutrient Climatology in box(es) 9 (Min=0.15 Max=1.15 n=75)
+18TL02005_239; 5.33; 254537; psal; 32.88  ; Constant profile problem
+18TL02005_239; 10.50; 254536; psal; 32.88  ; Constant profile problem
+18TL02005_239; 20.47; 254535; psal; 32.88  ; Constant profile problem
+18TL02005_239; 30.56; 254534; psal; 32.88  ; Constant profile problem
+18TL02005_239; 40.67; 254533; psal; 32.88  ; Constant profile problem
+18TL02005_239; 50.54; 254532; psal; 32.88  ; Constant profile problem
+18TL02005_239; 76.61; 254531; psal; 32.88  ; Constant profile problem
+18TL02005_261; 4.40; 254549; psal; 32.88  ; Constant profile problem
+18TL02005_261; 74.36; 254548; psal; 32.88  ; Constant profile problem
+18TL02005_263; 4.69; 254551; psal; 32.88  ; Constant profile problem
+18TL02005_263; 76.83; 254550; psal; 32.88  ; Constant profile problem

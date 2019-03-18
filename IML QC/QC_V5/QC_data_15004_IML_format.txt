@@ -1,0 +1,23 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU15004_339; 161.43; 406264; doxy; 3.26; Bottle-CTD Difference Problem
+18HU15004_025; 55.67; 406281; doxy; 5.46; Bottle-CTD Difference Problem
+18HU15004_047; 1.10; 406297; doxy; 6.91; Bottle-CTD Difference Problem
+18HU15004_237; 85.68; 406380; doxy; 6.23; Bottle-CTD Difference Problem
+18HU15004_257; 191.70; 406437; doxy; 3.92; Bottle-CTD Difference Problem
+18HU15004_257; 190 to 210 m; NaN; psal; 34.56  ; Out of TS Climatology by more than 3*std in box(es) 30 (35.23 ± 0.66)
+18HU15004_281; 20.35; 406495; ntrz; -0.03  ; Global Impossible Parameter Value
+18HU15004_281; 20.35; 406495; ntrz; -0.03  ; Regional Impossible Parameter Value
+18HU15004_281; 1.22 to 1.58; 406497, 406498; ntrz; 0.08  17.06  ; Gradient or Inversion too high
+18HU15004_281; 1.58 to 10.37; 406498, 406496; ntrz; 17.06  0.00  ; Gradient or Inversion too high
+18HU15004_281; 1.22 to 1.58; 406497, 406498; phos; 0.23  1.15  ; Gradient or Inversion too high
+18HU15004_281; 1.58; 406498; ntrz; 17.06  ; Out of Nutrient Climatology in box(es) 7 (Min=0.00 Max=6.97 n=225)
+18HU15004_281; 1.58; 406498; phos; 1.15  ; Out of Nutrient Climatology in box(es) 7 (Min=0.14 Max=0.86 n=235)
+18HU15004_281; 1.58; 406498; slca; 14.85  ; Out of Nutrient Climatology in box(es) 7 (Min=0.00 Max=5.93 n=238)
+18HU15004_285; -5 to 5 m; NaN; psal; 34.01  ; Out of TS Climatology by more than 3*std in box(es) 34 (32.74 ± 0.99)
+18HU15004_300; 1113.18; 406531; doxy; 4.81; Bottle-CTD Difference Problem
+18HU15004_325; 31.76; 406619; slca; 0.00  ; Out of Nutrient Climatology in box(es) 7 (Min=0.10 Max=12.43 n=826)
+18HU15004_328; 240 to 260 m; NaN; psal; 35.03  ; Out of TS Climatology by more than 3*std in box(es) 8 (34.63 ± 0.00)
+18HU15004_389; -5 to 5 m; NaN; psal; 33.29  ; Out of TS Climatology by more than 3*std in box(es) 4 (32.08 ± 0.48)
+18HU15004_389; 240 to 260 m; NaN; psal; 35.14  ; Out of TS Climatology by more than 3*std in box(es) 4 (34.62 ± 0.39)
+18HU15004_028; 55.89; 406830; doxy; 6.63; Bottle-CTD Difference Problem
+18HU15004_033; 203.42; 406853; doxy; 5.43; Bottle-CTD Difference Problem

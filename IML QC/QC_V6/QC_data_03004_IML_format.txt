@@ -1,0 +1,7 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL03004_264; 167.10; 256098; phos; 1.30  ; Out of Nutrient Climatology in box(es) 9 (Min=0.52 Max=1.28 n=13)
+18TL03004_278; 41.17; 256315; doxy; 9.01; Impossible Parameter Value in Profile
+18TL03004_280; 31.24; 256324; doxy; 9.01; Impossible Parameter Value in Profile
+18TL03004_281; 31.20; 256331; doxy; 10.02  ; Regional Impossible Parameter Value
+18TL03004_281; 40.51; 256330; doxy; 9.38; Impossible Parameter Value in Profile
+18TL03004_281; 50.26; 256329; doxy; 9.04; Impossible Parameter Value in Profile

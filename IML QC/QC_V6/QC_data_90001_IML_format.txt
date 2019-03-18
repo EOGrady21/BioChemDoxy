@@ -1,0 +1,9 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU90001_343; 1.00; 67562; doxy; 8.26; Surface O2 Out of Prescribed Limits
+18HU90001_343; 5.00; 67561; doxy; 7.53; Surface O2 Out of Prescribed Limits
+18HU90001_343; 10.00; 67560; doxy; 8.04; Surface O2 Out of Prescribed Limits
+18HU90001_349; 35.00; 67610; doxy; 9.07; Impossible Parameter Value in Profile
+18HU90001_349; 45.00; 67609; doxy; 9.46; Impossible Parameter Value in Profile
+18HU90001_349; 1.00; 67616; doxy; 9.23; Surface O2 Out of Prescribed Limits
+18HU90001_349; 5.00; 67615; doxy; 9.85; Surface O2 Out of Prescribed Limits
+18HU90001_349; 10.00; 67614; doxy; 9.36; Surface O2 Out of Prescribed Limits

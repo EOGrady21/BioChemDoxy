@@ -1,0 +1,415 @@
+Test 1.5 -> Cruise velocity > permitted -> Check time and position of
+    the end of 180167001_414 and the beginning of 180167001_127 (found ship velocity is 28.9 kt)
+    the end of 180167001_417 and the beginning of 180167001_138 (found ship velocity is 38.9 kt)
+Test 1.5 ->Negative cruise velocity -> Check time of
+    The end of 180167001_005 and the beginning of 180167001_006 (deltaT=-0.0 h; deltaD=3.5 nm)
+    The end of 180167001_006 and the beginning of 180167001_007 (deltaT=-0.0 h; deltaD=2.5 nm)
+    The end of 180167001_007 and the beginning of 180167001_008 (deltaT=-0.0 h; deltaD=1.7 nm)
+    The end of 180167001_008 and the beginning of 180167001_009 (deltaT=-0.0 h; deltaD=3.8 nm)
+    The end of 180167001_009 and the beginning of 180167001_010 (deltaT=-0.0 h; deltaD=2.0 nm)
+    The end of 180167001_010 and the beginning of 180167001_011 (deltaT=-0.0 h; deltaD=3.8 nm)
+    The end of 180167001_011 and the beginning of 180167001_012 (deltaT=-0.0 h; deltaD=5.1 nm)
+    The end of 180167001_012 and the beginning of 180167001_013 (deltaT=-0.0 h; deltaD=4.4 nm)
+    The end of 180167001_118 and the beginning of 180167001_119 (deltaT=-0.0 h; deltaD=3.5 nm)
+    The end of 180167001_119 and the beginning of 180167001_120 (deltaT=-0.0 h; deltaD=2.5 nm)
+    The end of 180167001_120 and the beginning of 180167001_121 (deltaT=-0.0 h; deltaD=1.7 nm)
+    The end of 180167001_121 and the beginning of 180167001_122 (deltaT=-0.0 h; deltaD=3.8 nm)
+    The end of 180167001_122 and the beginning of 180167001_123 (deltaT=-0.0 h; deltaD=2.0 nm)
+    The end of 180167001_123 and the beginning of 180167001_124 (deltaT=-0.0 h; deltaD=3.8 nm)
+    The end of 180167001_124 and the beginning of 180167001_125 (deltaT=-0.0 h; deltaD=5.1 nm)
+    The end of 180167001_125 and the beginning of 180167001_126 (deltaT=-0.0 h; deltaD=4.4 nm)
+    The end of 180167001_126 and the beginning of 180167001_280 (deltaT=-0.0 h; deltaD=0.4 nm)
+    The end of 180167001_228 and the beginning of 180167001_229 (deltaT=-0.0 h; deltaD=3.5 nm)
+    The end of 180167001_229 and the beginning of 180167001_230 (deltaT=-0.0 h; deltaD=2.5 nm)
+    The end of 180167001_230 and the beginning of 180167001_231 (deltaT=-0.0 h; deltaD=1.7 nm)
+    The end of 180167001_231 and the beginning of 180167001_232 (deltaT=-0.0 h; deltaD=3.8 nm)
+    The end of 180167001_232 and the beginning of 180167001_233 (deltaT=-0.0 h; deltaD=2.0 nm)
+    The end of 180167001_233 and the beginning of 180167001_234 (deltaT=-0.0 h; deltaD=3.8 nm)
+    The end of 180167001_234 and the beginning of 180167001_235 (deltaT=-0.0 h; deltaD=5.1 nm)
+    The end of 180167001_235 and the beginning of 180167001_236 (deltaT=-0.0 h; deltaD=4.4 nm)
+    The end of 180167001_266 and the beginning of 180167001_267 (deltaT=-0.0 h; deltaD=3.5 nm)
+    The end of 180167001_267 and the beginning of 180167001_268 (deltaT=-0.0 h; deltaD=2.5 nm)
+    The end of 180167001_268 and the beginning of 180167001_269 (deltaT=-0.0 h; deltaD=1.7 nm)
+    The end of 180167001_269 and the beginning of 180167001_270 (deltaT=-0.0 h; deltaD=3.8 nm)
+    The end of 180167001_270 and the beginning of 180167001_271 (deltaT=-0.0 h; deltaD=2.0 nm)
+    The end of 180167001_271 and the beginning of 180167001_272 (deltaT=-0.0 h; deltaD=3.8 nm)
+    The end of 180167001_272 and the beginning of 180167001_273 (deltaT=-0.0 h; deltaD=5.1 nm)
+    The end of 180167001_273 and the beginning of 180167001_274 (deltaT=-0.0 h; deltaD=4.4 nm)
+    The end of 180167001_286 and the beginning of 180167001_287 (deltaT=-0.0 h; deltaD=3.5 nm)
+    The end of 180167001_287 and the beginning of 180167001_288 (deltaT=-0.0 h; deltaD=2.5 nm)
+    The end of 180167001_288 and the beginning of 180167001_289 (deltaT=-0.0 h; deltaD=1.7 nm)
+    The end of 180167001_289 and the beginning of 180167001_290 (deltaT=-0.0 h; deltaD=3.8 nm)
+    The end of 180167001_290 and the beginning of 180167001_291 (deltaT=-0.0 h; deltaD=2.0 nm)
+    The end of 180167001_291 and the beginning of 180167001_292 (deltaT=-0.0 h; deltaD=3.8 nm)
+    The end of 180167001_292 and the beginning of 180167001_293 (deltaT=-0.0 h; deltaD=5.1 nm)
+    The end of 180167001_293 and the beginning of 180167001_294 (deltaT=-0.0 h; deltaD=4.4 nm)
+    The end of 180167001_002 and the beginning of 180167001_113 (found ship velocity is 0.00 kt)
+    The end of 180167001_113 and the beginning of 180167001_225 (found ship velocity is 0.00 kt)
+    The end of 180167001_225 and the beginning of 180167001_264 (found ship velocity is 0.00 kt)
+    The end of 180167001_264 and the beginning of 180167001_284 (found ship velocity is 0.00 kt)
+    The end of 180167001_284 and the beginning of 180167001_304 (found ship velocity is 0.00 kt)
+    The end of 180167001_304 and the beginning of 180167001_315 (found ship velocity is 0.00 kt)
+    The end of 180167001_315 and the beginning of 180167001_326 (found ship velocity is 0.00 kt)
+    The end of 180167001_326 and the beginning of 180167001_339 (found ship velocity is 0.00 kt)
+    The end of 180167001_339 and the beginning of 180167001_003 (found ship velocity is 0.00 kt)
+    The end of 180167001_003 and the beginning of 180167001_014 (found ship velocity is 0.00 kt)
+    The end of 180167001_014 and the beginning of 180167001_025 (found ship velocity is 0.00 kt)
+    The end of 180167001_025 and the beginning of 180167001_036 (found ship velocity is 0.00 kt)
+    The end of 180167001_036 and the beginning of 180167001_047 (found ship velocity is 0.00 kt)
+    The end of 180167001_047 and the beginning of 180167001_058 (found ship velocity is 0.00 kt)
+    The end of 180167001_058 and the beginning of 180167001_069 (found ship velocity is 0.00 kt)
+    The end of 180167001_069 and the beginning of 180167001_080 (found ship velocity is 0.00 kt)
+    The end of 180167001_080 and the beginning of 180167001_091 (found ship velocity is 0.00 kt)
+    The end of 180167001_138 and the beginning of 180167001_149 (found ship velocity is 0.00 kt)
+    The end of 180167001_149 and the beginning of 180167001_160 (found ship velocity is 0.00 kt)
+    The end of 180167001_160 and the beginning of 180167001_171 (found ship velocity is 0.00 kt)
+    The end of 180167001_171 and the beginning of 180167001_182 (found ship velocity is 0.00 kt)
+    The end of 180167001_182 and the beginning of 180167001_193 (found ship velocity is 0.00 kt)
+    The end of 180167001_193 and the beginning of 180167001_204 (found ship velocity is 0.00 kt)
+    The end of 180167001_204 and the beginning of 180167001_215 (found ship velocity is 0.00 kt)
+    The end of 180167001_215 and the beginning of 180167001_226 (found ship velocity is 0.00 kt)
+    The end of 180167001_226 and the beginning of 180167001_237 (found ship velocity is 0.00 kt)
+    The end of 180167001_237 and the beginning of 180167001_239 (found ship velocity is 0.00 kt)
+    The end of 180167001_239 and the beginning of 180167001_243 (found ship velocity is 0.00 kt)
+    The end of 180167001_243 and the beginning of 180167001_244 (found ship velocity is 0.00 kt)
+    The end of 180167001_244 and the beginning of 180167001_247 (found ship velocity is 0.00 kt)
+    The end of 180167001_247 and the beginning of 180167001_253 (found ship velocity is 0.00 kt)
+    The end of 180167001_253 and the beginning of 180167001_257 (found ship velocity is 0.00 kt)
+    The end of 180167001_257 and the beginning of 180167001_261 (found ship velocity is 0.00 kt)
+    The end of 180167001_261 and the beginning of 180167001_263 (found ship velocity is 0.00 kt)
+    The end of 180167001_263 and the beginning of 180167001_265 (found ship velocity is 0.00 kt)
+    The end of 180167001_265 and the beginning of 180167001_275 (found ship velocity is 0.00 kt)
+    The end of 180167001_276 and the beginning of 180167001_277 (found ship velocity is 0.00 kt)
+    The end of 180167001_277 and the beginning of 180167001_278 (found ship velocity is 0.00 kt)
+    The end of 180167001_278 and the beginning of 180167001_279 (found ship velocity is 0.00 kt)
+    The end of 180167001_280 and the beginning of 180167001_281 (found ship velocity is 0.00 kt)
+    The end of 180167001_283 and the beginning of 180167001_285 (found ship velocity is 0.00 kt)
+Test 1.6 -> No known depth for 180167001_002
+Test 1.6 -> No known depth for 180167001_113
+Test 1.6 -> No known depth for 180167001_225
+Test 1.6 -> No known depth for 180167001_264
+Test 1.6 -> No known depth for 180167001_284
+Test 1.6 -> No known depth for 180167001_304
+Test 1.6 -> No known depth for 180167001_315
+Test 1.6 -> No known depth for 180167001_326
+Test 1.6 -> No known depth for 180167001_339
+Test 1.6 -> No known depth for 180167001_003
+Test 1.6 -> No known depth for 180167001_014
+Test 1.6 -> No known depth for 180167001_025
+Test 1.6 -> No known depth for 180167001_036
+Test 1.6 -> No known depth for 180167001_047
+Test 1.6 -> No known depth for 180167001_058
+Test 1.6 -> No known depth for 180167001_069
+Test 1.6 -> No known depth for 180167001_080
+Test 1.6 -> No known depth for 180167001_091
+Test 1.6 -> No known depth for 180167001_309
+Test 1.6 -> No known depth for 180167001_307
+Test 1.6 -> No known depth for 180167001_305
+Test 1.6 -> No known depth for 180167001_302
+Test 1.6 -> No known depth for 180167001_300
+Test 1.6 -> No known depth for 180167001_298
+Test 1.6 -> No known depth for 180167001_296
+Test 1.6 -> No known depth for 180167001_102
+Test 1.6 -> No known depth for 180167001_411
+Test 1.6 -> No known depth for 180167001_114
+Test 1.6 -> No known depth for 180167001_412
+Test 1.6 -> No known depth for 180167001_413
+Test 1.6 -> No known depth for 180167001_414
+Test 1.6 -> No known depth for 180167001_127
+Test 1.6 -> No known depth for 180167001_415
+Test 1.6 -> No known depth for 180167001_416
+Test 1.6 -> No known depth for 180167001_417
+Test 1.6 -> No known depth for 180167001_138
+Test 1.6 -> No known depth for 180167001_149
+Test 1.6 -> No known depth for 180167001_160
+Test 1.6 -> No known depth for 180167001_171
+Test 1.6 -> No known depth for 180167001_182
+Test 1.6 -> No known depth for 180167001_193
+Test 1.6 -> No known depth for 180167001_204
+Test 1.6 -> No known depth for 180167001_215
+Test 1.6 -> No known depth for 180167001_226
+Test 1.6 -> No known depth for 180167001_237
+Test 1.6 -> No known depth for 180167001_239
+Test 1.6 -> No known depth for 180167001_243
+Test 1.6 -> No known depth for 180167001_244
+Test 1.6 -> No known depth for 180167001_247
+Test 1.6 -> No known depth for 180167001_253
+Test 1.6 -> No known depth for 180167001_257
+Test 1.6 -> No known depth for 180167001_261
+Test 1.6 -> No known depth for 180167001_263
+Test 1.6 -> No known depth for 180167001_265
+Test 1.6 -> No known depth for 180167001_275
+Test 1.6 -> No known depth for 180167001_310
+Test 1.6 -> No known depth for 180167001_308
+Test 1.6 -> No known depth for 180167001_306
+Test 1.6 -> No known depth for 180167001_303
+Test 1.6 -> No known depth for 180167001_301
+Test 1.6 -> No known depth for 180167001_299
+Test 1.6 -> No known depth for 180167001_297
+Test 1.6 -> No known depth for 180167001_276
+Test 1.6 -> No known depth for 180167001_277
+Test 1.6 -> No known depth for 180167001_278
+Test 1.6 -> No known depth for 180167001_279
+Test 1.6 -> No known depth for 180167001_005
+Test 1.6 -> No known depth for 180167001_006
+Test 1.6 -> No known depth for 180167001_007
+Test 1.6 -> No known depth for 180167001_008
+Test 1.6 -> No known depth for 180167001_009
+Test 1.6 -> No known depth for 180167001_010
+Test 1.6 -> No known depth for 180167001_011
+Test 1.6 -> No known depth for 180167001_012
+Test 1.6 -> No known depth for 180167001_013
+Test 1.6 -> No known depth for 180167001_118
+Test 1.6 -> No known depth for 180167001_119
+Test 1.6 -> No known depth for 180167001_120
+Test 1.6 -> No known depth for 180167001_121
+Test 1.6 -> No known depth for 180167001_122
+Test 1.6 -> No known depth for 180167001_123
+Test 1.6 -> No known depth for 180167001_124
+Test 1.6 -> No known depth for 180167001_125
+Test 1.6 -> No known depth for 180167001_126
+Test 1.6 -> No known depth for 180167001_280
+Test 1.6 -> No known depth for 180167001_281
+Test 1.6 -> No known depth for 180167001_228
+Test 1.6 -> No known depth for 180167001_229
+Test 1.6 -> No known depth for 180167001_230
+Test 1.6 -> No known depth for 180167001_231
+Test 1.6 -> No known depth for 180167001_232
+Test 1.6 -> No known depth for 180167001_233
+Test 1.6 -> No known depth for 180167001_234
+Test 1.6 -> No known depth for 180167001_235
+Test 1.6 -> No known depth for 180167001_236
+Test 1.6 -> No known depth for 180167001_282
+Test 1.6 -> No known depth for 180167001_266
+Test 1.6 -> No known depth for 180167001_267
+Test 1.6 -> No known depth for 180167001_268
+Test 1.6 -> No known depth for 180167001_269
+Test 1.6 -> No known depth for 180167001_270
+Test 1.6 -> No known depth for 180167001_271
+Test 1.6 -> No known depth for 180167001_272
+Test 1.6 -> No known depth for 180167001_273
+Test 1.6 -> No known depth for 180167001_274
+Test 1.6 -> No known depth for 180167001_283
+Test 1.6 -> No known depth for 180167001_285
+Test 1.6 -> No known depth for 180167001_286
+Test 1.6 -> No known depth for 180167001_287
+Test 1.6 -> No known depth for 180167001_288
+Test 1.6 -> No known depth for 180167001_289
+Test 1.6 -> No known depth for 180167001_290
+Test 1.6 -> No known depth for 180167001_291
+Test 1.6 -> No known depth for 180167001_292
+Test 1.6 -> No known depth for 180167001_293
+Test 1.6 -> No known depth for 180167001_294
+Test 1.6 -> No known depth for 180167001_295
+180167001_002: Test 3.6 -> Profile 180167001_002 outside TS Monthly Climatology polygons
+180167001_002: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_113: Test 3.6 -> Profile 180167001_113 outside TS Monthly Climatology polygons
+180167001_225: Test 3.6 -> Profile 180167001_225 outside TS Monthly Climatology polygons
+180167001_264: Test 3.6 -> Profile 180167001_264 outside TS Monthly Climatology polygons
+180167001_264: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_284: Test 3.6 -> Profile 180167001_284 outside TS Monthly Climatology polygons
+180167001_304: Test 3.6 -> Profile 180167001_304 outside TS Monthly Climatology polygons
+180167001_315: Test 3.6 -> Profile 180167001_315 outside TS Monthly Climatology polygons
+180167001_315: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_326: Test 3.6 -> Profile 180167001_326 outside TS Monthly Climatology polygons
+180167001_326: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_326: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_326: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_326: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_326: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_326: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_326: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_326: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_339: Test 3.6 -> Profile 180167001_339 outside TS Monthly Climatology polygons
+180167001_339: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_339: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_339: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_339: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_339: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_339: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_339: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_339: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_003: Test 3.6 -> Profile 180167001_003 outside TS Monthly Climatology polygons
+180167001_003: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_003: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_003: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_003: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_003: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_003: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_003: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_014: Test 3.6 -> Profile 180167001_014 outside TS Monthly Climatology polygons
+180167001_014: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_014: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_014: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_014: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_014: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_014: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_014: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_025: Test 3.6 -> Profile 180167001_025 outside TS Monthly Climatology polygons
+180167001_025: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_025: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_025: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_025: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_025: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_036: Test 3.6 -> Profile 180167001_036 outside TS Monthly Climatology polygons
+180167001_036: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_036: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_036: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_036: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_036: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_036: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_047: Test 3.6 -> Profile 180167001_047 outside TS Monthly Climatology polygons
+180167001_047: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_047: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_047: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_047: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_047: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_047: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_047: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_058: Test 3.6 -> Profile 180167001_058 outside TS Monthly Climatology polygons
+180167001_058: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_058: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_058: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_058: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_058: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_069: Test 3.6 -> Profile 180167001_069 outside TS Monthly Climatology polygons
+180167001_069: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_069: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_069: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_069: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_069: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_080: Test 3.6 -> Profile 180167001_080 outside TS Monthly Climatology polygons
+180167001_091: Test 3.6 -> Profile 180167001_091 outside TS Monthly Climatology polygons
+180167001_302: Test 3.5 -> Profile 180167001_302 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180167001_300: Test 3.5 -> Profile 180167001_300 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180167001_298: Test 3.6 -> Profile 180167001_298 outside TS Monthly Climatology polygons
+180167001_298: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 130.0 m
+180167001_296: Test 3.6 -> Profile 180167001_296 outside TS Monthly Climatology polygons
+180167001_102: Test 3.6 -> Profile 180167001_102 outside TS Monthly Climatology polygons
+180167001_411: Test 3.5 -> Profile 180167001_411 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180167001_114: Test 3.6 -> Profile 180167001_114 outside TS Monthly Climatology polygons
+180167001_412: Test 3.5 -> Profile 180167001_412 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180167001_127: Test 3.6 -> Profile 180167001_127 outside TS Monthly Climatology polygons
+180167001_138: Test 3.6 -> Profile 180167001_138 outside TS Monthly Climatology polygons
+180167001_149: Test 3.6 -> Profile 180167001_149 outside TS Monthly Climatology polygons
+180167001_160: Test 3.6 -> Profile 180167001_160 outside TS Monthly Climatology polygons
+180167001_171: Test 3.6 -> Profile 180167001_171 outside TS Monthly Climatology polygons
+180167001_182: Test 3.6 -> Profile 180167001_182 outside TS Monthly Climatology polygons
+180167001_182: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_182: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_182: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_193: Test 3.6 -> Profile 180167001_193 outside TS Monthly Climatology polygons
+180167001_193: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_193: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_193: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_204: Test 3.6 -> Profile 180167001_204 outside TS Monthly Climatology polygons
+180167001_204: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_204: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_215: Test 3.6 -> Profile 180167001_215 outside TS Monthly Climatology polygons
+180167001_215: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_226: Test 3.6 -> Profile 180167001_226 outside TS Monthly Climatology polygons
+180167001_226: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_226: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_237: Test 3.6 -> Profile 180167001_237 outside TS Monthly Climatology polygons
+180167001_237: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_239: Test 3.6 -> Profile 180167001_239 outside TS Monthly Climatology polygons
+180167001_243: Test 3.6 -> Profile 180167001_243 outside TS Monthly Climatology polygons
+180167001_244: Test 3.6 -> Profile 180167001_244 outside TS Monthly Climatology polygons
+180167001_247: Test 3.6 -> Profile 180167001_247 outside TS Monthly Climatology polygons
+180167001_253: Test 3.6 -> Profile 180167001_253 outside TS Monthly Climatology polygons
+180167001_257: Test 3.6 -> Profile 180167001_257 outside TS Monthly Climatology polygons
+180167001_257: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_257: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_257: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_257: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_261: Test 3.6 -> Profile 180167001_261 outside TS Monthly Climatology polygons
+180167001_261: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_261: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_261: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_261: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_263: Test 3.6 -> Profile 180167001_263 outside TS Monthly Climatology polygons
+180167001_263: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_263: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_263: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_263: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_263: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_265: Test 3.6 -> Profile 180167001_265 outside TS Monthly Climatology polygons
+180167001_265: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_265: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_265: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_265: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_265: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_275: Test 3.6 -> Profile 180167001_275 outside TS Monthly Climatology polygons
+180167001_275: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_303: Test 3.5 -> Profile 180167001_303 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180167001_301: Test 3.5 -> Profile 180167001_301 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180167001_299: Test 3.6 -> Profile 180167001_299 outside TS Monthly Climatology polygons
+180167001_299: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180167001_297: Test 3.6 -> Profile 180167001_297 outside TS Monthly Climatology polygons
+180167001_276: Test 3.6 -> Profile 180167001_276 outside TS Monthly Climatology polygons
+180167001_277: Test 3.6 -> Profile 180167001_277 outside TS Monthly Climatology polygons
+180167001_278: Test 3.6 -> Profile 180167001_278 outside TS Monthly Climatology polygons
+180167001_279: Test 3.6 -> Profile 180167001_279 outside TS Monthly Climatology polygons
+180167001_005: Test 3.6 -> Profile 180167001_005 outside TS Monthly Climatology polygons
+180167001_006: Test 3.6 -> Profile 180167001_006 outside TS Monthly Climatology polygons
+180167001_007: Test 3.6 -> Profile 180167001_007 outside TS Monthly Climatology polygons
+180167001_008: Test 3.6 -> Profile 180167001_008 outside TS Monthly Climatology polygons
+180167001_009: Test 3.6 -> Profile 180167001_009 outside TS Monthly Climatology polygons
+180167001_010: Test 3.6 -> Profile 180167001_010 outside TS Monthly Climatology polygons
+180167001_011: Test 3.6 -> Profile 180167001_011 outside TS Monthly Climatology polygons
+180167001_012: Test 3.6 -> Profile 180167001_012 outside TS Monthly Climatology polygons
+180167001_013: Test 3.6 -> Profile 180167001_013 outside TS Monthly Climatology polygons
+180167001_118: Test 3.6 -> Profile 180167001_118 outside TS Monthly Climatology polygons
+180167001_119: Test 3.6 -> Profile 180167001_119 outside TS Monthly Climatology polygons
+180167001_120: Test 3.6 -> Profile 180167001_120 outside TS Monthly Climatology polygons
+180167001_121: Test 3.6 -> Profile 180167001_121 outside TS Monthly Climatology polygons
+180167001_122: Test 3.6 -> Profile 180167001_122 outside TS Monthly Climatology polygons
+180167001_123: Test 3.6 -> Profile 180167001_123 outside TS Monthly Climatology polygons
+180167001_124: Test 3.6 -> Profile 180167001_124 outside TS Monthly Climatology polygons
+180167001_125: Test 3.6 -> Profile 180167001_125 outside TS Monthly Climatology polygons
+180167001_126: Test 3.6 -> Profile 180167001_126 outside TS Monthly Climatology polygons
+180167001_280: Test 3.6 -> Profile 180167001_280 outside TS Monthly Climatology polygons
+180167001_281: Test 3.6 -> Profile 180167001_281 outside TS Monthly Climatology polygons
+180167001_228: Test 3.6 -> Profile 180167001_228 outside TS Monthly Climatology polygons
+180167001_229: Test 3.6 -> Profile 180167001_229 outside TS Monthly Climatology polygons
+180167001_230: Test 3.6 -> Profile 180167001_230 outside TS Monthly Climatology polygons
+180167001_231: Test 3.6 -> Profile 180167001_231 outside TS Monthly Climatology polygons
+180167001_232: Test 3.6 -> Profile 180167001_232 outside TS Monthly Climatology polygons
+180167001_233: Test 3.6 -> Profile 180167001_233 outside TS Monthly Climatology polygons
+180167001_234: Test 3.6 -> Profile 180167001_234 outside TS Monthly Climatology polygons
+180167001_235: Test 3.6 -> Profile 180167001_235 outside TS Monthly Climatology polygons
+180167001_236: Test 3.6 -> Profile 180167001_236 outside TS Monthly Climatology polygons
+180167001_282: Test 3.6 -> Profile 180167001_282 outside TS Monthly Climatology polygons
+180167001_266: Test 3.6 -> Profile 180167001_266 outside TS Monthly Climatology polygons
+180167001_267: Test 3.6 -> Profile 180167001_267 outside TS Monthly Climatology polygons
+180167001_268: Test 3.6 -> Profile 180167001_268 outside TS Monthly Climatology polygons
+180167001_269: Test 3.6 -> Profile 180167001_269 outside TS Monthly Climatology polygons
+180167001_270: Test 3.6 -> Profile 180167001_270 outside TS Monthly Climatology polygons
+180167001_271: Test 3.6 -> Profile 180167001_271 outside TS Monthly Climatology polygons
+180167001_272: Test 3.6 -> Profile 180167001_272 outside TS Monthly Climatology polygons
+180167001_273: Test 3.6 -> Profile 180167001_273 outside TS Monthly Climatology polygons
+180167001_274: Test 3.6 -> Profile 180167001_274 outside TS Monthly Climatology polygons
+180167001_283: Test 3.6 -> Profile 180167001_283 outside TS Monthly Climatology polygons
+180167001_285: Test 3.6 -> Profile 180167001_285 outside TS Monthly Climatology polygons
+180167001_286: Test 3.6 -> Profile 180167001_286 outside TS Monthly Climatology polygons
+180167001_287: Test 3.6 -> Profile 180167001_287 outside TS Monthly Climatology polygons
+180167001_288: Test 3.6 -> Profile 180167001_288 outside TS Monthly Climatology polygons
+180167001_288: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_288: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_288: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_288: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_289: Test 3.6 -> Profile 180167001_289 outside TS Monthly Climatology polygons
+180167001_289: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_289: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_289: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 15.0 m
+180167001_290: Test 3.6 -> Profile 180167001_290 outside TS Monthly Climatology polygons
+180167001_290: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_291: Test 3.6 -> Profile 180167001_291 outside TS Monthly Climatology polygons
+180167001_291: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180167001_291: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180167001_291: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180167001_292: Test 3.6 -> Profile 180167001_292 outside TS Monthly Climatology polygons
+180167001_293: Test 3.6 -> Profile 180167001_293 outside TS Monthly Climatology polygons
+180167001_294: Test 3.6 -> Profile 180167001_294 outside TS Monthly Climatology polygons
+180167001_295: Test 3.6 -> Profile 180167001_295 outside TS Monthly Climatology polygons
+180167001_295: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 25.0 m

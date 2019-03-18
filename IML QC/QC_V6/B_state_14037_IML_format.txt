@@ -1,0 +1,63 @@
+Test 1.5 ->Negative cruise velocity -> Check time of
+    The end of 18HU14037_1417 and the beginning of 18HU14037_1418 (deltaT=-0.0 h; deltaD=0.0 nm)
+    The end of 18HU14037_1417 and the beginning of 18HU14037_1418 (found ship velocity is 0.00 kt)
+18HU14037_1395: Test 3.6 -> Profile 18HU14037_1395 outside TS Monthly Climatology polygons
+18HU14037_1395: Test 3.6 -> Profile 18HU14037_1395 outside Monthly Nutrient Climatology polygons
+18HU14037_1396: Test 3.6 -> Profile 18HU14037_1396 outside TS Monthly Climatology polygons
+18HU14037_1396: Test 3.6 -> Profile 18HU14037_1396 outside Monthly Nutrient Climatology polygons
+18HU14037_1397: Test 3.6 -> Profile 18HU14037_1397 outside TS Monthly Climatology polygons
+18HU14037_1397: Test 3.6 -> Profile 18HU14037_1397 outside Monthly Nutrient Climatology polygons
+18HU14037_1398: Test 3.6 -> Profile 18HU14037_1398 outside TS Monthly Climatology polygons
+18HU14037_1398: Test 3.6 -> Profile 18HU14037_1398 outside Monthly Nutrient Climatology polygons
+18HU14037_1399: Test 3.6 -> Profile 18HU14037_1399 outside TS Monthly Climatology polygons
+18HU14037_1399: Test 3.6 -> Profile 18HU14037_1399 outside Monthly Nutrient Climatology polygons
+18HU14037_1400: Test 3.6 -> Profile 18HU14037_1400 outside TS Monthly Climatology polygons
+18HU14037_1400: Test 3.6 -> Profile 18HU14037_1400 outside Monthly Nutrient Climatology polygons
+18HU14037_1401: Test 3.6 -> Profile 18HU14037_1401 outside TS Monthly Climatology polygons
+18HU14037_1401: Test 3.6 -> Profile 18HU14037_1401 outside Monthly Nutrient Climatology polygons
+18HU14037_1402: Test 3.6 -> Profile 18HU14037_1402 outside TS Monthly Climatology polygons
+18HU14037_1402: Test 3.6 -> Profile 18HU14037_1402 outside Monthly Nutrient Climatology polygons
+18HU14037_1403: Test 3.6 -> Profile 18HU14037_1403 outside TS Monthly Climatology polygons
+18HU14037_1403: Test 3.6 -> Profile 18HU14037_1403 outside Monthly Nutrient Climatology polygons
+18HU14037_1404: Test 3.6 -> Profile 18HU14037_1404 outside TS Monthly Climatology polygons
+18HU14037_1404: Test 3.6 -> Profile 18HU14037_1404 outside Monthly Nutrient Climatology polygons
+18HU14037_1405: Test 3.6 -> Profile 18HU14037_1405 outside TS Monthly Climatology polygons
+18HU14037_1405: Test 3.6 -> Profile 18HU14037_1405 outside Monthly Nutrient Climatology polygons
+18HU14037_1406: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 69.8 m
+18HU14037_1407: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 155.4 m
+18HU14037_1408: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 300.3 m
+18HU14037_1408: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 311.6 m
+18HU14037_1408: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 300.3 m
+18HU14037_1408: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 311.6 m
+18HU14037_1409: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 301.4 m
+18HU14037_1409: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 400.8 m
+18HU14037_1409: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 451.2 m
+18HU14037_1409: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 451.2 m
+18HU14037_1410: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 299.4 m
+18HU14037_1410: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 399.6 m
+18HU14037_1410: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 460.6 m
+18HU14037_1410: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 460.6 m
+18HU14037_1412: Test 3.5 -> Profile 18HU14037_1412 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU14037_1412: Test 3.6 -> Profile 18HU14037_1412 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU14037_1412: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 399.9 m
+18HU14037_1412: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 520.5 m
+18HU14037_1413: Test 3.6 -> Profile 18HU14037_1413 outside TS Monthly Climatology polygons
+18HU14037_1413: Test 3.6 -> Profile 18HU14037_1413 outside Monthly Nutrient Climatology polygons
+18HU14037_1414: Test 3.6 -> Profile 18HU14037_1414 outside TS Monthly Climatology polygons
+18HU14037_1414: Test 3.6 -> Profile 18HU14037_1414 outside Monthly Nutrient Climatology polygons
+18HU14037_1415: Test 3.6 -> Profile 18HU14037_1415 outside TS Monthly Climatology polygons
+18HU14037_1415: Test 3.6 -> Profile 18HU14037_1415 outside Monthly Nutrient Climatology polygons
+18HU14037_1416: Test 3.6 -> Profile 18HU14037_1416 outside TS Monthly Climatology polygons
+18HU14037_1416: Test 3.6 -> Profile 18HU14037_1416 outside Monthly Nutrient Climatology polygons
+18HU14037_1417: Test 3.6 -> Profile 18HU14037_1417 outside TS Monthly Climatology polygons
+18HU14037_1417: Test 3.6 -> Profile 18HU14037_1417 outside Monthly Nutrient Climatology polygons
+18HU14037_1418: Test 3.6 -> Profile 18HU14037_1418 outside TS Monthly Climatology polygons
+18HU14037_1418: Test 3.6 -> Profile 18HU14037_1418 outside Monthly Nutrient Climatology polygons
+18HU14037_1419: Test 3.6 -> Profile 18HU14037_1419 outside TS Monthly Climatology polygons
+18HU14037_1419: Test 3.6 -> Profile 18HU14037_1419 outside Monthly Nutrient Climatology polygons
+18HU14037_1420: Test 3.6 -> Profile 18HU14037_1420 outside TS Monthly Climatology polygons
+18HU14037_1420: Test 3.6 -> Profile 18HU14037_1420 outside Monthly Nutrient Climatology polygons
+18HU14037_1421: Test 3.6 -> Profile 18HU14037_1421 outside TS Monthly Climatology polygons
+18HU14037_1421: Test 3.6 -> Profile 18HU14037_1421 outside Monthly Nutrient Climatology polygons
+18HU14037_1422: Test 3.6 -> Profile 18HU14037_1422 outside TS Monthly Climatology polygons
+18HU14037_1422: Test 3.6 -> Profile 18HU14037_1422 outside Monthly Nutrient Climatology polygons

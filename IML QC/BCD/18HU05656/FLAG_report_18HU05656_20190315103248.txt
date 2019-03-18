@@ -1,0 +1,84 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18HU05656 FLAG Report:,  2019-03-15 10:32:48
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged NITRATE, event 45, station FC-12:
+
+           sample_key depth value   method qc
+ 18HU05656_279_260728     5  1.89 NO2NO3_0  1
+ 18HU05656_279_260727    10  0.90 NO2NO3_0  1
+ 18HU05656_279_260726    21  2.02 NO2NO3_0  1
+ 18HU05656_279_260725    30  1.28 NO2NO3_0  1
+ 18HU05656_279_260724    40  1.01 NO2NO3_0  1
+ 18HU05656_279_260723    50  2.82 NO2NO3_0  2
+ 18HU05656_279_260722    76  8.31 NO2NO3_0  1
+ 18HU05656_279_260721   100 12.22 NO2NO3_0  1
+ 18HU05656_279_260720   129 11.39 NO2NO3_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 45, station FC-12:
+
+           sample_key depth value method qc
+ 18HU05656_279_260728     5  0.47  PO4_0  1
+ 18HU05656_279_260727    10  0.38  PO4_0  1
+ 18HU05656_279_260726    21  0.57  PO4_0  1
+ 18HU05656_279_260725    30  0.36  PO4_0  1
+ 18HU05656_279_260724    40  0.41  PO4_0  2
+ 18HU05656_279_260723    50  0.44  PO4_0  1
+ 18HU05656_279_260722    76  0.90  PO4_0  1
+ 18HU05656_279_260721   100  1.05  PO4_0  1
+ 18HU05656_279_260720   129  0.89  PO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 85, station TB-10:
+
+           sample_key depth value   method qc
+ 18HU05656_334_260970     5  1.76 NO2NO3_0  1
+ 18HU05656_334_260969    10  1.63 NO2NO3_0  1
+ 18HU05656_334_260968    19  1.96 NO2NO3_0  1
+ 18HU05656_334_260967    30  1.92 NO2NO3_0  1
+ 18HU05656_334_260966    40  2.42 NO2NO3_0  1
+ 18HU05656_334_260965    50  3.66 NO2NO3_0  1
+ 18HU05656_334_260964    74  5.66 NO2NO3_0  1
+ 18HU05656_334_260963    98  8.17 NO2NO3_0  1
+ 18HU05656_334_260962   149  8.77 NO2NO3_0  2
+ 18HU05656_334_260961   265 15.12 NO2NO3_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

@@ -1,0 +1,50 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18TL06043 FLAG Report:,  2019-03-15 12:40:46
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged OXYGEN, event IML2006043181, station 181:
+
+ sample_key  depth O2_CTD_mLL qc
+              3.87   257.8668  0
+            232.11   119.7335  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event IML200604371, station 71:
+
+ sample_key  depth O2_CTD_mLL qc
+              2.38   276.3114  0
+            250.83   151.7100  0
+            438.34   187.4827  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

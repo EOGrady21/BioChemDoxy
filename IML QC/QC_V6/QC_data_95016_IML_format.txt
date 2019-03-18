@@ -1,0 +1,27 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU95016_375; 246.00; 162625; slca; 0.00; Impossible Parameter Value in Profile
+18HU95016_375; 297.00; 162624; slca; 0.00; Impossible Parameter Value in Profile
+18HU95016_375; 397.00; 162623; slca; 0.00; Impossible Parameter Value in Profile
+18HU95016_375; 131.00 to 140.00; 162630, 162629; ntrz; 13.85  0.00  ; Gradient or Inversion too high
+18HU95016_375; 140.00 to 150.00; 162629, 162628; ntrz; 0.00  12.51  ; Gradient or Inversion too high
+18HU95016_375; 13.00 to 13.00; 162642, 162643; phos; 0.25  0.00  ; Gradient or Inversion too high
+18HU95016_376; 243.00; 162647; slca; 0.00; Impossible Parameter Value in Profile
+18HU95016_376; 289.00; 162646; slca; 0.00; Impossible Parameter Value in Profile
+18HU95016_376; 390.00; 162645; slca; 0.00; Impossible Parameter Value in Profile
+18HU95016_378; 241.00; 160603; slca; 0.00; Impossible Parameter Value in Profile
+18HU95016_378; 289.00; 160602; slca; 0.00; Impossible Parameter Value in Profile
+18HU95016_378; 390.00; 160601; slca; 0.00; Impossible Parameter Value in Profile
+18HU95016_379; 214.00; 160627; slca; 0.00; Impossible Parameter Value in Profile
+18HU95016_379; 261.00; 160626; slca; 0.00; Impossible Parameter Value in Profile
+18HU95016_379; 388.00; 160625; slca; 0.00; Impossible Parameter Value in Profile
+18HU95016_380; 250.00; 160651; slca; 0.00; Impossible Parameter Value in Profile
+18HU95016_380; 300.00; 160650; slca; 0.00; Impossible Parameter Value in Profile
+18HU95016_380; 400.00; 160649; slca; 0.00; Impossible Parameter Value in Profile
+18HU95016_380; 132.00 to 132.00; 160655, 160656; ntrz; 9.49  9.63  ; Gradient or Inversion too high
+18HU95016_380; 132.00 to 132.00; 160655, 160656; phos; 0.61  0.62  ; Gradient or Inversion too high
+18HU95016_381; 34.00 to 35.00; 160687, 160474; phos; 0.30  1.84  ; Gradient or Inversion too high
+18HU95016_381; 200.00; 160676; ntrz; 26.65  ; Out of Nutrient Climatology in box(es) 7 (Min=0.04 Max=26.65 n=112)
+18HU95016_382; 105.00 to 115.00; 160699, 160698; ntrz; 12.90  0.00  ; Gradient or Inversion too high
+18HU95016_382; 115.00 to 125.00; 160698, 160697; ntrz; 0.00  15.52  ; Gradient or Inversion too high
+18HU95016_387; 2.00; 160476; ntrz; 0.00  ; Constant profile problem
+18HU95016_387; 30.00; 160477; ntrz; 0.00  ; Constant profile problem

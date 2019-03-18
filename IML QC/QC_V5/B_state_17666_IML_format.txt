@@ -1,0 +1,13 @@
+    The end of 18VA17666_002 and the beginning of 18VA17666_113 (found ship velocity is 0.00 kt)
+    The end of 18VA17666_113 and the beginning of 18VA17666_225 (found ship velocity is 0.00 kt)
+    The end of 18VA17666_225 and the beginning of 18VA17666_264 (found ship velocity is 0.00 kt)
+    The end of 18VA17666_264 and the beginning of 18VA17666_284 (found ship velocity is 0.00 kt)
+    The end of 18VA17666_284 and the beginning of 18VA17666_304 (found ship velocity is 0.00 kt)
+Test 1.6 -> No known depth for 18VA17666_002
+Test 1.6 -> No known depth for 18VA17666_113
+Test 1.6 -> No known depth for 18VA17666_225
+Test 1.6 -> No known depth for 18VA17666_264
+Test 1.6 -> No known depth for 18VA17666_284
+Test 1.6 -> No known depth for 18VA17666_304
+Test 1.6 -> No known depth for 18VA17666_315
+18VA17666_315: Test 3.6 -> Profile 18VA17666_315 outside TS Monthly Climatology polygons

@@ -1,0 +1,70 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+HUD2000050_010; 13.77 to 13.83; 232279, 232280; ntrz; 0.38  0.27  ; Gradient or Inversion too high
+HUD2000050_010; 13.77 to 13.83; 232279, 232280; phos; 0.31  0.39  ; Gradient or Inversion too high
+HUD2000050_021; 13.29 to 13.47; 232288, 232289; ntrz; 1.86  1.49  ; Gradient or Inversion too high
+HUD2000050_021; 23.15 to 23.16; 232286, 232285; ntrz; 4.24  4.38  ; Gradient or Inversion too high
+HUD2000050_021; 23.15 to 23.16; 232286, 232285; phos; 0.87  0.76  ; Gradient or Inversion too high
+HUD2000050_046; 756.29; 232345; pres; 756.29  ; Regional Impossible Parameter Value
+HUD2000050_046; 1039.92; 232344; pres; 1039.92  ; Regional Impossible Parameter Value
+HUD2000050_046; 54.34 to 58.44; 232352, 232350; ntrz; 0.71  5.51  ; Gradient or Inversion too high
+HUD2000050_049; 1004.80; 232361; pres; 1004.80  ; Regional Impossible Parameter Value
+HUD2000050_049; 1496.14; 232360; pres; 1496.14  ; Regional Impossible Parameter Value
+HUD2000050_049; 1867.59; 232359; pres; 1867.59  ; Regional Impossible Parameter Value
+HUD2000050_049; 15.32 to 15.37; 232373, 232374; ntrz; 0.21  0.39  ; Gradient or Inversion too high
+HUD2000050_049; 35.55 to 35.57; 232370, 232369; ntrz; 4.47  4.32  ; Gradient or Inversion too high
+HUD2000050_049; 35.55 to 35.57; 232370, 232369; phos; 0.74  0.61  ; Gradient or Inversion too high
+HUD2000050_057; 944.92; 232381; pres; 944.92  ; Regional Impossible Parameter Value
+HUD2000050_057; 1455.23; 232380; pres; 1455.23  ; Regional Impossible Parameter Value
+HUD2000050_057; 1858.56; 232379; pres; 1858.56  ; Regional Impossible Parameter Value
+HUD2000050_058; 755.41; 232394; pres; 755.41  ; Regional Impossible Parameter Value
+HUD2000050_058; 936.12; 232393; pres; 936.12  ; Regional Impossible Parameter Value
+HUD2000050_058; 53.02 to 53.48; 232401, 232400; ntrz; 6.90  5.48  ; Gradient or Inversion too high
+HUD2000050_117; 755.75; 232504; pres; 755.75  ; Regional Impossible Parameter Value
+HUD2000050_117; 1013.00; 232503; pres; 1013.00  ; Regional Impossible Parameter Value
+HUD2000050_117; 42.62 to 42.67; 232512, 232511; ntrz; 0.28  0.22  ; Gradient or Inversion too high
+HUD2000050_117; 42.62 to 42.67; 232512, 232511; phos; 0.34  0.27  ; Gradient or Inversion too high
+HUD2000050_137; 997.84; 232520; pres; 997.84  ; Regional Impossible Parameter Value
+HUD2000050_137; 1503.31; 232519; pres; 1503.31  ; Regional Impossible Parameter Value
+HUD2000050_137; 2092.68; 232518; pres; 2092.68  ; Regional Impossible Parameter Value
+HUD2000050_137; 15.24 to 15.25; 232533, 232532; ntrz; 0.41  0.17  ; Gradient or Inversion too high
+HUD2000050_137; 45.26 to 45.30; 232528, 232527; ntrz; 0.28  0.23  ; Gradient or Inversion too high
+HUD2000050_137; 15.24 to 15.25; 232533, 232532; phos; 0.31  0.12  ; Gradient or Inversion too high
+HUD2000050_137; 45.26 to 45.30; 232528, 232527; phos; 0.16  0.29  ; Gradient or Inversion too high
+HUD2000050_174; 52.66 to 52.87; 232573, 232572; ntrz; 7.12  6.54  ; Gradient or Inversion too high
+HUD2000050_190; 894.45; 232604; pres; 894.45  ; Regional Impossible Parameter Value
+HUD2000050_190; 1348.11; 232603; pres; 1348.11  ; Regional Impossible Parameter Value
+HUD2000050_190; 1912.38; 232602; pres; 1912.38  ; Regional Impossible Parameter Value
+HUD2000050_204; 1000.22; 232652; pres; 1000.22  ; Regional Impossible Parameter Value
+HUD2000050_204; 1520.06; 232651; pres; 1520.06  ; Regional Impossible Parameter Value
+HUD2000050_204; 2836.06; 232650; pres; 2836.06  ; Regional Impossible Parameter Value
+HUD2000050_210; 769.22; 232670; pres; 769.22  ; Regional Impossible Parameter Value
+HUD2000050_240; 99.26; 232755; ntrz; 12.42  ; Out of Nutrient Climatology in box(es) 9 (Min=0.63; Max=10.28; n=172)
+HUD2000050_240; 9.54; 232762; phos; 0.34  ; Out of Nutrient Climatology in box(es) 9 (Min=0.38; Max=0.60; n=33)
+HUD2000050_243; 10.59 to 10.64; 232776, 232775; ntrz; 0.91  0.77  ; Gradient or Inversion too high
+HUD2000050_243; 330.33; 232764; ntrz; 23.01  ; Out of Nutrient Climatology in box(es) 9 (Min=5.63; Max=21.46; n=101)
+HUD2000050_246; 464.48; 232778; ntrz; 22.05  ; Out of Nutrient Climatology in box(es) 9 (Min=5.63; Max=21.46; n=101)
+HUD2000050_246; 464.48; 232778; phos; 1.73  ; Out of Nutrient Climatology in box(es) 9 (Min=0.87; Max=1.73; n=111)
+HUD2000050_251; 23.81 to 23.97; 232799, 232800; ntrz; 0.87  1.07  ; Gradient or Inversion too high
+HUD2000050_251; 470.91; 232790; ntrz; 22.01  ; Out of Nutrient Climatology in box(es) 9 (Min=5.63; Max=21.46; n=101)
+HUD2000050_259; 30.25; 232815; ntrz; 6.48  ; Out of Nutrient Climatology in box(es) 10 (Min=2.00; Max=6.39; n=11)
+HUD2000050_259; 99.89; 232810; ntrz; 8.38  ; Out of Nutrient Climatology in box(es) 10 (Min=5.10; Max=7.89; n=37)
+HUD2000050_260; 4.25; 232825; phos; 0.39  ; Out of Nutrient Climatology in box(es) 8 (Min=0.40; Max=0.97; n=41)
+HUD2000050_260; 10.68; 232824; phos; 0.35  ; Out of Nutrient Climatology in box(es) 8 (Min=0.36; Max=1.02; n=38)
+HUD2000050_260; 20.73; 232823; phos; 0.36  ; Out of Nutrient Climatology in box(es) 8 (Min=0.36; Max=1.02; n=38)
+HUD2000050_260; 10.68; 232824; slca; 0.59  ; Out of Nutrient Climatology in box(es) 8 (Min=0.60; Max=6.06; n=39)
+HUD2000050_260; 30.97; 232822; slca; 0.66  ; Out of Nutrient Climatology in box(es) 8 (Min=1.17; Max=10.17; n=105)
+HUD2000050_267; 23.23 to 23.24; 232835, 232834; ntrz; 0.32  1.04  ; Gradient or Inversion too high
+HUD2000050_267; 23.23 to 23.24; 232835, 232834; phos; 0.33  0.51  ; Gradient or Inversion too high
+HUD2000050_267; 3.83; 232842; phos; 0.39  ; Out of Nutrient Climatology in box(es) 8 (Min=0.40; Max=0.97; n=41)
+HUD2000050_267; 13.51; 232837; phos; 0.28  ; Out of Nutrient Climatology in box(es) 8 (Min=0.36; Max=1.02; n=38)
+HUD2000050_267; 14.00; 232838; phos; 0.32  ; Out of Nutrient Climatology in box(es) 8 (Min=0.36; Max=1.02; n=38)
+HUD2000050_267; 23.23; 232835; phos; 0.33  ; Out of Nutrient Climatology in box(es) 8 (Min=0.36; Max=1.02; n=38)
+HUD2000050_267; 32.44; 232833; slca; 0.38  ; Out of Nutrient Climatology in box(es) 8 (Min=1.17; Max=10.17; n=105)
+HUD2000050_270; 3.23; 232856; phos; 0.31  ; Out of Nutrient Climatology in box(es) 8 (Min=0.40; Max=0.97; n=41)
+HUD2000050_270; 12.83; 232854; phos; 0.35  ; Out of Nutrient Climatology in box(es) 8 (Min=0.36; Max=1.02; n=38)
+HUD2000050_270; 13.07; 232855; phos; 0.32  ; Out of Nutrient Climatology in box(es) 8 (Min=0.36; Max=1.02; n=38)
+HUD2000050_270; 23.04; 232853; phos; 0.26  ; Out of Nutrient Climatology in box(es) 8 (Min=0.36; Max=1.02; n=38)
+HUD2000050_270; 32.84; 232852; slca; 0.88  ; Out of Nutrient Climatology in box(es) 8 (Min=1.17; Max=10.17; n=105)
+HUD2000050_276; 4.56; 232868; phos; 0.36  ; Out of Nutrient Climatology in box(es) 8 (Min=0.40; Max=0.97; n=41)
+HUD2000050_279; 3.95; 232878; phos; 0.38  ; Out of Nutrient Climatology in box(es) 8 (Min=0.40; Max=0.97; n=41)
+HUD2000050_279; 10.65; 232877; phos; 0.29  ; Out of Nutrient Climatology in box(es) 8 (Min=0.36; Max=1.02; n=38)

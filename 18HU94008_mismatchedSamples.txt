@@ -1,0 +1,96 @@
+      DIS_DATA_NUM   MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID
+35391           NA JGOFS1994          18HU94008                       32
+35696           NA JGOFS1994          18HU94008                       30
+      EVENT_COLLECTOR_STN_NAME DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH
+35391                       NA                2743.01              2743.01
+35696                       NA                2708.30              2708.30
+      DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE DIS_HEADER_STIME
+35391        59.98967        -48.8960       1994-05-30             2300
+35696        59.98467        -48.8965       1994-05-30             2210
+      DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL
+35391          90000007       O2_Winkler            395.3303
+35696          90000007       O2_Winkler            300.1599
+      DIS_DETAIL_DATA_QC_CODE DIS_DETAIL_DETECTION_LIMIT
+35391                       2                         NA
+35696                       3                         NA
+      DIS_DETAIL_DETAIL_COLLECTOR DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY
+35391                          NA                       140283 Jay Bugden
+35696                          NA                       140283 Jay Bugden
+      CREATED_DATE DATA_CENTER_CODE INSTITUTE PROCESS_FLAG BATCH_SEQ
+35391           NA               23       BIO           NR        NA
+35696           NA               23       BIO           NR        NA
+      DIS_SAMPLE_KEY_VALUE
+35391                2e+13
+35696                2e+13
+      DIS_DATA_NUM   MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID
+35389           NA JGOFS1994          18HU94008                       41
+35750           NA JGOFS1994          18HU94008                       37
+      EVENT_COLLECTOR_STN_NAME DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH
+35389                       NA                 3546.6               3546.6
+35750                       NA                 3488.8               3488.8
+      DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE DIS_HEADER_STIME
+35389        57.38967       -51.75867       1994-06-01             1804
+35750        57.37383       -51.78850       1994-06-01             1701
+      DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL
+35389          90000007       O2_Winkler            307.7521
+35750          90000007       O2_Winkler            301.0977
+      DIS_DETAIL_DATA_QC_CODE DIS_DETAIL_DETECTION_LIMIT
+35389                       3                         NA
+35750                       0                         NA
+      DIS_DETAIL_DETAIL_COLLECTOR DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY
+35389                          NA                       140460 Jay Bugden
+35750                          NA                       140460 Jay Bugden
+      CREATED_DATE DATA_CENTER_CODE INSTITUTE PROCESS_FLAG BATCH_SEQ
+35389           NA               23       BIO           NR        NA
+35750           NA               23       BIO           NR        NA
+      DIS_SAMPLE_KEY_VALUE
+35389                2e+13
+35750                2e+13
+      DIS_DATA_NUM   MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID
+35384           NA JGOFS1994          18HU94008                       44
+35579           NA JGOFS1994          18HU94008                       40
+      EVENT_COLLECTOR_STN_NAME DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH
+35384                       NA                   5.74                 5.74
+35579                       NA                   5.74                 5.74
+      DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE DIS_HEADER_STIME
+35384        56.54267       -52.68967       1994-06-02              821
+35579        56.53650       -52.68000       1994-06-02              722
+      DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL
+35384          90000007       O2_Winkler            358.7538
+35579          90000007       O2_Winkler            354.9130
+      DIS_DETAIL_DATA_QC_CODE DIS_DETAIL_DETECTION_LIMIT
+35384                       3                         NA
+35579                       0                         NA
+      DIS_DETAIL_DETAIL_COLLECTOR DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY
+35384                          NA                       140523 Jay Bugden
+35579                          NA                       140523 Jay Bugden
+      CREATED_DATE DATA_CENTER_CODE INSTITUTE PROCESS_FLAG BATCH_SEQ
+35384           NA               23       BIO           NR        NA
+35579           NA               23       BIO           NR        NA
+      DIS_SAMPLE_KEY_VALUE
+35384                2e+13
+35579                2e+13
+      DIS_DATA_NUM   MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID
+35385           NA JGOFS1994          18HU94008                       52
+35782           NA JGOFS1994          18HU94008                       46
+      EVENT_COLLECTOR_STN_NAME DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH
+35385                       NA                2832.66              2832.66
+35782                       NA                2795.66              2795.66
+      DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE DIS_HEADER_STIME
+35385        55.60717       -53.61350       1994-06-03             1600
+35782        55.61200       -53.62767       1994-06-03             1509
+      DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL
+35385          90000007       O2_Winkler            -4.10872
+35782          90000007       O2_Winkler           306.59090
+      DIS_DETAIL_DATA_QC_CODE DIS_DETAIL_DETECTION_LIMIT
+35385                       4                         NA
+35782                       3                         NA
+      DIS_DETAIL_DETAIL_COLLECTOR DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY
+35385                          NA                       140606 Jay Bugden
+35782                          NA                       140606 Jay Bugden
+      CREATED_DATE DATA_CENTER_CODE INSTITUTE PROCESS_FLAG BATCH_SEQ
+35385           NA               23       BIO           NR        NA
+35782           NA               23       BIO           NR        NA
+      DIS_SAMPLE_KEY_VALUE
+35385                2e+13
+35782                2e+13

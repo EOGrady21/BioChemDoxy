@@ -1,0 +1,10 @@
+Test 1.6 -> No known depth for 18HU09015_225
+Test 1.6 -> No known depth for 18HU09015_106
+Test 1.6 -> No known depth for 18HU09015_108
+Test 1.6 -> No known depth for 18HU09015_110
+Test 1.6 -> No known depth for 18HU09015_115
+Test 1.6 -> No known depth for 18HU09015_123
+Test 1.6 -> No known depth for 18HU09015_125
+Test 1.6 -> No known depth for 18HU09015_130
+18HU09015_225: Test 3.6 -> Profile 18HU09015_225 outside TS Monthly Climatology polygons
+18HU09015_225: Test 3.6 -> Profile 18HU09015_225 outside Monthly Nutrient Climatology polygons

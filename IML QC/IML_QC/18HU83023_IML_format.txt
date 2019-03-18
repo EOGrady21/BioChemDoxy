@@ -1,0 +1,7 @@
+CTD;CTD;CTD;CTD;CTD;CTD;CTD;CTD;labo;labo;labo;labo
+Fichier;Station;Latitude;Longitude;Echantillon;zbouteille;Date;Heure;Si_01;PO4_01;NOx_01;CHL_01
+(nom);(nom/no);(degres);(degres);(no_unique);(dbar);(jj-mmm-yyyy);(GMT);(mmol/m**3);(mmol/m**3);(mmol/m**3);(mg/m**3)
+18HU83023_331;0;45.45;-57.97;8309001;0;29-jul-83;00:00:00;0.85;0.22;0.03;0.417
+18HU83023_331;0;45.45;-57.97;8309002;0;29-jul-83;00:00:00;0.85;0.22;0.03;0.417
+18HU83023_332;1;46.87;-52.05;8309003;3;30-jul-83;00:00:00;0.35;0.2;0.02;0.241
+18HU83023_332;1;46.87;-52.05;8309004;3;30-jul-83;00:00:00;0.35;0.2;0.02;0.241

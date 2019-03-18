@@ -1,0 +1,241 @@
+---
+title: "Oxygen QC"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+---
+ This notebook describes the pre processing done on Oxygen data in order to parse historical data before QC procedures. There have been consistent issues with the quality of historical oxygen data at BIO and this project for Catherine Johnson requires high quality, reliable oxygen data for analyzing nutrient and oxygen trends on the scotian shelf. The following stes were taken to ensure the removal of any unreliable data from the historical set. 
+ 
+ Data was pulled from BIOCHEM database by Shelley Bond, where possible, data was pulled from an updated set known as the BIOCHEM reboot. This updated set has been quality controlled by Gordana Lazin and is already high quality, reliable data from 1990-2013. There were significant issues in the pre 1990 data set from BIOCHEM. These issues have been described in multiple reports by Bond and Lazin. The main issues that were identified and that this pre processing attempts to remove were as follows:
+ 
+ 1. The data set included a large chunk of data collected by external organizations and groups outside DFO which were considered unreliable as there is often little informations about the source methods used on collection.
+
+ 2. The data set needed to be isolated to a relevant geographical area for the area of concern to this particular study
+ 
+ 3. There were many input errors in the data set from cruises being duplicated to incorrect metadata including start/end dates, lat/lon information and mission descriptor and sample ID information
+ 
+ 4. The units in BIOCHEM for oxygen were all listed as mmol/m3 however this is incorrect and was the default setting depsite data being entered in various units including ml/l and % saturation
+ 
+ The data set pulled by Bond was according to the following SQL script
+ 
+
+```{sql , eval = FALSE}
+
+alter session set nls_date_format = 'DD/MM/YYYY';
+
+call the file below Emily_Winkler
+
+SELECT 
+NULL dis_data_num,
+  name mission,
+  DESCRIPTOR mission_descriptor,
+--  LEADER,
+--  MISSION_START,
+--  MISSION_END,
+--  INSTITUTE,
+  COLLECTOR_EVENT_ID event_collector_Event_id,
+  COLLECTOR_STATION_NAME event_collector_stn_name,
+  HEADER_START_DEPTH Dis_header_start_depth,
+  HEADER_END_DEPTH dis_header_end_depth,
+  HEADER_START_LAT dis_header_slat,
+  HEADER_START_LON dis_header_slon,
+  HEADER_START dis_header_sdate,
+  HEADER_START_TIME dis_header_stime,
+  DATA_TYPE_SEQ dis_data_type_seq,
+  METHOD Data_type_method,
+  DATA_VALUE dis_detail_data_val,   
+  DATA_QC_CODE dis_detail_data_qc_code,
+  null Dis_detail_detection_limit,
+  COLLECTOR Dis_detail_detail_collector,
+  COLLECTOR_SAMPLE_ID dis_detail_collector_samp_id,
+  'Jay Bugden' created_by,
+  null created_date,
+  DATA_CENTER_CODE,
+  Institute,
+  'NR' Process_flag,
+  null batch_seq,
+  discrete_detail_seq dis_sample_key_value
+FROM DISCRETE_DATA
+WHERE upper(method) like '%WINKLER%'
+and institute not in ('Ministerio de la Ind','IOS','DALHOUSIE UNIVERSITY',
+'DAL','DalhousieU','Private','PINRO','US DOC NOAA NMFS (WO','DREP')
+and descriptor NOT IN
+(select distinct mission_descriptor from gordana_winkler)
+UNION ALL
+select * from gordana_winkler
+;
+
+The next file should be called Emily_all_dupe_sampleids
+
+select mission, mission_descriptor, w.dis_detail_collector_samp_id,
+dis_header_sdate, dis_header_stime,
+Dis_header_start_depth,
+dis_detail_data_val
+from emily_winkler w, (
+select dis_detail_collector_samp_id, count(1)
+from emily_winkler 
+group by dis_detail_collector_samp_id
+having count(1) > 1) e
+where
+w.dis_detail_collector_samp_id = e.dis_detail_collector_samp_id
+--and w.dis_detail_collector_samp_id not like '-%'
+--and data_center_code != 30
+order by dis_detail_collector_samp_id
+;
+
+The next file Emily_dupe_sampids_metadata
+
+select e.mission_descriptor, e.dis_detail_collector_samp_id,
+e.dis_header_sdate, e.dis_header_stime,
+e.Dis_header_start_depth, e.dis_detail_data_val
+from emily_winkler e, (
+select mission_descriptor, dis_detail_collector_samp_id,
+dis_header_sdate, dis_header_stime,
+Dis_header_start_depth, count(1)
+from emily_winkler 
+group by mission_descriptor, dis_detail_collector_samp_id, 
+dis_header_sdate, dis_header_stime, Dis_header_start_depth
+having count(1) > 1) d
+where  e.mission_descriptor =  d.mission_descriptor
+and  e.dis_detail_collector_samp_id = d.dis_detail_collector_samp_id
+and e.dis_header_sdate = d.dis_header_sdate
+and e.dis_header_stime = d.dis_header_stime
+and e.Dis_header_start_depth = d.Dis_header_start_depth;
+```
+
+
+This script pulled all relevant Winkler oxygen data from BIOCHEM after it was previously established that electrode and probe data were too unreliable to be included.
+
+
+The first step was to determine the actual units of the data within the historical set. This was done using Lazin's ranges for oxygen units. 
+
+0-14 is assumed to be ml/l
+50-105 is assumed to be % stauration
+105-400 is assumed to be mmol/m3
+14-90 is considered suspect as it is possible these values could be recorded in multiple units
+Values less than 0 were thrown out due to them being outside of possible data range
+
+Data was grouped by potential unit.
+
+```{r, eval = FALSE}
+mll <- length(data$DIS_DETAIL_DATA_VAL[data$DIS_DETAIL_DATA_VAL < 14])
+mmolm <- length(data$DIS_DETAIL_DATA_VAL[data$DIS_DETAIL_DATA_VAL > 105])
+unkn <- length(data$DIS_DETAIL_DATA_VAL[data$DIS_DETAIL_DATA_VAL >= 14 & data$DIS_DETAIL_DATA_VAL <= 105])
+err <- length(data$DIS_DETAIL_DATA_VAL[data$DIS_DETAIL_DATA_VAL < 0])
+
+```
+
+
+Data was then checked for duplicate using a file pulled by Bond from SQL to identify duplicates in metadata and flags were placed in data set if data values were exactly duplicated.
+
+
+```{r, eval =FALSE}
+dupes <- read_xlsx('D:/DATA/Dec27-Winkler/Emily_dupe_sampids_metadata.xlsx')
+
+#flag duplicated data values
+tf <- duplicated(dupes$DIS_DETAIL_DATA_VAL)
+for (i in 1:length(dupes$DIS_DETAIL_DATA_VAL)){
+
+if (tf[i] == T){
+  dupes$flag[i] <- 4
+}
+
+}
+```
+
+
+Geographical limitations were then set on data based on area of interest to the specific study. Records outside the boundaries of -72:-48 Latitude and 37.5:48 Longitude were then flagged "5" in the data set.
+
+```{r, eval =F}
+geolim <- data$DIS_DETAIL_DATA_VAL[data$DIS_HEADER_SLON > -72 & data$DIS_HEADER_SLON < -48 & data$DIS_HEADER_SLAT > 37.5 & data$DIS_HEADER_SLAT < 48]
+
+
+for (i in 1:length(data$DIS_DATA_NUM)){
+  if (!(data$DIS_HEADER_SLON[i] > -72 & data$DIS_HEADER_SLON[i] < -48 & data$DIS_HEADER_SLAT[i] > 37.5 & data$DIS_HEADER_SLAT[i] < 48)){
+    data$DIS_DETAIL_DATA_QC_CODE[i] <- 5 #outside geographical limits
+    
+  }
+}
+
+```
+
+Check for start and end dates within correct boundaries.
+
+```{r, eval = F}
+#check start/end dates
+#master mission list dates are in weird format, difficult to compare (YYYYMMDD - as numeric)
+#convert to readable date
+#dd <- as.character(master$startdate)
+#as.Date(dd, "%Y%m%d")
+
+
+#sink(file = 'date_check_3.txt')
+
+mismatch <- list()
+for (i in 1:length(data$MISSION_DESCRIPTOR)){
+  g <- grep(master$CR_NUMBER, pattern = data$MISSION_DESCRIPTOR[i])
+  if (length(g) > 0){
+    sdate<- as.character(master$START_DATE[g])
+    sdate <- as.Date(sdate, "%Y%m%d")
+    edate<- as.character(master$END_DATE[g])
+    edate <- as.Date(edate, "%Y%m%d")
+    if (!(sdate <= as.Date(data$DIS_HEADER_SDATE[i]) & as.Date(data$DIS_HEADER_SDATE[i]) <= edate)){
+mismatch[i] <- data$MISSION_DESCRIPTOR[i]
+      
+          }
+    
+  }
+}
+
+
+length(unique(unlist(mismatch)))
+
+
+#sink()
+```
+
+
+To check unit ranges visually in cases where unit is ambiguous based solely on value range
+This script plots data by cruise and prompts user to choose mll or mmolm or unknown for further investigation
+
+
+```{r, eval = F}
+#run unit check to ensure correct units going into QC
+
+#check ranges, set unit field to appropriate? if falls in unknown range?
+#update to appropriate name for unit column form BCD
+
+for (i in 1:length(unique(data$MISSION_DESCRIPTOR))){
+  miss <- unique(data$MISSION_DESCRIPTOR)[i]
+  if(max(data$DIS_DETAIL_DATA_VAL[data$MISSION_DESCRIPTOR == miss]) <=14){
+    data$UNIT[data$MISSION_DESCRIPTOR == miss] <- 'mll'
+  }
+  if (min(data$DIS_DETAIL_DATA_VAL[data$MISSION_DESCRIPTOR == miss]) >=105){
+    data$UNIT[data$MISSION_DESCRIPTOR == miss] <- 'mmolm'
+  }
+  else {
+    if(!any(is.na(data$DIS_DETAIL_COLLECTOR_SAMP_ID[data$MISSION_DESCRIPTOR == miss]))){
+      print(paste('Cruise', miss, 'has values in unknown range!'))
+      plot(x = data$DIS_DETAIL_COLLECTOR_SAMP_ID[data$MISSION_DESCRIPTOR == miss], y = data$DIS_DETAIL_DATA_VAL[data$MISSION_DESCRIPTOR == miss], xlab = 'SampleID' , ylab = 'Oxygen Value', main = miss)
+      abline(h = 14, col ='blue')
+      abline(h = 105, col = 'red')
+      a <- menu(c('mll', 'mmolm', 'unkn'), graphics = F, title = 'Estimated Oxygen Units')
+    if (a == 1){
+      data$UNIT[data$MISSION_DESCRIPTOR == miss] <- 'mll'
+      data$DIS_DETAIL_DATA_QC_CODE[data$MISSION_DESCRIPTOR == miss] <- 7 #flag for manual or unsure units?
+    }
+    if (a == 2){
+      data$UNIT[data$MISSION_DESCRIPTOR == miss] <- 'mmolm'
+      data$DIS_DETAIL_DATA_QC_CODE[data$MISSION_DESCRIPTOR == miss] <- 7
+    }
+    if (a == 3){
+      data$DIS_DETAIL_DATA_QC_CODE[data$MISSION_DESCRIPTOR == miss] <- 7
+    }
+    }
+  }
+}
+```
+
+

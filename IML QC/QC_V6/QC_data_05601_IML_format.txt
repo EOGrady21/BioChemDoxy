@@ -1,0 +1,6 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL05601_264; 150.39; 259585; phos; 1.10  ; Out of Nutrient Climatology in box(es) 9 (Min=0.35 Max=1.04 n=11)
+18TL05601_264; 168.10; 259584; phos; 1.22  ; Out of Nutrient Climatology in box(es) 9 (Min=0.35 Max=1.04 n=11)
+18TL05601_264; 150.39; 259585; slca; 12.24  ; Out of Nutrient Climatology in box(es) 9 (Min=0.87 Max=9.11 n=10)
+18TL05601_264; 168.10; 259584; slca; 13.61  ; Out of Nutrient Climatology in box(es) 9 (Min=0.87 Max=9.11 n=10)
+18TL05601_304; 85.95; 259595; phos; 2.02  ; Out of Nutrient Climatology in box(es) 9 (Min=0.09 Max=1.18 n=215)

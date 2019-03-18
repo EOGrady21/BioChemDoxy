@@ -1,0 +1,7 @@
+    The end of 18OK05644_002 and the beginning of 18OK05644_113 (found ship velocity is 0.00 kt)
+Test 1.6 -> No known depth for 18OK05644_002
+Test 1.6 -> No known depth for 18OK05644_113
+18OK05644_002: Test 3.6 -> Profile 18OK05644_002 outside TS Monthly Climatology polygons
+18OK05644_002: Test 3.6 -> Profile 18OK05644_002 outside Monthly Nutrient Climatology polygons
+18OK05644_113: Test 3.6 -> Profile 18OK05644_113 outside TS Monthly Climatology polygons
+18OK05644_113: Test 3.6 -> Profile 18OK05644_113 outside Monthly Nutrient Climatology polygons

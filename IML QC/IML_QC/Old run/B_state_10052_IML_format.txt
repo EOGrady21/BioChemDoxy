@@ -1,0 +1,32 @@
+18TL10052_1109: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL10052_1109: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL10052_1109: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL10052_1109: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL10052_1109: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL10052_1109: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL10052_1109: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL10052_1109: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL10052_1109: Test 3.5 -> Profile 18TL10052_1109 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18TL10052_1109: Test 3.6 -> Profile 18TL10052_1109 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18TL10052_1109: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 53.4 m
+18TL10052_1110: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL10052_1110: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL10052_1110: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL10052_1110: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL10052_1110: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL10052_1110: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL10052_1111: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL10052_1111: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL10052_1111: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL10052_1111: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL10052_1111: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL10052_1111: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL10052_1111: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL10052_1111: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL10052_1112: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL10052_1112: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL10052_1112: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL10052_1112: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL10052_1112: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL10052_1112: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL10052_1112: Test 3.5 -> Profile 18TL10052_1112 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes

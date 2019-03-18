@@ -1,0 +1,8 @@
+18VA18668_1719: Test 2.1 -> Global Impossible Parameter Value for doxy
+18VA18668_1719: Test 2.1 -> Global Impossible Parameter Value for doxy
+18VA18668_1719: Test 2.1 -> Global Impossible Parameter Value for doxy
+18VA18668_1719: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18VA18668_1719: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18VA18668_1719: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18VA18668_1719: Test 3.6 -> Profile 18VA18668_1719 outside TS Monthly Climatology polygons
+18VA18668_1719: Test 3.6 -> Profile 18VA18668_1719 outside Monthly Nutrient Climatology polygons

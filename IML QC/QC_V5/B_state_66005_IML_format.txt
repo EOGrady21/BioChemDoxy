@@ -1,0 +1,281 @@
+    The end of 180166005_284 and the beginning of 180166005_326 (found ship velocity is 0.00 kt)
+    The end of 180166005_326 and the beginning of 180166005_003 (found ship velocity is 0.00 kt)
+    The end of 180166005_003 and the beginning of 180166005_014 (found ship velocity is 0.00 kt)
+    The end of 180166005_014 and the beginning of 180166005_036 (found ship velocity is 0.00 kt)
+    The end of 180166005_036 and the beginning of 180166005_058 (found ship velocity is 0.00 kt)
+    The end of 180166005_058 and the beginning of 180166005_091 (found ship velocity is 0.00 kt)
+    The end of 180166005_091 and the beginning of 180166005_102 (found ship velocity is 0.00 kt)
+    The end of 180166005_102 and the beginning of 180166005_138 (found ship velocity is 0.00 kt)
+    The end of 180166005_138 and the beginning of 180166005_149 (found ship velocity is 0.00 kt)
+    The end of 180166005_149 and the beginning of 180166005_182 (found ship velocity is 0.00 kt)
+    The end of 180166005_182 and the beginning of 180166005_204 (found ship velocity is 0.00 kt)
+    The end of 180166005_204 and the beginning of 180166005_239 (found ship velocity is 0.00 kt)
+    The end of 180166005_239 and the beginning of 180166005_244 (found ship velocity is 0.00 kt)
+    The end of 180166005_244 and the beginning of 180166005_247 (found ship velocity is 0.00 kt)
+    The end of 180166005_247 and the beginning of 180166005_275 (found ship velocity is 0.00 kt)
+    The end of 180166005_275 and the beginning of 180166005_277 (found ship velocity is 0.00 kt)
+Test 1.6 -> No known depth for 180166005_284
+Test 1.6 -> No known depth for 180166005_326
+Test 1.6 -> No known depth for 180166005_003
+Test 1.6 -> No known depth for 180166005_014
+Test 1.6 -> No known depth for 180166005_036
+Test 1.6 -> No known depth for 180166005_058
+Test 1.6 -> No known depth for 180166005_091
+Test 1.6 -> No known depth for 180166005_102
+Test 1.6 -> No known depth for 180166005_138
+Test 1.6 -> No known depth for 180166005_149
+Test 1.6 -> No known depth for 180166005_182
+Test 1.6 -> No known depth for 180166005_204
+Test 1.6 -> No known depth for 180166005_239
+Test 1.6 -> No known depth for 180166005_244
+Test 1.6 -> No known depth for 180166005_247
+Test 1.6 -> No known depth for 180166005_275
+Test 1.6 -> No known depth for 180166005_277
+180166005_284: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_284: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_284: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_284: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_284: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_284: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_284: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_284: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_284: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_284: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_284: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_284: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_284: Test 3.6 -> Profile 180166005_284 outside TS Monthly Climatology polygons
+180166005_284: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180166005_284: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180166005_284: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180166005_284: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180166005_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_326: Test 3.6 -> Profile 180166005_326 outside TS Monthly Climatology polygons
+180166005_326: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180166005_326: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180166005_326: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180166005_326: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180166005_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_003: Test 3.6 -> Profile 180166005_003 outside TS Monthly Climatology polygons
+180166005_003: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180166005_003: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180166005_003: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180166005_014: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_014: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_014: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_014: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_014: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_014: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_014: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_014: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_014: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_014: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_014: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_014: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_014: Test 3.6 -> Profile 180166005_014 outside TS Monthly Climatology polygons
+180166005_014: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180166005_036: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_036: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_036: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_036: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_036: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_036: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_036: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_036: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_036: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_036: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_036: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_036: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_036: Test 3.6 -> Profile 180166005_036 outside TS Monthly Climatology polygons
+180166005_058: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_058: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_058: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_058: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_058: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_058: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_058: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_058: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_058: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_058: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_058: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_058: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_058: Test 3.6 -> Profile 180166005_058 outside TS Monthly Climatology polygons
+180166005_091: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_091: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_091: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_091: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_091: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_091: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_091: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_091: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_091: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_091: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_091: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_091: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_091: Test 3.6 -> Profile 180166005_091 outside TS Monthly Climatology polygons
+180166005_102: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_102: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_102: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_102: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_102: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_102: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_102: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_102: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_102: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_102: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_102: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_102: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_102: Test 3.6 -> Profile 180166005_102 outside TS Monthly Climatology polygons
+180166005_138: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_138: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_138: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_138: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_138: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_138: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_138: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_138: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_138: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_138: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_138: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_138: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_138: Test 3.6 -> Profile 180166005_138 outside TS Monthly Climatology polygons
+180166005_149: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_149: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_149: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_149: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_149: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_149: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_149: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_149: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_149: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_149: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_149: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_149: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_149: Test 3.6 -> Profile 180166005_149 outside TS Monthly Climatology polygons
+180166005_182: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_182: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_182: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_182: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_182: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_182: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_182: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_182: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_182: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_182: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_182: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_182: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_182: Test 3.6 -> Profile 180166005_182 outside TS Monthly Climatology polygons
+180166005_204: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_204: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_204: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_204: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_204: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_204: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_204: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_204: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_204: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_204: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_204: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_204: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_204: Test 3.6 -> Profile 180166005_204 outside TS Monthly Climatology polygons
+180166005_239: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_239: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_239: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_239: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_239: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_239: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_239: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_239: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_239: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_239: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_239: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_239: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_239: Test 3.6 -> Profile 180166005_239 outside TS Monthly Climatology polygons
+180166005_239: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180166005_239: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180166005_239: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180166005_244: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_244: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_244: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_244: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_244: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_244: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_244: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_244: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_244: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_244: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_244: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_244: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_244: Test 3.6 -> Profile 180166005_244 outside TS Monthly Climatology polygons
+180166005_244: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180166005_244: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180166005_247: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_247: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_247: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_247: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_247: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_247: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_247: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_247: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_247: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_247: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_247: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_247: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_247: Test 3.6 -> Profile 180166005_247 outside TS Monthly Climatology polygons
+180166005_247: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180166005_247: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180166005_247: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180166005_275: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_275: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_275: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_275: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_275: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_275: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_275: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_275: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_275: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_275: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_275: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_275: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_275: Test 3.6 -> Profile 180166005_275 outside TS Monthly Climatology polygons
+180166005_275: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180166005_275: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180166005_275: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m
+180166005_277: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_277: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_277: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_277: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_277: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_277: Test 2.1 -> Global Impossible Parameter Value for doxy
+180166005_277: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_277: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_277: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_277: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_277: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_277: Test 2.2 -> Regional Impossible Parameter Value for doxy
+180166005_277: Test 3.6 -> Profile 180166005_277 outside TS Monthly Climatology polygons
+180166005_277: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.0 m
+180166005_277: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.0 m
+180166005_277: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 10.0 m
+180166005_277: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 25.0 m

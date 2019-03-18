@@ -1,0 +1,1218 @@
+>> 180160327/180160327_flag_summary.csv   
+   DATA_TYPE_METHOD  1 2
+92       O2_CTD_mLL  0 0
+93     O2_CTD_Molar  0 0
+94       O2_Winkler  0 0
+95  O2_Winkler_Auto  0 0
+96 O2_Winkler_Molar 80 0
+>> 180166005/180166005_flag_summary.csv   
+   DATA_TYPE_METHOD   0 1 2
+92       O2_CTD_mLL   0 0 0
+93     O2_CTD_Molar   0 0 0
+94       O2_Winkler   0 0 0
+95  O2_Winkler_Auto   0 0 0
+96 O2_Winkler_Molar 102 0 0
+>> 180167001/180167001_flag_summary.csv   
+   DATA_TYPE_METHOD   0 1 2 3 7
+92       O2_CTD_mLL   0 0 0 0 0
+93     O2_CTD_Molar   0 0 0 0 0
+94       O2_Winkler   0 0 0 0 0
+95  O2_Winkler_Auto   0 0 0 0 0
+96 O2_Winkler_Molar 392 0 0 0 0
+>> 180334051/180334051_flag_summary.csv   
+   DATA_TYPE_METHOD  1 3
+92       O2_CTD_mLL  0 0
+93     O2_CTD_Molar  0 0
+94       O2_Winkler  0 0
+95  O2_Winkler_Auto  0 0
+96 O2_Winkler_Molar 26 0
+>> 180335056/180335056_flag_summary.csv   
+   DATA_TYPE_METHOD  1
+92       O2_CTD_mLL  0
+93     O2_CTD_Molar  0
+94       O2_Winkler  0
+95  O2_Winkler_Auto  0
+96 O2_Winkler_Molar 10
+>> 181064009/181064009_flag_summary.csv   
+   DATA_TYPE_METHOD   1 2 3
+92       O2_CTD_mLL   0 0 0
+93     O2_CTD_Molar   0 0 0
+94       O2_Winkler   0 0 0
+95  O2_Winkler_Auto   0 0 0
+96 O2_Winkler_Molar 347 0 0
+>> 181071040/181071040_flag_summary.csv   
+   DATA_TYPE_METHOD  1 2 3
+92       O2_CTD_mLL  0 0 0
+93     O2_CTD_Molar  0 0 0
+94       O2_Winkler  0 0 0
+95  O2_Winkler_Auto  0 0 0
+96 O2_Winkler_Molar 49 0 0
+>> 181079022/181079022_flag_summary.csv   
+   DATA_TYPE_METHOD   1 2 3 7
+92       O2_CTD_mLL   0 0 0 0
+93     O2_CTD_Molar   0 0 0 0
+94       O2_Winkler   0 0 0 0
+95  O2_Winkler_Auto   0 0 0 0
+96 O2_Winkler_Molar 398 0 5 0
+>> 181091058/181091058_flag_summary.csv   
+   DATA_TYPE_METHOD   0 1
+92       O2_CTD_mLL   0 0
+93     O2_CTD_Molar   0 0
+94       O2_Winkler   0 0
+95  O2_Winkler_Auto   0 0
+96 O2_Winkler_Molar 166 0
+>> 181C04552/181C04552_flag_summary.csv   
+   DATA_TYPE_METHOD  1
+92       O2_CTD_mLL  0
+93     O2_CTD_Molar  0
+94       O2_Winkler  0
+95  O2_Winkler_Auto  0
+96 O2_Winkler_Molar 80
+>> 181C05624/181C05624_flag_summary.csv   
+   DATA_TYPE_METHOD   1 3
+92       O2_CTD_mLL   0 0
+93     O2_CTD_Molar   0 0
+94       O2_Winkler   0 0
+95  O2_Winkler_Auto   0 0
+96 O2_Winkler_Molar 118 2
+>> 189016004/189016004_flag_summary.csv   
+   DATA_TYPE_METHOD 0  1 3
+92       O2_CTD_mLL 0  0 0
+93     O2_CTD_Molar 0  0 0
+94       O2_Winkler 0  0 0
+95  O2_Winkler_Auto 0  0 0
+96 O2_Winkler_Molar 0 40 0
+>> 18BA68003/18BA68003_flag_summary.csv   
+   DATA_TYPE_METHOD   1
+92       O2_CTD_mLL   0
+93     O2_CTD_Molar   0
+94       O2_Winkler   0
+95  O2_Winkler_Auto   0
+96 O2_Winkler_Molar 104
+>> 18BA87001/18BA87001_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1 2
+92       O2_CTD_mLL  0 0 0
+93     O2_CTD_Molar  0 0 0
+94       O2_Winkler  0 0 0
+95  O2_Winkler_Auto  0 0 0
+96 O2_Winkler_Molar 23 0 0
+>> 18EG17004/18EG17004_flag_summary.csv   
+   DATA_TYPE_METHOD 0  1 2
+92       O2_CTD_mLL 0  0 0
+93     O2_CTD_Molar 0  0 0
+94       O2_Winkler 0  0 0
+95  O2_Winkler_Auto 0  0 0
+96 O2_Winkler_Molar 0 34 1
+>> 18FC12032/18FC12032_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1
+92       O2_CTD_mLL 23 0
+93     O2_CTD_Molar  0 0
+94       O2_Winkler  0 0
+95  O2_Winkler_Auto  0 0
+96 O2_Winkler_Molar  0 0
+>> 18HU00001/18HU00001_flag_summary.csv   
+   DATA_TYPE_METHOD 0   1 2
+92       O2_CTD_mLL 0   0 0
+93     O2_CTD_Molar 0   0 0
+94       O2_Winkler 0   0 0
+95  O2_Winkler_Auto 0   0 0
+96 O2_Winkler_Molar 0 264 0
+>> 18HU00062/18HU00062_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 3 4 7
+92       O2_CTD_mLL 105  0 0 0 0
+93     O2_CTD_Molar   0  0 0 0 0
+94       O2_Winkler   0  0 0 0 0
+95  O2_Winkler_Auto   0  0 0 0 0
+96 O2_Winkler_Molar   0 96 1 5 0
+>> 18HU01064/18HU01064_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 4
+92       O2_CTD_mLL 102   0 0 0
+93     O2_CTD_Molar   0   0 0 0
+94       O2_Winkler   0   0 0 0
+95  O2_Winkler_Auto   0   0 0 0
+96 O2_Winkler_Molar   0 100 0 1
+>> 18HU01068/18HU01068_flag_summary.csv   
+   DATA_TYPE_METHOD 0   1 2 3 7
+92       O2_CTD_mLL 0   0 0 0 0
+93     O2_CTD_Molar 0   0 0 0 0
+94       O2_Winkler 0   0 0 0 0
+95  O2_Winkler_Auto 0   0 0 0 0
+96 O2_Winkler_Molar 0 219 0 0 0
+>> 18HU02032/18HU02032_flag_summary.csv   
+   DATA_TYPE_METHOD   1
+92       O2_CTD_mLL   0
+93     O2_CTD_Molar   0
+94       O2_Winkler   0
+95  O2_Winkler_Auto 114
+96 O2_Winkler_Molar   0
+>> 18HU02070/18HU02070_flag_summary.csv   
+   DATA_TYPE_METHOD   1 2
+92       O2_CTD_mLL   0 0
+93     O2_CTD_Molar   0 0
+94       O2_Winkler   0 0
+95  O2_Winkler_Auto   0 0
+96 O2_Winkler_Molar 231 0
+>> 18HU03075/18HU03075_flag_summary.csv   
+   DATA_TYPE_METHOD 0   1 2
+92       O2_CTD_mLL 0   0 0
+93     O2_CTD_Molar 0   0 0
+94       O2_Winkler 0   0 0
+95  O2_Winkler_Auto 0   0 0
+96 O2_Winkler_Molar 0 258 0
+>> 18HU04016/18HU04016_flag_summary.csv   
+   DATA_TYPE_METHOD  1
+92       O2_CTD_mLL  0
+93     O2_CTD_Molar  0
+94       O2_Winkler  0
+95  O2_Winkler_Auto 14
+96 O2_Winkler_Molar  0
+>> 18HU04061/18HU04061_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 3 4
+92       O2_CTD_mLL 114   0 0 0 0
+93     O2_CTD_Molar   0   0 0 0 0
+94       O2_Winkler   0   0 0 0 0
+95  O2_Winkler_Auto   0   0 0 0 0
+96 O2_Winkler_Molar   0 111 0 1 2
+>> 18HU04586/18HU04586_flag_summary.csv   
+   DATA_TYPE_METHOD   1 2 7
+92       O2_CTD_mLL   0 0 0
+93     O2_CTD_Molar   0 0 0
+94       O2_Winkler   0 0 0
+95  O2_Winkler_Auto   0 0 0
+96 O2_Winkler_Molar 195 0 0
+>> 18HU05071/18HU05071_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 4
+92       O2_CTD_mLL 111   0 0
+93     O2_CTD_Molar   0   0 0
+94       O2_Winkler   0   0 0
+95  O2_Winkler_Auto   0   0 0
+96 O2_Winkler_Molar   0 110 2
+>> 18HU05656/18HU05656_flag_summary.csv   
+   DATA_TYPE_METHOD   1 2
+92       O2_CTD_mLL   0 0
+93     O2_CTD_Molar   0 0
+94       O2_Winkler   0 0
+95  O2_Winkler_Auto   0 0
+96 O2_Winkler_Molar 216 0
+>> 18HU06019/18HU06019_flag_summary.csv   
+   DATA_TYPE_METHOD   1 4
+92       O2_CTD_mLL   0 0
+93     O2_CTD_Molar   0 0
+94       O2_Winkler   0 0
+95  O2_Winkler_Auto 159 1
+96 O2_Winkler_Molar   0 0
+>> 18HU06060/18HU06060_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 3 4
+92       O2_CTD_mLL 113   0 0 0 0
+93     O2_CTD_Molar   0   0 0 0 0
+94       O2_Winkler   0   0 0 0 0
+95  O2_Winkler_Auto   0   0 0 0 0
+96 O2_Winkler_Molar   0 111 0 2 0
+>> 18HU07011/18HU07011_flag_summary.csv   
+   DATA_TYPE_METHOD   1 3
+92       O2_CTD_mLL   0 0
+93     O2_CTD_Molar   0 0
+94       O2_Winkler   0 0
+95  O2_Winkler_Auto 157 2
+96 O2_Winkler_Molar   0 0
+>> 18HU07049/18HU07049_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 3 4
+92       O2_CTD_mLL 112   0 0 0 0
+93     O2_CTD_Molar   0   0 0 0 0
+94       O2_Winkler   0   0 0 0 0
+95  O2_Winkler_Auto   0   0 0 0 0
+96 O2_Winkler_Molar   0 108 0 2 1
+>> 18HU08009/18HU08009_flag_summary.csv   
+   DATA_TYPE_METHOD   1
+92       O2_CTD_mLL   0
+93     O2_CTD_Molar   0
+94       O2_Winkler   0
+95  O2_Winkler_Auto 182
+96 O2_Winkler_Molar   0
+>> 18HU08057/18HU08057_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 3 4
+92       O2_CTD_mLL 114   0 0 0 0
+93     O2_CTD_Molar   0   0 0 0 0
+94       O2_Winkler   0   0 0 0 0
+95  O2_Winkler_Auto   0   0 0 0 0
+96 O2_Winkler_Molar   0 107 0 0 1
+>> 18HU09015/18HU09015_flag_summary.csv   
+   DATA_TYPE_METHOD   1
+92       O2_CTD_mLL   0
+93     O2_CTD_Molar   0
+94       O2_Winkler   0
+95  O2_Winkler_Auto 110
+96 O2_Winkler_Molar   0
+>> 18HU09063/18HU09063_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 3
+92       O2_CTD_mLL 115   0 0
+93     O2_CTD_Molar   0   0 0
+94       O2_Winkler   0   0 0
+95  O2_Winkler_Auto   0   0 0
+96 O2_Winkler_Molar   0 111 0
+>> 18HU10014/18HU10014_flag_summary.csv   
+   DATA_TYPE_METHOD   1
+92       O2_CTD_mLL   0
+93     O2_CTD_Molar   0
+94       O2_Winkler   0
+95  O2_Winkler_Auto 163
+96 O2_Winkler_Molar   0
+>> 18HU10070/18HU10070_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 5
+92       O2_CTD_mLL 187   0 0
+93     O2_CTD_Molar   0   0 0
+94       O2_Winkler   0   0 0
+95  O2_Winkler_Auto   0   0 0
+96 O2_Winkler_Molar   0 154 0
+>> 18HU11004/18HU11004_flag_summary.csv   
+   DATA_TYPE_METHOD   1
+92       O2_CTD_mLL   0
+93     O2_CTD_Molar   0
+94       O2_Winkler   0
+95  O2_Winkler_Auto 137
+96 O2_Winkler_Molar   0
+>> 18HU11009/18HU11009_flag_summary.csv   
+   DATA_TYPE_METHOD   1
+92       O2_CTD_mLL   0
+93     O2_CTD_Molar   0
+94       O2_Winkler   0
+95  O2_Winkler_Auto 260
+96 O2_Winkler_Molar   0
+>> 18HU11043/18HU11043_flag_summary.csv   
+   DATA_TYPE_METHOD   1
+92       O2_CTD_mLL   0
+93     O2_CTD_Molar   0
+94       O2_Winkler   0
+95  O2_Winkler_Auto 310
+96 O2_Winkler_Molar   0
+>> 18HU11061/18HU11061_flag_summary.csv   
+   DATA_TYPE_METHOD  0   1 3
+92       O2_CTD_mLL 96   0 0
+93     O2_CTD_Molar  0   0 0
+94       O2_Winkler  0   0 0
+95  O2_Winkler_Auto  0   0 0
+96 O2_Winkler_Molar  0 117 0
+>> 18HU11111/18HU11111_flag_summary.csv   
+   DATA_TYPE_METHOD 0  1 2  3
+92       O2_CTD_mLL 0  0 0  0
+93     O2_CTD_Molar 0  0 0  0
+94       O2_Winkler 0  0 0  0
+95  O2_Winkler_Auto 0  0 0  0
+96 O2_Winkler_Molar 0 29 0 23
+>> 18HU12042/18HU12042_flag_summary.csv   
+   DATA_TYPE_METHOD   1
+92       O2_CTD_mLL   0
+93     O2_CTD_Molar   0
+94       O2_Winkler   0
+95  O2_Winkler_Auto 486
+96 O2_Winkler_Molar   0
+>> 18HU12044/18HU12044_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 4 7
+92       O2_CTD_mLL 165   0 0 0 0
+93     O2_CTD_Molar   0   0 0 0 0
+94       O2_Winkler   0   0 0 0 0
+95  O2_Winkler_Auto   0   0 0 0 0
+96 O2_Winkler_Molar   0 161 0 0 0
+>> 18HU13004/18HU13004_flag_summary.csv   
+   DATA_TYPE_METHOD 0   1 2 7
+92       O2_CTD_mLL 0   0 0 0
+93     O2_CTD_Molar 0   0 0 0
+94       O2_Winkler 0   0 0 0
+95  O2_Winkler_Auto 0 230 0 0
+96 O2_Winkler_Molar 0   0 0 0
+>> 18HU13008/18HU13008_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 7
+92       O2_CTD_mLL 365   0 0 0
+93     O2_CTD_Molar   0   0 0 0
+94       O2_Winkler   0   0 0 0
+95  O2_Winkler_Auto   0 291 1 1
+96 O2_Winkler_Molar   0   0 0 0
+>> 18HU13037/18HU13037_flag_summary.csv   
+   DATA_TYPE_METHOD   0 1 2 7
+92       O2_CTD_mLL 960 0 0 0
+93     O2_CTD_Molar 204 0 0 0
+94       O2_Winkler   0 0 0 0
+95  O2_Winkler_Auto 204 0 0 0
+96 O2_Winkler_Molar   0 0 0 0
+>> 18HU13038/18HU13038_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 3 4
+92       O2_CTD_mLL 182   0 0 0
+93     O2_CTD_Molar   0   0 0 0
+94       O2_Winkler   0   0 0 0
+95  O2_Winkler_Auto   0   0 0 0
+96 O2_Winkler_Molar   0 105 2 1
+>> 18HU14004/18HU14004_flag_summary.csv   
+   DATA_TYPE_METHOD    0   1 2 7
+92       O2_CTD_mLL 1057   0 0 0
+93     O2_CTD_Molar    0   0 0 0
+94       O2_Winkler    0   0 0 0
+95  O2_Winkler_Auto    0 218 0 7
+96 O2_Winkler_Molar    0   0 0 0
+>> 18HU14007/18HU14007_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 7
+92       O2_CTD_mLL 482   0 0 0
+93     O2_CTD_Molar   0   0 0 0
+94       O2_Winkler   0   0 0 0
+95  O2_Winkler_Auto   0 398 0 0
+96 O2_Winkler_Molar   0   0 0 0
+>> 18HU14014/18HU14014_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2 3 7
+92       O2_CTD_mLL 154  0 0 0 0
+93     O2_CTD_Molar   0  0 0 0 0
+94       O2_Winkler   0  0 0 0 0
+95  O2_Winkler_Auto   0  0 0 0 0
+96 O2_Winkler_Molar   0 88 0 3 0
+>> 18HU14030/18HU14030_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 7
+92       O2_CTD_mLL 868   0 0 0
+93     O2_CTD_Molar   0   0 0 0
+94       O2_Winkler   0   0 0 0
+95  O2_Winkler_Auto   0 180 0 3
+96 O2_Winkler_Molar   0   0 0 0
+>> 18HU14037/18HU14037_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2
+92       O2_CTD_mLL 153  0 0
+93     O2_CTD_Molar   0  0 0
+94       O2_Winkler   0  0 0
+95  O2_Winkler_Auto   0  0 0
+96 O2_Winkler_Molar   0 55 0
+>> 18HU15004/18HU15004_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 4 7
+92       O2_CTD_mLL 648   0 0 0 0
+93     O2_CTD_Molar   0   0 0 0 0
+94       O2_Winkler   0   0 0 0 0
+95  O2_Winkler_Auto   0 124 0 0 8
+96 O2_Winkler_Molar   0   0 0 0 0
+>> 18HU15006/18HU15006_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 2 7
+92       O2_CTD_mLL 71  0 0 0
+93     O2_CTD_Molar  0  0 0 0
+94       O2_Winkler  0  0 0 0
+95  O2_Winkler_Auto  0 54 0 1
+96 O2_Winkler_Molar  0  0 0 0
+>> 18HU15030/18HU15030_flag_summary.csv   
+   DATA_TYPE_METHOD    0   1 2 7
+92       O2_CTD_mLL 1415   0 0 0
+93     O2_CTD_Molar    0   0 0 0
+94       O2_Winkler    0   0 0 0
+95  O2_Winkler_Auto    0 374 0 4
+96 O2_Winkler_Molar    0   0 0 0
+>> 18HU15041/18HU15041_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2
+92       O2_CTD_mLL 128  0 0
+93     O2_CTD_Molar   0  0 0
+94       O2_Winkler   0  0 0
+95  O2_Winkler_Auto   0  0 0
+96 O2_Winkler_Molar   0 47 0
+>> 18HU16003/18HU16003_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2
+92       O2_CTD_mLL 688   0 0
+93     O2_CTD_Molar   0   0 0
+94       O2_Winkler   0   0 0
+95  O2_Winkler_Auto   0 118 0
+96 O2_Winkler_Molar   0   0 0
+>> 18HU16006/18HU16006_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 3 7
+92       O2_CTD_mLL 322   0 0 0 0
+93     O2_CTD_Molar   0   0 0 0 0
+94       O2_Winkler   0   0 0 0 0
+95  O2_Winkler_Auto   0 257 4 2 0
+96 O2_Winkler_Molar   0   0 0 0 0
+>> 18HU16027/18HU16027_flag_summary.csv   
+   DATA_TYPE_METHOD    0   1 2  7
+92       O2_CTD_mLL 1354   0 0  0
+93     O2_CTD_Molar    0   0 0  0
+94       O2_Winkler    0   0 0  0
+95  O2_Winkler_Auto    0 285 0 11
+96 O2_Winkler_Molar    0   0 0  0
+>> 18HU16050/18HU16050_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2 3
+92       O2_CTD_mLL 148  0 0 0
+93     O2_CTD_Molar   0  0 0 0
+94       O2_Winkler   0  0 0 0
+95  O2_Winkler_Auto   0  0 0 0
+96 O2_Winkler_Molar   0 61 0 0
+>> 18HU18004/18HU18004_flag_summary.csv   
+   DATA_TYPE_METHOD    0   1 2 4  7
+92       O2_CTD_mLL 1155   0 0 0  0
+93     O2_CTD_Molar    0   0 0 0  0
+94       O2_Winkler    0   0 0 0  0
+95  O2_Winkler_Auto    0 252 0 0 11
+96 O2_Winkler_Molar    0   0 0 0  0
+>> 18HU18008/18HU18008_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 7
+92       O2_CTD_mLL 410   0 0 0
+93     O2_CTD_Molar   0   0 0 0
+94       O2_Winkler   0   0 0 0
+95  O2_Winkler_Auto   0 334 1 5
+96 O2_Winkler_Molar   0   0 0 0
+>> 18HU18028/18HU18028_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 2
+92       O2_CTD_mLL 97  0 0
+93     O2_CTD_Molar  0  0 0
+94       O2_Winkler  0  0 0
+95  O2_Winkler_Auto  0  0 0
+96 O2_Winkler_Molar  0 41 0
+>> 18HU18030/18HU18030_flag_summary.csv   
+   DATA_TYPE_METHOD    0   1 2 7
+92       O2_CTD_mLL 1427   0 0 0
+93     O2_CTD_Molar    0   0 0 0
+94       O2_Winkler    0   0 0 0
+95  O2_Winkler_Auto    0 301 0 0
+96 O2_Winkler_Molar    0   0 0 0
+>> 18HU18051/18HU18051_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 3 5
+92       O2_CTD_mLL 48  0 0 0
+93     O2_CTD_Molar  0  0 0 0
+94       O2_Winkler  0  0 0 0
+95  O2_Winkler_Auto  0  0 0 0
+96 O2_Winkler_Molar  0 35 1 0
+>> 18HU67024/18HU67024_flag_summary.csv   
+   DATA_TYPE_METHOD  1
+92       O2_CTD_mLL  0
+93     O2_CTD_Molar  0
+94       O2_Winkler  0
+95  O2_Winkler_Auto  0
+96 O2_Winkler_Molar 33
+>> 18HU76020/18HU76020_flag_summary.csv   
+   DATA_TYPE_METHOD   1 2  3
+92       O2_CTD_mLL   0 0  0
+93     O2_CTD_Molar   0 0  0
+94       O2_Winkler   0 0  0
+95  O2_Winkler_Auto   0 0  0
+96 O2_Winkler_Molar 318 0 11
+>> 18HU83023/18HU83023_flag_summary.csv   
+   DATA_TYPE_METHOD 0 7
+92       O2_CTD_mLL 0 0
+93     O2_CTD_Molar 0 0
+94       O2_Winkler 0 0
+95  O2_Winkler_Auto 0 0
+96 O2_Winkler_Molar 0 0
+>> 18HU86006/18HU86006_flag_summary.csv   
+   DATA_TYPE_METHOD   0 1 3 7
+92       O2_CTD_mLL   0 0 0 0
+93     O2_CTD_Molar   0 0 0 0
+94       O2_Winkler   0 0 0 0
+95  O2_Winkler_Auto   0 0 0 0
+96 O2_Winkler_Molar 184 0 0 0
+>> 18HU87037/18HU87037_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1 2
+92       O2_CTD_mLL  0 0 0
+93     O2_CTD_Molar  0 0 0
+94       O2_Winkler  0 0 0
+95  O2_Winkler_Auto  0 0 0
+96 O2_Winkler_Molar 83 0 0
+>> 18HU90001/18HU90001_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1 3
+92       O2_CTD_mLL  0 0 0
+93     O2_CTD_Molar  0 0 0
+94       O2_Winkler  0 0 0
+95  O2_Winkler_Auto  0 0 0
+96 O2_Winkler_Molar 35 0 0
+>> 18HU92037/18HU92037_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1 2 7
+92       O2_CTD_mLL  0 0 0 0
+93     O2_CTD_Molar  0 0 0 0
+94       O2_Winkler  0 0 0 0
+95  O2_Winkler_Auto  0 0 0 0
+96 O2_Winkler_Molar 93 0 0 0
+>> 18HU92053/18HU92053_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1 3
+92       O2_CTD_mLL  0 0 0
+93     O2_CTD_Molar  0 0 0
+94       O2_Winkler  0 0 0
+95  O2_Winkler_Auto  0 0 0
+96 O2_Winkler_Molar 11 0 0
+>> 18HU93039/18HU93039_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1  2   3 4 7
+92       O2_CTD_mLL  0 0  0   0 0 0
+93     O2_CTD_Molar  0 0  0   0 0 0
+94       O2_Winkler  0 0  0   0 0 0
+95  O2_Winkler_Auto  0 0  0   0 0 0
+96 O2_Winkler_Molar 22 0 48 294 4 0
+>> 18HU94030/18HU94030_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1 2   3 4
+92       O2_CTD_mLL  0 0 0   0 0
+93     O2_CTD_Molar  0 0 0   0 0
+94       O2_Winkler  0 0 0   0 0
+95  O2_Winkler_Auto  0 0 0   0 0
+96 O2_Winkler_Molar 22 0 0 308 0
+>> 18HU95003/18HU95003_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1 2   3 4 7
+92       O2_CTD_mLL  0 0 0   0 0 0
+93     O2_CTD_Molar  0 0 0   0 0 0
+94       O2_Winkler  0 0 0   0 0 0
+95  O2_Winkler_Auto  0 0 0   0 0 0
+96 O2_Winkler_Molar 23 0 4 427 0 0
+>> 18HU95016/18HU95016_flag_summary.csv   
+   DATA_TYPE_METHOD   0 1 2 3 7
+92       O2_CTD_mLL   0 0 0 0 0
+93     O2_CTD_Molar   0 0 0 0 0
+94       O2_Winkler   0 0 0 0 0
+95  O2_Winkler_Auto   0 0 0 0 0
+96 O2_Winkler_Molar 277 0 0 0 0
+>> 18HU96006/18HU96006_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1
+92       O2_CTD_mLL  0 0
+93     O2_CTD_Molar  0 0
+94       O2_Winkler  0 0
+95  O2_Winkler_Auto  0 0
+96 O2_Winkler_Molar 76 0
+>> 18HU98051/18HU98051_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 7
+92       O2_CTD_mLL 160   0 0 0
+93     O2_CTD_Molar   0   0 0 0
+94       O2_Winkler   0   0 0 0
+95  O2_Winkler_Auto   0   0 0 0
+96 O2_Winkler_Molar   0 159 0 0
+>> 18HU99022/18HU99022_flag_summary.csv   
+   DATA_TYPE_METHOD  1
+92       O2_CTD_mLL  0
+93     O2_CTD_Molar  0
+94       O2_Winkler  0
+95  O2_Winkler_Auto 91
+96 O2_Winkler_Molar  0
+>> 18HU99053/18HU99053_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 2 3 7
+92       O2_CTD_mLL 84  0 0 0 0
+93     O2_CTD_Molar  0  0 0 0 0
+94       O2_Winkler  0  0 0 0 0
+95  O2_Winkler_Auto  0  0 0 0 0
+96 O2_Winkler_Molar  0 74 0 9 0
+>> 18MF01015/18MF01015_flag_summary.csv   
+   DATA_TYPE_METHOD 0  1 2
+92       O2_CTD_mLL 0  0 0
+93     O2_CTD_Molar 0  0 0
+94       O2_Winkler 0  0 0
+95  O2_Winkler_Auto 0  0 0
+96 O2_Winkler_Molar 0 15 0
+>> 18MF02023/18MF02023_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1
+92       O2_CTD_mLL 104  0
+93     O2_CTD_Molar   0  0
+94       O2_Winkler   0  0
+95  O2_Winkler_Auto   0  0
+96 O2_Winkler_Molar   0 32
+>> 18MF02066/18MF02066_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 3 4
+92       O2_CTD_mLL 101  0 0 0
+93     O2_CTD_Molar   0  0 0 0
+94       O2_Winkler   0  0 0 0
+95  O2_Winkler_Auto   0  0 0 0
+96 O2_Winkler_Molar   0 96 4 1
+>> 18MF12001/18MF12001_flag_summary.csv   
+   DATA_TYPE_METHOD  1
+92       O2_CTD_mLL  0
+93     O2_CTD_Molar  0
+94       O2_Winkler  0
+95  O2_Winkler_Auto 24
+96 O2_Winkler_Molar  0
+>> 18MT71031/18MT71031_flag_summary.csv   
+   DATA_TYPE_METHOD 0  1 4
+92       O2_CTD_mLL 0  0 0
+93     O2_CTD_Molar 0  0 0
+94       O2_Winkler 0  0 0
+95  O2_Winkler_Auto 0  0 0
+96 O2_Winkler_Molar 0 15 0
+>> 18MT71036/18MT71036_flag_summary.csv   
+   DATA_TYPE_METHOD 0  1 4 7
+92       O2_CTD_mLL 0  0 0 0
+93     O2_CTD_Molar 0  0 0 0
+94       O2_Winkler 0  0 0 0
+95  O2_Winkler_Auto 0  0 0 0
+96 O2_Winkler_Molar 0 55 0 0
+>> 18MT71044/18MT71044_flag_summary.csv   
+   DATA_TYPE_METHOD 0  1 4
+92       O2_CTD_mLL 0  0 0
+93     O2_CTD_Molar 0  0 0
+94       O2_Winkler 0  0 0
+95  O2_Winkler_Auto 0  0 0
+96 O2_Winkler_Molar 0 18 0
+>> 18NA95908/18NA95908_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1 4 7
+92       O2_CTD_mLL  0 0 0 0
+93     O2_CTD_Molar  0 0 0 0
+94       O2_Winkler  0 0 0 0
+95  O2_Winkler_Auto  0 0 0 0
+96 O2_Winkler_Molar 41 2 0 0
+>> 18NA96002/18NA96002_flag_summary.csv   
+   DATA_TYPE_METHOD   0 1 4 7
+92       O2_CTD_mLL   0 0 0 0
+93     O2_CTD_Molar   0 0 0 0
+94       O2_Winkler   0 0 0 0
+95  O2_Winkler_Auto   0 0 0 0
+96 O2_Winkler_Molar 166 2 0 0
+>> 18NA96013/18NA96013_flag_summary.csv   
+   DATA_TYPE_METHOD   0 1 4 7
+92       O2_CTD_mLL   0 0 0 0
+93     O2_CTD_Molar   0 0 0 0
+94       O2_Winkler   0 0 0 0
+95  O2_Winkler_Auto   0 0 0 0
+96 O2_Winkler_Molar 180 2 0 0
+>> 18NA96022/18NA96022_flag_summary.csv   
+   DATA_TYPE_METHOD   0 1 2 4 7
+92       O2_CTD_mLL   0 0 0 0 0
+93     O2_CTD_Molar   0 0 0 0 0
+94       O2_Winkler   0 0 0 0 0
+95  O2_Winkler_Auto   0 0 0 0 0
+96 O2_Winkler_Molar 184 0 0 0 0
+>> 18NA97015/18NA97015_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1 4 7
+92       O2_CTD_mLL  0 0 0 0
+93     O2_CTD_Molar  0 0 0 0
+94       O2_Winkler  0 0 0 0
+95  O2_Winkler_Auto  0 0 0 0
+96 O2_Winkler_Molar 36 1 0 0
+>> 18NA97052/18NA97052_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1 2 4 7
+92       O2_CTD_mLL  0 0 0 0 0
+93     O2_CTD_Molar  0 0 0 0 0
+94       O2_Winkler  0 0 0 0 0
+95  O2_Winkler_Auto  0 0 0 0 0
+96 O2_Winkler_Molar 37 1 0 0 0
+>> 18NE13022/18NE13022_flag_summary.csv   
+   DATA_TYPE_METHOD   0 1 7
+92       O2_CTD_mLL 923 0 0
+93     O2_CTD_Molar 467 0 0
+94       O2_Winkler 428 0 0
+95  O2_Winkler_Auto   0 0 0
+96 O2_Winkler_Molar   0 0 0
+>> 18NE14018/18NE14018_flag_summary.csv   
+   DATA_TYPE_METHOD 0   1 2 7
+92       O2_CTD_mLL 0 698 0 0
+93     O2_CTD_Molar 0   0 0 0
+94       O2_Winkler 0   0 0 0
+95  O2_Winkler_Auto 0 101 0 0
+96 O2_Winkler_Molar 0   0 0 0
+>> 18NE14101/18NE14101_flag_summary.csv   
+   DATA_TYPE_METHOD 0   1 2
+92       O2_CTD_mLL 0 224 0
+93     O2_CTD_Molar 0   0 0
+94       O2_Winkler 0   0 0
+95  O2_Winkler_Auto 0 108 0
+96 O2_Winkler_Molar 0   0 0
+>> 18NE15015/18NE15015_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1
+92       O2_CTD_mLL 10 0
+93     O2_CTD_Molar  0 0
+94       O2_Winkler  0 0
+95  O2_Winkler_Auto  0 2
+96 O2_Winkler_Molar  0 0
+>> 18NE15017/18NE15017_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 7
+92       O2_CTD_mLL 872   0 0 0
+93     O2_CTD_Molar   0   0 0 0
+94       O2_Winkler   0   0 0 0
+95  O2_Winkler_Auto   0 236 0 3
+96 O2_Winkler_Molar   0   0 0 0
+>> 18NE16016/18NE16016_flag_summary.csv   
+   DATA_TYPE_METHOD    0   1 2 7
+92       O2_CTD_mLL 1013   0 0 0
+93     O2_CTD_Molar    0   0 0 0
+94       O2_Winkler    0   0 0 0
+95  O2_Winkler_Auto    0 500 0 6
+96 O2_Winkler_Molar    0   0 0 0
+>> 18NE17002/18NE17002_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 7
+92       O2_CTD_mLL 30  0 0
+93     O2_CTD_Molar  0  0 0
+94       O2_Winkler  0  0 0
+95  O2_Winkler_Auto  0 13 4
+96 O2_Winkler_Molar  0  0 0
+>> 18NE17020/18NE17020_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 4 7
+92       O2_CTD_mLL 799   0 0 0 0
+93     O2_CTD_Molar   0   0 0 0 0
+94       O2_Winkler   0   0 0 0 0
+95  O2_Winkler_Auto   0 390 0 0 7
+96 O2_Winkler_Molar   0   0 0 0 0
+>> 18NE17102/18NE17102_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1 7
+92       O2_CTD_mLL 18 0 0
+93     O2_CTD_Molar  0 0 0
+94       O2_Winkler  0 0 0
+95  O2_Winkler_Auto  0 4 2
+96 O2_Winkler_Molar  0 0 0
+>> 18NE95031/18NE95031_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 2 3 7
+92       O2_CTD_mLL 24  0 0 0 0
+93     O2_CTD_Molar  0  0 0 0 0
+94       O2_Winkler  0  0 0 0 0
+95  O2_Winkler_Auto  0  0 0 0 0
+96 O2_Winkler_Molar  0 19 0 0 0
+>> 18OK05644/18OK05644_flag_summary.csv   
+   DATA_TYPE_METHOD  1
+92       O2_CTD_mLL  0
+93     O2_CTD_Molar  0
+94       O2_Winkler  0
+95  O2_Winkler_Auto  0
+96 O2_Winkler_Molar 20
+>> 18OL03004/18OL03004_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2
+92       O2_CTD_mLL 102  0 0
+93     O2_CTD_Molar   0  0 0
+94       O2_Winkler   0  0 0
+95  O2_Winkler_Auto   0  0 0
+96 O2_Winkler_Molar   0 40 0
+>> 18OL03019/18OL03019_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1
+92       O2_CTD_mLL 103  0
+93     O2_CTD_Molar   0  0
+94       O2_Winkler   0  0
+95  O2_Winkler_Auto   0  0
+96 O2_Winkler_Molar   0 32
+>> 18OL03064/18OL03064_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 3
+92       O2_CTD_mLL 115   0 0
+93     O2_CTD_Molar   0   0 0
+94       O2_Winkler   0   0 0
+95  O2_Winkler_Auto   0   0 0
+96 O2_Winkler_Molar   0 114 0
+>> 18OL06008/18OL06008_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 3 4
+92       O2_CTD_mLL 209  0 0 0
+93     O2_CTD_Molar   0  0 0 0
+94       O2_Winkler   0  0 0 0
+95  O2_Winkler_Auto   0  0 0 0
+96 O2_Winkler_Molar   0 77 1 4
+>> 18OL16015/18OL16015_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 3 4
+92       O2_CTD_mLL 202   0 0 0 0
+93     O2_CTD_Molar   0   0 0 0 0
+94       O2_Winkler   0   0 0 0 0
+95  O2_Winkler_Auto   0   0 0 0 0
+96 O2_Winkler_Molar   0 110 0 1 1
+>> 18OL17001/18OL17001_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 7
+92       O2_CTD_mLL 879   0 0 0
+93     O2_CTD_Molar   0   0 0 0
+94       O2_Winkler   0   0 0 0
+95  O2_Winkler_Auto   0 163 0 2
+96 O2_Winkler_Molar   0   0 0 0
+>> 18OL17048/18OL17048_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 3 7
+92       O2_CTD_mLL 167  0 0 0
+93     O2_CTD_Molar   0  0 0 0
+94       O2_Winkler   0  0 0 0
+95  O2_Winkler_Auto   0  0 0 0
+96 O2_Winkler_Molar   0 63 0 0
+>> 18PZ96058/18PZ96058_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 3 4 7
+92       O2_CTD_mLL 128   0 0 0 0 0
+93     O2_CTD_Molar   0   0 0 0 0 0
+94       O2_Winkler   0   0 0 0 0 0
+95  O2_Winkler_Auto   0   0 0 0 0 0
+96 O2_Winkler_Molar   0 119 2 2 0 0
+>> 18TL00002/18TL00002_flag_summary.csv   
+   DATA_TYPE_METHOD 0   1 2 3 7
+92       O2_CTD_mLL 0   0 0 0 0
+93     O2_CTD_Molar 0   0 0 0 0
+94       O2_Winkler 0   0 0 0 0
+95  O2_Winkler_Auto 0   0 0 0 0
+96 O2_Winkler_Molar 0 283 0 0 0
+>> 18TL00007/18TL00007_flag_summary.csv   
+   DATA_TYPE_METHOD 0  1 3 7
+92       O2_CTD_mLL 0  0 0 0
+93     O2_CTD_Molar 0  0 0 0
+94       O2_Winkler 0  0 0 0
+95  O2_Winkler_Auto 0  0 0 0
+96 O2_Winkler_Molar 0 89 0 0
+>> 18TL01003/18TL01003_flag_summary.csv   
+   DATA_TYPE_METHOD 0   1 3 4 7
+92       O2_CTD_mLL 0   0 0 0 0
+93     O2_CTD_Molar 0   0 0 0 0
+94       O2_Winkler 0   0 0 0 0
+95  O2_Winkler_Auto 0   0 0 0 0
+96 O2_Winkler_Molar 0 241 0 0 0
+>> 18TL01006/18TL01006_flag_summary.csv   
+   DATA_TYPE_METHOD 0  1 3
+92       O2_CTD_mLL 0  0 0
+93     O2_CTD_Molar 0  0 0
+94       O2_Winkler 0  0 0
+95  O2_Winkler_Auto 0  0 0
+96 O2_Winkler_Molar 0 93 0
+>> 18TL02005/18TL02005_flag_summary.csv   
+   DATA_TYPE_METHOD 0   1 2 4 7
+92       O2_CTD_mLL 0   0 0 0 0
+93     O2_CTD_Molar 0   0 0 0 0
+94       O2_Winkler 0   0 0 0 0
+95  O2_Winkler_Auto 0   0 0 0 0
+96 O2_Winkler_Molar 0 271 0 0 0
+>> 18TL02010/18TL02010_flag_summary.csv   
+   DATA_TYPE_METHOD 0  1
+92       O2_CTD_mLL 0  0
+93     O2_CTD_Molar 0  0
+94       O2_Winkler 0  0
+95  O2_Winkler_Auto 0  0
+96 O2_Winkler_Molar 0 99
+>> 18TL03004/18TL03004_flag_summary.csv   
+   DATA_TYPE_METHOD 0   1 2 3 4
+92       O2_CTD_mLL 0   0 0 0 0
+93     O2_CTD_Molar 0   0 0 0 0
+94       O2_Winkler 0   0 0 0 0
+95  O2_Winkler_Auto 0   0 0 0 0
+96 O2_Winkler_Molar 0 241 0 0 0
+>> 18TL04021/18TL04021_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2 3 5
+92       O2_CTD_mLL 197  0 0 0 0
+93     O2_CTD_Molar   0  0 0 0 0
+94       O2_Winkler   0  0 0 0 0
+95  O2_Winkler_Auto   0  0 0 0 0
+96 O2_Winkler_Molar   0 68 0 1 0
+>> 18TL04033/18TL04033_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 4
+92       O2_CTD_mLL 29  0 0
+93     O2_CTD_Molar  0  0 0
+94       O2_Winkler  0  0 0
+95  O2_Winkler_Auto  0  0 0
+96 O2_Winkler_Molar  0 29 0
+>> 18TL04524/18TL04524_flag_summary.csv   
+   DATA_TYPE_METHOD   1 3
+92       O2_CTD_mLL   0 0
+93     O2_CTD_Molar   0 0
+94       O2_Winkler   0 0
+95  O2_Winkler_Auto   0 0
+96 O2_Winkler_Molar 174 7
+>> 18TL05035/18TL05035_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 3
+92       O2_CTD_mLL 194  0 0
+93     O2_CTD_Molar   0  0 0
+94       O2_Winkler   0  0 0
+95  O2_Winkler_Auto   0  0 0
+96 O2_Winkler_Molar   0 68 2
+>> 18TL05045/18TL05045_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 2 4
+92       O2_CTD_mLL 56  0 0 0
+93     O2_CTD_Molar  0  0 0 0
+94       O2_Winkler  0  0 0 0
+95  O2_Winkler_Auto  0  0 0 0
+96 O2_Winkler_Molar  0 50 1 1
+>> 18TL05601/18TL05601_flag_summary.csv   
+   DATA_TYPE_METHOD   1 2 3 4
+92       O2_CTD_mLL   0 0 0 0
+93     O2_CTD_Molar   0 0 0 0
+94       O2_Winkler   0 0 0 0
+95  O2_Winkler_Auto   0 0 0 0
+96 O2_Winkler_Molar 186 0 1 0
+>> 18TL06043/18TL06043_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 4
+92       O2_CTD_mLL 43  0 0
+93     O2_CTD_Molar  0  0 0
+94       O2_Winkler  0  0 0
+95  O2_Winkler_Auto  0  0 0
+96 O2_Winkler_Molar  0 41 2
+>> 18TL07031/18TL07031_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2 3
+92       O2_CTD_mLL 131  0 0 0
+93     O2_CTD_Molar   0  0 0 0
+94       O2_Winkler   0  0 0 0
+95  O2_Winkler_Auto   0  0 0 0
+96 O2_Winkler_Molar   0 66 0 2
+>> 18TL07040/18TL07040_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 3
+92       O2_CTD_mLL 37  0 0
+93     O2_CTD_Molar  0  0 0
+94       O2_Winkler  0  0 0
+95  O2_Winkler_Auto  0  0 0
+96 O2_Winkler_Molar  0 31 0
+>> 18TL08036/18TL08036_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2 3 4 5 7
+92       O2_CTD_mLL 178  0 0 0 0 0 0
+93     O2_CTD_Molar   0  0 0 0 0 0 0
+94       O2_Winkler   0  0 0 0 0 0 0
+95  O2_Winkler_Auto   0  0 0 0 0 0 0
+96 O2_Winkler_Molar   0 57 0 3 1 0 0
+>> 18TL08041/18TL08041_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 3 7
+92       O2_CTD_mLL 58  0 0 0
+93     O2_CTD_Molar  0  0 0 0
+94       O2_Winkler  0  0 0 0
+95  O2_Winkler_Auto  0  0 0 0
+96 O2_Winkler_Molar  0 22 4 0
+>> 18TL09037/18TL09037_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2 3
+92       O2_CTD_mLL 191  0 0 0
+93     O2_CTD_Molar   0  0 0 0
+94       O2_Winkler   0  0 0 0
+95  O2_Winkler_Auto   0  0 0 0
+96 O2_Winkler_Molar   0 62 0 0
+>> 18TL09051/18TL09051_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 2 3
+92       O2_CTD_mLL 41  0 0 0
+93     O2_CTD_Molar  0  0 0 0
+94       O2_Winkler  0  0 0 0
+95  O2_Winkler_Auto  0  0 0 0
+96 O2_Winkler_Molar  0 28 1 2
+>> 18TL10037/18TL10037_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2 3 4
+92       O2_CTD_mLL 191  0 0 0 0
+93     O2_CTD_Molar   0  0 0 0 0
+94       O2_Winkler   0  0 0 0 0
+95  O2_Winkler_Auto   0  0 0 0 0
+96 O2_Winkler_Molar   0 64 0 1 0
+>> 18TL10052/18TL10052_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 2
+92       O2_CTD_mLL 23  0 0
+93     O2_CTD_Molar  0  0 0
+94       O2_Winkler  0  0 0
+95  O2_Winkler_Auto  0  0 0
+96 O2_Winkler_Molar  0 18 0
+>> 18TL11032/18TL11032_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 7
+92       O2_CTD_mLL 220  0 0
+93     O2_CTD_Molar   0  0 0
+94       O2_Winkler   0  0 0
+95  O2_Winkler_Auto   0  0 0
+96 O2_Winkler_Molar   0 73 0
+>> 18TL11050/18TL11050_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1
+92       O2_CTD_mLL 17  0
+93     O2_CTD_Molar  0  0
+94       O2_Winkler  0  0
+95  O2_Winkler_Auto  0  0
+96 O2_Winkler_Molar  0 10
+>> 18TL12001/18TL12001_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2 3 4
+92       O2_CTD_mLL 204  0 0 0 0
+93     O2_CTD_Molar   0  0 0 0 0
+94       O2_Winkler   0  0 0 0 0
+95  O2_Winkler_Auto   0  0 0 0 0
+96 O2_Winkler_Molar   0 69 0 0 3
+>> 18TL12002/18TL12002_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 2
+92       O2_CTD_mLL 26  0 0
+93     O2_CTD_Molar  0  0 0
+94       O2_Winkler  0  0 0
+95  O2_Winkler_Auto  0  0 0
+96 O2_Winkler_Molar  0 21 0
+>> 18TL13019/18TL13019_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 3
+92       O2_CTD_mLL 143  0 0
+93     O2_CTD_Molar   0  0 0
+94       O2_Winkler   0  0 0
+95  O2_Winkler_Auto   0  0 0
+96 O2_Winkler_Molar   0 66 0
+>> 18TL13030/18TL13030_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 2
+92       O2_CTD_mLL 25  0 0
+93     O2_CTD_Molar  0  0 0
+94       O2_Winkler  0  0 0
+95  O2_Winkler_Auto  0  0 0
+96 O2_Winkler_Molar  0 19 0
+>> 18TL13118/18TL13118_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 3 7
+92       O2_CTD_mLL 326  0 0 0
+93     O2_CTD_Molar   0  0 0 0
+94       O2_Winkler   0  0 0 0
+95  O2_Winkler_Auto   0  0 0 0
+96 O2_Winkler_Molar   0 68 3 0
+>> 18TL14021/18TL14021_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 2
+92       O2_CTD_mLL 45  0 0
+93     O2_CTD_Molar  0  0 0
+94       O2_Winkler  0  0 0
+95  O2_Winkler_Auto  0  0 0
+96 O2_Winkler_Molar  0 31 0
+>> 18TL14133/18TL14133_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2 3 5 7
+92       O2_CTD_mLL 389  0 0 0 0 0
+93     O2_CTD_Molar   0  0 0 0 0 0
+94       O2_Winkler   0  0 0 0 0 0
+95  O2_Winkler_Auto   0  0 0 0 0 0
+96 O2_Winkler_Molar   0 80 0 1 0 0
+>> 18TL15016/18TL15016_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 3 4
+92       O2_CTD_mLL 191   0 0 0 0
+93     O2_CTD_Molar   0   0 0 0 0
+94       O2_Winkler   0   0 0 0 0
+95  O2_Winkler_Auto   0   0 0 0 0
+96 O2_Winkler_Molar   0 108 0 3 2
+>> 18TL15031/18TL15031_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 2 3 4
+92       O2_CTD_mLL 46  0 0 0 0
+93     O2_CTD_Molar  0  0 0 0 0
+94       O2_Winkler  0  0 0 0 0
+95  O2_Winkler_Auto  0  0 0 0 0
+96 O2_Winkler_Molar  0 28 0 0 1
+>> 18TL15133/18TL15133_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2 3 5
+92       O2_CTD_mLL 432  0 0 0 0
+93     O2_CTD_Molar   0  0 0 0 0
+94       O2_Winkler   0  0 0 0 0
+95  O2_Winkler_Auto   0  0 0 0 0
+96 O2_Winkler_Molar   0 42 0 0 2
+>> 18TL16002/18TL16002_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2  7
+92       O2_CTD_mLL 119  0 0  0
+93     O2_CTD_Molar   0  0 0  0
+94       O2_Winkler   0  0 0  0
+95  O2_Winkler_Auto   0 60 0 36
+96 O2_Winkler_Molar   0  0 0  0
+>> 18TL16003/18TL16003_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 7
+92       O2_CTD_mLL 287   0 0 0
+93     O2_CTD_Molar   0   0 0 0
+94       O2_Winkler   0   0 0 0
+95  O2_Winkler_Auto   0 133 0 2
+96 O2_Winkler_Molar   0   0 0 0
+>> 18TL16037/18TL16037_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 2
+92       O2_CTD_mLL 26  0 0
+93     O2_CTD_Molar  0  0 0
+94       O2_Winkler  0  0 0
+95  O2_Winkler_Auto  0  0 0
+96 O2_Winkler_Molar  0 22 0
+>> 18TL16161/18TL16161_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2 3
+92       O2_CTD_mLL 402  0 0 0
+93     O2_CTD_Molar   0  0 0 0
+94       O2_Winkler   0  0 0 0
+95  O2_Winkler_Auto   0  0 0 0
+96 O2_Winkler_Molar   0 76 0 1
+>> 18TL17002/18TL17002_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2 4 7
+92       O2_CTD_mLL 120  0 0 0 0
+93     O2_CTD_Molar   0  0 0 0 0
+94       O2_Winkler   0  0 0 0 0
+95  O2_Winkler_Auto   0 73 0 0 0
+96 O2_Winkler_Molar   0  0 0 0 0
+>> 18TL17008/18TL17008_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 3 4
+92       O2_CTD_mLL 202   0 0 0 0
+93     O2_CTD_Molar   0   0 0 0 0
+94       O2_Winkler   0   0 0 0 0
+95  O2_Winkler_Auto   0   0 0 0 0
+96 O2_Winkler_Molar   0 114 0 1 1
+>> 18TL17027/18TL17027_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 2
+92       O2_CTD_mLL 37  0 0
+93     O2_CTD_Molar  0  0 0
+94       O2_Winkler  0  0 0
+95  O2_Winkler_Auto  0  0 0
+96 O2_Winkler_Molar  0 23 0
+>> 18TL17177/18TL17177_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 3 4
+92       O2_CTD_mLL 310   0 0 0 0
+93     O2_CTD_Molar   0   0 0 0 0
+94       O2_Winkler   0   0 0 0 0
+95  O2_Winkler_Auto   0   0 0 0 0
+96 O2_Winkler_Molar   0 190 0 1 2
+>> 18TL18023/18TL18023_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 7
+92       O2_CTD_mLL 365   0 0 0
+93     O2_CTD_Molar   0   0 0 0
+94       O2_Winkler   0   0 0 0
+95  O2_Winkler_Auto   0 154 0 2
+96 O2_Winkler_Molar   0   0 0 0
+>> 18TL18196/18TL18196_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2  3 7
+92       O2_CTD_mLL 235   0 0  0 0
+93     O2_CTD_Molar   0   0 0  0 0
+94       O2_Winkler   0   0 0  0 0
+95  O2_Winkler_Auto   0   0 0  0 0
+96 O2_Winkler_Molar   0 133 0 11 0
+>> 18VA01004/18VA01004_flag_summary.csv   
+   DATA_TYPE_METHOD  1 3
+92       O2_CTD_mLL  0 0
+93     O2_CTD_Molar  0 0
+94       O2_Winkler  0 0
+95  O2_Winkler_Auto  0 0
+96 O2_Winkler_Molar 11 0
+>> 18VA16668/18VA16668_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1 7
+92       O2_CTD_mLL 42 0 0
+93     O2_CTD_Molar  0 0 0
+94       O2_Winkler  0 0 0
+95  O2_Winkler_Auto  0 0 0
+96 O2_Winkler_Molar  0 6 0
+>> 18VA17666/18VA17666_flag_summary.csv   
+   DATA_TYPE_METHOD  0  1 7
+92       O2_CTD_mLL 70  0 0
+93     O2_CTD_Molar  0  0 0
+94       O2_Winkler  0  0 0
+95  O2_Winkler_Auto  0 10 5
+96 O2_Winkler_Molar  0  0 0
+>> 18VA17667/18VA17667_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2 4 7
+92       O2_CTD_mLL 204  0 0 0 0
+93     O2_CTD_Molar   0  0 0 0 0
+94       O2_Winkler   0  0 0 0 0
+95  O2_Winkler_Auto   0 93 0 1 1
+96 O2_Winkler_Molar   0  0 0 0 0
+>> 18VA17668/18VA17668_flag_summary.csv   
+   DATA_TYPE_METHOD  0 1 7
+92       O2_CTD_mLL 26 0 0
+93     O2_CTD_Molar  0 0 0
+94       O2_Winkler  0 0 0
+95  O2_Winkler_Auto  0 0 0
+96 O2_Winkler_Molar  0 3 0
+>> 18VA18666/18VA18666_flag_summary.csv   
+   DATA_TYPE_METHOD   0  1 2 7
+92       O2_CTD_mLL 120  0 0 0
+93     O2_CTD_Molar   0  0 0 0
+94       O2_Winkler   0  0 0 0
+95  O2_Winkler_Auto   0 34 0 2
+96 O2_Winkler_Molar   0  0 0 0
+>> 18VA18667/18VA18667_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2
+92       O2_CTD_mLL 204   0 0
+93     O2_CTD_Molar   0   0 0
+94       O2_Winkler   0   0 0
+95  O2_Winkler_Auto   0 102 0
+96 O2_Winkler_Molar   0   0 0
+>> 18VA18668/18VA18668_flag_summary.csv   
+   DATA_TYPE_METHOD 0 1
+92       O2_CTD_mLL 6 0
+93     O2_CTD_Molar 0 0
+94       O2_Winkler 0 0
+95  O2_Winkler_Auto 0 0
+96 O2_Winkler_Molar 0 3
+>> 32EV17606/32EV17606_flag_summary.csv   
+   DATA_TYPE_METHOD   0   1 2 7
+92       O2_CTD_mLL 950   0 0 0
+93     O2_CTD_Molar   0   0 0 0
+94       O2_Winkler   0   0 0 0
+95  O2_Winkler_Auto   0 183 0 2
+96 O2_Winkler_Molar   0   0 0 0
+>> 84036/84036_flag_summary.csv   
+   DATA_TYPE_METHOD   1  3  4 7
+92       O2_CTD_mLL   0  0  0 0
+93     O2_CTD_Molar   0  0  0 0
+94       O2_Winkler   0  0  0 0
+95  O2_Winkler_Auto   0  0  0 0
+96 O2_Winkler_Molar 362 16 14 0
+>> 85004/85004_flag_summary.csv   
+   DATA_TYPE_METHOD   1 3 4 7
+92       O2_CTD_mLL   0 0 0 0
+93     O2_CTD_Molar   0 0 0 0
+94       O2_Winkler   0 0 0 0
+95  O2_Winkler_Auto   0 0 0 0
+96 O2_Winkler_Molar 244 3 0 0
+>> 88025/88025_flag_summary.csv   
+   DATA_TYPE_METHOD  1 3
+92       O2_CTD_mLL  0 0
+93     O2_CTD_Molar  0 0
+94       O2_Winkler  0 0
+95  O2_Winkler_Auto  0 0
+96 O2_Winkler_Molar 33 1
+>> 89037/89037_flag_summary.csv   
+   DATA_TYPE_METHOD   1 2 7
+92       O2_CTD_mLL   0 0 0
+93     O2_CTD_Molar   0 0 0
+94       O2_Winkler   0 0 0
+95  O2_Winkler_Auto   0 0 0
+96 O2_Winkler_Molar 232 0 0
+>> 96022/96022_flag_summary.csv   
+   DATA_TYPE_METHOD   0 1 2 4 7
+92       O2_CTD_mLL   0 0 0 0 0
+93     O2_CTD_Molar   0 0 0 0 0
+94       O2_Winkler   0 0 0 0 0
+95  O2_Winkler_Auto   0 0 0 0 0
+96 O2_Winkler_Molar 184 0 0 0 0
+>> NED2013022/NED2013022_flag_summary.csv   
+   DATA_TYPE_METHOD   0 1 7
+92       O2_CTD_mLL 923 0 0
+93     O2_CTD_Molar 467 0 0
+94       O2_Winkler 428 0 0
+95  O2_Winkler_Auto   0 0 0
+96 O2_Winkler_Molar   0 0 0

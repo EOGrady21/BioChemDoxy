@@ -1,0 +1,4 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18VA01004_225; 40.00; 59; doxy; 9.03; Impossible Parameter Value in Profile
+18VA01004_225; 50.00; 60; doxy; 9.04; Impossible Parameter Value in Profile
+18VA01004_225; 75.00; 61; doxy; 9.00; Impossible Parameter Value in Profile

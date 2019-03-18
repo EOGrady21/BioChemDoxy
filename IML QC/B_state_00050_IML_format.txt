@@ -1,0 +1,129 @@
+Test 1.6 -> No known depth for HUD2000050_002
+Test 1.6 -> No known depth for HUD2000050_009
+Test 1.6 -> No known depth for HUD2000050_010
+Test 1.6 -> No known depth for HUD2000050_021
+Test 1.6 -> No known depth for HUD2000050_023
+Test 1.6 -> No known depth for HUD2000050_028
+Test 1.6 -> No known depth for HUD2000050_031
+Test 1.6 -> No known depth for HUD2000050_036
+Test 1.6 -> No known depth for HUD2000050_038
+Test 1.6 -> No known depth for HUD2000050_046
+Test 1.6 -> No known depth for HUD2000050_049
+Test 1.6 -> No known depth for HUD2000050_057
+Test 1.6 -> No known depth for HUD2000050_058
+Test 1.6 -> No known depth for HUD2000050_065
+Test 1.6 -> No known depth for HUD2000050_066
+Test 1.6 -> No known depth for HUD2000050_072
+Test 1.6 -> No known depth for HUD2000050_073
+Test 1.6 -> No known depth for HUD2000050_080
+Test 1.6 -> No known depth for HUD2000050_082
+Test 1.6 -> No known depth for HUD2000050_093
+Test 1.6 -> No known depth for HUD2000050_097
+Test 1.6 -> No known depth for HUD2000050_106
+Test 1.6 -> No known depth for HUD2000050_117
+Test 1.6 -> No known depth for HUD2000050_137
+Test 1.6 -> No known depth for HUD2000050_160
+Test 1.6 -> No known depth for HUD2000050_165
+Test 1.6 -> No known depth for HUD2000050_166
+Test 1.6 -> No known depth for HUD2000050_172
+Test 1.6 -> No known depth for HUD2000050_174
+Test 1.6 -> No known depth for HUD2000050_180
+Test 1.6 -> No known depth for HUD2000050_190
+Test 1.6 -> No known depth for HUD2000050_194
+Test 1.6 -> No known depth for HUD2000050_198
+Test 1.6 -> No known depth for HUD2000050_204
+Test 1.6 -> No known depth for HUD2000050_210
+Test 1.6 -> No known depth for HUD2000050_217
+Test 1.6 -> No known depth for HUD2000050_218
+Test 1.6 -> No known depth for HUD2000050_219
+Test 1.6 -> No known depth for HUD2000050_288
+HUD2000050_002: Test 3.6 -> Profile HUD2000050_002 outside Monthly Nutrient Climatology polygons
+HUD2000050_009: Test 3.6 -> Profile HUD2000050_009 outside Monthly Nutrient Climatology polygons
+HUD2000050_010: Test 3.6 -> Profile HUD2000050_010 outside Monthly Nutrient Climatology polygons
+HUD2000050_021: Test 3.6 -> Profile HUD2000050_021 outside Monthly Nutrient Climatology polygons
+HUD2000050_023: Test 3.6 -> Profile HUD2000050_023 outside Monthly Nutrient Climatology polygons
+HUD2000050_028: Test 3.6 -> Profile HUD2000050_028 outside Monthly Nutrient Climatology polygons
+HUD2000050_031: Test 3.6 -> Profile HUD2000050_031 outside Monthly Nutrient Climatology polygons
+HUD2000050_036: Test 3.6 -> Profile HUD2000050_036 outside Monthly Nutrient Climatology polygons
+HUD2000050_038: Test 3.6 -> Profile HUD2000050_038 outside Monthly Nutrient Climatology polygons
+HUD2000050_046: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_046: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_046: Test 3.6 -> Profile HUD2000050_046 outside Monthly Nutrient Climatology polygons
+HUD2000050_049: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_049: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_049: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_049: Test 3.6 -> Profile HUD2000050_049 outside Monthly Nutrient Climatology polygons
+HUD2000050_057: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_057: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_057: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_057: Test 3.6 -> Profile HUD2000050_057 outside Monthly Nutrient Climatology polygons
+HUD2000050_058: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_058: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_058: Test 3.6 -> Profile HUD2000050_058 outside Monthly Nutrient Climatology polygons
+HUD2000050_065: Test 3.6 -> Profile HUD2000050_065 outside Monthly Nutrient Climatology polygons
+HUD2000050_066: Test 3.6 -> Profile HUD2000050_066 outside Monthly Nutrient Climatology polygons
+HUD2000050_072: Test 3.6 -> Profile HUD2000050_072 outside Monthly Nutrient Climatology polygons
+HUD2000050_073: Test 3.6 -> Profile HUD2000050_073 outside Monthly Nutrient Climatology polygons
+HUD2000050_080: Test 3.6 -> Profile HUD2000050_080 outside Monthly Nutrient Climatology polygons
+HUD2000050_082: Test 3.6 -> Profile HUD2000050_082 outside Monthly Nutrient Climatology polygons
+HUD2000050_093: Test 3.6 -> Profile HUD2000050_093 outside Monthly Nutrient Climatology polygons
+HUD2000050_097: Test 3.6 -> Profile HUD2000050_097 outside Monthly Nutrient Climatology polygons
+HUD2000050_106: Test 3.6 -> Profile HUD2000050_106 outside Monthly Nutrient Climatology polygons
+HUD2000050_117: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_117: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_117: Test 3.6 -> Profile HUD2000050_117 outside Monthly Nutrient Climatology polygons
+HUD2000050_137: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_137: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_137: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_137: Test 3.6 -> Profile HUD2000050_137 outside Monthly Nutrient Climatology polygons
+HUD2000050_160: Test 3.6 -> Profile HUD2000050_160 outside Monthly Nutrient Climatology polygons
+HUD2000050_165: Test 3.6 -> Profile HUD2000050_165 outside Monthly Nutrient Climatology polygons
+HUD2000050_166: Test 3.6 -> Profile HUD2000050_166 outside Monthly Nutrient Climatology polygons
+HUD2000050_172: Test 3.6 -> Profile HUD2000050_172 outside Monthly Nutrient Climatology polygons
+HUD2000050_174: Test 3.6 -> Profile HUD2000050_174 outside Monthly Nutrient Climatology polygons
+HUD2000050_180: Test 3.6 -> Profile HUD2000050_180 outside Monthly Nutrient Climatology polygons
+HUD2000050_190: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_190: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_190: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_190: Test 3.6 -> Profile HUD2000050_190 outside Monthly Nutrient Climatology polygons
+HUD2000050_194: Test 3.6 -> Profile HUD2000050_194 outside Monthly Nutrient Climatology polygons
+HUD2000050_198: Test 3.6 -> Profile HUD2000050_198 outside Monthly Nutrient Climatology polygons
+HUD2000050_204: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_204: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_204: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_204: Test 3.6 -> Profile HUD2000050_204 outside Monthly Nutrient Climatology polygons
+HUD2000050_210: Test 2.2 -> Regional Impossible Parameter Value for pres
+HUD2000050_210: Test 3.6 -> Profile HUD2000050_210 outside Monthly Nutrient Climatology polygons
+HUD2000050_217: Test 3.6 -> Profile HUD2000050_217 outside Monthly Nutrient Climatology polygons
+HUD2000050_218: Test 3.6 -> Profile HUD2000050_218 outside Monthly Nutrient Climatology polygons
+HUD2000050_219: Test 3.6 -> Profile HUD2000050_219 outside Monthly Nutrient Climatology polygons
+HUD2000050_221: Test 3.6 -> Profile HUD2000050_221 outside Monthly Nutrient Climatology polygons
+HUD2000050_228: Test 3.6 -> Profile HUD2000050_228 outside Monthly Nutrient Climatology polygons
+HUD2000050_231: Test 3.6 -> Profile HUD2000050_231 outside Monthly Nutrient Climatology polygons
+HUD2000050_240: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 99.3 m
+HUD2000050_240: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 9.5 m
+HUD2000050_243: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 330.3 m
+HUD2000050_246: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 464.5 m
+HUD2000050_246: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 464.5 m
+HUD2000050_251: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 470.9 m
+HUD2000050_259: Test 3.6 -> ntrz in box(es) 10 is out of Nutrient Climatology at 30.3 m
+HUD2000050_259: Test 3.6 -> ntrz in box(es) 10 is out of Nutrient Climatology at 99.9 m
+HUD2000050_260: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 4.3 m
+HUD2000050_260: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 10.7 m
+HUD2000050_260: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 20.7 m
+HUD2000050_260: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 10.7 m
+HUD2000050_260: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 31.0 m
+HUD2000050_267: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 3.8 m
+HUD2000050_267: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 13.5 m
+HUD2000050_267: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 14.0 m
+HUD2000050_267: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 23.2 m
+HUD2000050_267: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 32.4 m
+HUD2000050_270: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 3.2 m
+HUD2000050_270: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 12.8 m
+HUD2000050_270: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 13.1 m
+HUD2000050_270: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 23.0 m
+HUD2000050_270: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 32.8 m
+HUD2000050_276: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 4.6 m
+HUD2000050_279: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 4.0 m
+HUD2000050_279: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 10.7 m
+HUD2000050_288: Test 3.6 -> Profile HUD2000050_288 outside Monthly Nutrient Climatology polygons

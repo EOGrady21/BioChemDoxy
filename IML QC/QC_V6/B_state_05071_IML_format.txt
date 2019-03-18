@@ -1,0 +1,22 @@
+18HU05071_802: Test 3.6 -> Profile 18HU05071_802 outside TS Monthly Climatology polygons
+18HU05071_802: Test 3.6 -> Profile 18HU05071_802 outside Monthly Nutrient Climatology polygons
+18HU05071_803: Test 3.6 -> Profile 18HU05071_803 outside TS Monthly Climatology polygons
+18HU05071_803: Test 3.6 -> Profile 18HU05071_803 outside Monthly Nutrient Climatology polygons
+18HU05071_804: Test 3.6 -> Profile 18HU05071_804 outside TS Monthly Climatology polygons
+18HU05071_804: Test 3.6 -> Profile 18HU05071_804 outside Monthly Nutrient Climatology polygons
+18HU05071_805: Test 3.6 -> Profile 18HU05071_805 outside TS Monthly Climatology polygons
+18HU05071_805: Test 3.6 -> Profile 18HU05071_805 outside Monthly Nutrient Climatology polygons
+18HU05071_806: Test 3.6 -> Profile 18HU05071_806 outside TS Monthly Climatology polygons
+18HU05071_806: Test 3.6 -> Profile 18HU05071_806 outside Monthly Nutrient Climatology polygons
+18HU05071_807: Test 3.6 -> Profile 18HU05071_807 outside TS Monthly Climatology polygons
+18HU05071_807: Test 3.6 -> Profile 18HU05071_807 outside Monthly Nutrient Climatology polygons
+18HU05071_808: Test 3.6 -> Profile 18HU05071_808 outside TS Monthly Climatology polygons
+18HU05071_808: Test 3.6 -> Profile 18HU05071_808 outside Monthly Nutrient Climatology polygons
+18HU05071_809: Test 3.6 -> Profile 18HU05071_809 outside TS Monthly Climatology polygons
+18HU05071_809: Test 3.6 -> Profile 18HU05071_809 outside Monthly Nutrient Climatology polygons
+18HU05071_810: Test 3.6 -> Profile 18HU05071_810 outside TS Monthly Climatology polygons
+18HU05071_810: Test 3.6 -> Profile 18HU05071_810 outside Monthly Nutrient Climatology polygons
+18HU05071_811: Test 3.6 -> Profile 18HU05071_811 outside TS Monthly Climatology polygons
+18HU05071_811: Test 3.6 -> Profile 18HU05071_811 outside Monthly Nutrient Climatology polygons
+18HU05071_818: Test 3.5 -> Profile 18HU05071_818 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU05071_818: Test 3.6 -> Profile 18HU05071_818 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes

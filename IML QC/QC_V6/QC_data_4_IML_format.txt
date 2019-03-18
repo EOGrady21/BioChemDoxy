@@ -1,0 +1,33 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+85004_113; 5160.00; 22; pres; 5160.00  ; Regional Impossible Parameter Value
+85004_225; 5070.00; 43; pres; 5070.00  ; Regional Impossible Parameter Value
+85004_284; 5234.00; 85; pres; 5234.00  ; Regional Impossible Parameter Value
+85004_304; 5108.00; 106; pres; 5108.00  ; Regional Impossible Parameter Value
+85004_315; 5243.00; 127; pres; 5243.00  ; Regional Impossible Parameter Value
+85004_326; 5204.00; 148; pres; 5204.00  ; Regional Impossible Parameter Value
+85004_339; 5186.00; 169; pres; 5186.00  ; Regional Impossible Parameter Value
+85004_003; 5181.00; 190; pres; 5181.00  ; Regional Impossible Parameter Value
+85004_014; 5155.00; 211; pres; 5155.00  ; Regional Impossible Parameter Value
+85004_025; 5167.00; 232; pres; 5167.00  ; Regional Impossible Parameter Value
+85004_036; 5098.00; 253; pres; 5098.00  ; Regional Impossible Parameter Value
+85004_047; 5113.00; 274; pres; 5113.00  ; Regional Impossible Parameter Value
+85004_058; 5151.00; 295; pres; 5151.00  ; Regional Impossible Parameter Value
+85004_069; 5210.00; 316; pres; 5210.00  ; Regional Impossible Parameter Value
+85004_091; 5265.00; 337; pres; 5265.00  ; Regional Impossible Parameter Value
+85004_102; 5236.00; 358; pres; 5236.00  ; Regional Impossible Parameter Value
+85004_114; 5309.00; 379; pres; 5309.00  ; Regional Impossible Parameter Value
+85004_127; 5268.00; 400; pres; 5268.00  ; Regional Impossible Parameter Value
+85004_138; 5281.00; 421; pres; 5281.00  ; Regional Impossible Parameter Value
+85004_149; 5255.00; 442; pres; 5255.00  ; Regional Impossible Parameter Value
+85004_160; 5172.00; 463; pres; 5172.00  ; Regional Impossible Parameter Value
+85004_171; 5186.00; 484; pres; 5186.00  ; Regional Impossible Parameter Value
+85004_182; 5130.00; 505; pres; 5130.00  ; Regional Impossible Parameter Value
+85004_193; 5098.00; 526; pres; 5098.00  ; Regional Impossible Parameter Value
+85004_204; 5068.00; 547; pres; 5068.00  ; Regional Impossible Parameter Value
+85004_237; 5140.00; 610; pres; 5140.00  ; Regional Impossible Parameter Value
+85004_239; 5147.00; 631; pres; 5147.00  ; Regional Impossible Parameter Value
+85004_243; 5186.00; 652; pres; 5186.00  ; Regional Impossible Parameter Value
+85004_244; 5164.00; 673; pres; 5164.00  ; Regional Impossible Parameter Value
+85004_247; 5114.00; 694; pres; 5114.00  ; Regional Impossible Parameter Value
+85004_253; 5020.00; 715; pres; 5020.00  ; Regional Impossible Parameter Value
+85004_261; 4722.00 to 4722.00; 757, 758; psal; 34.89  34.89  ; Gradient or Inversion too high

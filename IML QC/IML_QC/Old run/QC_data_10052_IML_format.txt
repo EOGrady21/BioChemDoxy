@@ -1,0 +1,30 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL10052_1109; 8.33; 344408; doxy; 261.31  ; Global Impossible Parameter Value
+18TL10052_1109; 17.65; 344407; doxy; 295.45  ; Global Impossible Parameter Value
+18TL10052_1109; 251.82; 344405; doxy; 159.17  ; Global Impossible Parameter Value
+18TL10052_1109; 509.66; 344404; doxy; 186.99  ; Global Impossible Parameter Value
+18TL10052_1109; 8.33; 344408; doxy; 261.31  ; Regional Impossible Parameter Value
+18TL10052_1109; 17.65; 344407; doxy; 295.45  ; Regional Impossible Parameter Value
+18TL10052_1109; 251.82; 344405; doxy; 159.17  ; Regional Impossible Parameter Value
+18TL10052_1109; 509.66; 344404; doxy; 186.99  ; Regional Impossible Parameter Value
+18TL10052_1109; 53.44; 344406; slca; 1.38  ; Out of Nutrient Climatology in box(es) 8 (Min=1.39 Max=9.12 n=32)
+18TL10052_1110; 5.06; 344412; doxy; 291.18  ; Global Impossible Parameter Value
+18TL10052_1110; 14.68; 344411; doxy; 323.87  ; Global Impossible Parameter Value
+18TL10052_1110; 233.60; 344410; doxy; 164.01  ; Global Impossible Parameter Value
+18TL10052_1110; 5.06; 344412; doxy; 291.18  ; Regional Impossible Parameter Value
+18TL10052_1110; 14.68; 344411; doxy; 323.87  ; Regional Impossible Parameter Value
+18TL10052_1110; 233.60; 344410; doxy; 164.01  ; Regional Impossible Parameter Value
+18TL10052_1111; 5.26; 344418; doxy; 260.48  ; Global Impossible Parameter Value
+18TL10052_1111; 15.17; 344417; doxy; 306.17  ; Global Impossible Parameter Value
+18TL10052_1111; 249.06; 344414; doxy; 155.44  ; Global Impossible Parameter Value
+18TL10052_1111; 444.09; 344413; doxy; 166.07  ; Global Impossible Parameter Value
+18TL10052_1111; 5.26; 344418; doxy; 260.48  ; Regional Impossible Parameter Value
+18TL10052_1111; 15.17; 344417; doxy; 306.17  ; Regional Impossible Parameter Value
+18TL10052_1111; 249.06; 344414; doxy; 155.44  ; Regional Impossible Parameter Value
+18TL10052_1111; 444.09; 344413; doxy; 166.07  ; Regional Impossible Parameter Value
+18TL10052_1112; 5.16; 344421; doxy; 257.20  ; Global Impossible Parameter Value
+18TL10052_1112; 16.06; 344420; doxy; 273.39  ; Global Impossible Parameter Value
+18TL10052_1112; 197.74; 344419; doxy; 175.42  ; Global Impossible Parameter Value
+18TL10052_1112; 5.16; 344421; doxy; 257.20  ; Regional Impossible Parameter Value
+18TL10052_1112; 16.06; 344420; doxy; 273.39  ; Regional Impossible Parameter Value
+18TL10052_1112; 197.74; 344419; doxy; 175.42  ; Regional Impossible Parameter Value

@@ -1,0 +1,144 @@
+Test 1.6 -> No known depth for 2
+Test 1.6 -> No known depth for 6
+Test 1.6 -> No known depth for 7
+Test 1.6 -> No known depth for 13
+Test 1.6 -> No known depth for 16
+Test 1.6 -> No known depth for 22
+Test 1.6 -> No known depth for 25
+Test 1.6 -> No known depth for 32
+Test 1.6 -> No known depth for 35
+Test 1.6 -> No known depth for 38
+Test 1.6 -> No known depth for 47
+Test 1.6 -> No known depth for 52
+Test 1.6 -> No known depth for 55
+Test 1.6 -> No known depth for 59
+Test 1.6 -> No known depth for 63
+Test 1.6 -> No known depth for 70
+Test 1.6 -> No known depth for 106
+Test 1.6 -> No known depth for 110
+Test 1.6 -> No known depth for 114
+Test 1.6 -> No known depth for 117
+Test 1.6 -> No known depth for 120
+Test 1.6 -> No known depth for 121
+Test 1.6 -> No known depth for 124
+Test 1.6 -> No known depth for 127
+2: Test 3.6 -> Profile 2 outside Monthly Nutrient Climatology polygons
+6: Test 3.6 -> Profile 6 outside Monthly Nutrient Climatology polygons
+7: Test 3.6 -> Profile 7 outside Monthly Nutrient Climatology polygons
+13: Test 3.6 -> Profile 13 outside Monthly Nutrient Climatology polygons
+16: Test 3.6 -> Profile 16 outside Monthly Nutrient Climatology polygons
+22: Test 3.6 -> Profile 22 outside Monthly Nutrient Climatology polygons
+25: Test 2.2 -> Regional Impossible Parameter Value for psal
+25: Test 3.6 -> Profile 25 outside Monthly Nutrient Climatology polygons
+32: Test 2.2 -> Regional Impossible Parameter Value for pres
+32: Test 2.2 -> Regional Impossible Parameter Value for pres
+32: Test 3.6 -> Profile 32 outside Monthly Nutrient Climatology polygons
+35: Test 2.2 -> Regional Impossible Parameter Value for pres
+35: Test 3.6 -> Profile 35 outside Monthly Nutrient Climatology polygons
+38: Test 2.2 -> Regional Impossible Parameter Value for pres
+38: Test 2.2 -> Regional Impossible Parameter Value for pres
+38: Test 3.6 -> Profile 38 outside Monthly Nutrient Climatology polygons
+47: Test 2.2 -> Regional Impossible Parameter Value for pres
+47: Test 2.2 -> Regional Impossible Parameter Value for pres
+47: Test 2.2 -> Regional Impossible Parameter Value for pres
+47: Test 2.2 -> Regional Impossible Parameter Value for pres
+47: Test 2.2 -> Regional Impossible Parameter Value for pres
+47: Test 2.2 -> Regional Impossible Parameter Value for pres
+47: Test 3.6 -> Profile 47 outside Monthly Nutrient Climatology polygons
+52: Test 2.2 -> Regional Impossible Parameter Value for pres
+52: Test 2.2 -> Regional Impossible Parameter Value for pres
+52: Test 3.6 -> Profile 52 outside Monthly Nutrient Climatology polygons
+55: Test 2.2 -> Regional Impossible Parameter Value for pres
+55: Test 2.2 -> Regional Impossible Parameter Value for pres
+55: Test 2.2 -> Regional Impossible Parameter Value for pres
+55: Test 2.2 -> Regional Impossible Parameter Value for pres
+55: Test 3.6 -> Profile 55 outside Monthly Nutrient Climatology polygons
+59: Test 3.6 -> Profile 59 outside Monthly Nutrient Climatology polygons
+63: Test 3.6 -> Profile 63 outside Monthly Nutrient Climatology polygons
+70: Test 3.6 -> Profile 70 outside Monthly Nutrient Climatology polygons
+73: Test 3.6 -> Profile 73 outside Monthly Nutrient Climatology polygons
+77: Test 3.6 -> Profile 77 outside Monthly Nutrient Climatology polygons
+79: Test 3.6 -> Profile 79 outside Monthly Nutrient Climatology polygons
+81: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 3.8 m
+81: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 9.9 m
+81: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 18.9 m
+81: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 3.8 m
+81: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 9.9 m
+81: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 18.9 m
+81: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 3.8 m
+81: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 9.9 m
+87: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 3.5 m
+87: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 10.4 m
+87: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 100.8 m
+87: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 3.5 m
+87: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 10.4 m
+87: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 3.5 m
+90: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 3.7 m
+90: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 9.7 m
+90: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 324.7 m
+90: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 3.7 m
+90: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 9.7 m
+90: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 324.7 m
+90: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 3.7 m
+95: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 3.6 m
+95: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 10.1 m
+95: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 19.7 m
+95: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 30.1 m
+95: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 299.0 m
+95: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 3.6 m
+95: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 10.1 m
+95: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 19.7 m
+95: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 10.1 m
+95: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 19.7 m
+99: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 3.2 m
+99: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 10.8 m
+99: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 20.1 m
+99: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 31.1 m
+99: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 3.2 m
+99: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 10.8 m
+99: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 31.1 m
+99: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 31.1 m
+103: Test 3.6 -> ntrz in box(es) 10 is out of Nutrient Climatology at 3.2 m
+103: Test 3.6 -> ntrz in box(es) 10 is out of Nutrient Climatology at 10.4 m
+103: Test 3.6 -> ntrz in box(es) 10 is out of Nutrient Climatology at 21.0 m
+103: Test 3.6 -> ntrz in box(es) 10 is out of Nutrient Climatology at 30.5 m
+103: Test 3.6 -> ntrz in box(es) 10 is out of Nutrient Climatology at 40.3 m
+103: Test 3.6 -> ntrz in box(es) 10 is out of Nutrient Climatology at 50.0 m
+103: Test 3.6 -> ntrz in box(es) 10 is out of Nutrient Climatology at 60.7 m
+103: Test 3.6 -> ntrz in box(es) 10 is out of Nutrient Climatology at 79.8 m
+103: Test 3.6 -> ntrz in box(es) 10 is out of Nutrient Climatology at 100.3 m
+103: Test 3.6 -> ntrz in box(es) 10 is out of Nutrient Climatology at 266.5 m
+103: Test 3.6 -> phos in box(es) 10 is out of Nutrient Climatology at 3.2 m
+103: Test 3.6 -> phos in box(es) 10 is out of Nutrient Climatology at 10.4 m
+103: Test 3.6 -> phos in box(es) 10 is out of Nutrient Climatology at 21.0 m
+103: Test 3.6 -> phos in box(es) 10 is out of Nutrient Climatology at 30.5 m
+103: Test 3.6 -> phos in box(es) 10 is out of Nutrient Climatology at 40.3 m
+103: Test 3.6 -> phos in box(es) 10 is out of Nutrient Climatology at 50.0 m
+103: Test 3.6 -> phos in box(es) 10 is out of Nutrient Climatology at 60.7 m
+103: Test 3.6 -> phos in box(es) 10 is out of Nutrient Climatology at 79.8 m
+103: Test 3.6 -> phos in box(es) 10 is out of Nutrient Climatology at 100.3 m
+103: Test 3.6 -> phos in box(es) 10 is out of Nutrient Climatology at 266.5 m
+103: Test 3.6 -> slca in box(es) 10 is out of Nutrient Climatology at 3.2 m
+103: Test 3.6 -> slca in box(es) 10 is out of Nutrient Climatology at 10.4 m
+103: Test 3.6 -> slca in box(es) 10 is out of Nutrient Climatology at 21.0 m
+103: Test 3.6 -> slca in box(es) 10 is out of Nutrient Climatology at 30.5 m
+103: Test 3.6 -> slca in box(es) 10 is out of Nutrient Climatology at 40.3 m
+103: Test 3.6 -> slca in box(es) 10 is out of Nutrient Climatology at 50.0 m
+103: Test 3.6 -> slca in box(es) 10 is out of Nutrient Climatology at 60.7 m
+103: Test 3.6 -> slca in box(es) 10 is out of Nutrient Climatology at 79.8 m
+103: Test 3.6 -> slca in box(es) 10 is out of Nutrient Climatology at 100.3 m
+103: Test 3.6 -> slca in box(es) 10 is out of Nutrient Climatology at 199.8 m
+103: Test 3.6 -> slca in box(es) 10 is out of Nutrient Climatology at 266.5 m
+106: Test 3.6 -> Profile 106 outside Monthly Nutrient Climatology polygons
+110: Test 2.2 -> Regional Impossible Parameter Value for pres
+110: Test 2.2 -> Regional Impossible Parameter Value for pres
+110: Test 2.2 -> Regional Impossible Parameter Value for pres
+110: Test 3.6 -> Profile 110 outside Monthly Nutrient Climatology polygons
+114: Test 2.2 -> Regional Impossible Parameter Value for pres
+114: Test 2.2 -> Regional Impossible Parameter Value for pres
+114: Test 3.6 -> Profile 114 outside Monthly Nutrient Climatology polygons
+117: Test 3.6 -> Profile 117 outside Monthly Nutrient Climatology polygons
+120: Test 3.6 -> Profile 120 outside Monthly Nutrient Climatology polygons
+121: Test 3.6 -> Profile 121 outside Monthly Nutrient Climatology polygons
+124: Test 3.6 -> Profile 124 outside Monthly Nutrient Climatology polygons
+127: Test 3.6 -> Profile 127 outside Monthly Nutrient Climatology polygons

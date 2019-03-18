@@ -1,0 +1,22 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18NA97015_304; 20.00; 147679; phos; 5.43  ; Global Impossible Parameter Value
+18NA97015_304; 35.00; 147678; phos; 12.22  ; Global Impossible Parameter Value
+18NA97015_304; 20.00; 147679; phos; 5.43  ; Regional Impossible Parameter Value
+18NA97015_304; 35.00; 147678; phos; 12.22  ; Regional Impossible Parameter Value
+18NA97015_326; 1.00 to 8.00; 147686, 147685; ntrz; 0.00  12.14  ; Gradient or Inversion too high
+18NA97015_036; 4.00; 147688; ntrz; 0.00  ; Constant profile problem
+18NA97015_036; 8.00; 147687; ntrz; 0.00  ; Constant profile problem
+18NA97015_127; 1.00; 147690; ntrz; 0.00  ; Constant profile problem
+18NA97015_127; 7.00; 147689; ntrz; 0.00  ; Constant profile problem
+18NA97015_138; 1.00; 147692; ntrz; 0.00  ; Constant profile problem
+18NA97015_138; 5.00; 147691; ntrz; 0.00  ; Constant profile problem
+18NA97015_149; 1.00; 147694; ntrz; 0.00  ; Constant profile problem
+18NA97015_149; 4.00; 147693; ntrz; 0.00  ; Constant profile problem
+18NA97015_160; 1.00; 147696; ntrz; 0.00  ; Constant profile problem
+18NA97015_160; 7.00; 147695; ntrz; 0.00  ; Constant profile problem
+18NA97015_244; 1.00; 180618; ntrz; 0.00  ; Constant profile problem
+18NA97015_244; 5.00; 180617; ntrz; 0.00  ; Constant profile problem
+18NA97015_244; 17.00; 180616; ntrz; 0.00  ; Constant profile problem
+18NA97015_247; 1.00; 180621; ntrz; 0.00  ; Constant profile problem
+18NA97015_247; 5.00; 180620; ntrz; 0.00  ; Constant profile problem
+18NA97015_247; 10.00; 180619; ntrz; 0.00  ; Constant profile problem

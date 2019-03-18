@@ -1,0 +1,6 @@
+180335056_430: Test 3.6 -> Profile 180335056_430 outside TS Monthly Climatology polygons
+180335056_430: Test 3.6 -> Profile 180335056_430 outside Monthly Nutrient Climatology polygons
+180335056_429: Test 3.6 -> Profile 180335056_429 outside TS Monthly Climatology polygons
+180335056_429: Test 3.6 -> Profile 180335056_429 outside Monthly Nutrient Climatology polygons
+180335056_428: Test 3.6 -> Profile 180335056_428 outside TS Monthly Climatology polygons
+180335056_428: Test 3.6 -> Profile 180335056_428 outside Monthly Nutrient Climatology polygons

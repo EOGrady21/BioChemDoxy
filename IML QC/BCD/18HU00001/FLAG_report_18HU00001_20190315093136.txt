@@ -1,0 +1,43 @@
+
+18HU00001 FLAG Report:,  2019-03-15 09:31:36
+----------------------- 
+ 
+-> Flagged NITRATE, event 10, station SEGB-06:
+
+           sample_key depth value   method qc
+ 18HU00001_003_221544     5  0.00 NO2NO3_0  1
+ 18HU00001_003_221543    10  0.00 NO2NO3_0  2
+ 18HU00001_003_221542    20  0.00 NO2NO3_0  1
+ 18HU00001_003_221541    30  0.00 NO2NO3_0  1
+ 18HU00001_003_221540    40  0.00 NO2NO3_0  1
+ 18HU00001_003_221539    50  6.74 NO2NO3_0  1
+ 18HU00001_003_221538    79  9.48 NO2NO3_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 75, station STN27:
+
+           sample_key depth value method qc
+ 18HU00001_321_222458     6  1.78 SiO4_0  2
+ 18HU00001_321_222457    12  1.61 SiO4_0  1
+ 18HU00001_321_222456    23  2.14 SiO4_0  1
+ 18HU00001_321_222455    32  1.92 SiO4_0  1
+ 18HU00001_321_222454    38  2.06 SiO4_0  1
+ 18HU00001_321_222453    48  2.24 SiO4_0  1
+ 18HU00001_321_222452    77  3.36 SiO4_0  1
+ 18HU00001_321_222451   102  6.92 SiO4_0  1
+ 18HU00001_321_222450   148 14.24 SiO4_0  1
+ 18HU00001_321_222449   170 15.68 SiO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+

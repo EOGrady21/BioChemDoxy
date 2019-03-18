@@ -1,0 +1,37 @@
+    The end of 18VA18666_304 and the beginning of 18VA18666_315 (found ship velocity is 0.00 kt)
+    The end of 18VA18666_339 and the beginning of 18VA18666_003 (found ship velocity is 0.00 kt)
+    The end of 18VA18666_003 and the beginning of 18VA18666_014 (found ship velocity is 0.00 kt)
+    The end of 18VA18666_014 and the beginning of 18VA18666_025 (found ship velocity is 0.00 kt)
+    The end of 18VA18666_025 and the beginning of 18VA18666_036 (found ship velocity is 0.00 kt)
+Test 1.6 -> No known depth for 18VA18666_002
+Test 1.6 -> No known depth for 18VA18666_113
+Test 1.6 -> No known depth for 18VA18666_264
+Test 1.6 -> No known depth for 18VA18666_284
+Test 1.6 -> No known depth for 18VA18666_304
+Test 1.6 -> No known depth for 18VA18666_315
+Test 1.6 -> No known depth for 18VA18666_326
+Test 1.6 -> No known depth for 18VA18666_339
+Test 1.6 -> No known depth for 18VA18666_003
+Test 1.6 -> No known depth for 18VA18666_014
+Test 1.6 -> No known depth for 18VA18666_025
+Test 1.6 -> No known depth for 18VA18666_036
+18VA18666_264: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 101.1 m
+18VA18666_304: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 10.5 m
+18VA18666_315: Test 3.5 -> psal in box(es) 14 is out of TS Climatology by more than 3*std at 0.0 m
+18VA18666_315: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 1.5 m
+18VA18666_315: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 5.4 m
+18VA18666_315: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 101.0 m
+18VA18666_315: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 141.1 m
+18VA18666_315: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 101.0 m
+18VA18666_315: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 141.1 m
+18VA18666_315: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 1.5 m
+18VA18666_315: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 5.4 m
+18VA18666_315: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 41.1 m
+18VA18666_315: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 50.7 m
+18VA18666_315: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 76.0 m
+18VA18666_315: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 101.0 m
+18VA18666_315: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 141.1 m
+18VA18666_339: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 30.4 m
+18VA18666_036: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 101.0 m
+18VA18666_036: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 101.0 m
+18VA18666_036: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 101.0 m

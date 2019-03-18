@@ -1,0 +1,115 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18TL18023 FLAG Report:,  2019-03-15 13:18:36
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged SALINITY, event 1, station HL_02:
+
+ sample_key depth.x Salinity_CTD qc.x depth.y Salinity_Sal_PSS qc.y
+               1.76      30.9855    0    1.76           30.627    7
+               1.76      30.9855    0   40.78           31.957    1
+               1.76      30.9855    0  204.66           34.648    1
+               5.53      30.6415    0    1.76           30.627    7
+               5.53      30.6415    0   40.78           31.957    1
+               5.53      30.6415    0  204.66           34.648    1
+              10.09      30.6498    0    1.76           30.627    7
+              10.09      30.6498    0   40.78           31.957    1
+              10.09      30.6498    0  204.66           34.648    1
+              20.58      31.0318    0    1.76           30.627    7
+              20.58      31.0318    0   40.78           31.957    1
+              20.58      31.0318    0  204.66           34.648    1
+              30.55      31.6422    0    1.76           30.627    7
+              30.55      31.6422    0   40.78           31.957    1
+              30.55      31.6422    0  204.66           34.648    1
+              40.78      32.0135    0    1.76           30.627    7
+              40.78      32.0135    0   40.78           31.957    1
+              40.78      32.0135    0  204.66           34.648    1
+              50.84      32.2676    0    1.76           30.627    7
+              50.84      32.2676    0   40.78           31.957    1
+              50.84      32.2676    0  204.66           34.648    1
+              75.95      32.4846    0    1.76           30.627    7
+              75.95      32.4846    0   40.78           31.957    1
+              75.95      32.4846    0  204.66           34.648    1
+             101.52      33.1954    0    1.76           30.627    7
+             101.52      33.1954    0   40.78           31.957    1
+             101.52      33.1954    0  204.66           34.648    1
+             204.66      34.6457    0    1.76           30.627    7
+             204.66      34.6457    0   40.78           31.957    1
+             204.66      34.6457    0  204.66           34.648    1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event 1, station HL_02:
+
+ sample_key  depth O2_CTD_mLL qc
+              1.76     5.1206  0
+              5.53     6.2859  0
+             10.09     6.2887  0
+             20.58     7.0398  0
+             30.55     6.9338  0
+             40.78     7.0864  0
+             50.84     6.9780  0
+             75.95     6.0296  0
+            101.52     5.8239  0
+            204.66     3.6096  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event 28, station 26:
+
+ sample_key  depth O2_CTD_mLL qc
+              4.88     5.9099  0
+             24.45     6.9832  0
+             48.70     7.0514  0
+            137.73     4.6004  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 97, station 90:
+
+ sample_key  depth  value     method qc
+              5.37 0.2170 PO4_Tech_F  1
+             24.05 0.0875 PO4_Tech_F  2
+             49.61 0.4355 PO4_Tech_F  1
+            200.68 1.3195 PO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

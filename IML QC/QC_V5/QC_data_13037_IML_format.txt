@@ -1,0 +1,38 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU13037_036; 75.00; 398751; psal; 30.89; Bottle-CTD Difference Problem
+18HU13037_036; 70 to 80 m; NaN; psal; 30.89  ; Out of TS Climatology by more than 3*std in box(es) 14 (32.54 ± 0.81)
+18HU13037_080; 131.00; 398759; psal; 33.86; Bottle-CTD Difference Problem
+18HU13037_102; 4.00; 398779; psal; 30.84; Bottle-CTD Difference Problem
+18HU13037_237; 10.00; 398796; phos; 0.03  ; Out of Nutrient Climatology in box(es) 6 (Min=0.03 Max=0.88 n=151)
+18HU13037_257; 10.00; 398816; slca; 0.55  ; Out of Nutrient Climatology in box(es) 1 (Min=0.58 Max=43.00 n=53)
+18HU13037_263; 10.00; 398829; psal; 32.63; Bottle-CTD Difference Problem
+18HU13037_282; -5 to 5 m; NaN; psal; 33.57  ; Out of TS Climatology by more than 3*std in box(es) 34 (31.49 ± 1.68)
+18HU13037_285; 30.00 to 40.00; 398891, 398890; ntrz; 0.54  17.61  ; Gradient or Inversion too high
+18HU13037_285; 40.00 to 50.00; 398890, 398889; ntrz; 17.61  2.08  ; Gradient or Inversion too high
+18HU13037_285; -5 to 5 m; NaN; psal; 35.51  ; Out of TS Climatology by more than 3*std in box(es) 34 (31.49 ± 1.68)
+18HU13037_295; 31.00 to 41.00; 398909, 398908; ntrz; 0.47  15.70  ; Gradient or Inversion too high
+18HU13037_295; -5 to 5 m; NaN; psal; 35.90  ; Out of TS Climatology by more than 3*std in box(es) 35 (32.54 ± 2.94)
+18HU13037_295; 25 to 35 m; NaN; psal; 35.91  ; Out of TS Climatology by more than 3*std in box(es) 35 (33.21 ± 1.17)
+18HU13037_312; 240 to 260 m; NaN; psal; 35.06  ; Out of TS Climatology by more than 3*std in box(es) 8 (34.44 ± 0.00)
+18HU13037_324; 240 to 260 m; NaN; psal; 35.66  ; Out of TS Climatology by more than 3*std in box(es) 35 (34.86 ± 0.21)
+18HU13037_354; 77.00 to 77.00; 399024, 399025; ntrz; 10.12  9.83  ; Gradient or Inversion too high
+18HU13037_354; 77.00 to 77.00; 399024, 399025; phos; 1.11  1.11  ; Gradient or Inversion too high
+18HU13037_389; 140 to 160 m; NaN; psal; 33.20  ; Out of TS Climatology by more than 3*std in box(es) 6 (33.52 ± 0.18)
+18HU13037_008; 80.00 to 80.00; 399076, 399077; ntrz; 8.62  8.77  ; Gradient or Inversion too high
+18HU13037_008; 80.00 to 80.00; 399076, 399077; phos; 0.98  1.01  ; Gradient or Inversion too high
+18HU13037_012; 149.00 to 149.00; 399085, 399086; ntrz; 12.99  13.07  ; Gradient or Inversion too high
+18HU13037_012; 149.00 to 149.00; 399085, 399086; phos; 1.41  1.30  ; Gradient or Inversion too high
+18HU13037_012; 140 to 160 m; NaN; psal; 33.24  ; Out of TS Climatology by more than 3*std in box(es) 6 (33.52 ± 0.18)
+18HU13037_072; 240 to 260 m; NaN; psal; 35.06  ; Out of TS Climatology by more than 3*std in box(es) 3 (34.61 ± 0.00)
+18HU13037_074; 240 to 260 m; NaN; psal; 35.02  ; Out of TS Climatology by more than 3*std in box(es) 3 (34.61 ± 0.00)
+18HU13037_083; 65.00 to 65.00; 399346, 399347; ntrz; 4.67  5.54  ; Gradient or Inversion too high
+18HU13037_083; 65.00 to 65.00; 399346, 399347; phos; 0.80  0.89  ; Gradient or Inversion too high
+18HU13037_087; 28.00; 399361; psal; 31.16; Bottle-CTD Difference Problem
+18HU13037_094; 47.00 to 47.00; 399375, 399376; ntrz; 3.91  4.19  ; Gradient or Inversion too high
+18HU13037_094; 47.00 to 47.00; 399375, 399376; phos; 0.71  0.72  ; Gradient or Inversion too high
+18HU13037_128; 40.00 to 40.00; 399542, 399543; ntrz; 5.80  5.47  ; Gradient or Inversion too high
+18HU13037_128; 40.00 to 40.00; 399542, 399543; phos; 0.72  0.69  ; Gradient or Inversion too high
+18HU13037_162; 41.00 to 41.00; 399679, 399680; ntrz; 0.85  0.94  ; Gradient or Inversion too high
+18HU13037_162; 41.00 to 41.00; 399679, 399680; phos; 0.43  0.43  ; Gradient or Inversion too high
+18HU13037_170; -5 to 5 m; NaN; psal; 29.43  ; Out of TS Climatology by more than 3*std in box(es) 14 (30.76 ± 1.23)
+18HU13037_173; 5 to 15 m; NaN; psal; 29.54  ; Out of TS Climatology by more than 3*std in box(es) 14 (30.89 ± 0.96)

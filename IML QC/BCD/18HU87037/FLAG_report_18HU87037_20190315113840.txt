@@ -1,0 +1,59 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18HU87037 FLAG Report:,  2019-03-15 11:38:40
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged PHOSPHATE, event 1, station CAST#1:
+
+          sample_key depth value method qc
+ 18HU87037_002_38302    16  0.93  PO4_0  2
+ 18HU87037_002_38301    54  0.96  PO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 2, station CAST#1:
+
+          sample_key depth value   method qc
+ 18HU87037_113_38314    12  0.06 NO2NO3_0  1
+ 18HU87037_113_38313   103 18.01 NO2NO3_0  1
+ 18HU87037_113_38312   205 21.17 NO2NO3_0  1
+ 18HU87037_113_38311   305 17.47 NO2NO3_0  1
+ 18HU87037_113_38310   404 17.26 NO2NO3_0  1
+ 18HU87037_113_38309   609 17.63 NO2NO3_0  1
+ 18HU87037_113_38308   814 17.35 NO2NO3_0  1
+ 18HU87037_113_38307  1017 17.22 NO2NO3_0  1
+ 18HU87037_113_38306  1220 17.12 NO2NO3_0  1
+ 18HU87037_113_38305  1420 17.31 NO2NO3_0  2
+
+
+-> QC repot:
+      Filename Pressure Uniqueno Variable Values
+ 18HU87037_002       16    38302     ntrz   4.26
+                                                        Test.failed
+  Out of Nutrient Climatology in box(es) 9 (Min=0.15 Max=3.21 n=37)
+
+
+
+
+> sink()

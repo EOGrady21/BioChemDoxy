@@ -1,0 +1,70 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU14037_1395; 5.26; 414947; doxy; 6.82; Bottle-CTD Difference Problem
+18HU14037_1395; 50.76; 414944; doxy; 6.16; Bottle-CTD Difference Problem
+18HU14037_1395; 61.27; 414943; doxy; 5.32; Bottle-CTD Difference Problem
+18HU14037_1396; 5.65; 414952; doxy; 6.73; Bottle-CTD Difference Problem
+18HU14037_1396; 36.49; 414949; doxy; 6.44; Bottle-CTD Difference Problem
+18HU14037_1397; 4.96; 414958; doxy; 6.85; Bottle-CTD Difference Problem
+18HU14037_1397; 49.28; 414955; doxy; 6.62; Bottle-CTD Difference Problem
+18HU14037_1397; 76.04; 414954; doxy; 5.95; Bottle-CTD Difference Problem
+18HU14037_1398; 5.55; 414966; doxy; 6.73; Bottle-CTD Difference Problem
+18HU14037_1398; 58.80; 414962; doxy; 6.13; Bottle-CTD Difference Problem
+18HU14037_1399; 6.15; 414972; doxy; 6.61; Bottle-CTD Difference Problem
+18HU14037_1399; 50.07; 414969; doxy; 6.91; Bottle-CTD Difference Problem
+18HU14037_1399; 74.66; 414968; doxy; 5.99; Bottle-CTD Difference Problem
+18HU14037_1400; 5.85; 414977; doxy; 6.64; Bottle-CTD Difference Problem
+18HU14037_1400; 47.69; 414974; doxy; 6.37; Bottle-CTD Difference Problem
+18HU14037_1401; 5.45; 414982; doxy; 6.38; Bottle-CTD Difference Problem
+18HU14037_1401; 33.12; 414979; doxy; 5.83; Bottle-CTD Difference Problem
+18HU14037_1402; 5.85; 414987; doxy; 6.42; Bottle-CTD Difference Problem
+18HU14037_1402; 31.24; 414984; doxy; 6.02; Bottle-CTD Difference Problem
+18HU14037_1403; 5.26; 414992; doxy; 6.40; Bottle-CTD Difference Problem
+18HU14037_1403; 45.02; 414989; doxy; 5.54; Bottle-CTD Difference Problem
+18HU14037_1404; 5.55; 415002; doxy; 6.41; Bottle-CTD Difference Problem
+18HU14037_1404; 50.47; 414995; doxy; 5.78; Bottle-CTD Difference Problem
+18HU14037_1404; 52.65; 414994; doxy; 5.78; Bottle-CTD Difference Problem
+18HU14037_1405; 5.65; 415008; doxy; 6.18; Bottle-CTD Difference Problem
+18HU14037_1405; 50.37; 415005; doxy; 5.48; Bottle-CTD Difference Problem
+18HU14037_1405; 52.36; 415004; doxy; 5.42; Bottle-CTD Difference Problem
+18HU14037_1406; 5.36; 415014; doxy; 6.25; Bottle-CTD Difference Problem
+18HU14037_1406; 50.57; 415011; doxy; 6.08; Bottle-CTD Difference Problem
+18HU14037_1406; 69.80; 415010; doxy; 5.90; Bottle-CTD Difference Problem
+18HU14037_1406; 69.80; 415010; slca; 16.05  ; Out of Nutrient Climatology in box(es) 6 (Min=0.40 Max=14.99 n=1037)
+18HU14037_1407; 5.06; 415021; doxy; 6.35; Bottle-CTD Difference Problem
+18HU14037_1407; 50.37; 415018; doxy; 7.09; Bottle-CTD Difference Problem
+18HU14037_1407; 155.44; 415016; doxy; 3.06; Bottle-CTD Difference Problem
+18HU14037_1407; 155.44; 415016; slca; 29.23  ; Out of Nutrient Climatology in box(es) 6 (Min=0.92 Max=29.21 n=260)
+18HU14037_1408; 5.75; 415030; doxy; 6.42; Bottle-CTD Difference Problem
+18HU14037_1408; 50.27; 415027; doxy; 7.42; Bottle-CTD Difference Problem
+18HU14037_1408; 311.65; 415023; doxy; 2.89; Bottle-CTD Difference Problem
+18HU14037_1408; 300.26; 415024; ntrz; 23.46  ; Out of Nutrient Climatology in box(es) 6 (Min=0.00 Max=23.17 n=260)
+18HU14037_1408; 311.65; 415023; ntrz; 23.63  ; Out of Nutrient Climatology in box(es) 6 (Min=0.00 Max=23.17 n=260)
+18HU14037_1408; 300.26; 415024; slca; 30.84  ; Out of Nutrient Climatology in box(es) 6 (Min=0.92 Max=29.21 n=260)
+18HU14037_1408; 311.65; 415023; slca; 31.13  ; Out of Nutrient Climatology in box(es) 6 (Min=0.92 Max=29.21 n=260)
+18HU14037_1409; 5.45; 415040; doxy; 6.50; Bottle-CTD Difference Problem
+18HU14037_1409; 50.87; 415037; doxy; 7.41; Bottle-CTD Difference Problem
+18HU14037_1409; 451.21; 415032; doxy; 3.39; Bottle-CTD Difference Problem
+18HU14037_1409; 301.45; 415034; ntrz; 23.55  ; Out of Nutrient Climatology in box(es) 8 (Min=5.00 Max=22.89 n=186)
+18HU14037_1409; 400.84; 415033; ntrz; 23.41  ; Out of Nutrient Climatology in box(es) 8 (Min=5.00 Max=22.89 n=186)
+18HU14037_1409; 451.21; 415032; ntrz; 23.22  ; Out of Nutrient Climatology in box(es) 8 (Min=5.00 Max=22.89 n=186)
+18HU14037_1409; 451.21; 415032; slca; 35.87  ; Out of Nutrient Climatology in box(es) 8 (Min=3.76 Max=34.61 n=186)
+18HU14037_1410; 5.85; 415050; doxy; 6.49; Bottle-CTD Difference Problem
+18HU14037_1410; 50.77; 415047; doxy; 7.27; Bottle-CTD Difference Problem
+18HU14037_1410; 460.60; 415042; doxy; 3.38; Bottle-CTD Difference Problem
+18HU14037_1410; 299.36; 415044; ntrz; 23.19  ; Out of Nutrient Climatology in box(es) 8 (Min=5.00 Max=22.89 n=186)
+18HU14037_1410; 399.65; 415043; ntrz; 23.33  ; Out of Nutrient Climatology in box(es) 8 (Min=5.00 Max=22.89 n=186)
+18HU14037_1410; 460.60; 415042; ntrz; 23.25  ; Out of Nutrient Climatology in box(es) 8 (Min=5.00 Max=22.89 n=186)
+18HU14037_1410; 460.60; 415042; slca; 36.65  ; Out of Nutrient Climatology in box(es) 8 (Min=3.76 Max=34.61 n=186)
+18HU14037_1411; 5.85; 415058; doxy; 6.49; Bottle-CTD Difference Problem
+18HU14037_1411; 50.57; 415055; doxy; 6.85; Bottle-CTD Difference Problem
+18HU14037_1411; 250.93; 415052; doxy; 3.62; Bottle-CTD Difference Problem
+18HU14037_1412; 4.96; 415068; doxy; 6.56; Bottle-CTD Difference Problem
+18HU14037_1412; 51.06; 415065; doxy; 7.48; Bottle-CTD Difference Problem
+18HU14037_1412; 520.45; 415060; doxy; 3.48; Bottle-CTD Difference Problem
+18HU14037_1412; 399.93; 415061; ntrz; 23.11  ; Out of Nutrient Climatology in box(es) 8 (Min=5.00 Max=22.89 n=186)
+18HU14037_1412; 520.45; 415060; slca; 35.99  ; Out of Nutrient Climatology in box(es) 8 (Min=3.76 Max=34.61 n=186)
+18HU14037_1415; 5.26; 415493; doxy; 7.05; Bottle-CTD Difference Problem
+18HU14037_1415; 52.05; 415490; doxy; 6.68; Bottle-CTD Difference Problem
+18HU14037_1415; 100.13; 415489; doxy; 6.62; Bottle-CTD Difference Problem
+18HU14037_1417; 15.87; 415497; doxy; 7.07; Bottle-CTD Difference Problem
+18HU14037_1417; 86.45; 415495; doxy; 6.71; Bottle-CTD Difference Problem

@@ -1,0 +1,7 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18VA18668_1719; 4.96; 348152; doxy; 259.72  ; Global Impossible Parameter Value
+18VA18668_1719; 49.58; 348149; doxy; 279.15  ; Global Impossible Parameter Value
+18VA18668_1719; 80.80; 348148; doxy; 245.30  ; Global Impossible Parameter Value
+18VA18668_1719; 4.96; 348152; doxy; 259.72  ; Regional Impossible Parameter Value
+18VA18668_1719; 49.58; 348149; doxy; 279.15  ; Regional Impossible Parameter Value
+18VA18668_1719; 80.80; 348148; doxy; 245.30  ; Regional Impossible Parameter Value

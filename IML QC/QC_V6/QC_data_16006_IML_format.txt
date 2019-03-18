@@ -1,0 +1,27 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU16006_014; 275 to 325 m; NaN; psal; 34.82  ; Out of TS Climatology by more than 3*std in box(es) 67 (34.61 ± 0.18)
+18HU16006_036; 375 to 425 m; NaN; psal; 34.89  ; Out of TS Climatology by more than 3*std in box(es) 67 (34.78 ± 0.09)
+18HU16006_036; 101.65; 433062; ntrz; 4.14  ; Out of Nutrient Climatology in box(es) 8 (Min=4.61 Max=23.28 n=76)
+18HU16006_036; 399.83; 433058; slca; 31.22  ; Out of Nutrient Climatology in box(es) 8 (Min=3.32 Max=30.99 n=62)
+18HU16006_102; 2.06 to 2.08; 433097, 433098; ntrz; 1.68  1.58  ; Gradient or Inversion too high
+18HU16006_102; 10.53; 433096; ntrz; 2.11  ; Out of Nutrient Climatology in box(es) 8 (Min=0.00 Max=1.40 n=31)
+18HU16006_102; 20.21; 433095; ntrz; 2.27  ; Out of Nutrient Climatology in box(es) 8 (Min=0.00 Max=1.40 n=31)
+18HU16006_102; 10.53; 433096; slca; 1.46  ; Out of Nutrient Climatology in box(es) 8 (Min=0.04 Max=1.10 n=25)
+18HU16006_102; 20.21; 433095; slca; 1.68  ; Out of Nutrient Climatology in box(es) 8 (Min=0.04 Max=1.10 n=25)
+18HU16006_127; 30.60; 433105; doxy; 9.28; Impossible Parameter Value in Profile
+18HU16006_127; 39.95; 433104; doxy; 9.06; Impossible Parameter Value in Profile
+18HU16006_180; 50.24; 434057; phos; 0.09  ; Out of Nutrient Climatology in box(es) 7 (Min=0.13 Max=1.55 n=377)
+18HU16006_180; 4349.87; 434038; slca; 30.95  ; Out of Nutrient Climatology in box(es) 7 (Min=0.11 Max=28.22 n=523)
+18HU16006_180; 4399.78; 434037; slca; 33.16  ; Out of Nutrient Climatology in box(es) 7 (Min=0.11 Max=28.22 n=523)
+18HU16006_180; 4449.89; 434036; slca; 36.20  ; Out of Nutrient Climatology in box(es) 7 (Min=0.11 Max=28.22 n=523)
+18HU16006_180; 4512.56; 434035; slca; 36.52  ; Out of Nutrient Climatology in box(es) 7 (Min=0.11 Max=28.22 n=523)
+18HU16006_189; 10.46; 434086; phos; 0.06  ; Out of Nutrient Climatology in box(es) 7 (Min=0.06 Max=1.37 n=154)
+18HU16006_189; 51.01; 434085; phos; 0.09  ; Out of Nutrient Climatology in box(es) 7 (Min=0.13 Max=1.55 n=377)
+18HU16006_208; 4.04; 434220; ntrz; 0.00  ; Out of Nutrient Climatology in box(es) 1 (Min=0.05 Max=4.93 n=63)
+18HU16006_208; 11.47; 434219; ntrz; 0.00  ; Out of Nutrient Climatology in box(es) 1 (Min=0.00 Max=9.33 n=108)
+18HU16006_208; 101.66; 434212; ntrz; 6.09  ; Out of Nutrient Climatology in box(es) 1 (Min=6.48 Max=27.85 n=153)
+18HU16006_214; 4.07; 434239; ntrz; 0.00  ; Out of Nutrient Climatology in box(es) 1 (Min=0.05 Max=4.93 n=63)
+18HU16006_214; 9.93; 434238; ntrz; 0.00  ; Out of Nutrient Climatology in box(es) 1 (Min=0.05 Max=4.93 n=63)
+18HU16006_214; 18.82; 434237; ntrz; 0.00  ; Out of Nutrient Climatology in box(es) 1 (Min=0.00 Max=9.33 n=108)
+18HU16006_214; 29.34; 434236; ntrz; 0.00  ; Out of Nutrient Climatology in box(es) 1 (Min=0.00 Max=9.33 n=108)
+18HU16006_214; 100.84; 434231; ntrz; 4.47  ; Out of Nutrient Climatology in box(es) 1 (Min=6.48 Max=27.85 n=153)

@@ -1,0 +1,93 @@
+Test 1.6 -> No known depth for 18HU93039_002
+Test 1.6 -> No known depth for 18HU93039_113
+Test 1.6 -> No known depth for 18HU93039_225
+Test 1.6 -> No known depth for 18HU93039_264
+Test 1.6 -> No known depth for 18HU93039_284
+Test 1.6 -> No known depth for 18HU93039_304
+Test 1.6 -> No known depth for 18HU93039_315
+Test 1.6 -> No known depth for 18HU93039_326
+Test 1.6 -> No known depth for 18HU93039_339
+Test 1.6 -> No known depth for 18HU93039_003
+Test 1.6 -> No known depth for 18HU93039_014
+Test 1.6 -> No known depth for 18HU93039_025
+Test 1.6 -> No known depth for 18HU93039_036
+Test 1.6 -> No known depth for 18HU93039_047
+Test 1.6 -> No known depth for 18HU93039_058
+Test 1.6 -> No known depth for 18HU93039_069
+Test 1.6 -> No known depth for 18HU93039_080
+Test 1.6 -> No known depth for 18HU93039_091
+Test 1.6 -> No known depth for 18HU93039_263
+Test 1.6 -> No known depth for 18HU93039_265
+Test 1.6 -> No known depth for 18HU93039_275
+Test 1.6 -> No known depth for 18HU93039_276
+Test 1.6 -> No known depth for 18HU93039_277
+Test 1.6 -> No known depth for 18HU93039_278
+Test 1.6 -> No known depth for 18HU93039_279
+Test 1.6 -> No known depth for 18HU93039_280
+18HU93039_113: Test 3.6 -> Profile 18HU93039_113 outside TS Monthly Climatology polygons
+18HU93039_113: Test 3.6 -> Profile 18HU93039_113 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU93039_225: Test 3.6 -> Profile 18HU93039_225 outside TS Monthly Climatology polygons
+18HU93039_225: Test 3.6 -> Profile 18HU93039_225 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU93039_225: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 15.7 m
+18HU93039_225: Test 3.6 -> phos in box(es) 7 is out of Nutrient Climatology at 15.7 m
+18HU93039_225: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 15.7 m
+18HU93039_264: Test 3.6 -> Profile 18HU93039_264 outside TS Monthly Climatology polygons
+18HU93039_264: Test 3.6 -> Profile 18HU93039_264 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU93039_284: Test 3.6 -> Profile 18HU93039_284 outside TS Monthly Climatology polygons
+18HU93039_284: Test 3.6 -> Profile 18HU93039_284 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU93039_304: Test 3.6 -> Profile 18HU93039_304 outside TS Monthly Climatology polygons
+18HU93039_304: Test 3.6 -> Profile 18HU93039_304 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU93039_304: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 3516.0 m
+18HU93039_315: Test 3.6 -> Profile 18HU93039_315 outside TS Monthly Climatology polygons
+18HU93039_315: Test 3.6 -> Profile 18HU93039_315 outside Monthly Nutrient Climatology polygons
+18HU93039_326: Test 3.6 -> Profile 18HU93039_326 outside TS Monthly Climatology polygons
+18HU93039_326: Test 3.6 -> Profile 18HU93039_326 outside Monthly Nutrient Climatology polygons
+18HU93039_339: Test 3.6 -> Profile 18HU93039_339 outside TS Monthly Climatology polygons
+18HU93039_339: Test 3.6 -> Profile 18HU93039_339 outside Monthly Nutrient Climatology polygons
+18HU93039_003: Test 3.6 -> Profile 18HU93039_003 outside TS Monthly Climatology polygons
+18HU93039_003: Test 3.6 -> Profile 18HU93039_003 outside Monthly Nutrient Climatology polygons
+18HU93039_014: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU93039_014: Test 3.6 -> Profile 18HU93039_014 outside TS Monthly Climatology polygons
+18HU93039_014: Test 3.6 -> Profile 18HU93039_014 outside Monthly Nutrient Climatology polygons
+18HU93039_025: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU93039_025: Test 3.6 -> Profile 18HU93039_025 outside TS Monthly Climatology polygons
+18HU93039_025: Test 3.6 -> Profile 18HU93039_025 outside Monthly Nutrient Climatology polygons
+18HU93039_036: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU93039_036: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU93039_036: Test 3.6 -> Profile 18HU93039_036 outside TS Monthly Climatology polygons
+18HU93039_036: Test 3.6 -> Profile 18HU93039_036 outside Monthly Nutrient Climatology polygons
+18HU93039_047: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU93039_047: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU93039_047: Test 3.6 -> Profile 18HU93039_047 outside TS Monthly Climatology polygons
+18HU93039_047: Test 3.6 -> Profile 18HU93039_047 outside Monthly Nutrient Climatology polygons
+18HU93039_058: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU93039_058: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU93039_058: Test 3.6 -> Profile 18HU93039_058 outside TS Monthly Climatology polygons
+18HU93039_058: Test 3.6 -> Profile 18HU93039_058 outside Monthly Nutrient Climatology polygons
+18HU93039_069: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU93039_069: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU93039_069: Test 3.6 -> Profile 18HU93039_069 outside TS Monthly Climatology polygons
+18HU93039_069: Test 3.6 -> Profile 18HU93039_069 outside Monthly Nutrient Climatology polygons
+18HU93039_080: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU93039_080: Test 3.6 -> Profile 18HU93039_080 outside TS Monthly Climatology polygons
+18HU93039_080: Test 3.6 -> Profile 18HU93039_080 outside Monthly Nutrient Climatology polygons
+18HU93039_091: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU93039_091: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU93039_091: Test 3.6 -> Profile 18HU93039_091 outside TS Monthly Climatology polygons
+18HU93039_091: Test 3.6 -> Profile 18HU93039_091 outside Monthly Nutrient Climatology polygons
+18HU93039_263: Test 3.6 -> Profile 18HU93039_263 outside TS Monthly Climatology polygons
+18HU93039_263: Test 3.6 -> Profile 18HU93039_263 outside Monthly Nutrient Climatology polygons
+18HU93039_265: Test 3.6 -> Profile 18HU93039_265 outside TS Monthly Climatology polygons
+18HU93039_265: Test 3.6 -> Profile 18HU93039_265 outside Monthly Nutrient Climatology polygons
+18HU93039_275: Test 3.6 -> Profile 18HU93039_275 outside TS Monthly Climatology polygons
+18HU93039_275: Test 3.6 -> Profile 18HU93039_275 outside Monthly Nutrient Climatology polygons
+18HU93039_276: Test 3.6 -> Profile 18HU93039_276 outside TS Monthly Climatology polygons
+18HU93039_276: Test 3.6 -> Profile 18HU93039_276 outside Monthly Nutrient Climatology polygons
+18HU93039_277: Test 3.6 -> Profile 18HU93039_277 outside TS Monthly Climatology polygons
+18HU93039_277: Test 3.6 -> Profile 18HU93039_277 outside Monthly Nutrient Climatology polygons
+18HU93039_278: Test 3.6 -> Profile 18HU93039_278 outside TS Monthly Climatology polygons
+18HU93039_278: Test 3.6 -> Profile 18HU93039_278 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU93039_279: Test 3.6 -> Profile 18HU93039_279 outside TS Monthly Climatology polygons
+18HU93039_279: Test 3.6 -> Profile 18HU93039_279 outside Monthly Nutrient Climatology polygons
+18HU93039_280: Test 3.6 -> Profile 18HU93039_280 outside TS Monthly Climatology polygons
+18HU93039_280: Test 3.6 -> Profile 18HU93039_280 outside Monthly Nutrient Climatology polygons

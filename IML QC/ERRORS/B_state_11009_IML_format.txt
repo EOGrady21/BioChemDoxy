@@ -1,0 +1,22 @@
+Test 1.6 -> No known depth for 18HU11009_264
+Test 1.6 -> No known depth for 18HU11009_315
+Test 1.6 -> No known depth for 18HU11009_326
+Test 1.6 -> No known depth for 18HU11009_339
+Test 1.6 -> No known depth for 18HU11009_003
+Test 1.6 -> No known depth for 18HU11009_036
+Test 1.6 -> No known depth for 18HU11009_069
+Test 1.6 -> No known depth for 18HU11009_245
+Test 1.6 -> No known depth for 18HU11009_246
+Test 1.6 -> No known depth for 18HU11009_248
+Test 1.6 -> No known depth for 18HU11009_249
+Test 1.6 -> No known depth for 18HU11009_250
+Test 1.6 -> No known depth for 18HU11009_251
+Test 1.6 -> No known depth for 18HU11009_252
+Test 1.6 -> No known depth for 18HU11009_254
+Test 1.6 -> No known depth for 18HU11009_255
+Test 1.6 -> No known depth for 18HU11009_256
+Test 1.6 -> No known depth for 18HU11009_258
+Test 1.6 -> No known depth for 18HU11009_259
+Test 1.6 -> No known depth for 18HU11009_260
+Test 1.6 -> No known depth for 18HU11009_262
+18HU11009_315: Test 3.5 -> Profile 18HU11009_315 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes

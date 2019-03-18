@@ -1,0 +1,98 @@
+Test 1.6 -> No known depth for 88025_002
+Test 1.6 -> No known depth for 88025_113
+Test 1.6 -> No known depth for 88025_225
+Test 1.6 -> No known depth for 88025_264
+Test 1.6 -> No known depth for 88025_284
+Test 1.6 -> No known depth for 88025_304
+Test 1.6 -> No known depth for 88025_315
+Test 1.6 -> No known depth for 88025_326
+Test 1.6 -> No known depth for 88025_339
+Test 1.6 -> No known depth for 88025_003
+88025_002: Test 3.6 -> Profile 88025_002 outside TS Monthly Climatology polygons
+88025_002: Test 3.6 -> Profile 88025_002 outside Monthly Nutrient Climatology polygons
+88025_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_113: Test 3.6 -> Profile 88025_113 outside TS Monthly Climatology polygons
+88025_113: Test 3.6 -> Profile 88025_113 outside Monthly Nutrient Climatology polygons
+88025_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_225: Test 3.6 -> Profile 88025_225 outside TS Monthly Climatology polygons
+88025_225: Test 3.6 -> Profile 88025_225 outside Monthly Nutrient Climatology polygons
+88025_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_264: Test 3.6 -> Profile 88025_264 outside TS Monthly Climatology polygons
+88025_264: Test 3.6 -> Profile 88025_264 outside Monthly Nutrient Climatology polygons
+88025_284: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_284: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_284: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_284: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_284: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_284: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_284: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_284: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_284: Test 3.6 -> Profile 88025_284 outside TS Monthly Climatology polygons
+88025_284: Test 3.6 -> Profile 88025_284 outside Monthly Nutrient Climatology polygons
+88025_304: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_304: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_304: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_304: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_304: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_304: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_304: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_304: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_304: Test 3.6 -> Profile 88025_304 outside TS Monthly Climatology polygons
+88025_304: Test 3.6 -> Profile 88025_304 outside Monthly Nutrient Climatology polygons
+88025_315: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_315: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_315: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_315: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_315: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_315: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_315: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_315: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_315: Test 3.6 -> Profile 88025_315 outside TS Monthly Climatology polygons
+88025_315: Test 3.6 -> Profile 88025_315 outside Monthly Nutrient Climatology polygons
+88025_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_326: Test 3.6 -> Profile 88025_326 outside TS Monthly Climatology polygons
+88025_326: Test 3.6 -> Profile 88025_326 outside Monthly Nutrient Climatology polygons
+88025_339: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_339: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_339: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_339: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_339: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_339: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_339: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_339: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_339: Test 3.6 -> Profile 88025_339 outside TS Monthly Climatology polygons
+88025_339: Test 3.6 -> Profile 88025_339 outside Monthly Nutrient Climatology polygons
+88025_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+88025_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+88025_003: Test 3.6 -> Profile 88025_003 outside TS Monthly Climatology polygons
+88025_003: Test 3.6 -> Profile 88025_003 outside Monthly Nutrient Climatology polygons

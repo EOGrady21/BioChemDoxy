@@ -1,0 +1,246 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18TL14133 FLAG Report:,  2019-03-15 13:09:40
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged NITRATE, event IMLTEL20141331061, station 1061:
+
+ sample_key depth value        method qc
+             5.55     0 NO2NO3_Tech_F  7
+            26.67     0 NO2NO3_Tech_F  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event IMLTEL20141331131, station 1131:
+
+ sample_key depth value        method qc
+             5.36     0 NO2NO3_Tech_F  7
+            23.50     0 NO2NO3_Tech_F  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> # plot flagged profiles using BC flagged file
+> #original file from Gordana Lazin
+> #updated by E Chisholm, March 2019
+> 
+> 
+> source("flagcol2.r")
+
+> require(lubridate)
+
+> source("plot_profiles.r")
+
+> wd="C:/Users/ChisholmE/Documents/BIOCHEM/IML QC"
+
+> # load flagged BCD file
+> mission="18TL15016"
+
+> fn=file.path(paste0(wd,'/BCD/',mission, '/',mission,"_BCD_flagged.csv"))
+
+> df0=data.frame(read.csv(fn,  header = F, quote = '', fill = T, stringsAsFactors = F))
+
+> names(df0) <- df0[1,]
+
+> df0 <- df0[-1,1:25]
+
+> df0$DIS_HEADER_START_DEPTH <- as.numeric(df0$DIS_HEADER_START_DEPTH)
+
+> df0$DIS_DETAIL_DATA_VAL <- as.numeric(df0$DIS_DETAIL_DATA_VAL)
+
+> # load QC report files 
+> qc_folder="C:/Users/ChisholmE/Documents/BIOCHEM/IML QC/QC_V6"
+
+> qcf=paste0("QC_data_",substr(mission,nchar(mission)-4,nchar(mission)),"_IML_format.txt")
+
+> qcf_ctd=paste0("QC_data_",substr(mission,nchar(mission)-4,nchar(mission)),"_IML_format_ctd.txt")
+
+> qcrep=read.table(file.path(qc_folder,qcf), stringsAsFactors=F, sep=";", header=T)
+
+> #no ctd data
+> #qcrep_ctd=read.table(file.path(qc_folder,qcf_ctd), stringsAsFactors=F, sep=";", header=T)
+> 
+> # if (mission %in% c("HUD99054","HUD9 ..." ... [TRUNCATED] 
+
+> qcpar <-  vars$BCD_FIELDS[vars$qc == 'qc']
+
+> #qcpar=c("Temp_CTD_1968","Salinity_CTD","O2_CTD_mLL","Salinity_Sal_PSS","Chl_a_Holm-Hansen_F","pH_CTD",
+>         #"Chl_Fluor_Voltage", "O2_Electrod ..." ... [TRUNCATED] 
+
+> # find events for which the dat was flagged
+> 
+> # 1. find indices of flagged data, fi
+> fi=which(df$DIS_DETAIL_DATA_QC_CODE>1)
+
+> # 2. Find flagged events, fe
+> fe=unique(df$EVENT_COLLECTOR_EVENT_ID[fi])
+
+> # order flagged events by event number
+> fe=fe[order(fe)]
+
+> # =================== #
+> # DEFINE REPORT FILE
+> # =================== #
+> outpath=file.path(paste0(wd,'/BCD/',mission))
+
+> n=now() # make time stamp to mark the start of processing
+
+> timestamp=paste0(year(n), sprintf("%02d",month(n)),sprintf("%02d",day(n)),
++                  sprintf("%02d",hour(n)),sprintf("%02d",minute(n)),spri .... [TRUNCATED] 
+
+> # name of the report file                 
+> report_file=paste0("FLAG_report_",mission,"_",timestamp, ".txt")
+
+> report_file=file.path(outpath,report_file)
+
+> # write input files into report
+> sink(file=report_file,append=TRUE, split=TRUE)
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18TL15016 FLAG Report:,  2019-03-15 13:10:47
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged NITRATE, event IML20150160571, station 571:
+
+ sample_key  depth  value         method qc
+              2.48  0.110 NO2NO3_Tech_SF  1
+              4.96  0.090 NO2NO3_Tech_SF  1
+             15.47  0.280 NO2NO3_Tech_SF  1
+             24.99  1.565 NO2NO3_Tech_SF  1
+             50.77  6.720 NO2NO3_Tech_SF  1
+             99.94 11.905 NO2NO3_Tech_SF  1
+            200.12 18.310 NO2NO3_Tech_SF  1
+            300.36 23.515 NO2NO3_Tech_SF  2
+            320.26 23.510 NO2NO3_Tech_SF  2
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event IML20150160661, station 661:
+
+ sample_key depth O2_CTD_mLL qc
+             2.58   324.9908  0
+             5.45   325.4374  0
+            15.17   377.2430  0
+            25.09   362.8625  0
+            50.57   329.5461  0
+            60.78   296.6317  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event IML20150160821, station 821:
+
+ sample_key depth O2_CTD_mLL qc
+             2.38   312.8880  0
+            25.29   397.3847  0
+            63.56   327.1345  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event IML20150160901, station 901:
+
+ sample_key depth O2_CTD_mLL qc
+             2.38   328.5190  0
+            25.28   376.9751  0
+            56.02   296.3638  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event IML20150160921, station 921:
+
+ sample_key  depth O2_CTD_mLL qc
+              2.48   334.4141  0
+              5.26   334.4141  0
+             15.17   335.1733  0
+             25.28   398.7691  0
+             50.47   362.2819  0
+            100.03   276.6687  0
+            200.41   167.4750  0
+            250.23   125.9859  0
+            301.03   134.6946  0
+            399.82   147.1994  0
+            450.29   150.1023  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event IML20150161181, station 1181:
+
+ sample_key depth O2_CTD_mLL qc
+             2.28   319.7656  0
+            18.34   326.8219  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

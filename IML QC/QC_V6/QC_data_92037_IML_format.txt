@@ -1,0 +1,7 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU92037_360; 25.00 to 30.00; 114421, 114420; ntrz; 0.12  12.22  ; Gradient or Inversion too high
+18HU92037_360; 30.00 to 35.00; 114420, 114419; ntrz; 12.22  2.02  ; Gradient or Inversion too high
+18HU92037_362; 100.00; 114439; phos; 1.41  ; Out of Nutrient Climatology in box(es) 7 (Min=0.00 Max=1.35 n=515)
+18HU92037_362; 100.00; 114439; slca; 13.75  ; Out of Nutrient Climatology in box(es) 7 (Min=0.28 Max=12.69 n=503)
+18HU92037_363; 1.00; 99472; ntrz; 0.00  ; Constant profile problem
+18HU92037_363; 20.00; 99473; ntrz; 0.00  ; Constant profile problem

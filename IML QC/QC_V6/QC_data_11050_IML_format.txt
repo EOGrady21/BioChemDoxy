@@ -1,0 +1,11 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL11050_1175; 4.86; 345936; doxy; 6.10; Bottle-CTD Difference Problem
+18TL11050_1175; 246.87; 345935; doxy; 3.99; Bottle-CTD Difference Problem
+18TL11050_1176; 5.65; 345941; doxy; 5.91; Bottle-CTD Difference Problem
+18TL11050_1176; 457.73; 345937; doxy; 4.83; Bottle-CTD Difference Problem
+18TL11050_1177; 6.45; 345948; doxy; 6.05; Bottle-CTD Difference Problem
+18TL11050_1177; 521.54; 345943; doxy; 4.72; Bottle-CTD Difference Problem
+18TL11050_1178; 4.96; 345950; doxy; 6.04; Bottle-CTD Difference Problem
+18TL11050_1178; 427.74; 345949; doxy; 4.01; Bottle-CTD Difference Problem
+18TL11050_1179; 5.55; 345952; doxy; 6.02; Bottle-CTD Difference Problem
+18TL11050_1179; 245.28; 345951; doxy; 2.83; Bottle-CTD Difference Problem

@@ -1,0 +1,17 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU83023_331; 0.00; 8309001; cphl; 0.42  ; Constant profile problem
+18HU83023_331; 0.00; 8309002; cphl; 0.42  ; Constant profile problem
+18HU83023_331; 0.00; 8309001; ntrz; 0.03  ; Constant profile problem
+18HU83023_331; 0.00; 8309002; ntrz; 0.03  ; Constant profile problem
+18HU83023_331; 0.00; 8309001; phos; 0.22  ; Constant profile problem
+18HU83023_331; 0.00; 8309002; phos; 0.22  ; Constant profile problem
+18HU83023_331; 0.00; 8309001; slca; 0.85  ; Constant profile problem
+18HU83023_331; 0.00; 8309002; slca; 0.85  ; Constant profile problem
+18HU83023_332; 3.00; 8309003; cphl; 0.24  ; Constant profile problem
+18HU83023_332; 3.00; 8309004; cphl; 0.24  ; Constant profile problem
+18HU83023_332; 3.00; 8309003; ntrz; 0.02  ; Constant profile problem
+18HU83023_332; 3.00; 8309004; ntrz; 0.02  ; Constant profile problem
+18HU83023_332; 3.00; 8309003; phos; 0.20  ; Constant profile problem
+18HU83023_332; 3.00; 8309004; phos; 0.20  ; Constant profile problem
+18HU83023_332; 3.00; 8309003; slca; 0.35  ; Constant profile problem
+18HU83023_332; 3.00; 8309004; slca; 0.35  ; Constant profile problem

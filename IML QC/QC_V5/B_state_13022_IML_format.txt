@@ -1,0 +1,346 @@
+Test 1.5 -> Cruise velocity > permitted -> Check time and position of
+    the end of 18NE13022_264 and the beginning of 18NE13022_326 (found ship velocity is 17.7 kt)
+    the end of 18NE13022_284 and the beginning of 18NE13022_339 (found ship velocity is 27.1 kt)
+    the end of 18NE13022_339 and the beginning of 18NE13022_304 (found ship velocity is 28.4 kt)
+    the end of 18NE13022_304 and the beginning of 18NE13022_225 (found ship velocity is 20.3 kt)
+    the end of 18NE13022_069 and the beginning of 18NE13022_025 (found ship velocity is 20.0 kt)
+    the end of 18NE13022_025 and the beginning of 18NE13022_080 (found ship velocity is 77.2 kt)
+    the end of 18NE13022_036 and the beginning of 18NE13022_091 (found ship velocity is 70.8 kt)
+    the end of 18NE13022_047 and the beginning of 18NE13022_102 (found ship velocity is 48.9 kt)
+    the end of 18NE13022_102 and the beginning of 18NE13022_058 (found ship velocity is 34.7 kt)
+    the end of 18NE13022_058 and the beginning of 18NE13022_114 (found ship velocity is 32.6 kt)
+    the end of 18NE13022_114 and the beginning of 18NE13022_014 (found ship velocity is 68.1 kt)
+    the end of 18NE13022_215 and the beginning of 18NE13022_138 (found ship velocity is 133.8 kt)
+    the end of 18NE13022_171 and the beginning of 18NE13022_237 (found ship velocity is 29.1 kt)
+    the end of 18NE13022_237 and the beginning of 18NE13022_193 (found ship velocity is 53.2 kt)
+    the end of 18NE13022_193 and the beginning of 18NE13022_239 (found ship velocity is 21.7 kt)
+    the end of 18NE13022_243 and the beginning of 18NE13022_261 (found ship velocity is 53.1 kt)
+    the end of 18NE13022_261 and the beginning of 18NE13022_244 (found ship velocity is 25.3 kt)
+    the end of 18NE13022_244 and the beginning of 18NE13022_263 (found ship velocity is 43.3 kt)
+    the end of 18NE13022_263 and the beginning of 18NE13022_247 (found ship velocity is 24.8 kt)
+    the end of 18NE13022_247 and the beginning of 18NE13022_275 (found ship velocity is 20.1 kt)
+    the end of 18NE13022_275 and the beginning of 18NE13022_253 (found ship velocity is 119.4 kt)
+    the end of 18NE13022_253 and the beginning of 18NE13022_276 (found ship velocity is 30.2 kt)
+    the end of 18NE13022_276 and the beginning of 18NE13022_257 (found ship velocity is 145.6 kt)
+    the end of 18NE13022_283 and the beginning of 18NE13022_279 (found ship velocity is 59.8 kt)
+    the end of 18NE13022_279 and the beginning of 18NE13022_285 (found ship velocity is 26.4 kt)
+    the end of 18NE13022_285 and the beginning of 18NE13022_280 (found ship velocity is 27.3 kt)
+    the end of 18NE13022_280 and the beginning of 18NE13022_295 (found ship velocity is 40.9 kt)
+    the end of 18NE13022_295 and the beginning of 18NE13022_277 (found ship velocity is 105.2 kt)
+    the end of 18NE13022_296 and the beginning of 18NE13022_300 (found ship velocity is 50.2 kt)
+    the end of 18NE13022_297 and the beginning of 18NE13022_301 (found ship velocity is 66.1 kt)
+    the end of 18NE13022_308 and the beginning of 18NE13022_302 (found ship velocity is 348.5 kt)
+    the end of 18NE13022_302 and the beginning of 18NE13022_309 (found ship velocity is 18.1 kt)
+    the end of 18NE13022_310 and the beginning of 18NE13022_305 (found ship velocity is Inf kt)
+    the end of 18NE13022_311 and the beginning of 18NE13022_307 (found ship velocity is 20.0 kt)
+    the end of 18NE13022_318 and the beginning of 18NE13022_313 (found ship velocity is 258.5 kt)
+    the end of 18NE13022_314 and the beginning of 18NE13022_319 (found ship velocity is 42.7 kt)
+    the end of 18NE13022_316 and the beginning of 18NE13022_320 (found ship velocity is 34.1 kt)
+    the end of 18NE13022_320 and the beginning of 18NE13022_317 (found ship velocity is 69.5 kt)
+    the end of 18NE13022_317 and the beginning of 18NE13022_321 (found ship velocity is 65.6 kt)
+    the end of 18NE13022_322 and the beginning of 18NE13022_312 (found ship velocity is 52.9 kt)
+    the end of 18NE13022_328 and the beginning of 18NE13022_323 (found ship velocity is 4916.3 kt)
+    the end of 18NE13022_323 and the beginning of 18NE13022_329 (found ship velocity is 25.5 kt)
+    the end of 18NE13022_329 and the beginning of 18NE13022_324 (found ship velocity is 130.7 kt)
+    the end of 18NE13022_325 and the beginning of 18NE13022_333 (found ship velocity is 37.3 kt)
+    the end of 18NE13022_338 and the beginning of 18NE13022_334 (found ship velocity is 19.7 kt)
+    the end of 18NE13022_334 and the beginning of 18NE13022_340 (found ship velocity is 315.8 kt)
+    the end of 18NE13022_340 and the beginning of 18NE13022_335 (found ship velocity is 20.1 kt)
+    the end of 18NE13022_335 and the beginning of 18NE13022_354 (found ship velocity is 185.1 kt)
+    the end of 18NE13022_354 and the beginning of 18NE13022_337 (found ship velocity is 30.0 kt)
+    the end of 18NE13022_337 and the beginning of 18NE13022_369 (found ship velocity is 22.0 kt)
+    the end of 18NE13022_370 and the beginning of 18NE13022_407 (found ship velocity is 642.0 kt)
+    the end of 18NE13022_407 and the beginning of 18NE13022_371 (found ship velocity is 27.9 kt)
+    the end of 18NE13022_007 and the beginning of 18NE13022_408 (found ship velocity is 143.6 kt)
+    the end of 18NE13022_408 and the beginning of 18NE13022_008 (found ship velocity is 33.2 kt)
+    the end of 18NE13022_008 and the beginning of 18NE13022_409 (found ship velocity is 51.9 kt)
+    the end of 18NE13022_004 and the beginning of 18NE13022_009 (found ship velocity is 59.6 kt)
+    the end of 18NE13022_009 and the beginning of 18NE13022_005 (found ship velocity is 34.5 kt)
+    the end of 18NE13022_016 and the beginning of 18NE13022_011 (found ship velocity is 55.0 kt)
+    the end of 18NE13022_011 and the beginning of 18NE13022_017 (found ship velocity is 39.7 kt)
+    the end of 18NE13022_018 and the beginning of 18NE13022_012 (found ship velocity is 51.5 kt)
+    the end of 18NE13022_012 and the beginning of 18NE13022_019 (found ship velocity is 23.2 kt)
+    the end of 18NE13022_019 and the beginning of 18NE13022_013 (found ship velocity is 33.4 kt)
+    the end of 18NE13022_013 and the beginning of 18NE13022_010 (found ship velocity is 410.3 kt)
+    the end of 18NE13022_020 and the beginning of 18NE13022_027 (found ship velocity is 28.0 kt)
+    the end of 18NE13022_027 and the beginning of 18NE13022_021 (found ship velocity is 63.1 kt)
+    the end of 18NE13022_029 and the beginning of 18NE13022_023 (found ship velocity is 28.4 kt)
+    the end of 18NE13022_035 and the beginning of 18NE13022_030 (found ship velocity is 30.0 kt)
+    the end of 18NE13022_030 and the beginning of 18NE13022_037 (found ship velocity is 36.9 kt)
+    the end of 18NE13022_037 and the beginning of 18NE13022_031 (found ship velocity is 30.9 kt)
+    the end of 18NE13022_031 and the beginning of 18NE13022_038 (found ship velocity is 31.0 kt)
+    the end of 18NE13022_038 and the beginning of 18NE13022_032 (found ship velocity is 178.4 kt)
+    the end of 18NE13022_032 and the beginning of 18NE13022_039 (found ship velocity is 21.7 kt)
+    the end of 18NE13022_039 and the beginning of 18NE13022_033 (found ship velocity is 18.5 kt)
+    the end of 18NE13022_033 and the beginning of 18NE13022_040 (found ship velocity is 32.8 kt)
+    the end of 18NE13022_048 and the beginning of 18NE13022_042 (found ship velocity is 37.3 kt)
+    the end of 18NE13022_042 and the beginning of 18NE13022_049 (found ship velocity is 46.6 kt)
+    the end of 18NE13022_049 and the beginning of 18NE13022_043 (found ship velocity is 33.0 kt)
+    the end of 18NE13022_043 and the beginning of 18NE13022_050 (found ship velocity is 31.6 kt)
+    the end of 18NE13022_050 and the beginning of 18NE13022_044 (found ship velocity is 338.3 kt)
+    the end of 18NE13022_044 and the beginning of 18NE13022_051 (found ship velocity is 24.5 kt)
+    the end of 18NE13022_051 and the beginning of 18NE13022_045 (found ship velocity is 91.5 kt)
+    the end of 18NE13022_045 and the beginning of 18NE13022_052 (found ship velocity is 33.5 kt)
+    the end of 18NE13022_052 and the beginning of 18NE13022_046 (found ship velocity is 28.8 kt)
+    the end of 18NE13022_046 and the beginning of 18NE13022_053 (found ship velocity is 122.8 kt)
+    the end of 18NE13022_053 and the beginning of 18NE13022_041 (found ship velocity is 181.5 kt)
+    the end of 18NE13022_060 and the beginning of 18NE13022_054 (found ship velocity is 26.8 kt)
+    the end of 18NE13022_054 and the beginning of 18NE13022_061 (found ship velocity is 34.4 kt)
+    the end of 18NE13022_061 and the beginning of 18NE13022_055 (found ship velocity is 22.8 kt)
+    the end of 18NE13022_055 and the beginning of 18NE13022_062 (found ship velocity is 32.6 kt)
+    the end of 18NE13022_062 and the beginning of 18NE13022_056 (found ship velocity is 24.1 kt)
+    the end of 18NE13022_056 and the beginning of 18NE13022_063 (found ship velocity is 18.8 kt)
+    the end of 18NE13022_059 and the beginning of 18NE13022_064 (found ship velocity is 108.3 kt)
+    the end of 18NE13022_070 and the beginning of 18NE13022_065 (found ship velocity is 68.1 kt)
+    the end of 18NE13022_066 and the beginning of 18NE13022_071 (found ship velocity is 105.6 kt)
+    the end of 18NE13022_072 and the beginning of 18NE13022_067 (found ship velocity is 52.9 kt)
+    the end of 18NE13022_067 and the beginning of 18NE13022_073 (found ship velocity is 38.3 kt)
+    the end of 18NE13022_073 and the beginning of 18NE13022_068 (found ship velocity is 26.2 kt)
+    the end of 18NE13022_068 and the beginning of 18NE13022_074 (found ship velocity is 75.4 kt)
+    the end of 18NE13022_077 and the beginning of 18NE13022_083 (found ship velocity is 205.7 kt)
+    the end of 18NE13022_083 and the beginning of 18NE13022_078 (found ship velocity is 20.6 kt)
+    the end of 18NE13022_081 and the beginning of 18NE13022_084 (found ship velocity is 79.3 kt)
+    the end of 18NE13022_093 and the beginning of 18NE13022_089 (found ship velocity is 78.3 kt)
+    the end of 18NE13022_089 and the beginning of 18NE13022_094 (found ship velocity is 41.6 kt)
+    the end of 18NE13022_094 and the beginning of 18NE13022_090 (found ship velocity is 48.6 kt)
+    the end of 18NE13022_090 and the beginning of 18NE13022_095 (found ship velocity is 81.1 kt)
+    the end of 18NE13022_096 and the beginning of 18NE13022_092 (found ship velocity is 458.0 kt)
+    the end of 18NE13022_092 and the beginning of 18NE13022_088 (found ship velocity is 29.5 kt)
+    the end of 18NE13022_097 and the beginning of 18NE13022_101 (found ship velocity is 245.3 kt)
+    the end of 18NE13022_101 and the beginning of 18NE13022_098 (found ship velocity is 29.4 kt)
+    the end of 18NE13022_104 and the beginning of 18NE13022_099 (found ship velocity is 124.1 kt)
+    the end of 18NE13022_099 and the beginning of 18NE13022_105 (found ship velocity is 27.0 kt)
+    the end of 18NE13022_105 and the beginning of 18NE13022_100 (found ship velocity is 33.4 kt)
+    the end of 18NE13022_100 and the beginning of 18NE13022_107 (found ship velocity is 23.5 kt)
+    the end of 18NE13022_115 and the beginning of 18NE13022_108 (found ship velocity is 30.7 kt)
+    the end of 18NE13022_108 and the beginning of 18NE13022_118 (found ship velocity is 21.5 kt)
+    the end of 18NE13022_118 and the beginning of 18NE13022_109 (found ship velocity is Inf kt)
+    the end of 18NE13022_109 and the beginning of 18NE13022_119 (found ship velocity is 26.4 kt)
+    the end of 18NE13022_119 and the beginning of 18NE13022_110 (found ship velocity is 92.8 kt)
+    the end of 18NE13022_110 and the beginning of 18NE13022_120 (found ship velocity is 26.4 kt)
+    the end of 18NE13022_120 and the beginning of 18NE13022_111 (found ship velocity is 346.5 kt)
+    the end of 18NE13022_112 and the beginning of 18NE13022_121 (found ship velocity is 234.8 kt)
+    the end of 18NE13022_128 and the beginning of 18NE13022_122 (found ship velocity is 39.6 kt)
+    the end of 18NE13022_123 and the beginning of 18NE13022_129 (found ship velocity is 38.8 kt)
+    the end of 18NE13022_129 and the beginning of 18NE13022_124 (found ship velocity is 26.1 kt)
+    the end of 18NE13022_130 and the beginning of 18NE13022_125 (found ship velocity is 295.5 kt)
+    the end of 18NE13022_136 and the beginning of 18NE13022_132 (found ship velocity is 53.1 kt)
+    the end of 18NE13022_132 and the beginning of 18NE13022_137 (found ship velocity is 22.2 kt)
+    the end of 18NE13022_137 and the beginning of 18NE13022_133 (found ship velocity is 45.5 kt)
+    the end of 18NE13022_139 and the beginning of 18NE13022_134 (found ship velocity is 96.0 kt)
+    the end of 18NE13022_134 and the beginning of 18NE13022_131 (found ship velocity is 29.0 kt)
+    the end of 18NE13022_145 and the beginning of 18NE13022_141 (found ship velocity is 29.1 kt)
+    the end of 18NE13022_141 and the beginning of 18NE13022_146 (found ship velocity is 25.3 kt)
+    the end of 18NE13022_146 and the beginning of 18NE13022_142 (found ship velocity is 53.2 kt)
+    the end of 18NE13022_142 and the beginning of 18NE13022_147 (found ship velocity is 22.0 kt)
+    the end of 18NE13022_147 and the beginning of 18NE13022_143 (found ship velocity is 552.2 kt)
+    the end of 18NE13022_143 and the beginning of 18NE13022_148 (found ship velocity is 27.6 kt)
+    the end of 18NE13022_148 and the beginning of 18NE13022_140 (found ship velocity is 52.8 kt)
+    the end of 18NE13022_140 and the beginning of 18NE13022_144 (found ship velocity is 187.2 kt)
+    the end of 18NE13022_150 and the beginning of 18NE13022_156 (found ship velocity is 18.7 kt)
+    the end of 18NE13022_156 and the beginning of 18NE13022_151 (found ship velocity is 157.3 kt)
+    the end of 18NE13022_153 and the beginning of 18NE13022_158 (found ship velocity is 34.5 kt)
+    the end of 18NE13022_158 and the beginning of 18NE13022_154 (found ship velocity is 36.0 kt)
+    the end of 18NE13022_161 and the beginning of 18NE13022_167 (found ship velocity is 18.8 kt)
+    the end of 18NE13022_167 and the beginning of 18NE13022_162 (found ship velocity is 70.0 kt)
+    the end of 18NE13022_174 and the beginning of 18NE13022_178 (found ship velocity is 120.8 kt)
+    the end of 18NE13022_186 and the beginning of 18NE13022_183 (found ship velocity is 4901.1 kt)
+Test 1.5 ->Negative cruise velocity -> Check time of
+    The end of 18NE13022_098 and the beginning of 18NE13022_103 (deltaT=-0.0 h; deltaD=59.7 nm)
+Test 1.6 -> No known depth for 18NE13022_002
+Test 1.6 -> No known depth for 18NE13022_113
+Test 1.6 -> No known depth for 18NE13022_315
+Test 1.6 -> No known depth for 18NE13022_264
+Test 1.6 -> No known depth for 18NE13022_326
+Test 1.6 -> No known depth for 18NE13022_284
+Test 1.6 -> No known depth for 18NE13022_339
+Test 1.6 -> No known depth for 18NE13022_304
+Test 1.6 -> No known depth for 18NE13022_225
+Test 1.6 -> No known depth for 18NE13022_069
+Test 1.6 -> No known depth for 18NE13022_025
+Test 1.6 -> No known depth for 18NE13022_080
+Test 1.6 -> No known depth for 18NE13022_036
+Test 1.6 -> No known depth for 18NE13022_091
+Test 1.6 -> No known depth for 18NE13022_047
+Test 1.6 -> No known depth for 18NE13022_102
+Test 1.6 -> No known depth for 18NE13022_058
+Test 1.6 -> No known depth for 18NE13022_114
+Test 1.6 -> No known depth for 18NE13022_014
+Test 1.6 -> No known depth for 18NE13022_204
+Test 1.6 -> No known depth for 18NE13022_215
+Test 1.6 -> No known depth for 18NE13022_138
+Test 1.6 -> No known depth for 18NE13022_226
+Test 1.6 -> No known depth for 18NE13022_171
+Test 1.6 -> No known depth for 18NE13022_237
+Test 1.6 -> No known depth for 18NE13022_193
+Test 1.6 -> No known depth for 18NE13022_239
+Test 1.6 -> No known depth for 18NE13022_243
+Test 1.6 -> No known depth for 18NE13022_261
+Test 1.6 -> No known depth for 18NE13022_244
+Test 1.6 -> No known depth for 18NE13022_263
+Test 1.6 -> No known depth for 18NE13022_247
+Test 1.6 -> No known depth for 18NE13022_275
+Test 1.6 -> No known depth for 18NE13022_253
+Test 1.6 -> No known depth for 18NE13022_276
+Test 1.6 -> No known depth for 18NE13022_257
+Test 1.6 -> No known depth for 18NE13022_281
+Test 1.6 -> No known depth for 18NE13022_282
+Test 1.6 -> No known depth for 18NE13022_283
+Test 1.6 -> No known depth for 18NE13022_279
+Test 1.6 -> No known depth for 18NE13022_285
+Test 1.6 -> No known depth for 18NE13022_280
+Test 1.6 -> No known depth for 18NE13022_295
+Test 1.6 -> No known depth for 18NE13022_277
+Test 1.6 -> No known depth for 18NE13022_298
+Test 1.6 -> No known depth for 18NE13022_299
+Test 1.6 -> No known depth for 18NE13022_296
+Test 1.6 -> No known depth for 18NE13022_300
+Test 1.6 -> No known depth for 18NE13022_297
+Test 1.6 -> No known depth for 18NE13022_301
+Test 1.6 -> No known depth for 18NE13022_308
+Test 1.6 -> No known depth for 18NE13022_302
+Test 1.6 -> No known depth for 18NE13022_309
+Test 1.6 -> No known depth for 18NE13022_310
+Test 1.6 -> No known depth for 18NE13022_305
+Test 1.6 -> No known depth for 18NE13022_311
+Test 1.6 -> No known depth for 18NE13022_307
+Test 1.6 -> No known depth for 18NE13022_318
+Test 1.6 -> No known depth for 18NE13022_313
+Test 1.6 -> No known depth for 18NE13022_314
+Test 1.6 -> No known depth for 18NE13022_319
+Test 1.6 -> No known depth for 18NE13022_316
+Test 1.6 -> No known depth for 18NE13022_317
+Test 1.6 -> No known depth for 18NE13022_312
+Test 1.6 -> No known depth for 18NE13022_328
+Test 1.6 -> No known depth for 18NE13022_323
+Test 1.6 -> No known depth for 18NE13022_329
+Test 1.6 -> No known depth for 18NE13022_324
+Test 1.6 -> No known depth for 18NE13022_325
+Test 1.6 -> No known depth for 18NE13022_333
+Test 1.6 -> No known depth for 18NE13022_338
+Test 1.6 -> No known depth for 18NE13022_334
+Test 1.6 -> No known depth for 18NE13022_340
+Test 1.6 -> No known depth for 18NE13022_335
+Test 1.6 -> No known depth for 18NE13022_354
+Test 1.6 -> No known depth for 18NE13022_337
+Test 1.6 -> No known depth for 18NE13022_369
+Test 1.6 -> No known depth for 18NE13022_370
+Test 1.6 -> No known depth for 18NE13022_407
+Test 1.6 -> No known depth for 18NE13022_371
+Test 1.6 -> No known depth for 18NE13022_389
+Test 1.6 -> No known depth for 18NE13022_006
+Test 1.6 -> No known depth for 18NE13022_007
+Test 1.6 -> No known depth for 18NE13022_408
+Test 1.6 -> No known depth for 18NE13022_008
+Test 1.6 -> No known depth for 18NE13022_409
+Test 1.6 -> No known depth for 18NE13022_004
+Test 1.6 -> No known depth for 18NE13022_009
+Test 1.6 -> No known depth for 18NE13022_005
+Test 1.6 -> No known depth for 18NE13022_015
+Test 1.6 -> No known depth for 18NE13022_016
+Test 1.6 -> No known depth for 18NE13022_011
+Test 1.6 -> No known depth for 18NE13022_017
+Test 1.6 -> No known depth for 18NE13022_018
+Test 1.6 -> No known depth for 18NE13022_012
+Test 1.6 -> No known depth for 18NE13022_019
+Test 1.6 -> No known depth for 18NE13022_013
+Test 1.6 -> No known depth for 18NE13022_010
+Test 1.6 -> No known depth for 18NE13022_020
+Test 1.6 -> No known depth for 18NE13022_027
+Test 1.6 -> No known depth for 18NE13022_021
+Test 1.6 -> No known depth for 18NE13022_022
+Test 1.6 -> No known depth for 18NE13022_029
+Test 1.6 -> No known depth for 18NE13022_023
+Test 1.6 -> No known depth for 18NE13022_024
+Test 1.6 -> No known depth for 18NE13022_026
+Test 1.6 -> No known depth for 18NE13022_035
+Test 1.6 -> No known depth for 18NE13022_030
+Test 1.6 -> No known depth for 18NE13022_037
+Test 1.6 -> No known depth for 18NE13022_031
+Test 1.6 -> No known depth for 18NE13022_038
+Test 1.6 -> No known depth for 18NE13022_032
+Test 1.6 -> No known depth for 18NE13022_039
+Test 1.6 -> No known depth for 18NE13022_033
+Test 1.6 -> No known depth for 18NE13022_040
+Test 1.6 -> No known depth for 18NE13022_034
+Test 1.6 -> No known depth for 18NE13022_048
+Test 1.6 -> No known depth for 18NE13022_042
+Test 1.6 -> No known depth for 18NE13022_049
+Test 1.6 -> No known depth for 18NE13022_043
+Test 1.6 -> No known depth for 18NE13022_050
+Test 1.6 -> No known depth for 18NE13022_044
+Test 1.6 -> No known depth for 18NE13022_051
+Test 1.6 -> No known depth for 18NE13022_045
+Test 1.6 -> No known depth for 18NE13022_052
+Test 1.6 -> No known depth for 18NE13022_046
+Test 1.6 -> No known depth for 18NE13022_053
+Test 1.6 -> No known depth for 18NE13022_041
+Test 1.6 -> No known depth for 18NE13022_060
+Test 1.6 -> No known depth for 18NE13022_054
+Test 1.6 -> No known depth for 18NE13022_061
+Test 1.6 -> No known depth for 18NE13022_055
+Test 1.6 -> No known depth for 18NE13022_062
+Test 1.6 -> No known depth for 18NE13022_056
+Test 1.6 -> No known depth for 18NE13022_063
+Test 1.6 -> No known depth for 18NE13022_057
+Test 1.6 -> No known depth for 18NE13022_059
+Test 1.6 -> No known depth for 18NE13022_064
+Test 1.6 -> No known depth for 18NE13022_070
+Test 1.6 -> No known depth for 18NE13022_065
+Test 1.6 -> No known depth for 18NE13022_066
+Test 1.6 -> No known depth for 18NE13022_071
+Test 1.6 -> No known depth for 18NE13022_072
+Test 1.6 -> No known depth for 18NE13022_067
+Test 1.6 -> No known depth for 18NE13022_073
+Test 1.6 -> No known depth for 18NE13022_068
+Test 1.6 -> No known depth for 18NE13022_074
+Test 1.6 -> No known depth for 18NE13022_075
+Test 1.6 -> No known depth for 18NE13022_076
+Test 1.6 -> No known depth for 18NE13022_077
+Test 1.6 -> No known depth for 18NE13022_083
+Test 1.6 -> No known depth for 18NE13022_078
+Test 1.6 -> No known depth for 18NE13022_081
+Test 1.6 -> No known depth for 18NE13022_084
+Test 1.6 -> No known depth for 18NE13022_082
+Test 1.6 -> No known depth for 18NE13022_086
+Test 1.6 -> No known depth for 18NE13022_087
+Test 1.6 -> No known depth for 18NE13022_085
+Test 1.6 -> No known depth for 18NE13022_093
+Test 1.6 -> No known depth for 18NE13022_089
+Test 1.6 -> No known depth for 18NE13022_094
+Test 1.6 -> No known depth for 18NE13022_090
+Test 1.6 -> No known depth for 18NE13022_095
+Test 1.6 -> No known depth for 18NE13022_092
+Test 1.6 -> No known depth for 18NE13022_088
+Test 1.6 -> No known depth for 18NE13022_097
+Test 1.6 -> No known depth for 18NE13022_101
+Test 1.6 -> No known depth for 18NE13022_098
+Test 1.6 -> No known depth for 18NE13022_103
+Test 1.6 -> No known depth for 18NE13022_104
+Test 1.6 -> No known depth for 18NE13022_099
+Test 1.6 -> No known depth for 18NE13022_105
+Test 1.6 -> No known depth for 18NE13022_100
+Test 1.6 -> No known depth for 18NE13022_107
+Test 1.6 -> No known depth for 18NE13022_115
+Test 1.6 -> No known depth for 18NE13022_108
+Test 1.6 -> No known depth for 18NE13022_118
+Test 1.6 -> No known depth for 18NE13022_109
+Test 1.6 -> No known depth for 18NE13022_119
+Test 1.6 -> No known depth for 18NE13022_110
+Test 1.6 -> No known depth for 18NE13022_120
+Test 1.6 -> No known depth for 18NE13022_111
+Test 1.6 -> No known depth for 18NE13022_112
+Test 1.6 -> No known depth for 18NE13022_121
+Test 1.6 -> No known depth for 18NE13022_122
+Test 1.6 -> No known depth for 18NE13022_123
+Test 1.6 -> No known depth for 18NE13022_124
+Test 1.6 -> No known depth for 18NE13022_174
+Test 1.6 -> No known depth for 18NE13022_178
+Test 1.6 -> No known depth for 18NE13022_180
+Test 1.6 -> No known depth for 18NE13022_186
+Test 1.6 -> No known depth for 18NE13022_183
+Test 1.6 -> No known depth for 18NE13022_188
+18NE13022_311: Test 3.5 -> Profile 18NE13022_311 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NE13022_312: Test 3.5 -> Profile 18NE13022_312 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NE13022_144: Test 3.5 -> psal in box(es) 1 is out of TS Climatology by more than 3*std at 50.0 m
+18NE13022_154: Test 3.5 -> psal in box(es) 66 is out of TS Climatology by more than 3*std at 50.0 m

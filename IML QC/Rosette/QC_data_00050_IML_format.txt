@@ -1,0 +1,22 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+HUD2000050_010; 13.77 to 13.83; 232279, 232280; ntrz; 0.38  0.27  ; Gradient or Inversion too high
+HUD2000050_010; 13.77 to 13.83; 232279, 232280; phos; 0.31  0.39  ; Gradient or Inversion too high
+HUD2000050_021; 13.29 to 13.47; 232288, 232289; ntrz; 1.86  1.49  ; Gradient or Inversion too high
+HUD2000050_021; 23.15 to 23.16; 232286, 232285; ntrz; 4.24  4.38  ; Gradient or Inversion too high
+HUD2000050_021; 23.15 to 23.16; 232286, 232285; phos; 0.87  0.76  ; Gradient or Inversion too high
+HUD2000050_046; 54.34 to 58.44; 232352, 232350; ntrz; 0.71  5.51  ; Gradient or Inversion too high
+HUD2000050_049; 15.32 to 15.37; 232373, 232374; ntrz; 0.21  0.39  ; Gradient or Inversion too high
+HUD2000050_049; 35.55 to 35.57; 232370, 232369; ntrz; 4.47  4.32  ; Gradient or Inversion too high
+HUD2000050_049; 35.55 to 35.57; 232370, 232369; phos; 0.74  0.61  ; Gradient or Inversion too high
+HUD2000050_058; 53.02 to 53.48; 232401, 232400; ntrz; 6.90  5.48  ; Gradient or Inversion too high
+HUD2000050_117; 42.62 to 42.67; 232512, 232511; ntrz; 0.28  0.22  ; Gradient or Inversion too high
+HUD2000050_117; 42.62 to 42.67; 232512, 232511; phos; 0.34  0.27  ; Gradient or Inversion too high
+HUD2000050_137; 15.24 to 15.25; 232533, 232532; ntrz; 0.41  0.17  ; Gradient or Inversion too high
+HUD2000050_137; 45.26 to 45.30; 232528, 232527; ntrz; 0.28  0.23  ; Gradient or Inversion too high
+HUD2000050_137; 15.24 to 15.25; 232533, 232532; phos; 0.31  0.12  ; Gradient or Inversion too high
+HUD2000050_137; 45.26 to 45.30; 232528, 232527; phos; 0.16  0.29  ; Gradient or Inversion too high
+HUD2000050_174; 52.66 to 52.87; 232573, 232572; ntrz; 7.12  6.54  ; Gradient or Inversion too high
+HUD2000050_243; 10.59 to 10.64; 232776, 232775; ntrz; 0.91  0.77  ; Gradient or Inversion too high
+HUD2000050_251; 23.81 to 23.97; 232799, 232800; ntrz; 0.87  1.07  ; Gradient or Inversion too high
+HUD2000050_267; 23.23 to 23.24; 232835, 232834; ntrz; 0.32  1.04  ; Gradient or Inversion too high
+HUD2000050_267; 23.23 to 23.24; 232835, 232834; phos; 0.33  0.51  ; Gradient or Inversion too high

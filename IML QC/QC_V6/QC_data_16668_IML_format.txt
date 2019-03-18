@@ -1,0 +1,8 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18VA16668_1713; 72.18 to 74.16; 329942, 329941; ntrz; 5.40  9.31  ; Gradient or Inversion too high
+18VA16668_1714; 4.96; 423698; doxy; 6.42; Bottle-CTD Difference Problem
+18VA16668_1714; 49.58; 423695; doxy; 6.92; Bottle-CTD Difference Problem
+18VA16668_1714; 78.13; 423694; doxy; 6.05; Bottle-CTD Difference Problem
+18VA16668_1715; 4.96; 423809; doxy; 6.58; Bottle-CTD Difference Problem
+18VA16668_1715; 49.58; 423806; doxy; 6.88; Bottle-CTD Difference Problem
+18VA16668_1715; 79.31; 423805; doxy; 5.77; Bottle-CTD Difference Problem

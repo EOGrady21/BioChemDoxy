@@ -1,0 +1,7 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU04586_264; 4.96; 258980; doxy; 7.01  ; Constant profile problem
+18HU04586_264; 10.31; 258979; doxy; 7.01  ; Constant profile problem
+18HU04586_264; 21.06; 258978; doxy; 7.01  ; Constant profile problem
+18HU04586_264; 30.12; 258977; doxy; 7.01  ; Constant profile problem
+18HU04586_264; 44.80; 258976; doxy; 7.01  ; Constant profile problem
+18HU04586_304; 165.60; 258982; phos; 1.37  ; Out of Nutrient Climatology in box(es) 9 (Min=0.42 Max=1.26 n=9)

@@ -1,0 +1,143 @@
+From:	Cogswell, Andrew
+Sent:	November-30-16 11:51 AM
+To:	Bond, Shelley A; Lazin, Gordana
+Subject:	RE: station names
+
+Hi Shelley,
+
+I think the external document sounds good but only after the reload is complete.  Ideally this sort of 
+document would accompany a GUI that people could use for extraction.
+
+Yes, you are right about the event level comments.  I guess what I meant is really some documentation 
+at the “mission” level, not the event, but I’m not sure this is possible?
+
+Andrew
+
+
+
+From: Bond, Shelley A  
+Sent: November-30-16 10:59 AM 
+To: Lazin, Gordana; Cogswell, Andrew 
+Subject: RE: station names
+
+Thanks for forwarding this discussion to me Gordana.
+
+Andrew, a comment at the event level means a comment for each and every record, that doesn’t make 
+sense to me.  Or are you saying the database documentation should include this possibility, the tech 
+report has been published already, not sure when we’d do the next iteration.  Otherwise Gordana would 
+still need to ID every station this may have happened on and include the comment for each of those 
+stations, still a lot of work without the benefit of the issue being dealt with.
+
+Wonder if we need to include a brief doc to external users with data that contains various known issues 
+as a boiler plate kind of thing?
+
+Shelley Bond 
+Team Lead
+Data Acquisition, Assembly and Distribution | Acquisition, assemblage et distribution de données
+Program Coordination and Support Division | Division de la coordination et soutien des programmes 
+Science Branch | Direction des Sciences
+Maritimes Region | Région des Maritimes
+Fisheries and Oceans Canada |Pêches et Océans Canada 
+1 Challenger Drive, Dartmouth, Nova Scotia  B2Y 4A2  
+Shelley.Bond@dfo-mpo.gc.ca  
+Telephone | Téléphone   902 426-1473 
+Government of Canada | Gouvernement du Canada
+
+If you have received this communication by mistake, please notify the sender immediately and 
+delete the communication without printing, copying or forwarding it. Thank you. 
+Si vous avez reçu cette communication par erreur, veuillez en aviser l'expéditeur 
+immédiatement et la supprimer sans l'imprimer, la copier, ou la faire suivre. Merci. 
+
+
+
+
+From: Lazin, Gordana  
+Sent: November 30, 2016 10:10 AM 
+To: Bond, Shelley A 
+Subject: FW: station names
+
+I don’t think you got this.  
+
+From: Cogswell, Andrew  
+Sent: November-29-16 4:08 PM 
+To: Johnson, Catherine; Brickman, David; Devred, Emmanuel; Greenan, Blair; Hebert, David; Ringuette, 
+Marc 
+Cc: Lazin, Gordana 
+Subject: RE: station names
+
+Hi Catherine,  
+
+Thank you for the comments.
+
+OK, this is consistent with what I said to Gordana.  I agree, it is not unique.  Gordana’s concern is that for 
+those clients external to AZMP/AZOMP that this might be more of an issue than internal clients that are 
+already aware that data should be extracted based on a buffer around nominal locations rather than 
+station names.  I don’t think it is a worthwhile way to spend ODIS/AZMP time trying to track down all 
+instances of this error given the enormity of the data management tasks that are currently on our 
+plates.  We could come back to it at a later date and adjust if the time is available, but I think a comment 
+in the event table in BioChem identifying the issue might be easiest for now.
+
+Andrew  
+
+From: Johnson, Catherine  
+Sent: November-29-16 3:11 PM 
+To: Cogswell, Andrew; Brickman, David; Devred, Emmanuel; Greenan, Blair; Hebert, David; Ringuette, 
+Marc 
+Cc: Lazin, Gordana 
+Subject: RE: station names
+
+That is confusing, but I am not sure it is truly unique given the station name issues we’ve worked 
+through in the past.
+
+First, it will be necessary to make sure that there is no error in labelling by checking other station 
+properties like depth for consistency. Second, do cruise reports exist for missions with anomalous 
+station names to provide guidance on the intended names? If so,  perhaps the names could be corrected 
+in all sources and databases. We generally extract data based on location or sample ID because the 
+names have not been consistent, so this may not be as much of an issue as it might otherwise be, but it 
+will be potentially confusing. Can discuss further if needed. 
+
+Catherine
+
+From: Cogswell, Andrew  
+Sent: November-29-16 2:59 PM 
+To: Brickman, David; Cogswell, Andrew; Devred, Emmanuel; Greenan, Blair; Hebert, David; Johnson, 
+Catherine; Ringuette, Marc 
+Cc: Lazin, Gordana 
+Subject: FW: station names
+
+Hello Everyone,
+
+Unique problem here.  If you open the link that Gordana has provided and click on the SIB section 
+between HL and LL, you’ll see that some of the SIB stations (specifically SIB6-8) have different names 
+depending on the year they were sampled (yikes). I’m not sure this is a problem that we can go back and 
+fix because it is now reflected in the associated cruise reports and all subsequent analyses, but we might 
+include a comment at the Event level in BioChem that analysis should be done by location, not station 
+name (at least when the stations are not part of the core program).  Please let me know what you think 
+so I can inform Gordana of the way forward on this.  
+
+This is not an issue now for AZMP (2013 – present), but we’ve inherited it and now it is our problem as 
+with so many other data management issues.
+
+Andrew
+
+From: Lazin, Gordana  
+Sent: November-29-16 1:51 PM 
+To: Cogswell, Andrew 
+Cc: Bond, Shelley A 
+Subject: station names
+
+Hi Andrew,
+
+I almost sorted out AZMP spring and fall metadata and I just noticed that certain locations sometimes 
+have different station names. For example, one location was called SIB_07 on  6 missions and  SIB_08 on 
+4 missions. I checked paper trail and it seems like the stations names/locations were assigned differently 
+in the sailing instructions, but are consistent in the bridge log and ctd deck sheets for each cruise, so it 
+was not a typo issue.
+
+I am attaching HTML file with the map. If you click on it,  it will open in your browser and you can zoom 
+in. I did not look through all clusters of stations but so far I found that SIB line is affected.
+
+What do you think we should do about it, if anything? It will be a problem when scientists try to 
+aggregate data by station names.
+
+Thanks, Gordana

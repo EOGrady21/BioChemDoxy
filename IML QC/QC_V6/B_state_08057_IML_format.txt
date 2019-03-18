@@ -1,0 +1,22 @@
+18HU08057_999_: Test 3.6 -> Profile 18HU08057_999_ outside TS Monthly Climatology polygons
+18HU08057_999_: Test 3.6 -> Profile 18HU08057_999_ outside Monthly Nutrient Climatology polygons
+18HU08057_1000: Test 3.6 -> Profile 18HU08057_1000 outside TS Monthly Climatology polygons
+18HU08057_1000: Test 3.6 -> Profile 18HU08057_1000 outside Monthly Nutrient Climatology polygons
+18HU08057_1001: Test 3.6 -> Profile 18HU08057_1001 outside TS Monthly Climatology polygons
+18HU08057_1001: Test 3.6 -> Profile 18HU08057_1001 outside Monthly Nutrient Climatology polygons
+18HU08057_1002: Test 3.6 -> Profile 18HU08057_1002 outside TS Monthly Climatology polygons
+18HU08057_1002: Test 3.6 -> Profile 18HU08057_1002 outside Monthly Nutrient Climatology polygons
+18HU08057_1003: Test 3.6 -> Profile 18HU08057_1003 outside TS Monthly Climatology polygons
+18HU08057_1003: Test 3.6 -> Profile 18HU08057_1003 outside Monthly Nutrient Climatology polygons
+18HU08057_1004: Test 3.6 -> Profile 18HU08057_1004 outside TS Monthly Climatology polygons
+18HU08057_1004: Test 3.6 -> Profile 18HU08057_1004 outside Monthly Nutrient Climatology polygons
+18HU08057_1005: Test 3.6 -> Profile 18HU08057_1005 outside TS Monthly Climatology polygons
+18HU08057_1005: Test 3.6 -> Profile 18HU08057_1005 outside Monthly Nutrient Climatology polygons
+18HU08057_1006: Test 3.6 -> Profile 18HU08057_1006 outside TS Monthly Climatology polygons
+18HU08057_1006: Test 3.6 -> Profile 18HU08057_1006 outside Monthly Nutrient Climatology polygons
+18HU08057_1007: Test 3.6 -> Profile 18HU08057_1007 outside TS Monthly Climatology polygons
+18HU08057_1007: Test 3.6 -> Profile 18HU08057_1007 outside Monthly Nutrient Climatology polygons
+18HU08057_1008: Test 3.6 -> Profile 18HU08057_1008 outside TS Monthly Climatology polygons
+18HU08057_1008: Test 3.6 -> Profile 18HU08057_1008 outside Monthly Nutrient Climatology polygons
+18HU08057_1015: Test 3.5 -> Profile 18HU08057_1015 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU08057_1015: Test 3.6 -> Profile 18HU08057_1015 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes

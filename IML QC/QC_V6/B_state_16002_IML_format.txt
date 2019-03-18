@@ -1,0 +1,52 @@
+Test 1.6 -> No known depth for 18TL16002_113
+Test 1.6 -> No known depth for 18TL16002_284
+Test 1.6 -> No known depth for 18TL16002_304
+Test 1.6 -> No known depth for 18TL16002_315
+Test 1.6 -> No known depth for 18TL16002_326
+Test 1.6 -> No known depth for 18TL16002_003
+Test 1.6 -> No known depth for 18TL16002_014
+Test 1.6 -> No known depth for 18TL16002_025
+Test 1.6 -> No known depth for 18TL16002_036
+Test 1.6 -> No known depth for 18TL16002_047
+Test 1.6 -> No known depth for 18TL16002_058
+Test 1.6 -> No known depth for 18TL16002_069
+Test 1.6 -> No known depth for 18TL16002_080
+Test 1.6 -> No known depth for 18TL16002_091
+Test 1.6 -> No known depth for 18TL16002_102
+Test 1.6 -> No known depth for 18TL16002_114
+Test 1.6 -> No known depth for 18TL16002_127
+Test 1.6 -> No known depth for 18TL16002_138
+Test 1.6 -> No known depth for 18TL16002_149
+Test 1.6 -> No known depth for 18TL16002_171
+Test 1.6 -> No known depth for 18TL16002_182
+Test 1.6 -> No known depth for 18TL16002_193
+Test 1.6 -> No known depth for 18TL16002_204
+Test 1.6 -> No known depth for 18TL16002_215
+Test 1.6 -> No known depth for 18TL16002_226
+Test 1.6 -> No known depth for 18TL16002_237
+Test 1.6 -> No known depth for 18TL16002_239
+Test 1.6 -> No known depth for 18TL16002_243
+Test 1.6 -> No known depth for 18TL16002_244
+Test 1.6 -> No known depth for 18TL16002_253
+Test 1.6 -> No known depth for 18TL16002_257
+Test 1.6 -> No known depth for 18TL16002_263
+Test 1.6 -> No known depth for 18TL16002_265
+Test 1.6 -> No known depth for 18TL16002_276
+Test 1.6 -> No known depth for 18TL16002_277
+Test 1.6 -> No known depth for 18TL16002_279
+Test 1.6 -> No known depth for 18TL16002_280
+Test 1.6 -> No known depth for 18TL16002_281
+Test 1.6 -> No known depth for 18TL16002_282
+Test 1.6 -> No known depth for 18TL16002_283
+Test 1.6 -> No known depth for 18TL16002_295
+Test 1.6 -> No known depth for 18TL16002_296
+Test 1.6 -> No known depth for 18TL16002_297
+Test 1.6 -> No known depth for 18TL16002_299
+Test 1.6 -> No known depth for 18TL16002_301
+Test 1.6 -> No known depth for 18TL16002_302
+Test 1.6 -> No known depth for 18TL16002_303
+Test 1.6 -> No known depth for 18TL16002_306
+18TL16002_237: Test 3.6 -> ntrz in box(es) 2 is out of Nutrient Climatology at 4.7 m
+18TL16002_239: Test 3.6 -> ntrz in box(es) 2 is out of Nutrient Climatology at 5.1 m
+18TL16002_244: Test 3.6 -> ntrz in box(es) 3 is out of Nutrient Climatology at 226.8 m
+18TL16002_277: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 24.7 m

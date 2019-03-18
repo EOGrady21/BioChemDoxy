@@ -1,0 +1,32 @@
+    The end of 18HU92037_355 and the beginning of 18HU92037_356 (found ship velocity is 0.00 kt)
+Test 1.6 -> No known depth for 18HU92037_355
+Test 1.6 -> No known depth for 18HU92037_356
+Test 1.6 -> No known depth for 18HU92037_357
+Test 1.6 -> No known depth for 18HU92037_358
+Test 1.6 -> No known depth for 18HU92037_359
+Test 1.6 -> No known depth for 18HU92037_360
+Test 1.6 -> No known depth for 18HU92037_361
+Test 1.6 -> No known depth for 18HU92037_362
+Test 1.6 -> No known depth for 18HU92037_363
+Test 1.6 -> No known depth for 18HU92037_364
+Test 1.6 -> No known depth for 18HU92037_365
+18HU92037_355: Test 3.6 -> Profile 18HU92037_355 outside TS Monthly Climatology polygons
+18HU92037_355: Test 3.6 -> Profile 18HU92037_355 outside Monthly Nutrient Climatology polygons
+18HU92037_356: Test 3.6 -> Profile 18HU92037_356 outside TS Monthly Climatology polygons
+18HU92037_356: Test 3.6 -> Profile 18HU92037_356 outside Monthly Nutrient Climatology polygons
+18HU92037_357: Test 3.6 -> Profile 18HU92037_357 outside TS Monthly Climatology polygons
+18HU92037_357: Test 3.6 -> Profile 18HU92037_357 outside Monthly Nutrient Climatology polygons
+18HU92037_358: Test 3.6 -> Profile 18HU92037_358 outside TS Monthly Climatology polygons
+18HU92037_358: Test 3.6 -> Profile 18HU92037_358 outside Monthly Nutrient Climatology polygons
+18HU92037_359: Test 3.6 -> Profile 18HU92037_359 outside TS Monthly Climatology polygons
+18HU92037_359: Test 3.6 -> Profile 18HU92037_359 outside Monthly Nutrient Climatology polygons
+18HU92037_360: Test 3.6 -> Profile 18HU92037_360 outside TS Monthly Climatology polygons
+18HU92037_360: Test 3.6 -> Profile 18HU92037_360 outside Monthly Nutrient Climatology polygons
+18HU92037_361: Test 3.6 -> Profile 18HU92037_361 outside TS Monthly Climatology polygons
+18HU92037_361: Test 3.6 -> Profile 18HU92037_361 outside Monthly Nutrient Climatology polygons
+18HU92037_362: Test 3.6 -> Profile 18HU92037_362 outside TS Monthly Climatology polygons
+18HU92037_362: Test 3.6 -> phos in box(es) 7 is out of Nutrient Climatology at 100.0 m
+18HU92037_362: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 100.0 m
+18HU92037_363: Test 3.6 -> Profile 18HU92037_363 outside TS Monthly Climatology polygons
+18HU92037_364: Test 3.6 -> Profile 18HU92037_364 outside TS Monthly Climatology polygons
+18HU92037_365: Test 3.6 -> Profile 18HU92037_365 outside TS Monthly Climatology polygons

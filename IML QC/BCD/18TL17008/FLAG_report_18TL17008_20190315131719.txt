@@ -1,0 +1,72 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18TL17008 FLAG Report:,  2019-03-15 13:17:19
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged OXYGEN, event IML2017008331, station 331:
+
+ sample_key depth O2_CTD_mLL qc
+             2.08   334.0568  0
+             5.16   336.5131  0
+            15.47   337.6743  0
+            25.19   339.2820  0
+            50.17   303.8220  0
+            76.84   282.6978  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event IML2017008481, station 481:
+
+ sample_key  depth  value         method qc
+              4.76  0.125 NO2NO3_Tech_SF  1
+             15.57  0.215 NO2NO3_Tech_SF  1
+             25.19  0.145 NO2NO3_Tech_SF  1
+             50.57  0.490 NO2NO3_Tech_SF  1
+            100.14  4.165 NO2NO3_Tech_SF  1
+            200.03 21.100 NO2NO3_Tech_SF  1
+            300.16 23.360 NO2NO3_Tech_SF  2
+            312.84 23.360 NO2NO3_Tech_SF  2
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event IML2017008981, station 981:
+
+ sample_key depth O2_CTD_mLL qc
+             2.38   329.5461  0
+            21.12   301.9909  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

@@ -1,0 +1,6 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL00007_069; 40.04; 221637; doxy; 9.02; Impossible Parameter Value in Profile
+18TL00007_069; 50.40; 221636; doxy; 9.08; Impossible Parameter Value in Profile
+18TL00007_091; 41.40; 221647; doxy; 9.14; Impossible Parameter Value in Profile
+18TL00007_123; 10.04; 222209; cphl; 1.59  0.83  ; Duplicate Problem
+18TL00007_123; 39.75; 222206; cphl; 1.12  0.54  ; Duplicate Problem

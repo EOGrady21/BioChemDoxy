@@ -1,0 +1,31 @@
+18EG17004_1582: Test 3.6 -> Profile 18EG17004_1582 outside TS Monthly Climatology polygons
+18EG17004_1582: Test 3.6 -> Profile 18EG17004_1582 outside Monthly Nutrient Climatology polygons
+18EG17004_1583: Test 3.6 -> Profile 18EG17004_1583 outside TS Monthly Climatology polygons
+18EG17004_1583: Test 3.6 -> Profile 18EG17004_1583 outside Monthly Nutrient Climatology polygons
+18EG17004_1584: Test 3.5 -> Profile 18EG17004_1584 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18EG17004_1584: Test 3.6 -> Profile 18EG17004_1584 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18EG17004_1584: Test 3.6 -> phos in box(es) 6, 8 is out of Nutrient Climatology at 209.8 m
+18EG17004_1584: Test 3.6 -> slca in box(es) 6, 8 is out of Nutrient Climatology at 209.8 m
+18EG17004_1585: Test 3.5 -> Profile 18EG17004_1585 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18EG17004_1585: Test 3.6 -> Profile 18EG17004_1585 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18EG17004_1585: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 98.7 m
+18EG17004_1586: Test 3.6 -> Profile 18EG17004_1586 outside TS Monthly Climatology polygons
+18EG17004_1586: Test 3.6 -> Profile 18EG17004_1586 outside Monthly Nutrient Climatology polygons
+18EG17004_1587: Test 3.6 -> Profile 18EG17004_1587 outside TS Monthly Climatology polygons
+18EG17004_1587: Test 3.6 -> Profile 18EG17004_1587 outside Monthly Nutrient Climatology polygons
+18EG17004_1588: Test 3.6 -> Profile 18EG17004_1588 outside TS Monthly Climatology polygons
+18EG17004_1588: Test 3.6 -> Profile 18EG17004_1588 outside Monthly Nutrient Climatology polygons
+18EG17004_1589: Test 3.6 -> Profile 18EG17004_1589 outside TS Monthly Climatology polygons
+18EG17004_1589: Test 3.6 -> Profile 18EG17004_1589 outside Monthly Nutrient Climatology polygons
+18EG17004_1590: Test 3.6 -> Profile 18EG17004_1590 outside TS Monthly Climatology polygons
+18EG17004_1590: Test 3.6 -> Profile 18EG17004_1590 outside Monthly Nutrient Climatology polygons
+18EG17004_1591: Test 3.6 -> Profile 18EG17004_1591 outside TS Monthly Climatology polygons
+18EG17004_1591: Test 3.6 -> Profile 18EG17004_1591 outside Monthly Nutrient Climatology polygons
+18EG17004_1592: Test 3.6 -> Profile 18EG17004_1592 outside TS Monthly Climatology polygons
+18EG17004_1592: Test 3.6 -> Profile 18EG17004_1592 outside Monthly Nutrient Climatology polygons
+18EG17004_1593: Test 3.6 -> Profile 18EG17004_1593 outside TS Monthly Climatology polygons
+18EG17004_1593: Test 3.6 -> Profile 18EG17004_1593 outside Monthly Nutrient Climatology polygons
+18EG17004_1594: Test 3.6 -> Profile 18EG17004_1594 outside TS Monthly Climatology polygons
+18EG17004_1594: Test 3.6 -> Profile 18EG17004_1594 outside Monthly Nutrient Climatology polygons
+18EG17004_1595: Test 3.6 -> Profile 18EG17004_1595 outside TS Monthly Climatology polygons
+18EG17004_1595: Test 3.6 -> Profile 18EG17004_1595 outside Monthly Nutrient Climatology polygons

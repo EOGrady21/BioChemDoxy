@@ -1,0 +1,29 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18VA18666_113; 40.51; 441744; psal; 31.12; Bottle-CTD Difference Problem
+18VA18666_264; 101.06; 358474; phos; 0.34  ; Out of Nutrient Climatology in box(es) 5 (Min=0.56 Max=3.74 n=260)
+18VA18666_304; 10.52; 446758; phos; 0.22  ; Out of Nutrient Climatology in box(es) 5 (Min=0.25 Max=1.22 n=173)
+18VA18666_315; 1.54; 446761; psal; 33.41; Bottle-CTD Difference Problem
+18VA18666_315; 30.34; 446765; psal; 31.54; Bottle-CTD Difference Problem
+18VA18666_315; 141.08; 446770; psal; 30.72; Bottle-CTD Difference Problem
+18VA18666_315; 1.54; 446761; doxy; 5.12; Bottle-CTD Difference Problem
+18VA18666_315; 141.08; 446770; doxy; 7.57; Bottle-CTD Difference Problem
+18VA18666_315; 1.54 to 5.45; 446761, 446762; ntrz; 11.64  6.42  ; Gradient or Inversion too high
+18VA18666_315; -5 to 5 m; NaN; psal; 33.41  ; Out of TS Climatology by more than 3*std in box(es) 14 (30.98 ± 0.75)
+18VA18666_315; 1.54; 446761; ntrz; 11.64  ; Out of Nutrient Climatology in box(es) 5 (Min=0.00 Max=1.89 n=120)
+18VA18666_315; 5.45; 446762; ntrz; 6.42  ; Out of Nutrient Climatology in box(es) 5 (Min=0.00 Max=1.89 n=120)
+18VA18666_315; 100.96; 446769; ntrz; 0.20  ; Out of Nutrient Climatology in box(es) 5 (Min=5.44 Max=27.01 n=99)
+18VA18666_315; 141.08; 446770; ntrz; 0.00  ; Out of Nutrient Climatology in box(es) 5 (Min=5.44 Max=27.01 n=99)
+18VA18666_315; 100.96; 446769; phos; 0.30  ; Out of Nutrient Climatology in box(es) 5 (Min=0.70 Max=1.88 n=103)
+18VA18666_315; 141.08; 446770; phos; 0.30  ; Out of Nutrient Climatology in box(es) 5 (Min=0.70 Max=1.88 n=103)
+18VA18666_315; 1.54; 446761; slca; 11.28  ; Out of Nutrient Climatology in box(es) 5 (Min=0.00 Max=2.55 n=120)
+18VA18666_315; 5.45; 446762; slca; 5.88  ; Out of Nutrient Climatology in box(es) 5 (Min=0.00 Max=2.55 n=120)
+18VA18666_315; 41.08; 446766; slca; 0.15  ; Out of Nutrient Climatology in box(es) 5 (Min=0.23 Max=13.98 n=211)
+18VA18666_315; 50.74; 446767; slca; 0.12  ; Out of Nutrient Climatology in box(es) 5 (Min=0.23 Max=13.98 n=211)
+18VA18666_315; 76.03; 446768; slca; 0.08  ; Out of Nutrient Climatology in box(es) 5 (Min=0.23 Max=13.98 n=211)
+18VA18666_315; 100.96; 446769; slca; 0.00  ; Out of Nutrient Climatology in box(es) 5 (Min=4.12 Max=26.10 n=102)
+18VA18666_315; 141.08; 446770; slca; 0.00  ; Out of Nutrient Climatology in box(es) 5 (Min=4.12 Max=26.10 n=102)
+18VA18666_339; 30.42; 446786; phos; 0.28  ; Out of Nutrient Climatology in box(es) 5 (Min=0.37 Max=1.61 n=138)
+18VA18666_036; 141.23; 446821; psal; 33.31; Bottle-CTD Difference Problem
+18VA18666_036; 101.04; 446822; ntrz; 5.63  ; Out of Nutrient Climatology in box(es) 5 (Min=6.68 Max=29.19 n=33)
+18VA18666_036; 101.04; 446822; phos; 0.69  ; Out of Nutrient Climatology in box(es) 5 (Min=0.73 Max=1.70 n=37)
+18VA18666_036; 101.04; 446822; slca; 5.62  ; Out of Nutrient Climatology in box(es) 5 (Min=8.22 Max=25.91 n=36)

@@ -1,0 +1,517 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18TL04033 FLAG Report:,  2019-03-15 14:46:30
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+
+> # plot flagged profiles using BC flagged file
+> #original file from Gordana Lazin
+> #updated by E Chisholm, March 2019
+> 
+> 
+> source("flagcol2.r")
+
+> require(lubridate)
+
+> source("plot_profiles.r")
+
+> wd="C:/Users/ChisholmE/Documents/BIOCHEM/IML QC"
+
+> # load flagged BCD file
+> mission="18TL04524"
+
+> fn=file.path(paste0(wd,'/BCD/',mission, '/',mission,"_BCD_flagged.csv"))
+
+> df0=data.frame(read.csv(fn,  header = F, quote = '', fill = T, stringsAsFactors = F))
+
+> names(df0) <- df0[1,]
+
+> df0 <- df0[-1,1:25]
+
+> df0$DIS_HEADER_START_DEPTH <- as.numeric(df0$DIS_HEADER_START_DEPTH)
+
+> df0$DIS_DETAIL_DATA_VAL <- as.numeric(df0$DIS_DETAIL_DATA_VAL)
+
+> # load QC report files 
+> qc_folder="C:/Users/ChisholmE/Documents/BIOCHEM/IML QC/QC_V6"
+
+> qcf=paste0("QC_data_",substr(mission,nchar(mission)-4,nchar(mission)),"_IML_format.txt")
+
+> qcf_ctd=paste0("QC_data_",substr(mission,nchar(mission)-4,nchar(mission)),"_IML_format_ctd.txt")
+
+> qcrep=read.table(file.path(qc_folder,qcf), stringsAsFactors=F, sep=";", header=T)
+
+> #no ctd data
+> #qcrep_ctd=read.table(file.path(qc_folder,qcf_ctd), stringsAsFactors=F, sep=";", header=T)
+> 
+> # if (mission %in% c("HUD99054","HUD9 ..." ... [TRUNCATED] 
+
+> qcpar <-  vars$BCD_FIELDS[vars$qc == 'qc']
+
+> #qcpar=c("Temp_CTD_1968","Salinity_CTD","O2_CTD_mLL","Salinity_Sal_PSS","Chl_a_Holm-Hansen_F","pH_CTD",
+>         #"Chl_Fluor_Voltage", "O2_Electrod ..." ... [TRUNCATED] 
+
+> # find events for which the dat was flagged
+> 
+> # 1. find indices of flagged data, fi
+> fi=which(df$DIS_DETAIL_DATA_QC_CODE>1)
+
+> # 2. Find flagged events, fe
+> fe=unique(df$EVENT_COLLECTOR_EVENT_ID[fi])
+
+> # order flagged events by event number
+> fe=fe[order(fe)]
+
+> # =================== #
+> # DEFINE REPORT FILE
+> # =================== #
+> outpath=file.path(paste0(wd,'/BCD/',mission))
+
+> n=now() # make time stamp to mark the start of processing
+
+> timestamp=paste0(year(n), sprintf("%02d",month(n)),sprintf("%02d",day(n)),
++                  sprintf("%02d",hour(n)),sprintf("%02d",minute(n)),spri .... [TRUNCATED] 
+
+> # name of the report file                 
+> report_file=paste0("FLAG_report_",mission,"_",timestamp, ".txt")
+
+> report_file=file.path(outpath,report_file)
+
+> # write input files into report
+> sink(file=report_file,append=TRUE, split=TRUE)
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18TL04524 FLAG Report:,  2019-03-15 14:47:03
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged OXYGEN, event 18, station SEGB-17:
+
+           sample_key depth O2_Winkler_Molar qc
+ 18TL04524_091_258131     5            304.6  1
+ 18TL04524_091_258130    10            294.8  1
+ 18TL04524_091_258129    20            310.4  1
+ 18TL04524_091_258128    29            327.4  3
+ 18TL04524_091_258127    39            343.9  3
+ 18TL04524_091_258126    50            376.0  3
+ 18TL04524_091_258125    75            382.7  3
+ 18TL04524_091_258124   100            385.4  3
+ 18TL04524_091_258123   150            385.9  3
+ 18TL04524_091_258122  1505            387.2  3
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 2, station SEGB-01:
+
+           sample_key depth value method qc
+ 18TL04524_113_258051     5  0.40  PO4_0  1
+ 18TL04524_113_258050    10  0.30  PO4_0  1
+ 18TL04524_113_258049    20  0.26  PO4_0  1
+ 18TL04524_113_258048    30  0.49  PO4_0  1
+ 18TL04524_113_258047    38  0.50  PO4_0  1
+ 18TL04524_113_258046    46  0.86  PO4_0  3
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()
+
+> # plot flagged profiles using BC flagged file
+> #original file from Gordana Lazin
+> #updated by E Chisholm, March 2019
+> 
+> 
+> source("flagcol2.r")
+
+> require(lubridate)
+
+> source("plot_profiles.r")
+
+> wd="C:/Users/ChisholmE/Documents/BIOCHEM/IML QC"
+
+> # load flagged BCD file
+> mission="18TL05601"
+
+> fn=file.path(paste0(wd,'/BCD/',mission, '/',mission,"_BCD_flagged.csv"))
+
+> df0=data.frame(read.csv(fn,  header = F, quote = '', fill = T, stringsAsFactors = F))
+
+> names(df0) <- df0[1,]
+
+> df0 <- df0[-1,1:25]
+
+> df0$DIS_HEADER_START_DEPTH <- as.numeric(df0$DIS_HEADER_START_DEPTH)
+
+> df0$DIS_DETAIL_DATA_VAL <- as.numeric(df0$DIS_DETAIL_DATA_VAL)
+
+> # load QC report files 
+> qc_folder="C:/Users/ChisholmE/Documents/BIOCHEM/IML QC/QC_V6"
+
+> qcf=paste0("QC_data_",substr(mission,nchar(mission)-4,nchar(mission)),"_IML_format.txt")
+
+> qcf_ctd=paste0("QC_data_",substr(mission,nchar(mission)-4,nchar(mission)),"_IML_format_ctd.txt")
+
+> qcrep=read.table(file.path(qc_folder,qcf), stringsAsFactors=F, sep=";", header=T)
+
+> #no ctd data
+> #qcrep_ctd=read.table(file.path(qc_folder,qcf_ctd), stringsAsFactors=F, sep=";", header=T)
+> 
+> # if (mission %in% c("HUD99054","HUD9 ..." ... [TRUNCATED] 
+
+> qcpar <-  vars$BCD_FIELDS[vars$qc == 'qc']
+
+> #qcpar=c("Temp_CTD_1968","Salinity_CTD","O2_CTD_mLL","Salinity_Sal_PSS","Chl_a_Holm-Hansen_F","pH_CTD",
+>         #"Chl_Fluor_Voltage", "O2_Electrod ..." ... [TRUNCATED] 
+
+> # find events for which the dat was flagged
+> 
+> # 1. find indices of flagged data, fi
+> fi=which(df$DIS_DETAIL_DATA_QC_CODE>1)
+
+> # 2. Find flagged events, fe
+> fe=unique(df$EVENT_COLLECTOR_EVENT_ID[fi])
+
+> # order flagged events by event number
+> fe=fe[order(fe)]
+
+> # =================== #
+> # DEFINE REPORT FILE
+> # =================== #
+> outpath=file.path(paste0(wd,'/BCD/',mission))
+
+> n=now() # make time stamp to mark the start of processing
+
+> timestamp=paste0(year(n), sprintf("%02d",month(n)),sprintf("%02d",day(n)),
++                  sprintf("%02d",hour(n)),sprintf("%02d",minute(n)),spri .... [TRUNCATED] 
+
+> # name of the report file                 
+> report_file=paste0("FLAG_report_",mission,"_",timestamp, ".txt")
+
+> report_file=file.path(outpath,report_file)
+
+> # write input files into report
+> sink(file=report_file,append=TRUE, split=TRUE)
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18TL05601 FLAG Report:,  2019-03-15 14:47:36
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged PHOSPHATE, event 53, station STN27:
+
+           sample_key depth value method qc
+ 18TL05601_297_259898     4  0.31  PO4_0  1
+ 18TL05601_297_259897    10  0.52  PO4_0  1
+ 18TL05601_297_259896    20  0.28  PO4_0  1
+ 18TL05601_297_259895    30  0.31  PO4_0  1
+ 18TL05601_297_259894    40  0.27  PO4_0  2
+ 18TL05601_297_259893    49  0.26  PO4_0  2
+ 18TL05601_297_259892    75  0.46  PO4_0  1
+ 18TL05601_297_259891    99  0.72  PO4_0  1
+ 18TL05601_297_259890   149  1.16  PO4_0  1
+ 18TL05601_297_259889   172  1.30  PO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event 6, station SEGB-05:
+
+           sample_key depth O2_Winkler_Molar qc
+ 18TL05601_304_259602     4            354.6  1
+ 18TL05601_304_259601    10            356.4  1
+ 18TL05601_304_259600    19            357.3  1
+ 18TL05601_304_259599    29            354.2  1
+ 18TL05601_304_259598    39            353.7  1
+ 18TL05601_304_259597    49            346.6  1
+ 18TL05601_304_259596    75            321.5  1
+ 18TL05601_304_259595    85            254.1  3
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()
+
+> # plot flagged profiles using BC flagged file
+> #original file from Gordana Lazin
+> #updated by E Chisholm, March 2019
+> 
+> 
+> source("flagcol2.r")
+
+> require(lubridate)
+
+> source("plot_profiles.r")
+
+> wd="C:/Users/ChisholmE/Documents/BIOCHEM/IML QC"
+
+> # load flagged BCD file
+> mission="18TL14133"
+
+> fn=file.path(paste0(wd,'/BCD/',mission, '/',mission,"_BCD_flagged.csv"))
+
+> df0=data.frame(read.csv(fn,  header = F, quote = '', fill = T, stringsAsFactors = F))
+
+> names(df0) <- df0[1,]
+
+> df0 <- df0[-1,1:25]
+
+> df0$DIS_HEADER_START_DEPTH <- as.numeric(df0$DIS_HEADER_START_DEPTH)
+
+> df0$DIS_DETAIL_DATA_VAL <- as.numeric(df0$DIS_DETAIL_DATA_VAL)
+
+> # load QC report files 
+> qc_folder="C:/Users/ChisholmE/Documents/BIOCHEM/IML QC/QC_V6"
+
+> qcf=paste0("QC_data_",substr(mission,nchar(mission)-4,nchar(mission)),"_IML_format.txt")
+
+> qcf_ctd=paste0("QC_data_",substr(mission,nchar(mission)-4,nchar(mission)),"_IML_format_ctd.txt")
+
+> qcrep=read.table(file.path(qc_folder,qcf), stringsAsFactors=F, sep=";", header=T)
+
+> #no ctd data
+> #qcrep_ctd=read.table(file.path(qc_folder,qcf_ctd), stringsAsFactors=F, sep=";", header=T)
+> 
+> # if (mission %in% c("HUD99054","HUD9 ..." ... [TRUNCATED] 
+
+> qcpar <-  vars$BCD_FIELDS[vars$qc == 'qc']
+
+> #qcpar=c("Temp_CTD_1968","Salinity_CTD","O2_CTD_mLL","Salinity_Sal_PSS","Chl_a_Holm-Hansen_F","pH_CTD",
+>         #"Chl_Fluor_Voltage", "O2_Electrod ..." ... [TRUNCATED] 
+
+> # find events for which the dat was flagged
+> 
+> # 1. find indices of flagged data, fi
+> fi=which(df$DIS_DETAIL_DATA_QC_CODE>1)
+
+> # 2. Find flagged events, fe
+> fe=unique(df$EVENT_COLLECTOR_EVENT_ID[fi])
+
+> # order flagged events by event number
+> fe=fe[order(fe)]
+
+> # =================== #
+> # DEFINE REPORT FILE
+> # =================== #
+> outpath=file.path(paste0(wd,'/BCD/',mission))
+
+> n=now() # make time stamp to mark the start of processing
+
+> timestamp=paste0(year(n), sprintf("%02d",month(n)),sprintf("%02d",day(n)),
++                  sprintf("%02d",hour(n)),sprintf("%02d",minute(n)),spri .... [TRUNCATED] 
+
+> # name of the report file                 
+> report_file=paste0("FLAG_report_",mission,"_",timestamp, ".txt")
+
+> report_file=file.path(outpath,report_file)
+
+> # write input files into report
+> sink(file=report_file,append=TRUE, split=TRUE)
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18TL14133 FLAG Report:,  2019-03-15 14:48:02
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged NITRATE, event IMLTEL20141331061, station 1061:
+
+ sample_key depth value        method qc
+             5.55     0 NO2NO3_Tech_F  7
+            26.67     0 NO2NO3_Tech_F  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event IMLTEL20141331131, station 1131:
+
+ sample_key depth value        method qc
+             5.36     0 NO2NO3_Tech_F  7
+            23.50     0 NO2NO3_Tech_F  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> # plot flagged profiles using BC flagged file
+> #original file from Gordana Lazin
+> #updated by E Chisholm, March 2019
+> 
+> 
+> source("flagcol2.r")
+
+> require(lubridate)
+
+> source("plot_profiles.r")
+
+> wd="C:/Users/ChisholmE/Documents/BIOCHEM/IML QC"
+
+> # load flagged BCD file
+> mission="181C05624"
+
+> fn=file.path(paste0(wd,'/BCD/',mission, '/',mission,"_BCD_flagged.csv"))
+
+> df0=data.frame(read.csv(fn,  header = F, quote = '', fill = T, stringsAsFactors = F))
+
+> names(df0) <- df0[1,]
+
+> df0 <- df0[-1,1:25]
+
+> df0$DIS_HEADER_START_DEPTH <- as.numeric(df0$DIS_HEADER_START_DEPTH)
+
+> df0$DIS_DETAIL_DATA_VAL <- as.numeric(df0$DIS_DETAIL_DATA_VAL)
+
+> # load QC report files 
+> qc_folder="C:/Users/ChisholmE/Documents/BIOCHEM/IML QC/QC_V6"
+
+> qcf=paste0("QC_data_",substr(mission,nchar(mission)-4,nchar(mission)),"_IML_format.txt")
+
+> qcf_ctd=paste0("QC_data_",substr(mission,nchar(mission)-4,nchar(mission)),"_IML_format_ctd.txt")
+
+> qcrep=read.table(file.path(qc_folder,qcf), stringsAsFactors=F, sep=";", header=T)
+
+> #no ctd data
+> #qcrep_ctd=read.table(file.path(qc_folder,qcf_ctd), stringsAsFactors=F, sep=";", header=T)
+> 
+> # if (mission %in% c("HUD99054","HUD9 ..." ... [TRUNCATED] 
+
+> qcpar <-  vars$BCD_FIELDS[vars$qc == 'qc']
+
+> #qcpar=c("Temp_CTD_1968","Salinity_CTD","O2_CTD_mLL","Salinity_Sal_PSS","Chl_a_Holm-Hansen_F","pH_CTD",
+>         #"Chl_Fluor_Voltage", "O2_Electrod ..." ... [TRUNCATED] 
+
+> # find events for which the dat was flagged
+> 
+> # 1. find indices of flagged data, fi
+> fi=which(df$DIS_DETAIL_DATA_QC_CODE>1)
+
+> # 2. Find flagged events, fe
+> fe=unique(df$EVENT_COLLECTOR_EVENT_ID[fi])
+
+> # order flagged events by event number
+> fe=fe[order(fe)]
+
+> # =================== #
+> # DEFINE REPORT FILE
+> # =================== #
+> outpath=file.path(paste0(wd,'/BCD/',mission))
+
+> n=now() # make time stamp to mark the start of processing
+
+> timestamp=paste0(year(n), sprintf("%02d",month(n)),sprintf("%02d",day(n)),
++                  sprintf("%02d",hour(n)),sprintf("%02d",minute(n)),spri .... [TRUNCATED] 
+
+> # name of the report file                 
+> report_file=paste0("FLAG_report_",mission,"_",timestamp, ".txt")
+
+> report_file=file.path(outpath,report_file)
+
+> # write input files into report
+> sink(file=report_file,append=TRUE, split=TRUE)
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+181C05624 FLAG Report:,  2019-03-15 14:48:34
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 

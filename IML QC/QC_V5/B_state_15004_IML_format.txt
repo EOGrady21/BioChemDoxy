@@ -1,0 +1,58 @@
+Test 1.6 -> No known depth for 18HU15004_304
+Test 1.6 -> No known depth for 18HU15004_339
+Test 1.6 -> No known depth for 18HU15004_025
+Test 1.6 -> No known depth for 18HU15004_047
+Test 1.6 -> No known depth for 18HU15004_069
+Test 1.6 -> No known depth for 18HU15004_102
+Test 1.6 -> No known depth for 18HU15004_127
+Test 1.6 -> No known depth for 18HU15004_149
+Test 1.6 -> No known depth for 18HU15004_171
+Test 1.6 -> No known depth for 18HU15004_193
+Test 1.6 -> No known depth for 18HU15004_215
+Test 1.6 -> No known depth for 18HU15004_237
+Test 1.6 -> No known depth for 18HU15004_239
+Test 1.6 -> No known depth for 18HU15004_243
+Test 1.6 -> No known depth for 18HU15004_244
+Test 1.6 -> No known depth for 18HU15004_247
+Test 1.6 -> No known depth for 18HU15004_257
+Test 1.6 -> No known depth for 18HU15004_265
+Test 1.6 -> No known depth for 18HU15004_276
+Test 1.6 -> No known depth for 18HU15004_281
+Test 1.6 -> No known depth for 18HU15004_285
+Test 1.6 -> No known depth for 18HU15004_296
+Test 1.6 -> No known depth for 18HU15004_300
+Test 1.6 -> No known depth for 18HU15004_303
+Test 1.6 -> No known depth for 18HU15004_308
+Test 1.6 -> No known depth for 18HU15004_312
+Test 1.6 -> No known depth for 18HU15004_317
+Test 1.6 -> No known depth for 18HU15004_320
+Test 1.6 -> No known depth for 18HU15004_323
+Test 1.6 -> No known depth for 18HU15004_325
+Test 1.6 -> No known depth for 18HU15004_328
+Test 1.6 -> No known depth for 18HU15004_330
+Test 1.6 -> No known depth for 18HU15004_334
+Test 1.6 -> No known depth for 18HU15004_336
+Test 1.6 -> No known depth for 18HU15004_354
+Test 1.6 -> No known depth for 18HU15004_389
+Test 1.6 -> No known depth for 18HU15004_408
+Test 1.6 -> No known depth for 18HU15004_005
+Test 1.6 -> No known depth for 18HU15004_008
+Test 1.6 -> No known depth for 18HU15004_030
+Test 1.6 -> No known depth for 18HU15004_033
+Test 1.6 -> No known depth for 18HU15004_039
+Test 1.6 -> No known depth for 18HU15004_042
+Test 1.6 -> No known depth for 18HU15004_044
+Test 1.6 -> No known depth for 18HU15004_048
+Test 1.6 -> No known depth for 18HU15004_050
+18HU15004_257: Test 3.5 -> psal in box(es) 30 is out of TS Climatology by more than 3*std at 200.0 m
+18HU15004_281: Test 2.1 -> Global Impossible Parameter Value for ntrz
+18HU15004_281: Test 2.2 -> Regional Impossible Parameter Value for ntrz
+18HU15004_281: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 1.6 m
+18HU15004_281: Test 3.6 -> phos in box(es) 7 is out of Nutrient Climatology at 1.6 m
+18HU15004_281: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 1.6 m
+18HU15004_285: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+18HU15004_325: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 31.8 m
+18HU15004_328: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 250.0 m
+18HU15004_389: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 0.0 m
+18HU15004_389: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 250.0 m
+18HU15004_016: Test 3.5 -> Profile 18HU15004_016 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes

@@ -1,0 +1,132 @@
+Test 1.5 -> Cruise velocity > permitted -> Check time and position of
+    the end of 18VA70002_1885 and the beginning of 18VA70002_1924 (found ship velocity is 3132.7 kt)
+    the end of 18VA70002_1905 and the beginning of 18VA70002_1887 (found ship velocity is 55.7 kt)
+    The end of 18VA70002_1912 and the beginning of 18VA70002_1915 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1928 and the beginning of 18VA70002_1927 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1904 and the beginning of 18VA70002_1905 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1906 and the beginning of 18VA70002_1907 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1907 and the beginning of 18VA70002_1908 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1908 and the beginning of 18VA70002_1909 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1909 and the beginning of 18VA70002_1910 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1910 and the beginning of 18VA70002_1911 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1911 and the beginning of 18VA70002_1913 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1868 and the beginning of 18VA70002_1869 (found ship velocity is 0.00 kt)
+18VA70002_1901: Test 3.6 -> Profile 18VA70002_1901 outside TS Monthly Climatology polygons
+18VA70002_1901: Test 3.6 -> Profile 18VA70002_1901 outside Monthly Nutrient Climatology polygons
+18VA70002_1865: Test 3.6 -> Profile 18VA70002_1865 outside TS Monthly Climatology polygons
+18VA70002_1865: Test 3.6 -> Profile 18VA70002_1865 outside Monthly Nutrient Climatology polygons
+18VA70002_1875: Test 3.6 -> Profile 18VA70002_1875 outside TS Monthly Climatology polygons
+18VA70002_1875: Test 3.6 -> Profile 18VA70002_1875 outside Monthly Nutrient Climatology polygons
+18VA70002_1912: Test 3.6 -> Profile 18VA70002_1912 outside TS Monthly Climatology polygons
+18VA70002_1912: Test 3.6 -> Profile 18VA70002_1912 outside Monthly Nutrient Climatology polygons
+18VA70002_1915: Test 3.6 -> Profile 18VA70002_1915 outside TS Monthly Climatology polygons
+18VA70002_1915: Test 3.6 -> Profile 18VA70002_1915 outside Monthly Nutrient Climatology polygons
+18VA70002_1916: Test 3.6 -> Profile 18VA70002_1916 outside TS Monthly Climatology polygons
+18VA70002_1916: Test 3.6 -> Profile 18VA70002_1916 outside Monthly Nutrient Climatology polygons
+18VA70002_1886: Test 3.6 -> Profile 18VA70002_1886 outside TS Monthly Climatology polygons
+18VA70002_1886: Test 3.6 -> Profile 18VA70002_1886 outside Monthly Nutrient Climatology polygons
+18VA70002_1889: Test 3.6 -> Profile 18VA70002_1889 outside TS Monthly Climatology polygons
+18VA70002_1889: Test 3.6 -> Profile 18VA70002_1889 outside Monthly Nutrient Climatology polygons
+18VA70002_1890: Test 3.6 -> Profile 18VA70002_1890 outside TS Monthly Climatology polygons
+18VA70002_1890: Test 3.6 -> Profile 18VA70002_1890 outside Monthly Nutrient Climatology polygons
+18VA70002_1893: Test 3.6 -> Profile 18VA70002_1893 outside TS Monthly Climatology polygons
+18VA70002_1893: Test 3.6 -> Profile 18VA70002_1893 outside Monthly Nutrient Climatology polygons
+18VA70002_1895: Test 3.6 -> Profile 18VA70002_1895 outside TS Monthly Climatology polygons
+18VA70002_1895: Test 3.6 -> Profile 18VA70002_1895 outside Monthly Nutrient Climatology polygons
+18VA70002_1922: Test 3.6 -> Profile 18VA70002_1922 outside TS Monthly Climatology polygons
+18VA70002_1922: Test 3.6 -> Profile 18VA70002_1922 outside Monthly Nutrient Climatology polygons
+18VA70002_1917: Test 3.6 -> Profile 18VA70002_1917 outside TS Monthly Climatology polygons
+18VA70002_1917: Test 3.6 -> Profile 18VA70002_1917 outside Monthly Nutrient Climatology polygons
+18VA70002_1871: Test 3.6 -> Profile 18VA70002_1871 outside TS Monthly Climatology polygons
+18VA70002_1871: Test 3.6 -> Profile 18VA70002_1871 outside Monthly Nutrient Climatology polygons
+18VA70002_1897: Test 3.6 -> Profile 18VA70002_1897 outside TS Monthly Climatology polygons
+18VA70002_1897: Test 3.6 -> Profile 18VA70002_1897 outside Monthly Nutrient Climatology polygons
+18VA70002_1898: Test 3.5 -> Profile 18VA70002_1898 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18VA70002_1898: Test 3.6 -> Profile 18VA70002_1898 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18VA70002_1899: Test 3.6 -> Profile 18VA70002_1899 outside TS Monthly Climatology polygons
+18VA70002_1899: Test 3.6 -> Profile 18VA70002_1899 outside Monthly Nutrient Climatology polygons
+18VA70002_1900: Test 3.6 -> Profile 18VA70002_1900 outside TS Monthly Climatology polygons
+18VA70002_1900: Test 3.6 -> Profile 18VA70002_1900 outside Monthly Nutrient Climatology polygons
+18VA70002_1918: Test 3.6 -> Profile 18VA70002_1918 outside TS Monthly Climatology polygons
+18VA70002_1918: Test 3.6 -> Profile 18VA70002_1918 outside Monthly Nutrient Climatology polygons
+18VA70002_1923: Test 3.6 -> Profile 18VA70002_1923 outside TS Monthly Climatology polygons
+18VA70002_1923: Test 3.6 -> Profile 18VA70002_1923 outside Monthly Nutrient Climatology polygons
+18VA70002_1919: Test 3.6 -> Profile 18VA70002_1919 outside TS Monthly Climatology polygons
+18VA70002_1919: Test 3.6 -> Profile 18VA70002_1919 outside Monthly Nutrient Climatology polygons
+18VA70002_1924: Test 3.6 -> Profile 18VA70002_1924 outside TS Monthly Climatology polygons
+18VA70002_1924: Test 3.6 -> Profile 18VA70002_1924 outside Monthly Nutrient Climatology polygons
+18VA70002_1920: Test 3.6 -> Profile 18VA70002_1920 outside TS Monthly Climatology polygons
+18VA70002_1920: Test 3.6 -> Profile 18VA70002_1920 outside Monthly Nutrient Climatology polygons
+18VA70002_1925: Test 3.6 -> Profile 18VA70002_1925 outside TS Monthly Climatology polygons
+18VA70002_1925: Test 3.6 -> Profile 18VA70002_1925 outside Monthly Nutrient Climatology polygons
+18VA70002_1921: Test 3.6 -> Profile 18VA70002_1921 outside TS Monthly Climatology polygons
+18VA70002_1921: Test 3.6 -> Profile 18VA70002_1921 outside Monthly Nutrient Climatology polygons
+18VA70002_1866: Test 3.6 -> Profile 18VA70002_1866 outside TS Monthly Climatology polygons
+18VA70002_1866: Test 3.6 -> Profile 18VA70002_1866 outside Monthly Nutrient Climatology polygons
+18VA70002_1872: Test 3.6 -> Profile 18VA70002_1872 outside TS Monthly Climatology polygons
+18VA70002_1872: Test 3.6 -> Profile 18VA70002_1872 outside Monthly Nutrient Climatology polygons
+18VA70002_1876: Test 3.6 -> Profile 18VA70002_1876 outside TS Monthly Climatology polygons
+18VA70002_1876: Test 3.6 -> Profile 18VA70002_1876 outside Monthly Nutrient Climatology polygons
+18VA70002_1902: Test 3.6 -> Profile 18VA70002_1902 outside TS Monthly Climatology polygons
+18VA70002_1902: Test 3.6 -> Profile 18VA70002_1902 outside Monthly Nutrient Climatology polygons
+18VA70002_1856: Test 3.5 -> temp in box(es) 66 is out of TS Climatology by more than 3*std at 75.0 m
+18VA70002_1926: Test 3.6 -> Profile 18VA70002_1926 outside TS Monthly Climatology polygons
+18VA70002_1926: Test 3.6 -> Profile 18VA70002_1926 outside Monthly Nutrient Climatology polygons
+18VA70002_1903: Test 3.6 -> Profile 18VA70002_1903 outside TS Monthly Climatology polygons
+18VA70002_1903: Test 3.6 -> Profile 18VA70002_1903 outside Monthly Nutrient Climatology polygons
+18VA70002_1928: Test 3.6 -> Profile 18VA70002_1928 outside TS Monthly Climatology polygons
+18VA70002_1928: Test 3.6 -> Profile 18VA70002_1928 outside Monthly Nutrient Climatology polygons
+18VA70002_1927: Test 3.6 -> Profile 18VA70002_1927 outside TS Monthly Climatology polygons
+18VA70002_1927: Test 3.6 -> Profile 18VA70002_1927 outside Monthly Nutrient Climatology polygons
+18VA70002_1904: Test 3.6 -> Profile 18VA70002_1904 outside TS Monthly Climatology polygons
+18VA70002_1904: Test 3.6 -> Profile 18VA70002_1904 outside Monthly Nutrient Climatology polygons
+18VA70002_1905: Test 3.6 -> Profile 18VA70002_1905 outside TS Monthly Climatology polygons
+18VA70002_1905: Test 3.6 -> Profile 18VA70002_1905 outside Monthly Nutrient Climatology polygons
+18VA70002_1887: Test 3.6 -> Profile 18VA70002_1887 outside TS Monthly Climatology polygons
+18VA70002_1887: Test 3.6 -> Profile 18VA70002_1887 outside Monthly Nutrient Climatology polygons
+18VA70002_1891: Test 3.6 -> Profile 18VA70002_1891 outside TS Monthly Climatology polygons
+18VA70002_1891: Test 3.6 -> Profile 18VA70002_1891 outside Monthly Nutrient Climatology polygons
+18VA70002_1896: Test 3.6 -> Profile 18VA70002_1896 outside TS Monthly Climatology polygons
+18VA70002_1896: Test 3.6 -> Profile 18VA70002_1896 outside Monthly Nutrient Climatology polygons
+18VA70002_1873: Test 3.6 -> Profile 18VA70002_1873 outside TS Monthly Climatology polygons
+18VA70002_1873: Test 3.6 -> Profile 18VA70002_1873 outside Monthly Nutrient Climatology polygons
+18VA70002_1877: Test 3.6 -> Profile 18VA70002_1877 outside TS Monthly Climatology polygons
+18VA70002_1877: Test 3.6 -> Profile 18VA70002_1877 outside Monthly Nutrient Climatology polygons
+18VA70002_1867: Test 3.6 -> Profile 18VA70002_1867 outside TS Monthly Climatology polygons
+18VA70002_1867: Test 3.6 -> Profile 18VA70002_1867 outside Monthly Nutrient Climatology polygons
+18VA70002_1906: Test 3.6 -> Profile 18VA70002_1906 outside TS Monthly Climatology polygons
+18VA70002_1906: Test 3.6 -> Profile 18VA70002_1906 outside Monthly Nutrient Climatology polygons
+18VA70002_1907: Test 3.6 -> Profile 18VA70002_1907 outside TS Monthly Climatology polygons
+18VA70002_1907: Test 3.6 -> Profile 18VA70002_1907 outside Monthly Nutrient Climatology polygons
+18VA70002_1908: Test 3.6 -> Profile 18VA70002_1908 outside TS Monthly Climatology polygons
+18VA70002_1908: Test 3.6 -> Profile 18VA70002_1908 outside Monthly Nutrient Climatology polygons
+18VA70002_1909: Test 3.6 -> Profile 18VA70002_1909 outside TS Monthly Climatology polygons
+18VA70002_1909: Test 3.6 -> Profile 18VA70002_1909 outside Monthly Nutrient Climatology polygons
+18VA70002_1910: Test 3.6 -> Profile 18VA70002_1910 outside TS Monthly Climatology polygons
+18VA70002_1910: Test 3.6 -> Profile 18VA70002_1910 outside Monthly Nutrient Climatology polygons
+18VA70002_1911: Test 3.6 -> Profile 18VA70002_1911 outside TS Monthly Climatology polygons
+18VA70002_1911: Test 3.6 -> Profile 18VA70002_1911 outside Monthly Nutrient Climatology polygons
+18VA70002_1913: Test 3.6 -> Profile 18VA70002_1913 outside TS Monthly Climatology polygons
+18VA70002_1913: Test 3.6 -> Profile 18VA70002_1913 outside Monthly Nutrient Climatology polygons
+18VA70002_1859: Test 3.6 -> Profile 18VA70002_1859 outside TS Monthly Climatology polygons
+18VA70002_1859: Test 3.6 -> Profile 18VA70002_1859 outside Monthly Nutrient Climatology polygons
+18VA70002_1888: Test 3.6 -> Profile 18VA70002_1888 outside TS Monthly Climatology polygons
+18VA70002_1888: Test 3.6 -> Profile 18VA70002_1888 outside Monthly Nutrient Climatology polygons
+18VA70002_1868: Test 3.6 -> Profile 18VA70002_1868 outside TS Monthly Climatology polygons
+18VA70002_1868: Test 3.6 -> Profile 18VA70002_1868 outside Monthly Nutrient Climatology polygons
+18VA70002_1869: Test 3.6 -> Profile 18VA70002_1869 outside TS Monthly Climatology polygons
+18VA70002_1869: Test 3.6 -> Profile 18VA70002_1869 outside Monthly Nutrient Climatology polygons
+18VA70002_1894: Test 3.6 -> Profile 18VA70002_1894 outside TS Monthly Climatology polygons
+18VA70002_1894: Test 3.6 -> Profile 18VA70002_1894 outside Monthly Nutrient Climatology polygons
+18VA70002_1862: Test 3.6 -> Profile 18VA70002_1862 outside TS Monthly Climatology polygons
+18VA70002_1862: Test 3.6 -> Profile 18VA70002_1862 outside Monthly Nutrient Climatology polygons
+18VA70002_1914: Test 3.6 -> Profile 18VA70002_1914 outside TS Monthly Climatology polygons
+18VA70002_1914: Test 3.6 -> Profile 18VA70002_1914 outside Monthly Nutrient Climatology polygons
+18VA70002_1860: Test 3.6 -> Profile 18VA70002_1860 outside TS Monthly Climatology polygons
+18VA70002_1860: Test 3.6 -> Profile 18VA70002_1860 outside Monthly Nutrient Climatology polygons
+18VA70002_1874: Test 3.6 -> Profile 18VA70002_1874 outside TS Monthly Climatology polygons
+18VA70002_1874: Test 3.6 -> Profile 18VA70002_1874 outside Monthly Nutrient Climatology polygons
+18VA70002_1878: Test 3.6 -> Profile 18VA70002_1878 outside TS Monthly Climatology polygons
+18VA70002_1878: Test 3.6 -> Profile 18VA70002_1878 outside Monthly Nutrient Climatology polygons
+18VA70002_1892: Test 3.6 -> Profile 18VA70002_1892 outside TS Monthly Climatology polygons
+18VA70002_1892: Test 3.6 -> Profile 18VA70002_1892 outside Monthly Nutrient Climatology polygons

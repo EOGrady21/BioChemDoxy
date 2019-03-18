@@ -1,0 +1,30 @@
+189016004_1493: Test 3.6 -> Profile 189016004_1493 outside TS Monthly Climatology polygons
+189016004_1493: Test 3.6 -> Profile 189016004_1493 outside Monthly Nutrient Climatology polygons
+189016004_1494: Test 3.6 -> Profile 189016004_1494 outside TS Monthly Climatology polygons
+189016004_1494: Test 3.6 -> Profile 189016004_1494 outside Monthly Nutrient Climatology polygons
+189016004_1495: Test 3.6 -> Profile 189016004_1495 outside TS Monthly Climatology polygons
+189016004_1495: Test 3.6 -> Profile 189016004_1495 outside Monthly Nutrient Climatology polygons
+189016004_1496: Test 3.5 -> Profile 189016004_1496 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+189016004_1496: Test 3.6 -> Profile 189016004_1496 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+189016004_1497: Test 3.5 -> Profile 189016004_1497 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+189016004_1497: Test 3.6 -> Profile 189016004_1497 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+189016004_1498: Test 3.6 -> Profile 189016004_1498 outside TS Monthly Climatology polygons
+189016004_1498: Test 3.6 -> Profile 189016004_1498 outside Monthly Nutrient Climatology polygons
+189016004_1499: Test 3.6 -> Profile 189016004_1499 outside TS Monthly Climatology polygons
+189016004_1499: Test 3.6 -> Profile 189016004_1499 outside Monthly Nutrient Climatology polygons
+189016004_1500: Test 3.6 -> Profile 189016004_1500 outside TS Monthly Climatology polygons
+189016004_1500: Test 3.6 -> Profile 189016004_1500 outside Monthly Nutrient Climatology polygons
+189016004_1501: Test 3.6 -> Profile 189016004_1501 outside TS Monthly Climatology polygons
+189016004_1501: Test 3.6 -> Profile 189016004_1501 outside Monthly Nutrient Climatology polygons
+189016004_1502: Test 3.6 -> Profile 189016004_1502 outside TS Monthly Climatology polygons
+189016004_1502: Test 3.6 -> Profile 189016004_1502 outside Monthly Nutrient Climatology polygons
+189016004_1503: Test 3.6 -> Profile 189016004_1503 outside TS Monthly Climatology polygons
+189016004_1503: Test 3.6 -> Profile 189016004_1503 outside Monthly Nutrient Climatology polygons
+189016004_1504: Test 3.6 -> Profile 189016004_1504 outside TS Monthly Climatology polygons
+189016004_1504: Test 3.6 -> Profile 189016004_1504 outside Monthly Nutrient Climatology polygons
+189016004_1505: Test 3.6 -> Profile 189016004_1505 outside TS Monthly Climatology polygons
+189016004_1505: Test 3.6 -> Profile 189016004_1505 outside Monthly Nutrient Climatology polygons
+189016004_1506: Test 3.6 -> Profile 189016004_1506 outside TS Monthly Climatology polygons
+189016004_1506: Test 3.6 -> Profile 189016004_1506 outside Monthly Nutrient Climatology polygons
+189016004_1507: Test 3.6 -> Profile 189016004_1507 outside TS Monthly Climatology polygons
+189016004_1507: Test 3.6 -> Profile 189016004_1507 outside Monthly Nutrient Climatology polygons

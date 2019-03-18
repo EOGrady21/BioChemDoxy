@@ -1,0 +1,47 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU14004_215; 240 to 260 m; NaN; psal; 34.83  ; Out of TS Climatology by more than 3*std in box(es) 8 (34.63 ± 0.00)
+18HU14004_323; 3.24; 395593; psal; 35.81; Bottle-CTD Difference Problem
+18HU14004_323; -5 to 5 m; NaN; psal; 35.81  ; Out of TS Climatology by more than 3*std in box(es) 30 (32.64 ± 1.83)
+18HU14004_323; 29.25; 395589; ntrz; 11.42  ; Out of Nutrient Climatology in box(es) 1 (Min=0.00 Max=9.61 n=202)
+18HU14004_325; -5 to 5 m; NaN; psal; 35.71  ; Out of TS Climatology by more than 3*std in box(es) 33 (32.58 ± 1.74)
+18HU14004_325; 3.70; 395610; ntrz; 9.13  ; Out of Nutrient Climatology in box(es) 1 (Min=0.00 Max=8.61 n=152)
+18HU14004_328; -5 to 5 m; NaN; psal; 35.74  ; Out of TS Climatology by more than 3*std in box(es) 33 (32.58 ± 1.74)
+18HU14004_328; 240 to 260 m; NaN; psal; 35.86  ; Out of TS Climatology by more than 3*std in box(es) 33 (35.06 ± 0.66)
+18HU14004_328; 2.54; 395628; ntrz; 9.97  ; Out of Nutrient Climatology in box(es) 1 (Min=0.00 Max=8.61 n=152)
+18HU14004_328; 10.01; 395627; ntrz; 9.98  ; Out of Nutrient Climatology in box(es) 1 (Min=0.00 Max=8.61 n=152)
+18HU14004_328; 20.27; 395625; ntrz; 10.11  ; Out of Nutrient Climatology in box(es) 1 (Min=0.00 Max=9.61 n=202)
+18HU14004_330; -5 to 5 m; NaN; psal; 34.52  ; Out of TS Climatology by more than 3*std in box(es) 33 (32.58 ± 1.74)
+18HU14004_330; 240 to 260 m; NaN; psal; 35.81  ; Out of TS Climatology by more than 3*std in box(es) 33 (35.06 ± 0.66)
+18HU14004_334; -5 to 5 m; NaN; psal; 34.61  ; Out of TS Climatology by more than 3*std in box(es) 33 (32.58 ± 1.74)
+18HU14004_035; 28.44; 395853; ntrz; 8.15  ; Out of Nutrient Climatology in box(es) 7 (Min=0.00 Max=7.38 n=342)
+18HU14004_038; 247.36; 395863; psal; 35.26; Bottle-CTD Difference Problem
+18HU14004_038; 508.59; 395862; psal; 34.98; Bottle-CTD Difference Problem
+18HU14004_038; 2.74; 395872; doxy; 6.80; Bottle-CTD Difference Problem
+18HU14004_038; 508.59; 395862; doxy; 4.50; Bottle-CTD Difference Problem
+18HU14004_038; 1019.62; 395860; doxy; 5.80; Bottle-CTD Difference Problem
+18HU14004_038; 2055.07; 395858; doxy; 6.10; Bottle-CTD Difference Problem
+18HU14004_038; 39.24; 395868; slca; 0.04  ; Out of Nutrient Climatology in box(es) 7 (Min=0.10 Max=12.43 n=826)
+18HU14004_044; 475 to 525 m; NaN; psal; 35.05  ; Out of TS Climatology by more than 3*std in box(es) 35 (34.95 ± 0.09)
+18HU14004_046; 1990.52; 395933; doxy; 5.00; Bottle-CTD Difference Problem
+18HU14004_046; 475 to 525 m; NaN; psal; 35.06  ; Out of TS Climatology by more than 3*std in box(es) 35 (34.95 ± 0.09)
+18HU14004_046; 3.47; 395945; phos; 0.13  ; Out of Nutrient Climatology in box(es) 7 (Min=0.14 Max=0.86 n=235)
+18HU14004_046; 4139.94; 395929; slca; 32.35  ; Out of Nutrient Climatology in box(es) 7 (Min=1.15 Max=28.97 n=947)
+18HU14004_049; 4.23; 395965; doxy; 5.80; Bottle-CTD Difference Problem
+18HU14004_049; 475 to 525 m; NaN; psal; 35.08  ; Out of TS Climatology by more than 3*std in box(es) 35 (34.95 ± 0.09)
+18HU14004_049; 10.56; 395964; phos; 0.14  ; Out of Nutrient Climatology in box(es) 7 (Min=0.15 Max=2.12 n=361)
+18HU14004_049; 4506.03; 395947; slca; 35.81  ; Out of Nutrient Climatology in box(es) 7 (Min=1.15 Max=28.97 n=947)
+18HU14004_052; 250.68; 395976; psal; 35.18; Bottle-CTD Difference Problem
+18HU14004_078; 87.05; 396605; psal; 33.66; Bottle-CTD Difference Problem
+18HU14004_082; 70 to 80 m; NaN; psal; 32.49  ; Out of TS Climatology by more than 3*std in box(es) 66 (31.65 ± 0.18)
+18HU14004_094; -5 to 5 m; NaN; psal; 30.88  ; Out of TS Climatology by more than 3*std in box(es) 68 (31.67 ± 0.57)
+18HU14004_110; 3.36; 396767; doxy; 7.90; Bottle-CTD Difference Problem
+18HU14004_119; 240 to 260 m; NaN; psal; 34.84  ; Out of TS Climatology by more than 3*std in box(es) 3 (34.46 ± 0.03)
+18HU14004_121; 240 to 260 m; NaN; psal; 34.89  ; Out of TS Climatology by more than 3*std in box(es) 3 (34.46 ± 0.03)
+18HU14004_123; 80.46; 396805; psal; 34.89; Bottle-CTD Difference Problem
+18HU14004_123; 70 to 80 m; NaN; psal; 34.89  ; Out of TS Climatology by more than 3*std in box(es) 3 (32.37 ± 0.60)
+18HU14004_126; 240 to 260 m; NaN; psal; 34.97  ; Out of TS Climatology by more than 3*std in box(es) 3 (34.46 ± 0.03)
+18HU14004_129; 240 to 260 m; NaN; psal; 34.76  ; Out of TS Climatology by more than 3*std in box(es) 3 (34.46 ± 0.03)
+18HU14004_135; 2.49; 396852; ntrz; 0.00  ; Constant profile problem
+18HU14004_135; 10.49; 396851; ntrz; 0.00  ; Constant profile problem
+18HU14004_135; 19.77; 396850; ntrz; 0.00  ; Constant profile problem
+18HU14004_135; 28.79; 396849; ntrz; 0.00  ; Constant profile problem

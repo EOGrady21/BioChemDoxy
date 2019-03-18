@@ -1,0 +1,550 @@
+From:	Devine, Laure
+Sent:	May-04-17 11:23 AM
+To:	Lazin, Gordana
+Cc:	Lafleur, Caroline
+Subject:	RE: Matlab bottle data QC scripts
+
+Gordana, I frequently add Q flags even before I do the first run-through of the QC program. This occurs 
+when problems were noted during the collection or analysis step. For example, if the field notes say 
+“sample order maybe mixed up”, I will put a QC=7, to alert me to recheck when the file is compiled. Lab 
+analysis people will also often identify what they consider bad data before I get the files, so I keep would 
+add flags to reflect this. 
+
+From: Lazin, Gordana  
+Sent: May 4, 2017 9:50 AM 
+To: Lafleur, Caroline; Devine, Laure 
+Subject: RE: Matlab bottle data QC scripts
+
+This is great, thank you both.  As I understand if you are processing mission for the first time then it does 
+not matter if you say ‘y’ or ‘n’ (I was answering ‘n’ all along).  The answer to the question matters only if 
+you are reprocessing QC-ed mission that already has flags. Please correct me if I am wrong.
+
+Thanks again, Gordana
+
+
+From: Lafleur, Caroline  
+Sent: May-04-17 10:29 AM 
+To: Devine, Laure; Lazin, Gordana 
+Subject: RE: Matlab bottle data QC scripts
+
+Gordana, 
+
+The QC batch file includes a function called B_setQto1. If you remove that call, you would get no more 
+question. But, we sometimes add QC flags by hand and set them in between calls to B_setQto1 and 
+B_control_Q. You then have the choice to use them or not.
+
+You might as well need to reprocess a QCed mission.
+
+Caroline
+
+De : Devine, Laure  
+Envoyé : 4 mai 2017 09:15 
+À : Lazin, Gordana 
+Cc : Lafleur, Caroline 
+Objet : RE: Matlab bottle data QC scripts
+
+Hi Gordana, I’m not sure why that happens. I always assumed it was just “default” text in the procedure. 
+We see this in the CTD QC also. Back in the day, I never knew what to answer, so Caroline added the line 
+(highlighted below) to remind me. 
+
+Setting Q flags to 1
+Répondre 'n' a la prochaine question
+Setting Q flags to 1
+The Q quality flags already exist. Do you want to reset them to 1? (y or n) ->
+
+Caroline might have a more satisfying reply, but my advice is, “just say ‘n’ ”. 
+Laure
+
+From: Lazin, Gordana  
+Sent: May 3, 2017 3:29 PM 
+To: Lafleur, Caroline 
+Cc: Devine, Laure 
+Subject: RE: Matlab bottle data QC scripts
+
+Hi Laure and Caroline,
+
+When I run QC script it is asking me following;
+
+The Q quality flags already exist. Do you want to reset them to 1? (y or n) ->
+
+In my input files I don’t have any columns for flags, just columns with data.  So I was wondering why is 
+the script asking me that, and what is the difference if I say y or n, as there are no flags in the input file 
+anyway?
+
+Thanks, Gordana
+
+From: Lafleur, Caroline  
+Sent: April-28-17 10:10 AM 
+To: Lazin, Gordana 
+Cc: Devine, Laure 
+Subject: RE: Matlab bottle data QC scripts
+
+Good morning Gordana,
+
+This file wasn’t intended to be read as a CSV file.
+
+This file is first created in B_setQto1.m and is then updated along the QC process B_stage2_Q.m and 
+B_stage3_Q.m 
+
+Caroline
+
+De : Lazin, Gordana  
+Envoyé : 28 avril 2017 08:55 
+À : Lafleur, Caroline 
+Cc : Devine, Laure 
+Objet : RE: Matlab bottle data QC scripts
+
+Hi Caroline,
+
+I flagged all our AZMP data using IML Matlab toolbox and now I am looking at the results. I was trying to 
+load  to R QC_data*.txt files which are semi-column separated and ran into problems. In some cases 
+there are additional semi-columns in the “Test failed”  column (see highlighted in blue below). I was 
+wondering if you could tell me which Matlab script writes out that file so I can adjust it.
+
+Thank you, Gordana
+
+ 
+
+
+
+From: Devine, Laure  
+Sent: April-05-17 2:36 PM 
+To: Lazin, Gordana 
+Cc: Lafleur, Caroline; Bond, Shelley A 
+Subject: RE: Matlab bottle data QC scripts
+
+I just thought of that: there is another time when I use QC=7. When compiling the dataset (BEFORE the 
+QC step), if for some reason I doubt a data value (e.g., a note in the analysis file “maybe problem with 
+this value”, or  from the field notes “bottle sampling order may be mixed up”), I will set the flag to 7 
+(others at 0). Then I let the QC do its work and I can re-examine the value within the context of the 
+whole dataset.
+
+From: Lazin, Gordana  
+Sent: April 5, 2017 1:05 PM 
+To: Devine, Laure 
+Cc: Lafleur, Caroline; Bond, Shelley A 
+Subject: RE: Matlab bottle data QC scripts
+
+Thank you Laure, this is very helpful.  I will keep  this long email trail as my precious reference :)
+
+Have a great lunch, Gordana 
+
+From: Devine, Laure  
+Sent: April-05-17 1:34 PM 
+To: Lazin, Gordana 
+Cc: Lafleur, Caroline; Bond, Shelley A 
+Subject: RE: Matlab bottle data QC scripts
+
+flag 7: The procedure sets QC=7 for “constant profile” (i.e., when all values of the variable are the same 
+for the profile) or when there is a difference between the CTD-lab pair. You see that you need to be 
+warned in either of these situations, and you cannot automatically decide if the data are good or not. 
+For example, the water column might be well mixed, so you really do have the same value for all depths; 
+OR, maybe the lab analysis person did an autofill of the column by accident. For the CTD-lab pair, you 
+could have bad lab data or bad ctd data – you have to determine which. 
+
+surface oxy: You can change the limits for O2 sat (in B_stage_Q_ini.m). The default limits are 85–120%. I 
+like the procedure to catch values outside these limits, then I check to see if I disagree. For example, I 
+know surface sats can be low in upwelling areas, and I may accept sats >120%, esp if CTD_02 and 
+Winklers agree.
+
+Lunchtime! Bye, Laure
+
+From: Lazin, Gordana  
+Sent: April 5, 2017 11:49 AM 
+To: Devine, Laure 
+Cc: Lafleur, Caroline; Bond, Shelley A 
+Subject: RE: Matlab bottle data QC scripts
+
+Hi Laure and Caroline,
+
+Thank you very much for the detail explanations. This is extremely helpful.  
+
+As it comes to flag 7, I observed that the labo oxy and labo sal are sometimes flagged as 7 if there is a 
+systematic  offset from the CTD oxy or CTD sal. Is my observation correct? Sometimes I am not sure why 
+is the record  flagged as 7.
+
+I also noticed that surface oxy sometimes gets flagged as 3, probably because it fails the test 2.10 (oxy 
+saturation in surface water).  Is this test using some regional values that I would need to adjust?
+
+I am making progress here and I appreciate greatly your support. I am very happy that we will be able to 
+make flagging in BioChem more consistent across the regions.
+
+Best regards, Gordana
+
+From: Devine, Laure  
+Sent: April-05-17 10:21 AM 
+To: Lazin, Gordana 
+Cc: Lafleur, Caroline 
+Subject: RE: Matlab bottle data QC scripts
+
+Hi Gordana, I read down through the email stream between you and Caroline. I have a few comments.
+
+-- description for the column names. The file “description_BTL.docx”  (attached) has the variable codes 
+found in the bottle file. I update this file as needed, then I add the variables to data_btl.m for the QC; 
+data_dis.m  has the link between the variable codes and BioChem codes. This file is called when creating 
+the biochem load tables (I’m not sure you have this, so I’ve sent it).
+
+--How do you QC  “non-standard” parameters (other than T, S, oxy, chl, nutrients)? We use values from 
+the World Ocean Database https://www.nodc.noaa.gov/OC5/WOD13/ to set our min-max global and 
+regional limits for t, s, oxy, chl, nutrients, pH, alk. I used values for the North Atlantic and coastal North 
+Atlantic. For other variables, I do a “non-official” QC: compare replicates, look for outliers, check the 
+literature for reasonable values. Since these “non-official” tests are not documented, I generally leave 
+the QC set at 0, unless the value is crazy and I give it a 3 or 4.
+
+--Do you have any recommendations as how to easily deal with flag #7  No easy way! It can be quite 
+tedious. A “7” means the data manager has to go back and look at it to determine a valid flag. I look at 
+the value in relation to adjacent values within the profile or with nearby stations. I check if the value is 
+near the limits of the climatology polygon or depth range (i.e., would that value be acceptable in the 
+neighbouring polygon or next depth interval?). I check if the station is coastal. For O2, surf %sat can be 
+high if the sea is agitated. This is an excerpt from the AZMP bulletin article that Caroline and I wrote 
+about QC (http://waves-vagues.dfo-mpo.gc.ca/Library/365690.pdf) that I find helpful when trying to 
+manually set QC flags: 
+
+When faced with anomalous values, a data manager must
+consider carefully before assigning quality flags to the data.
+Could some real phenomenon have caused the unusual values
+(e.g., upwellings, currents, increased freshwater inputs)? Are
+there potential anthropomorphic sources that might explain
+the values? Are bad instrument calibrations or unstable standards
+responsible? A piece of advice sent by a colleague has
+always helped guide the first author when she is faced with
+a particularly troublesome dataset: “Flagging ‘bad’ points in
+datasets is a tricky business. One should always worry about
+mislabeling as ‘doubtful’ or ‘erroneous’ data that are interesting
+or unusual but real. Good data should take precedence
+over expectations of what the numbers should be” (P. Strain,
+BIO, pers. comm.).
+
+--Does it mean the CTD data doesn’t get flagged or checked?  We QC the CTD profiles for t, s, sig-t, O2, 
+pH. In some cases we use the profile data directly to match with the bottle data (when there is no 
+rosette sampling, or when we have noticed that there are problems with upcasts). But generally we use 
+the CTD data from the “btl” files produced by the Sea-Bird software (so data from the upcast, when the 
+bottles were closed). These files contain a user-specified-sized block of averaged of data (e.g., 10 s at the 
+time of bottle trip). You see that we have the variables PRES_SDEV and  TE90_SDEV: I scan through 
+these for high values, which could indicate that there was a data spike, or that the bottle wasn’t stopped 
+when tripped. If we do a calib for the oxygen or pH sensor, we reconvert the bottle files using the new 
+calibration so that these values are good. Finally, the QC package includes a test that compares CTD and 
+lab analyses (CTD-sal with autosal; CTD-O2 with Winkler; CTD-fluo with chl; CTD-pH with lab pH). When 
+there is a mismatch between the two, I try to determine where the problem lies.
+
+--We created climatology for Scotian shelf for nutrients  I guess you are aware of Petrie et al. 1999 
+Nitrate, silicate and phosphate atlas for the Scotian Shelf and GOM (Can Tech Rep Hydrogr Ocean Sci 
+203). It is a good idea to update the climatologies with new data. We have been wanting to do this for 
+some time now.
+
+Seems like you’re progressing well! That’s great. Good day, Laure
+
+
+
+From: Lafleur, Caroline  
+Sent: April 4, 2017 4:29 PM 
+To: Lazin, Gordana 
+Cc: Devine, Laure 
+Subject: RE: Matlab bottle data QC scripts
+
+Hello Gordana,
+
+See my answers to your questions below.
+
+Caroline
+
+De : Lazin, Gordana  
+Envoyé : 30 mars 2017 12:25 
+À : Lafleur, Caroline 
+Objet : RE: Matlab bottle data QC scripts
+
+Hi Caroline,
+
+I have your  IML Rosette QC script working fine but I still have few questions:
+
+1.	Is there a function to plot only one profile or you have to run the whole cruise? I was looking at 
+B_plot_SOCH(S(i)). CL: You can send only B_plot_SOCH(S(1)) for example. You than have to 
+change the value of “i” to see another profile.
+
+2.	Do you have any recommendations as how to easily deal with flag #7? Do you replace it by hand 
+and how do you judge what is appropriate flag? CL: Flag 7 is tricky. It is usually changed by hand. 
+You should take a look at the B_stage_Q_ini.m file to be sure the parameters are well suited for 
+your region. Maybe it isn’t the case. As to know the appropriate flag to replace with, I will let 
+Laure answer.
+
+3.	Maps: where did you get bathymetry and coastlines for maps? I saw 2 files gsl_bathy and 
+gsl_mask and I was wondering if you by any chance have an equivalent for the Scotian shelf or 
+have a function that creates appropriate structure from GEBCO data. CL: I have a map of the 
+coastline of east Canada (see attached files). It includes the gulf of St. Lawrence and 
+Newfoundland. I don’t have the bathymetry though. The coast is drawn as a bunch of polygons 
+but you can include bathymetry easily by adding vectors of constant depth as in the 
+gsl_bathy.mat file.
+
+Thank you, Gordana
+
+
+
+
+
+From: Lafleur, Caroline  
+Sent: February-24-17 5:02 PM 
+To: Lazin, Gordana 
+Subject: RE: Matlab bottle data QC scripts
+
+You are right. Only bottle data are checked.
+
+Caroline
+
+De : Lazin, Gordana  
+Envoyé : 24 février 2017 15:45 
+À : Lafleur, Caroline 
+Objet : RE: Matlab bottle data QC scripts
+
+Hi Caroline,
+
+In the example file I did not find columns with quality control flags for CTD temperature, salinity, 
+fluorometer, and oxygen (TE90, PSAL,FLOR,DOXY).  Does it mean the CTD data doesn’t get flagged or 
+checked? 
+
+Thanks, Gordana
+
+
+From: Lafleur, Caroline  
+Sent: February-24-17 2:08 PM 
+To: Lazin, Gordana 
+Subject: RE: Matlab bottle data QC scripts
+
+See below
+
+Caroline
+
+De : Lazin, Gordana  
+Envoyé : 24 février 2017 11:58 
+À : Lafleur, Caroline 
+Objet : RE: Matlab bottle data QC scripts
+
+Hi Caroline,
+
+I have few more questions:
+
+1.	How do you QC  “non-standard” parameters (other than T, S, oxy, chl, nutrients)? Do you have 
+some acceptable range of values or did you guys create climatology for those? If there are 
+ranges which scripts are they in? Yes, we added pH and alkalinity. Other parameters are not 
+QCed yet. The ranges are defined in B_stage_Q_ini.m. Then you must execute the function in 
+your rosette toolbox to replace the B_stage*_Q.mat files. The way we determined the ranges is 
+described in BOTL_ODF_Quality_en.pdf.
+
+2.	We created climatology for Scotian shelf for nutrients and chl and I was going to replace 
+Brickman climatology with our values. (in file Petrie_Nutrents.mat)  I will also have to replace 
+boxes. Is there anything else I should worry about changing? If you want to use test 4.2, you 
+have to create your own deep water climatology .
+
+3.	For T and S we were going to use Petrie climatology. Does your file for Petrie includes Scotian 
+shelf boxes as well or only Gulf boxes? No it doesn’t include the Scotian shelf. See file Petrie.mat 
+(box number, box name and lat,lon that are included)
+
+Thank you, Gordana
+
+From: Lafleur, Caroline  
+Sent: February-23-17 2:02 PM 
+To: Lazin, Gordana 
+Subject: RE: Matlab bottle data QC scripts
+
+See below
+
+Caroline
+
+De : Lazin, Gordana  
+Envoyé : 23 février 2017 12:27 
+À : Lafleur, Caroline 
+Objet : RE: Matlab bottle data QC scripts
+
+Thank you Caroline. I finally got your bottle QC example working on Matlab 2015a. 
+
+Now I am trying to reformat our data files to match required input and have couple of questions 
+regarding example input txt file 'BTL_01064.txt':
+
+1.	Do you have a description for the column names? I see CHL_01 and CHL_03 and was wondering 
+what is the difference.  It would be ideal if you have a table mapping the column names from 
+the example file to the BioChem data type (METHOD), but any other description would be great. 
+CHL_01 and CHL_03 are chlorophyll measurements but obtained using two different methods. 
+The description_BTL.docx (French only) contains all the methods we are currently handling. 
+However, we are adding methods when needed. The methods are also listed in the data_btl.m 
+file (English only) like the CHL_** parameter below
+
+btlLIST(27).name = 'bottle sample chlorophyll content';
+btlLIST(27).units = 'mg/m**3';
+btlLIST(27).type = 'labo';
+btlLIST(27).code = 'CHL_';
+btlLIST(27).gf3 = 'CPHL';
+btlLIST(27).btl2gf3 = 1;
+btlLIST(27).decimal = 2;
+btlLIST(27).method = 
+{'CHL_01';'CHL_02';'CHL_03';'CHL_04';'CHL_05';'CHL_XX'};
+btlLIST(27).desc = {'chlorophyll-a content: fluorometric method of 
+Holm-Hansen, Lorenzen, Holmes and Strickland (1965)';...
+      'chlorophyll-a content: fluorometric method modified from 
+Holm-Hansen, Lorenzen, Holmes and Strickland (1965)';...
+      'chlorophyll-a content: Welschmeyer (1994)';...
+      'chlorophyll-a content: modified from Welschmeyer 
+(1994)';...
+      'chlorophylls(a+b+c) content: Richards with Thompson (1952), 
+described in Strickland and Parsons (1968)';...
+      'chlorophyll-a content: unknown method'};
+
+
+2.	In your example data file there are multiple columns with the same name. I assume this is to 
+accommodate replicates.  Some of the parameters have 2, 3,4, and 5 columns (like NOX_02). 
+Does your script require that particular number of columns for each parameter or can I have just 
+one column for each parameter if I don’t have replicates? Yes. As many column as replicates. 
+You can have only one column.
+
+Any other tips that you might think of would be greatly appreciated.
+
+Thank you , Gordana
+
+
+
+From: Lafleur, Caroline  
+Sent: February-23-17 11:58 AM 
+To: Lazin, Gordana 
+Subject: RE: Matlab bottle data QC scripts
+
+Here it is. Remove the iml extension before using.
+
+Caroline
+
+De : Lazin, Gordana  
+Envoyé : 17 février 2017 12:32 
+À : Devine, Laure 
+Cc : Lafleur, Caroline 
+Objet : RE: Matlab bottle data QC scripts
+
+Thanks Laure. Now it is complaining about ‘fgetl’ matlab function: 
+
+Error using fgets
+Invalid file identifier.  Use fopen to generate a valid file identifier.
+
+Which version of Matlab are you guys using?
+
+Thanks, Gordana
+
+From: Devine, Laure  
+Sent: February-17-17 12:58 PM 
+To: Lazin, Gordana 
+Cc: Lafleur, Caroline 
+Subject: RE: Matlab bottle data QC scripts
+
+Try this. It was in the CTD toolbox. I wonder if you will have other problems like this. There is quite a 
+web of procedures that call on each other. Let me know if there’s anything else.  Laure 
+
+From: Lazin, Gordana  
+Sent: February 17, 2017 11:03 AM 
+To: Devine, Laure 
+Cc: Lafleur, Caroline 
+Subject: FW: Matlab bottle data QC scripts
+
+Hi Laure, 
+
+I tried to run the example scripts and Matlab is asking me for a ‘textcell’ function, which I cannot find 
+anywhere. I wrote to Caroline but I am guessing she is still traveling.  Would you have this function by 
+any chance?
+
+Thank you, Gordana
+
+From: Lazin, Gordana  
+Sent: February-16-17 5:08 PM 
+To: Lafleur, Caroline 
+Subject: RE: Matlab bottle data QC scripts
+
+Hi Caroline,
+
+I tried to run the script B_batch_01064.m from the Example folder and it is complaining about function 
+textcell:
+
+Undefined function 'textcell' for input arguments of type 'char'.
+
+Error in B_read_btl_txtfile (line 17)
+h1=textcell(btl_file);
+
+I cannot find the textcell function anywhere.
+
+Thanks for your help, Gordana
+
+From: Devine, Laure  
+Sent: February-08-17 10:53 AM 
+To: Lazin, Gordana 
+Cc: Bond, Shelley A; Lafleur, Caroline 
+Subject: RE: Matlab bottle data QC scripts
+
+I copied all the files that have been updated >=2012 and zipped them. You will notice that there are 
+several files with extensions like *.m23sep2013; that’s what we do when we modify a procedure, just in 
+case we have to go back to an older version. I left all of these.
+
+Within the zip, you will find another zip named “Rosette.zip” – it looks like we prepared this for 
+someone who wanted to set up the QC package; it was created early in 2015. There is a folder in that file 
+called “Exemple” with the files you need to run a test example. You can find the series of commands in 
+the file B_batch_01064.m. I didn’t check to see if this still works, so let me know if you have any trouble. 
+Laure
+
+From: Lazin, Gordana  
+Sent: February 8, 2017 8:06 AM 
+To: Devine, Laure 
+Cc: Bond, Shelley A; Lafleur, Caroline 
+Subject: RE: Matlab bottle data QC scripts
+
+Hi Laure,
+
+That sounds great.  Yes, I would need only QC scripts for bottle data, the one that is described here:
+
+https://slgo.ca/app-sgdo/en/docs_reference/botl_odf_quality.html
+
+Could you please also include one example input file in your zip so I can run a test? I think the toolbox 
+version that I have is from 2012. 
+
+Thank you, Gordana
+
+
+From: Devine, Laure  
+Sent: February-07-17 4:38 PM 
+To: Lazin, Gordana 
+Cc: Bond, Shelley A; Lafleur, Caroline 
+Subject: RE: Matlab bottle data QC scripts
+
+Hi Gordana, as you surely know, these procedures are in a constant state of flux, with new variables 
+being added along with other modifications. I guess you mean the “Rosette” toolbox? It is usually 
+Caroline who takes care of this kind of request, but she is travelling this week. What I could do is zip the 
+files from this toolbox that are more recent than (you tell me the date of the latest files you have). Does 
+that sound like a good plan?  Laure
+
+From: Lazin, Gordana  
+Sent: February 7, 2017 3:25 PM 
+To: Devine, Laure 
+Cc: Bond, Shelley A 
+Subject: Matlab bottle data QC scripts
+
+Hi Laure,
+
+I am working on implementing IML QC procedure to the bottle data from Maritimes. Shelley gave me 
+Matlab scripts from IML that you guys provided back in 2012.  I was wondering if there have been any 
+updates in the meantime, and if you could send me the latest version of  the toolbox.
+
+Thank you,
+
+Gordana
+
+
+Gordana Lazin
+Data Acquisition, Assembly and Distribution | Acquisition, assemblage et distribution de données
+Program Coordination and Support Division | Division de la coordination et soutien des programmes 
+Science Branch | Direction des Sciences
+Maritimes Region | Région des Maritimes
+Fisheries and Oceans Canada |Pêches et Océans Canada
+Bedford Institute of Oceanography | Institut océanographique de Bedford 
+1 Challenger Drive, Dartmouth, Nova Scotia  B2Y 4A2  
+Telephone | Téléphone 902-426-2245
+Facsimile | Télécopieur 902-426-1843
+Government of Canada | Gouvernement du Canada
+
+If you have received this communication by mistake, please notify the sender immediately and 
+delete the communication without printing, copying or forwarding it. Thank you. 
+
+Si vous avez reçu cette communication par erreur, veuillez en aviser l'expéditeur immédiatement 
+et la supprimer sans l'imprimer, la copier, ou la faire suivre. Merci.
+
+

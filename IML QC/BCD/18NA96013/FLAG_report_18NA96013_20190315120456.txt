@@ -1,0 +1,92 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18NA96013 FLAG Report:,  2019-03-15 12:04:56
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged PHOSPHATE, event 16, station CAST#1:
+
+           sample_key depth  value method qc
+ 18NA96013_069_158749     1 0.2005  PO4_0  7
+ 18NA96013_069_158748     4 0.1115  PO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 17, station CAST#1:
+
+           sample_key depth value method qc
+ 18NA96013_080_158751     1  1.19 SiO4_0  1
+ 18NA96013_080_158750     4  1.14 SiO4_0  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 34, station CAST#1:
+
+           sample_key depth value   method qc
+ 18NA96013_244_158799     1  0.31 NO2NO3_0  1
+ 18NA96013_244_158798     5  0.34 NO2NO3_0  7
+ 18NA96013_244_158797    18  0.29 NO2NO3_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 47, station CAST#1:
+
+           sample_key depth value method qc
+ 18NA96013_281_158836     1 2.645 SiO4_0  1
+ 18NA96013_281_158835     5 2.335 SiO4_0  7
+ 18NA96013_281_158834    20 2.955 SiO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 48, station CAST#1:
+
+           sample_key depth  value method qc
+ 18NA96013_282_158840     1 0.0530  PO4_0  1
+ 18NA96013_282_158839     5 0.0625  PO4_0  4
+ 18NA96013_282_158838    40 0.3345  PO4_0  1
+ 18NA96013_282_158837    73 0.4465  PO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

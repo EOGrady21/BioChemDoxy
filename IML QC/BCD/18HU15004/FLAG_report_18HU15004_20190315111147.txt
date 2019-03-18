@@ -1,0 +1,305 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18HU15004 FLAG Report:,  2019-03-15 11:11:47
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged OXYGEN, event 12, station BBL_01:
+
+ sample_key depth O2_CTD_mLL qc
+             2.12     8.2721  0
+             2.25     8.2542  0
+            10.79     8.2447  0
+            19.92     8.1683  0
+            30.58     8.3000  0
+            40.02     7.7476  0
+            50.42     7.3643  0
+            55.66     7.3817  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event 122, station STAB_01:
+
+ sample_key depth O2_CTD_mLL qc
+             2.18     9.8036  0
+             9.28     9.7869  0
+            19.31     9.3013  0
+            31.11     8.8932  0
+            40.55     8.3911  0
+            50.93     8.3953  0
+            55.89     8.3753  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event 127, station HL_03.3:
+
+ sample_key  depth O2_CTD_mLL qc
+              2.01     8.4031  0
+              9.88     8.3584  0
+             20.62     8.3131  0
+             30.58     7.8180  0
+             40.53     6.5896  0
+             50.40     5.6730  0
+             60.16     4.8167  0
+             80.22     3.8993  0
+             99.86     3.5288  0
+            149.92     3.3803  0
+            203.41     3.4864  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event 14, station BBL_02:
+
+ sample_key  depth O2_CTD_mLL qc
+              1.09     8.1974  0
+              1.15     8.2174  0
+             10.18     8.2921  0
+             20.33     8.2419  0
+             30.93     7.7091  0
+             40.31     7.2258  0
+             50.72     7.0896  0
+             60.03     7.1021  0
+             80.22     7.0893  0
+            105.56     7.0940  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event 31, station PS_10:
+
+ sample_key depth O2_CTD_mLL qc
+             1.62     8.0959  0
+             9.68     7.6859  0
+            20.04     7.6442  0
+            30.77     7.8772  0
+            40.01     7.5037  0
+            49.95     7.3825  0
+            60.43     7.4017  0
+            74.91     7.3000  0
+            85.67     7.2847  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event 37, station BBL_05:
+
+ sample_key  depth O2_CTD_mLL qc
+              2.16     9.1388  0
+              2.44     9.1468  0
+              9.96     9.0448  0
+             19.99     8.9005  0
+             29.64     8.3352  0
+             39.52     7.9623  0
+             51.22     7.5984  0
+             59.18     6.7246  0
+             79.73     6.3361  0
+            100.32     6.3073  0
+            149.41     6.1573  0
+            191.70     5.0019  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 47, station HL_07:
+
+ sample_key   depth  value        method qc
+               1.21  0.080 NO2NO3_Tech_F  7
+               1.57 17.060 NO2NO3_Tech_F  2
+              10.37  0.000 NO2NO3_Tech_F  7
+              20.35 -0.025 NO2NO3_Tech_F  4
+              29.20  0.575 NO2NO3_Tech_F  1
+              39.99  2.835 NO2NO3_Tech_F  1
+              50.44  5.185 NO2NO3_Tech_F  1
+              59.80  6.485 NO2NO3_Tech_F  1
+              80.27  8.410 NO2NO3_Tech_F  1
+             100.56 11.620 NO2NO3_Tech_F  1
+             150.15 15.620 NO2NO3_Tech_F  1
+             249.97 24.205 NO2NO3_Tech_F  1
+             500.24 19.960 NO2NO3_Tech_F  1
+             749.80 18.080 NO2NO3_Tech_F  1
+            1000.00 17.405 NO2NO3_Tech_F  1
+            1500.56 17.130 NO2NO3_Tech_F  1
+            2000.40 17.395 NO2NO3_Tech_F  1
+            2785.74 16.930 NO2NO3_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 47, station HL_07:
+
+ sample_key   depth  value     method qc
+               1.21 0.2255 PO4_Tech_F  7
+               1.57 1.1475 PO4_Tech_F  2
+              10.37 0.2645 PO4_Tech_F  1
+              20.35 0.2795 PO4_Tech_F  1
+              29.20 0.3680 PO4_Tech_F  1
+              39.99 0.5120 PO4_Tech_F  1
+              50.44 0.6275 PO4_Tech_F  1
+              59.80 0.6695 PO4_Tech_F  1
+              80.27 0.6750 PO4_Tech_F  1
+             100.56 0.7830 PO4_Tech_F  1
+             150.15 1.0305 PO4_Tech_F  1
+             249.97 1.5125 PO4_Tech_F  1
+             500.24 1.2935 PO4_Tech_F  1
+             749.80 1.1825 PO4_Tech_F  1
+            1000.00 1.1960 PO4_Tech_F  1
+            1500.56 1.1645 PO4_Tech_F  1
+            2000.40 1.1485 PO4_Tech_F  1
+            2785.74 1.1265 PO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 47, station HL_07:
+
+ sample_key   depth  value      method qc
+               1.21  0.230 SiO4_Tech_F  1
+               1.57 14.850 SiO4_Tech_F  2
+              10.37  0.205 SiO4_Tech_F  1
+              20.35  0.260 SiO4_Tech_F  1
+              29.20  0.900 SiO4_Tech_F  1
+              39.99  1.415 SiO4_Tech_F  1
+              50.44  2.145 SiO4_Tech_F  1
+              59.80  2.565 SiO4_Tech_F  1
+              80.27  2.745 SiO4_Tech_F  1
+             100.56  4.370 SiO4_Tech_F  1
+             150.15  7.950 SiO4_Tech_F  1
+             249.97 13.685 SiO4_Tech_F  1
+             500.24 13.035 SiO4_Tech_F  1
+             749.80 11.685 SiO4_Tech_F  1
+            1000.00 11.185 SiO4_Tech_F  1
+            1500.56 12.215 SiO4_Tech_F  1
+            2000.40 14.435 SiO4_Tech_F  1
+            2785.74 16.885 SiO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event 56, station HL_06:
+
+ sample_key   depth O2_CTD_mLL qc
+               1.36     7.8468  0
+               1.45     7.8581  0
+              10.31     7.8762  0
+              19.62     6.8025  0
+              29.95     6.6939  0
+              40.35     6.1872  0
+              49.02     6.1613  0
+              59.08     6.2105  0
+              80.16     5.9675  0
+             101.04     5.7931  0
+             150.28     5.1655  0
+             250.09     3.2685  0
+             500.67     4.9737  0
+             749.83     5.5960  0
+            1113.18     5.9061  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 79, station SG_28:
+
+ sample_key  depth  value      method qc
+              4.95  0.000 SiO4_Tech_F  1
+             11.20  0.000 SiO4_Tech_F  1
+             19.60  0.000 SiO4_Tech_F  1
+             31.76  0.000 SiO4_Tech_F  2
+             41.89  0.400 SiO4_Tech_F  1
+             50.94  1.210 SiO4_Tech_F  1
+             61.03  1.420 SiO4_Tech_F  1
+             81.80  3.820 SiO4_Tech_F  1
+            100.68  4.885 SiO4_Tech_F  1
+            250.88 13.365 SiO4_Tech_F  1
+            500.91 11.000 SiO4_Tech_F  1
+            752.00 11.390 SiO4_Tech_F  1
+            819.34 11.205 SiO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event 9, station RL_01:
+
+ sample_key  depth O2_CTD_mLL qc
+              2.90     8.6014  0
+              2.96     8.5898  0
+             10.01     8.5774  0
+             19.95     8.5506  0
+             30.15     8.5923  0
+             40.25     8.4947  0
+             50.45     8.1887  0
+             59.98     7.9390  0
+             80.19     6.3444  0
+             99.25     5.6438  0
+            161.43     5.0712  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

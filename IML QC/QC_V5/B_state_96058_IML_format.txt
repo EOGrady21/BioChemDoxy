@@ -1,0 +1,273 @@
+18PZ96058_494: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_494: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_494: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_494: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_494: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_494: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_494: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_494: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_494: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_494: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_494: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_494: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_494: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_494: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_494: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_494: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_495: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_495: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_495: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_495: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_495: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_495: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_495: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_495: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_495: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_495: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_495: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_495: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_495: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_495: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_496: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_496: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_496: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_496: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_496: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_496: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_496: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_496: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_496: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_496: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_496: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_496: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_508: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_509: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_509: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 463.5 m
+18PZ96058_510: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_510: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_510: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 103.3 m
+18PZ96058_511: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_511: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_511: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 52.6 m
+18PZ96058_493: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_493: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_493: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 102.9 m
+18PZ96058_493: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 102.9 m
+18PZ96058_497: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_497: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_497: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_497: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_497: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_497: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_497: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_497: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_497: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_497: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_497: Test 3.6 -> Profile 18PZ96058_497 outside TS Monthly Climatology polygons
+18PZ96058_497: Test 3.6 -> Profile 18PZ96058_497 outside Monthly Nutrient Climatology polygons
+18PZ96058_498: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_498: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_498: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_498: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_498: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_498: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_498: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_498: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_498: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_498: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_498: Test 3.6 -> Profile 18PZ96058_498 outside TS Monthly Climatology polygons
+18PZ96058_498: Test 3.6 -> Profile 18PZ96058_498 outside Monthly Nutrient Climatology polygons
+18PZ96058_499: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_499: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_499: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_499: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_499: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_499: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_499: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_499: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_499: Test 3.6 -> Profile 18PZ96058_499 outside TS Monthly Climatology polygons
+18PZ96058_499: Test 3.6 -> Profile 18PZ96058_499 outside Monthly Nutrient Climatology polygons
+18PZ96058_500: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_500: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_500: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_500: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_500: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_500: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_500: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_500: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_500: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_500: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_500: Test 3.6 -> Profile 18PZ96058_500 outside TS Monthly Climatology polygons
+18PZ96058_500: Test 3.6 -> Profile 18PZ96058_500 outside Monthly Nutrient Climatology polygons
+18PZ96058_501: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_501: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_501: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_501: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_501: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_501: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_501: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_501: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_501: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_501: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_501: Test 3.6 -> Profile 18PZ96058_501 outside TS Monthly Climatology polygons
+18PZ96058_501: Test 3.6 -> Profile 18PZ96058_501 outside Monthly Nutrient Climatology polygons
+18PZ96058_502: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_502: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_502: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_502: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_502: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_502: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_502: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_502: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_502: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_502: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_502: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_502: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_502: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_502: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_502: Test 3.6 -> Profile 18PZ96058_502 outside TS Monthly Climatology polygons
+18PZ96058_502: Test 3.6 -> Profile 18PZ96058_502 outside Monthly Nutrient Climatology polygons
+18PZ96058_503: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_503: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_503: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_503: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_503: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_503: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_503: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_503: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_503: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_503: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_503: Test 3.6 -> Profile 18PZ96058_503 outside TS Monthly Climatology polygons
+18PZ96058_503: Test 3.6 -> Profile 18PZ96058_503 outside Monthly Nutrient Climatology polygons
+18PZ96058_504: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_504: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_504: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_504: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_504: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_504: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_504: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_504: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_504: Test 3.6 -> Profile 18PZ96058_504 outside TS Monthly Climatology polygons
+18PZ96058_504: Test 3.6 -> Profile 18PZ96058_504 outside Monthly Nutrient Climatology polygons
+18PZ96058_505: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_505: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_505: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_505: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_505: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_505: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_505: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_505: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_505: Test 3.6 -> Profile 18PZ96058_505 outside TS Monthly Climatology polygons
+18PZ96058_505: Test 3.6 -> Profile 18PZ96058_505 outside Monthly Nutrient Climatology polygons
+18PZ96058_506: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_506: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_506: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_506: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_506: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_506: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_506: Test 3.6 -> Profile 18PZ96058_506 outside TS Monthly Climatology polygons
+18PZ96058_506: Test 3.6 -> Profile 18PZ96058_506 outside Monthly Nutrient Climatology polygons
+18PZ96058_507: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_507: Test 2.1 -> Global Impossible Parameter Value for doxy
+18PZ96058_507: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_507: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18PZ96058_507: Test 3.6 -> Profile 18PZ96058_507 outside TS Monthly Climatology polygons
+18PZ96058_507: Test 3.6 -> Profile 18PZ96058_507 outside Monthly Nutrient Climatology polygons

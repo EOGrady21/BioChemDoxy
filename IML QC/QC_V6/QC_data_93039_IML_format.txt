@@ -1,0 +1,42 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU93039_225; 205.56 to 205.56; 130531, 130532; ntrz; 12.06  11.93  ; Gradient or Inversion too high
+18HU93039_225; 205.56 to 205.56; 130531, 130532; phos; 1.06  1.05  ; Gradient or Inversion too high
+18HU93039_225; 15.74; 130534; ntrz; 3.22  ; Out of Nutrient Climatology in box(es) 7 (Min=0.00 Max=0.96 n=46)
+18HU93039_225; 15.74; 130534; phos; 0.65  ; Out of Nutrient Climatology in box(es) 7 (Min=0.08 Max=0.48 n=48)
+18HU93039_225; 15.74; 130534; slca; 4.65  ; Out of Nutrient Climatology in box(es) 7 (Min=0.36 Max=4.41 n=46)
+18HU93039_304; 10.12 to 10.12; 130587, 130588; phos; 0.32  0.31  ; Gradient or Inversion too high
+18HU93039_304; 3516.03; 130569; slca; 23.95  ; Out of Nutrient Climatology in box(es) 7 (Min=4.80 Max=21.25 n=120)
+18HU93039_315; 507.95 to 508.05; 130602, 130603; ntrz; 23.65  23.47  ; Gradient or Inversion too high
+18HU93039_326; 8.67 to 8.67; 130627, 130628; ntrz; 0.29  0.27  ; Gradient or Inversion too high
+18HU93039_326; 8.67 to 8.67; 130627, 130628; phos; 0.08  0.10  ; Gradient or Inversion too high
+18HU93039_339; 110.27 to 110.27; 130646, 130647; ntrz; 0.36  0.35  ; Gradient or Inversion too high
+18HU93039_339; 110.27 to 110.27; 130646, 130647; phos; 0.08  0.08  ; Gradient or Inversion too high
+18HU93039_003; 12.46 to 12.46; 130667, 130668; ntrz; 0.64  0.66  ; Gradient or Inversion too high
+18HU93039_003; 215.22 to 215.22; 130665, 130666; ntrz; 3.43  3.34  ; Gradient or Inversion too high
+18HU93039_003; 215.22 to 215.22; 130665, 130666; phos; 0.20  0.21  ; Gradient or Inversion too high
+18HU93039_014; 5406.67; 130669; pres; 5406.67  ; Regional Impossible Parameter Value
+18HU93039_014; 12.76 to 12.76; 130687, 130688; ntrz; 0.32  0.28  ; Gradient or Inversion too high
+18HU93039_025; 5255.45; 130689; pres; 5255.45  ; Regional Impossible Parameter Value
+18HU93039_036; 5106.14; 130710; pres; 5106.14  ; Regional Impossible Parameter Value
+18HU93039_036; 5408.69; 130709; pres; 5408.69  ; Regional Impossible Parameter Value
+18HU93039_036; 46.84 to 46.84; 130727, 130728; phos; 0.01  0.01  ; Gradient or Inversion too high
+18HU93039_047; 5055.23; 130730; pres; 5055.23  ; Regional Impossible Parameter Value
+18HU93039_047; 5371.96; 130729; pres; 5371.96  ; Regional Impossible Parameter Value
+18HU93039_058; 5112.07; 130750; pres; 5112.07  ; Regional Impossible Parameter Value
+18HU93039_058; 5398.54; 130749; pres; 5398.54  ; Regional Impossible Parameter Value
+18HU93039_058; 1197.06 to 1197.08; 130763, 130764; ntrz; 20.53  21.05  ; Gradient or Inversion too high
+18HU93039_058; 1197.06 to 1197.08; 130763, 130764; phos; 1.37  1.41  ; Gradient or Inversion too high
+18HU93039_069; 5106.30; 130770; pres; 5106.30  ; Regional Impossible Parameter Value
+18HU93039_069; 5405.79; 130769; pres; 5405.79  ; Regional Impossible Parameter Value
+18HU93039_069; 54.81 to 54.81; 130786, 130788; ntrz; 3.66  0.00  ; Gradient or Inversion too high
+18HU93039_069; 2330.97 to 2330.97; 130779, 130780; ntrz; 15.93  18.36  ; Gradient or Inversion too high
+18HU93039_069; 54.81 to 54.81; 130786, 130788; phos; 0.15  0.00  ; Gradient or Inversion too high
+18HU93039_069; 2330.97 to 2330.97; 130779, 130780; phos; 1.02  1.23  ; Gradient or Inversion too high
+18HU93039_080; 5204.20; 130789; pres; 5204.20  ; Regional Impossible Parameter Value
+18HU93039_091; 5019.40; 130810; pres; 5019.40  ; Regional Impossible Parameter Value
+18HU93039_091; 5266.49; 130809; pres; 5266.49  ; Regional Impossible Parameter Value
+18HU93039_091; 9.06 to 9.06; 130827, 130828; ntrz; 0.65  0.67  ; Gradient or Inversion too high
+18HU93039_091; 1401.40 to 1401.40; 130822, 130823; ntrz; 18.93  21.09  ; Gradient or Inversion too high
+18HU93039_091; 2892.21 to 2892.71; 130817, 130818; ntrz; 18.21  18.80  ; Gradient or Inversion too high
+18HU93039_091; 9.06 to 9.06; 130827, 130828; phos; 0.04  0.04  ; Gradient or Inversion too high
+18HU93039_091; 1401.40 to 1401.40; 130822, 130823; phos; 1.25  1.41  ; Gradient or Inversion too high

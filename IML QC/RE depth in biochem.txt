@@ -1,0 +1,78 @@
+From:	Cogswell, Andrew
+Sent:	September-29-16 2:20 PM
+To:	Lazin, Gordana; Johnson, Catherine; Devred, Emmanuel; Bond, Shelley A; 
+Casault, Benoit
+Cc:	Benjamin, Robert
+Subject:	RE: depth in biochem
+
+Hi Gordana,
+
+Yes, we see this very often to varying degrees.  The way these data are entered into BioChem is useful 
+despite the discrepancy between nominal and actual bottle depths.  The nominal depths allow for an 
+efficient means of extracting data from the database based on defined criteria, but the pressure values 
+would allow the analyst to further refine/filter these data for final analysis.  For some analyses a 5 m or 
+3% error between nominal and actual could be totally fine, and for other analyses this level of 
+discrepancy would be unacceptable.
+
+As you say below:  “ we can continue with current practice but make sure that the users are aware of 
+the “DEPTH” column meaning.”
+
+The longer term goal is to separate the CTD sensor data (ODF Archive) from the BioChem discrete data 
+(laboratory analysis).  The meta-data in BioChem would represent our sampling intent (nominal depths) 
+while the associated CTD sensor data in the ODF/QAT file archives would represent sampling reality.  For 
+now however, my personal opinion is to leave it as it is and allow the analyst to refine these data to suit 
+their needs (with the further description you suggest above).
+
+Andrew
+
+
+
+From: Lazin, Gordana  
+Sent: 2016–September-20 4:59 PM 
+To: Johnson, Catherine; Cogswell, Andrew; Devred, Emmanuel; Bond, Shelley A; Casault, Benoit 
+Cc: Benjamin, Robert 
+Subject: depth in biochem
+
+Hi All,
+
+As a part of QC of bottle data for BioChem reload I am comparing “nominal depth” at which bottles are 
+supposed to be fired and “pressure” at which the bottles are actually fired.  In many cases there are 
+discrepancies between nominal depth and actual pressure.  For example, a bottle fired at 2.9 m and the 
+one fired at 17 m can be both associated with 10 m nominal depth.
+
+Current practice for BioChem is to record nominal depth in DEPTH column and include pressure in 
+PRESSURE column, so they are both available in BioChem.
+
+My questions is: If there is a large discrepancy between nominal depth and pressure, should we be 
+changing nominal depth as part of QC to better reflect actual depth?
+
+If so, what would be considered “large discrepancy” for science purposes?
+
+If not, we can continue with current practice but make sure that the users are aware of the “DEPTH” 
+column meaning.
+
+I am attaching an example of a cruise to show both nominal depths (depth_bs column) and associated 
+pressure (pressure_qat, last column).
+
+Thanks for your input, Gordana 
+
+
+Gordana Lazin
+Data Acquisition, Assembly and Distribution | Acquisition, assemblage et distribution de données
+Program Coordination and Support Division | Division de la coordination et soutien des programmes 
+Science Branch | Direction des Sciences
+Maritimes Region | Région des Maritimes
+Fisheries and Oceans Canada |Pêches et Océans Canada
+Bedford Institute of Oceanography | Institut océanographique de Bedford 
+1 Challenger Drive, Dartmouth, Nova Scotia  B2Y 4A2  
+Telephone | Téléphone 902-426-2245
+Facsimile | Télécopieur 902-426-1843
+Government of Canada | Gouvernement du Canada
+
+If you have received this communication by mistake, please notify the sender immediately and 
+delete the communication without printing, copying or forwarding it. Thank you. 
+
+Si vous avez reçu cette communication par erreur, veuillez en aviser l'expéditeur immédiatement 
+et la supprimer sans l'imprimer, la copier, ou la faire suivre. Merci.
+
+

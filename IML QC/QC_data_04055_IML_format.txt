@@ -1,0 +1,97 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+2; 40.63; 281505; doxy; 6.57; Bottle-CTD Difference Problem
+25; 156.38; 281556; psal; 35.12  ; Regional Impossible Parameter Value
+32; 750.74; 281568; pres; 750.74  ; Regional Impossible Parameter Value
+32; 1211.50; 281567; pres; 1211.50  ; Regional Impossible Parameter Value
+35; 1894.02; 281580; pres; 1894.02  ; Regional Impossible Parameter Value
+38; 750.87; 281593; pres; 750.87  ; Regional Impossible Parameter Value
+38; 984.52; 281592; pres; 984.52  ; Regional Impossible Parameter Value
+47; 1001.64; 281610; pres; 1001.64  ; Regional Impossible Parameter Value
+47; 1498.60; 281609; pres; 1498.60  ; Regional Impossible Parameter Value
+47; 1998.97; 281608; pres; 1998.97  ; Regional Impossible Parameter Value
+47; 2500.37; 281607; pres; 2500.37  ; Regional Impossible Parameter Value
+47; 2997.83; 281606; pres; 2997.83  ; Regional Impossible Parameter Value
+47; 3775.87; 281605; pres; 3775.87  ; Regional Impossible Parameter Value
+52; 752.79; 281623; pres; 752.79  ; Regional Impossible Parameter Value
+52; 1001.18; 281622; pres; 1001.18  ; Regional Impossible Parameter Value
+52; 20.78; 281632; psal; 34.93; Bottle-CTD Difference Problem
+55; 779.96; 281635; pres; 779.96  ; Regional Impossible Parameter Value
+55; 780.23; 281636; pres; 780.23  ; Regional Impossible Parameter Value
+55; 780.30; 281637; pres; 780.30  ; Regional Impossible Parameter Value
+55; 781.44; 281638; pres; 781.44  ; Regional Impossible Parameter Value
+77; 129.82; 281688; doxy; 3.09; Bottle-CTD Difference Problem
+81; 3.78; 281713; ntrz; 0.00  ; Out of Nutrient Climatology in box(es) 9 (Min=0.24; Max=2.46; n=33)
+81; 9.88; 281712; ntrz; 0.00  ; Out of Nutrient Climatology in box(es) 9 (Min=0.24; Max=2.46; n=33)
+81; 18.88; 281711; ntrz; 0.21  ; Out of Nutrient Climatology in box(es) 9 (Min=0.38; Max=9.19; n=67)
+81; 3.78; 281713; phos; 0.18  ; Out of Nutrient Climatology in box(es) 9 (Min=0.38; Max=0.60; n=33)
+81; 9.88; 281712; phos; 0.19  ; Out of Nutrient Climatology in box(es) 9 (Min=0.38; Max=0.60; n=33)
+81; 18.88; 281711; phos; 0.23  ; Out of Nutrient Climatology in box(es) 9 (Min=0.34; Max=1.08; n=65)
+81; 3.78; 281713; slca; 1.00  ; Out of Nutrient Climatology in box(es) 9 (Min=1.13; Max=5.07; n=33)
+81; 9.88; 281712; slca; 1.03  ; Out of Nutrient Climatology in box(es) 9 (Min=1.13; Max=5.07; n=33)
+87; 3.50; 281724; ntrz; 0.04  ; Out of Nutrient Climatology in box(es) 9 (Min=0.24; Max=2.46; n=33)
+87; 10.37; 281723; ntrz; 0.19  ; Out of Nutrient Climatology in box(es) 9 (Min=0.38; Max=9.19; n=67)
+87; 100.75; 281716; ntrz; 11.96  ; Out of Nutrient Climatology in box(es) 9 (Min=0.63; Max=10.28; n=172)
+87; 3.50; 281724; phos; 0.20  ; Out of Nutrient Climatology in box(es) 9 (Min=0.38; Max=0.60; n=33)
+87; 10.37; 281723; phos; 0.23  ; Out of Nutrient Climatology in box(es) 9 (Min=0.34; Max=1.08; n=65)
+87; 3.50; 281724; slca; 0.95  ; Out of Nutrient Climatology in box(es) 9 (Min=1.13; Max=5.07; n=33)
+90; 3.69; 281736; ntrz; 0.05  ; Out of Nutrient Climatology in box(es) 9 (Min=0.24; Max=2.46; n=33)
+90; 9.72; 281735; ntrz; 0.12  ; Out of Nutrient Climatology in box(es) 9 (Min=0.24; Max=2.46; n=33)
+90; 324.69; 281725; ntrz; 23.17  ; Out of Nutrient Climatology in box(es) 9 (Min=5.63; Max=21.46; n=101)
+90; 3.69; 281736; phos; 0.21  ; Out of Nutrient Climatology in box(es) 9 (Min=0.38; Max=0.60; n=33)
+90; 9.72; 281735; phos; 0.26  ; Out of Nutrient Climatology in box(es) 9 (Min=0.38; Max=0.60; n=33)
+90; 324.69; 281725; phos; 1.93  ; Out of Nutrient Climatology in box(es) 9 (Min=0.87; Max=1.73; n=111)
+90; 3.69; 281736; slca; 1.10  ; Out of Nutrient Climatology in box(es) 9 (Min=1.13; Max=5.07; n=33)
+95; 3.62; 281749; ntrz; 0.02  ; Out of Nutrient Climatology in box(es) 9 (Min=0.24; Max=2.46; n=33)
+95; 10.10; 281748; ntrz; 0.03  ; Out of Nutrient Climatology in box(es) 9 (Min=0.38; Max=9.19; n=67)
+95; 19.70; 281747; ntrz; 0.03  ; Out of Nutrient Climatology in box(es) 9 (Min=0.38; Max=9.19; n=67)
+95; 30.11; 281746; ntrz; 0.14  ; Out of Nutrient Climatology in box(es) 9 (Min=0.38; Max=9.19; n=67)
+95; 298.99; 281738; ntrz; 21.65  ; Out of Nutrient Climatology in box(es) 9 (Min=5.63; Max=21.46; n=101)
+95; 3.62; 281749; phos; 0.27  ; Out of Nutrient Climatology in box(es) 9 (Min=0.38; Max=0.60; n=33)
+95; 10.10; 281748; phos; 0.32  ; Out of Nutrient Climatology in box(es) 9 (Min=0.34; Max=1.08; n=65)
+95; 19.70; 281747; phos; 0.32  ; Out of Nutrient Climatology in box(es) 9 (Min=0.34; Max=1.08; n=65)
+95; 10.10; 281748; slca; 1.06  ; Out of Nutrient Climatology in box(es) 9 (Min=1.11; Max=8.39; n=67)
+95; 19.70; 281747; slca; 1.10  ; Out of Nutrient Climatology in box(es) 9 (Min=1.11; Max=8.39; n=67)
+99; 3.19; 281762; ntrz; 0.02  ; Out of Nutrient Climatology in box(es) 9 (Min=0.24; Max=2.46; n=33)
+99; 10.81; 281761; ntrz; 0.03  ; Out of Nutrient Climatology in box(es) 9 (Min=0.38; Max=9.19; n=67)
+99; 20.14; 281760; ntrz; 0.04  ; Out of Nutrient Climatology in box(es) 9 (Min=0.38; Max=9.19; n=67)
+99; 31.06; 281759; ntrz; 0.07  ; Out of Nutrient Climatology in box(es) 9 (Min=0.63; Max=10.28; n=172)
+99; 3.19; 281762; phos; 0.30  ; Out of Nutrient Climatology in box(es) 9 (Min=0.38; Max=0.60; n=33)
+99; 10.81; 281761; phos; 0.33  ; Out of Nutrient Climatology in box(es) 9 (Min=0.34; Max=1.08; n=65)
+99; 31.06; 281759; phos; 0.34  ; Out of Nutrient Climatology in box(es) 9 (Min=0.35; Max=1.26; n=172)
+99; 31.06; 281759; slca; 1.29  ; Out of Nutrient Climatology in box(es) 9 (Min=1.41; Max=14.99; n=172)
+103; 3.19; 281774; ntrz; 0.11  ; Out of Nutrient Climatology in box(es) 10 (Min=0.92; Max=5.89; n=10)
+103; 10.36; 281773; ntrz; 0.09  ; Out of Nutrient Climatology in box(es) 10 (Min=2.00; Max=6.39; n=11)
+103; 21.04; 281772; ntrz; 0.09  ; Out of Nutrient Climatology in box(es) 10 (Min=2.00; Max=6.39; n=11)
+103; 30.51; 281771; ntrz; 0.19  ; Out of Nutrient Climatology in box(es) 10 (Min=5.10; Max=7.89; n=37)
+103; 40.30; 281770; ntrz; 0.27  ; Out of Nutrient Climatology in box(es) 10 (Min=5.10; Max=7.89; n=37)
+103; 49.96; 281769; ntrz; 0.33  ; Out of Nutrient Climatology in box(es) 10 (Min=5.10; Max=7.89; n=37)
+103; 60.73; 281768; ntrz; 0.62  ; Out of Nutrient Climatology in box(es) 10 (Min=5.10; Max=7.89; n=37)
+103; 79.83; 281767; ntrz; 2.74  ; Out of Nutrient Climatology in box(es) 10 (Min=5.10; Max=7.89; n=37)
+103; 100.32; 281766; ntrz; 5.00  ; Out of Nutrient Climatology in box(es) 10 (Min=5.10; Max=7.89; n=37)
+103; 266.53; 281763; ntrz; 21.17  ; Out of Nutrient Climatology in box(es) 10 (Min=8.38; Max=19.75; n=18)
+103; 3.19; 281774; phos; 0.33  ; Out of Nutrient Climatology in box(es) 10 (Min=0.49; Max=0.76; n=10)
+103; 10.36; 281773; phos; 0.32  ; Out of Nutrient Climatology in box(es) 10 (Min=0.61; Max=0.96; n=11)
+103; 21.04; 281772; phos; 0.32  ; Out of Nutrient Climatology in box(es) 10 (Min=0.61; Max=0.96; n=11)
+103; 30.51; 281771; phos; 0.35  ; Out of Nutrient Climatology in box(es) 10 (Min=0.83; Max=1.03; n=37)
+103; 40.30; 281770; phos; 0.37  ; Out of Nutrient Climatology in box(es) 10 (Min=0.83; Max=1.03; n=37)
+103; 49.96; 281769; phos; 0.37  ; Out of Nutrient Climatology in box(es) 10 (Min=0.83; Max=1.03; n=37)
+103; 60.73; 281768; phos; 0.42  ; Out of Nutrient Climatology in box(es) 10 (Min=0.83; Max=1.03; n=37)
+103; 79.83; 281767; phos; 0.62  ; Out of Nutrient Climatology in box(es) 10 (Min=0.83; Max=1.03; n=37)
+103; 100.32; 281766; phos; 0.75  ; Out of Nutrient Climatology in box(es) 10 (Min=0.83; Max=1.03; n=37)
+103; 266.53; 281763; phos; 1.47  ; Out of Nutrient Climatology in box(es) 10 (Min=0.99; Max=1.45; n=18)
+103; 3.19; 281774; slca; 1.24  ; Out of Nutrient Climatology in box(es) 10 (Min=1.53; Max=5.57; n=10)
+103; 10.36; 281773; slca; 1.29  ; Out of Nutrient Climatology in box(es) 10 (Min=2.13; Max=5.97; n=11)
+103; 21.04; 281772; slca; 1.24  ; Out of Nutrient Climatology in box(es) 10 (Min=2.13; Max=5.97; n=11)
+103; 30.51; 281771; slca; 1.30  ; Out of Nutrient Climatology in box(es) 10 (Min=4.41; Max=7.02; n=37)
+103; 40.30; 281770; slca; 1.18  ; Out of Nutrient Climatology in box(es) 10 (Min=4.41; Max=7.02; n=37)
+103; 49.96; 281769; slca; 1.10  ; Out of Nutrient Climatology in box(es) 10 (Min=4.41; Max=7.02; n=37)
+103; 60.73; 281768; slca; 1.35  ; Out of Nutrient Climatology in box(es) 10 (Min=4.41; Max=7.02; n=37)
+103; 79.83; 281767; slca; 2.64  ; Out of Nutrient Climatology in box(es) 10 (Min=4.41; Max=7.02; n=37)
+103; 100.32; 281766; slca; 3.76  ; Out of Nutrient Climatology in box(es) 10 (Min=4.41; Max=7.02; n=37)
+103; 199.76; 281764; slca; 18.40  ; Out of Nutrient Climatology in box(es) 10 (Min=6.33; Max=17.23; n=18)
+103; 266.53; 281763; slca; 21.27  ; Out of Nutrient Climatology in box(es) 10 (Min=6.33; Max=17.23; n=18)
+110; 1000.55; 281788; pres; 1000.55  ; Regional Impossible Parameter Value
+110; 1500.15; 281787; pres; 1500.15  ; Regional Impossible Parameter Value
+110; 2875.27; 281786; pres; 2875.27  ; Regional Impossible Parameter Value
+114; 751.32; 281801; pres; 751.32  ; Regional Impossible Parameter Value
+114; 1026.96; 281800; pres; 1026.96  ; Regional Impossible Parameter Value

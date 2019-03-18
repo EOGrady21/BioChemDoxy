@@ -1,0 +1,75 @@
+18TL15031_1465: Test 3.6 -> Profile 18TL15031_1465 outside TS Monthly Climatology polygons
+18TL15031_1465: Test 3.6 -> Profile 18TL15031_1465 outside Monthly Nutrient Climatology polygons
+18TL15031_1466: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1466: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1466: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1466: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1466: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1466: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1466: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 49.9 m
+18TL15031_1467: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1467: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1467: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1467: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1467: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1467: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1467: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1467: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1467: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 14.8 m
+18TL15031_1467: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 19.3 m
+18TL15031_1467: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 49.5 m
+18TL15031_1468: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1468: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1468: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1468: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1468: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1468: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1468: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1468: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1468: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 4.1 m
+18TL15031_1468: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 51.2 m
+18TL15031_1469: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1469: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1469: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1469: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1469: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1469: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1469: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1469: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1469: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 320.7 m
+18TL15031_1469: Test 3.6 -> phos in box(es) 6 is out of Nutrient Climatology at 15.3 m
+18TL15031_1469: Test 3.6 -> phos in box(es) 6 is out of Nutrient Climatology at 320.7 m
+18TL15031_1470: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1470: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1470: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1470: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1470: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1470: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1470: Test 3.6 -> phos in box(es) 6 is out of Nutrient Climatology at 14.3 m
+18TL15031_1471: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1471: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1471: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1471: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1471: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1471: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1472: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1472: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1472: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1472: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1472: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1472: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1472: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1472: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1472: Test 3.5 -> Profile 18TL15031_1472 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18TL15031_1472: Test 3.6 -> Profile 18TL15031_1472 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18TL15031_1472: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 15.7 m
+18TL15031_1473: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1473: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1473: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1473: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL15031_1473: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1473: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1473: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1473: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL15031_1473: Test 3.6 -> Profile 18TL15031_1473 outside TS Monthly Climatology polygons
+18TL15031_1473: Test 3.6 -> Profile 18TL15031_1473 outside Monthly Nutrient Climatology polygons

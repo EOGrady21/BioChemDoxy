@@ -1,0 +1,89 @@
+Test 1.6 -> No known depth for 18HU12042_284
+Test 1.6 -> No known depth for 18HU12042_315
+Test 1.6 -> No known depth for 18HU12042_003
+Test 1.6 -> No known depth for 18HU12042_058
+Test 1.6 -> No known depth for 18HU12042_102
+Test 1.6 -> No known depth for 18HU12042_138
+Test 1.6 -> No known depth for 18HU12042_160
+Test 1.6 -> No known depth for 18HU12042_182
+Test 1.6 -> No known depth for 18HU12042_215
+Test 1.6 -> No known depth for 18HU12042_237
+Test 1.6 -> No known depth for 18HU12042_243
+Test 1.6 -> No known depth for 18HU12042_247
+Test 1.6 -> No known depth for 18HU12042_257
+Test 1.6 -> No known depth for 18HU12042_265
+Test 1.6 -> No known depth for 18HU12042_277
+Test 1.6 -> No known depth for 18HU12042_281
+Test 1.6 -> No known depth for 18HU12042_295
+Test 1.6 -> No known depth for 18HU12042_298
+Test 1.6 -> No known depth for 18HU12042_301
+Test 1.6 -> No known depth for 18HU12042_305
+Test 1.6 -> No known depth for 18HU12042_308
+Test 1.6 -> No known depth for 18HU12042_310
+Test 1.6 -> No known depth for 18HU12042_312
+Test 1.6 -> No known depth for 18HU12042_314
+Test 1.6 -> No known depth for 18HU12042_316
+Test 1.6 -> No known depth for 18HU12042_318
+Test 1.6 -> No known depth for 18HU12042_320
+Test 1.6 -> No known depth for 18HU12042_322
+Test 1.6 -> No known depth for 18HU12042_327
+Test 1.6 -> No known depth for 18HU12042_328
+Test 1.6 -> No known depth for 18HU12042_329
+Test 1.6 -> No known depth for 18HU12042_330
+Test 1.6 -> No known depth for 18HU12042_333
+Test 1.6 -> No known depth for 18HU12042_336
+Test 1.6 -> No known depth for 18HU12042_340
+Test 1.6 -> No known depth for 18HU12042_354
+Test 1.6 -> No known depth for 18HU12042_370
+Test 1.6 -> No known depth for 18HU12042_389
+Test 1.6 -> No known depth for 18HU12042_005
+Test 1.6 -> No known depth for 18HU12042_045
+Test 1.6 -> No known depth for 18HU12042_048
+Test 1.6 -> No known depth for 18HU12042_050
+Test 1.6 -> No known depth for 18HU12042_052
+Test 1.6 -> No known depth for 18HU12042_054
+Test 1.6 -> No known depth for 18HU12042_056
+Test 1.6 -> No known depth for 18HU12042_059
+Test 1.6 -> No known depth for 18HU12042_061
+Test 1.6 -> No known depth for 18HU12042_063
+Test 1.6 -> No known depth for 18HU12042_067
+Test 1.6 -> No known depth for 18HU12042_070
+Test 1.6 -> No known depth for 18HU12042_072
+Test 1.6 -> No known depth for 18HU12042_075
+Test 1.6 -> No known depth for 18HU12042_078
+Test 1.6 -> No known depth for 18HU12042_082
+Test 1.6 -> No known depth for 18HU12042_084
+Test 1.6 -> No known depth for 18HU12042_087
+Test 1.6 -> No known depth for 18HU12042_092
+Test 1.6 -> No known depth for 18HU12042_096
+Test 1.6 -> No known depth for 18HU12042_097
+Test 1.6 -> No known depth for 18HU12042_107
+Test 1.6 -> No known depth for 18HU12042_109
+Test 1.6 -> No known depth for 18HU12042_111
+Test 1.6 -> No known depth for 18HU12042_115
+Test 1.6 -> No known depth for 18HU12042_119
+Test 1.6 -> No known depth for 18HU12042_121
+Test 1.6 -> No known depth for 18HU12042_123
+Test 1.6 -> No known depth for 18HU12042_125
+Test 1.6 -> No known depth for 18HU12042_128
+Test 1.6 -> No known depth for 18HU12042_130
+Test 1.6 -> No known depth for 18HU12042_132
+Test 1.6 -> No known depth for 18HU12042_135
+Test 1.6 -> No known depth for 18HU12042_139
+18HU12042_277: Test 3.6 -> Profile 18HU12042_277 outside TS Monthly Climatology polygons
+18HU12042_277: Test 3.6 -> Profile 18HU12042_277 outside Monthly Nutrient Climatology polygons
+18HU12042_281: Test 3.6 -> Profile 18HU12042_281 outside TS Monthly Climatology polygons
+18HU12042_281: Test 3.6 -> Profile 18HU12042_281 outside Monthly Nutrient Climatology polygons
+18HU12042_295: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU12042_295: Test 3.6 -> Profile 18HU12042_295 outside TS Monthly Climatology polygons
+18HU12042_295: Test 3.6 -> Profile 18HU12042_295 outside Monthly Nutrient Climatology polygons
+18HU12042_056: Test 3.5 -> Profile 18HU12042_056 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU12042_059: Test 3.6 -> Profile 18HU12042_059 outside TS Monthly Climatology polygons
+18HU12042_061: Test 3.6 -> Profile 18HU12042_061 outside TS Monthly Climatology polygons
+18HU12042_063: Test 3.6 -> Profile 18HU12042_063 outside TS Monthly Climatology polygons
+18HU12042_067: Test 3.6 -> Profile 18HU12042_067 outside TS Monthly Climatology polygons
+18HU12042_070: Test 3.6 -> Profile 18HU12042_070 outside TS Monthly Climatology polygons
+18HU12042_072: Test 3.6 -> Profile 18HU12042_072 outside TS Monthly Climatology polygons
+18HU12042_075: Test 3.5 -> Profile 18HU12042_075 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU12042_084: Test 3.6 -> Profile 18HU12042_084 outside TS Monthly Climatology polygons
+18HU12042_087: Test 3.6 -> Profile 18HU12042_087 outside TS Monthly Climatology polygons

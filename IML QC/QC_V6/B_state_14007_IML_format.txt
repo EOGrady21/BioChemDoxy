@@ -1,0 +1,72 @@
+Test 1.6 -> No known depth for 18HU14007_264
+Test 1.6 -> No known depth for 18HU14007_339
+Test 1.6 -> No known depth for 18HU14007_070
+Test 1.6 -> No known depth for 18HU14007_075
+Test 1.6 -> No known depth for 18HU14007_083
+Test 1.6 -> No known depth for 18HU14007_084
+Test 1.6 -> No known depth for 18HU14007_085
+Test 1.6 -> No known depth for 18HU14007_087
+Test 1.6 -> No known depth for 18HU14007_089
+Test 1.6 -> No known depth for 18HU14007_092
+Test 1.6 -> No known depth for 18HU14007_094
+Test 1.6 -> No known depth for 18HU14007_096
+Test 1.6 -> No known depth for 18HU14007_098
+Test 1.6 -> No known depth for 18HU14007_100
+Test 1.6 -> No known depth for 18HU14007_103
+Test 1.6 -> No known depth for 18HU14007_105
+Test 1.6 -> No known depth for 18HU14007_106
+Test 1.6 -> No known depth for 18HU14007_112
+Test 1.6 -> No known depth for 18HU14007_115
+Test 1.6 -> No known depth for 18HU14007_122
+Test 1.6 -> No known depth for 18HU14007_129
+Test 1.6 -> No known depth for 18HU14007_132
+Test 1.6 -> No known depth for 18HU14007_135
+Test 1.6 -> No known depth for 18HU14007_139
+18HU14007_070: Test 3.6 -> Profile 18HU14007_070 outside TS Monthly Climatology polygons
+18HU14007_070: Test 3.6 -> Profile 18HU14007_070 outside Monthly Nutrient Climatology polygons
+18HU14007_075: Test 3.6 -> Profile 18HU14007_075 outside TS Monthly Climatology polygons
+18HU14007_083: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU14007_083: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU14007_083: Test 3.6 -> Profile 18HU14007_083 outside TS Monthly Climatology polygons
+18HU14007_083: Test 3.6 -> Profile 18HU14007_083 outside Monthly Nutrient Climatology polygons
+18HU14007_084: Test 3.6 -> Profile 18HU14007_084 outside TS Monthly Climatology polygons
+18HU14007_084: Test 3.6 -> Profile 18HU14007_084 outside Monthly Nutrient Climatology polygons
+18HU14007_085: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU14007_085: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU14007_085: Test 3.6 -> Profile 18HU14007_085 outside TS Monthly Climatology polygons
+18HU14007_085: Test 3.6 -> Profile 18HU14007_085 outside Monthly Nutrient Climatology polygons
+18HU14007_087: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU14007_087: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU14007_087: Test 3.6 -> Profile 18HU14007_087 outside TS Monthly Climatology polygons
+18HU14007_087: Test 3.6 -> Profile 18HU14007_087 outside Monthly Nutrient Climatology polygons
+18HU14007_089: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU14007_089: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU14007_089: Test 3.6 -> Profile 18HU14007_089 outside TS Monthly Climatology polygons
+18HU14007_089: Test 3.6 -> Profile 18HU14007_089 outside Monthly Nutrient Climatology polygons
+18HU14007_092: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU14007_092: Test 3.6 -> Profile 18HU14007_092 outside TS Monthly Climatology polygons
+18HU14007_092: Test 3.6 -> Profile 18HU14007_092 outside Monthly Nutrient Climatology polygons
+18HU14007_094: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU14007_094: Test 3.6 -> Profile 18HU14007_094 outside TS Monthly Climatology polygons
+18HU14007_094: Test 3.6 -> Profile 18HU14007_094 outside Monthly Nutrient Climatology polygons
+18HU14007_096: Test 3.6 -> Profile 18HU14007_096 outside TS Monthly Climatology polygons
+18HU14007_096: Test 3.6 -> Profile 18HU14007_096 outside Monthly Nutrient Climatology polygons
+18HU14007_098: Test 3.6 -> Profile 18HU14007_098 outside TS Monthly Climatology polygons
+18HU14007_098: Test 3.6 -> Profile 18HU14007_098 outside Monthly Nutrient Climatology polygons
+18HU14007_100: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 4221.2 m
+18HU14007_100: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 4320.6 m
+18HU14007_100: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 4421.4 m
+18HU14007_100: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 4499.0 m
+18HU14007_103: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 500.0 m
+18HU14007_103: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 331.0 m
+18HU14007_103: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 3902.5 m
+18HU14007_103: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 4144.3 m
+18HU14007_106: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 500.0 m
+18HU14007_112: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 800.0 m
+18HU14007_122: Test 3.6 -> ntrz in box(es) 1 is out of Nutrient Climatology at 1.7 m
+18HU14007_122: Test 3.6 -> ntrz in box(es) 1 is out of Nutrient Climatology at 9.8 m
+18HU14007_129: Test 3.5 -> psal in box(es) 10 is out of TS Climatology by more than 3*std at 10.0 m
+18HU14007_129: Test 3.6 -> phos in box(es) 6 is out of Nutrient Climatology at 10.2 m
+18HU14007_132: Test 3.5 -> psal in box(es) 11 is out of TS Climatology by more than 3*std at 10.0 m
+18HU14007_132: Test 3.6 -> phos in box(es) 6 is out of Nutrient Climatology at 10.2 m
+18HU14007_135: Test 3.5 -> psal in box(es) 12 is out of TS Climatology by more than 3*std at 10.0 m

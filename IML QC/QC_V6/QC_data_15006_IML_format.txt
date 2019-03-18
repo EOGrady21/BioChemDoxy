@@ -1,0 +1,13 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU15006_304; 2.60; 407769; doxy; 5.01; Bottle-CTD Difference Problem
+18HU15006_339; 3.30 to 3.81; 407791, 407792; ntrz; 1.36  2.05  ; Gradient or Inversion too high
+18HU15006_339; 3.81; 407792; phos; 0.58  ; Out of Nutrient Climatology in box(es) 9 (Min=0.00 Max=0.58 n=89)
+18HU15006_339; 3.81; 407792; slca; 2.76  ; Out of Nutrient Climatology in box(es) 9 (Min=0.00 Max=2.39 n=84)
+18HU15006_129; 5051.69; 408587; pres; 5051.69  ; Regional Impossible Parameter Value
+18HU15006_129; 5215.47; 408586; pres; 5215.47  ; Regional Impossible Parameter Value
+18HU15006_129; 197.33; 408606; psal; 34.62; Bottle-CTD Difference Problem
+18HU15006_129; 330.59; 408605; psal; 34.26; Bottle-CTD Difference Problem
+18HU15006_129; 515.64; 408604; psal; 33.69; Bottle-CTD Difference Problem
+18HU15006_129; 727.97; 408603; psal; 33.29; Bottle-CTD Difference Problem
+18HU15006_129; 960.37; 408602; psal; 33.11; Bottle-CTD Difference Problem
+18HU15006_129; 1200.86; 408601; psal; 33.08; Bottle-CTD Difference Problem

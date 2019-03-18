@@ -1,0 +1,6 @@
+18MT71044_445: Test 3.6 -> Profile 18MT71044_445 outside TS Monthly Climatology polygons
+18MT71044_445: Test 3.6 -> Profile 18MT71044_445 outside Monthly Nutrient Climatology polygons
+18MT71044_446: Test 3.6 -> Profile 18MT71044_446 outside TS Monthly Climatology polygons
+18MT71044_446: Test 3.6 -> Profile 18MT71044_446 outside Monthly Nutrient Climatology polygons
+18MT71044_444: Test 3.6 -> Profile 18MT71044_444 outside TS Monthly Climatology polygons
+18MT71044_444: Test 3.6 -> Profile 18MT71044_444 outside Monthly Nutrient Climatology polygons

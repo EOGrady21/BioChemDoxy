@@ -1,0 +1,14 @@
+18TL17027_1640: Test 3.6 -> Profile 18TL17027_1640 outside TS Monthly Climatology polygons
+18TL17027_1640: Test 3.6 -> Profile 18TL17027_1640 outside Monthly Nutrient Climatology polygons
+18TL17027_1641: Test 3.5 -> Profile 18TL17027_1641 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18TL17027_1641: Test 3.6 -> Profile 18TL17027_1641 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18TL17027_1641: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 100.4 m
+18TL17027_1641: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 2.6 m
+18TL17027_1642: Test 3.6 -> Profile 18TL17027_1642 outside TS Monthly Climatology polygons
+18TL17027_1642: Test 3.6 -> Profile 18TL17027_1642 outside Monthly Nutrient Climatology polygons
+18TL17027_1643: Test 3.6 -> Profile 18TL17027_1643 outside TS Monthly Climatology polygons
+18TL17027_1643: Test 3.6 -> Profile 18TL17027_1643 outside Monthly Nutrient Climatology polygons
+18TL17027_1644: Test 3.6 -> Profile 18TL17027_1644 outside TS Monthly Climatology polygons
+18TL17027_1644: Test 3.6 -> Profile 18TL17027_1644 outside Monthly Nutrient Climatology polygons
+18TL17027_1645: Test 3.6 -> Profile 18TL17027_1645 outside TS Monthly Climatology polygons
+18TL17027_1645: Test 3.6 -> Profile 18TL17027_1645 outside Monthly Nutrient Climatology polygons

@@ -1,0 +1,14 @@
+Test 1.5 -> Cruise velocity > permitted -> Check time and position of
+    the end of 18VA70002_1885 and the beginning of 18VA70002_1924 (found ship velocity is 3132.7 kt)
+    the end of 18VA70002_1905 and the beginning of 18VA70002_1887 (found ship velocity is 55.7 kt)
+    The end of 18VA70002_1912 and the beginning of 18VA70002_1915 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1928 and the beginning of 18VA70002_1927 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1904 and the beginning of 18VA70002_1905 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1906 and the beginning of 18VA70002_1907 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1907 and the beginning of 18VA70002_1908 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1908 and the beginning of 18VA70002_1909 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1909 and the beginning of 18VA70002_1910 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1910 and the beginning of 18VA70002_1911 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1911 and the beginning of 18VA70002_1913 (found ship velocity is 0.00 kt)
+    The end of 18VA70002_1868 and the beginning of 18VA70002_1869 (found ship velocity is 0.00 kt)
+18VA70002_1863: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 0.0 m

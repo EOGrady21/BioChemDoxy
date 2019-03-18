@@ -1,0 +1,63 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18TL05601 FLAG Report:,  2019-03-15 14:47:36
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged PHOSPHATE, event 53, station STN27:
+
+           sample_key depth value method qc
+ 18TL05601_297_259898     4  0.31  PO4_0  1
+ 18TL05601_297_259897    10  0.52  PO4_0  1
+ 18TL05601_297_259896    20  0.28  PO4_0  1
+ 18TL05601_297_259895    30  0.31  PO4_0  1
+ 18TL05601_297_259894    40  0.27  PO4_0  2
+ 18TL05601_297_259893    49  0.26  PO4_0  2
+ 18TL05601_297_259892    75  0.46  PO4_0  1
+ 18TL05601_297_259891    99  0.72  PO4_0  1
+ 18TL05601_297_259890   149  1.16  PO4_0  1
+ 18TL05601_297_259889   172  1.30  PO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event 6, station SEGB-05:
+
+           sample_key depth O2_Winkler_Molar qc
+ 18TL05601_304_259602     4            354.6  1
+ 18TL05601_304_259601    10            356.4  1
+ 18TL05601_304_259600    19            357.3  1
+ 18TL05601_304_259599    29            354.2  1
+ 18TL05601_304_259598    39            353.7  1
+ 18TL05601_304_259597    49            346.6  1
+ 18TL05601_304_259596    75            321.5  1
+ 18TL05601_304_259595    85            254.1  3
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

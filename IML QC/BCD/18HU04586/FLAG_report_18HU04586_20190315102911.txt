@@ -1,0 +1,83 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18HU04586 FLAG Report:,  2019-03-15 10:29:11
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged NITRATE, event 6, station SEGB-03:
+
+           sample_key depth value   method qc
+ 18HU04586_304_258990    11  0.68 NO2NO3_0  1
+ 18HU04586_304_258989    21  0.59 NO2NO3_0  1
+ 18HU04586_304_258988    31  0.63 NO2NO3_0  7
+ 18HU04586_304_258987    41  1.48 NO2NO3_0  1
+ 18HU04586_304_258986    50  0.71 NO2NO3_0  1
+ 18HU04586_304_258985    75  8.30 NO2NO3_0  1
+ 18HU04586_304_258984   100 10.56 NO2NO3_0  1
+ 18HU04586_304_258983   151  8.12 NO2NO3_0  1
+ 18HU04586_304_258982   164 10.59 NO2NO3_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 6, station SEGB-03:
+
+           sample_key depth value method qc
+ 18HU04586_304_258990    11  0.37  PO4_0  1
+ 18HU04586_304_258989    21  0.32  PO4_0  7
+ 18HU04586_304_258988    31  0.32  PO4_0  1
+ 18HU04586_304_258987    41  0.37  PO4_0  1
+ 18HU04586_304_258986    50  0.37  PO4_0  1
+ 18HU04586_304_258985    75  1.06  PO4_0  1
+ 18HU04586_304_258984   100  1.26  PO4_0  1
+ 18HU04586_304_258983   151  1.09  PO4_0  1
+ 18HU04586_304_258982   164  1.37  PO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 6, station SEGB-03:
+
+           sample_key depth value method qc
+ 18HU04586_304_258990    11  2.26 SiO4_0  1
+ 18HU04586_304_258989    21  1.98 SiO4_0  1
+ 18HU04586_304_258988    31  1.82 SiO4_0  1
+ 18HU04586_304_258987    41  2.36 SiO4_0  1
+ 18HU04586_304_258986    50  2.03 SiO4_0  1
+ 18HU04586_304_258985    75  9.99 SiO4_0  1
+ 18HU04586_304_258984   100 11.42 SiO4_0  7
+ 18HU04586_304_258983   151 11.13 SiO4_0  1
+ 18HU04586_304_258982   164 14.30 SiO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

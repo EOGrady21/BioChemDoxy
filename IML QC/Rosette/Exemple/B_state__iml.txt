@@ -1,0 +1,20 @@
+Test 1.6 -> No known depth for q64a015
+Test 1.6 -> No known depth for q64a016
+q64a015: Test 3.5 -> Profile q64a015 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+q64a015: Test 3.6 -> Profile q64a015 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+q64a016: Test 3.5 -> Profile q64a016 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+q64a016: Test 3.6 -> Profile q64a016 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+q64a017: Test 3.5 -> Profile q64a017 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+q64a017: Test 3.6 -> Profile q64a017 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+q64a018: Test 3.5 -> Profile q64a018 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+q64a018: Test 3.6 -> Profile q64a018 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+q64a021: Test 3.5 -> temp in box(es) 4 is out of TS Climatology by more than 3*std at 200.0 m
+q64a021: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 200.0 m
+q64a046: Test 3.5 -> psal in box(es) 7 is out of TS Climatology by more than 3*std at 0.0 m
+q64a047: Test 3.5 -> psal in box(es) 7 is out of TS Climatology by more than 3*std at 0.0 m
+q64a048: Test 3.5 -> psal in box(es) 7 is out of TS Climatology by more than 3*std at 0.0 m
+q64a049: Test 3.5 -> psal in box(es) 7 is out of TS Climatology by more than 3*std at 0.0 m
+q64a050: Test 3.5 -> psal in box(es) 7 is out of TS Climatology by more than 3*std at 0.0 m
+q64a051: Test 3.5 -> psal in box(es) 7 is out of TS Climatology by more than 3*std at 0.0 m
+q64a051: Test 3.5 -> psal in box(es) 7 is out of TS Climatology by more than 3*std at 10.0 m
+q64a052: Test 3.5 -> psal in box(es) 7 is out of TS Climatology by more than 3*std at 0.0 m

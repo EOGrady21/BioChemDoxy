@@ -1,0 +1,117 @@
+Test 1.4 -> 18NA96002_002 is on land
+Test 1.4 -> 18NA96002_261 is on land
+Test 1.4 -> 18NA96002_263 is on land
+Test 1.4 -> 18NA96002_285 is on land
+Test 1.4 -> 18NA96002_295 is on land
+Test 1.4 -> 18NA96002_296 is on land
+Test 1.4 -> 18NA96002_302 is on land
+18NA96002_002: Test 3.5 -> Profile 18NA96002_002 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NA96002_002: Test 3.6 -> Profile 18NA96002_002 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA96002_113: Test 3.5 -> Profile 18NA96002_113 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NA96002_113: Test 3.6 -> Profile 18NA96002_113 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA96002_225: Test 3.5 -> Profile 18NA96002_225 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NA96002_225: Test 3.6 -> Profile 18NA96002_225 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA96002_264: Test 3.6 -> Profile 18NA96002_264 outside TS Monthly Climatology polygons
+18NA96002_264: Test 3.6 -> Profile 18NA96002_264 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA96002_284: Test 3.6 -> Profile 18NA96002_284 outside TS Monthly Climatology polygons
+18NA96002_284: Test 3.6 -> Profile 18NA96002_284 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA96002_304: Test 3.6 -> Profile 18NA96002_304 outside TS Monthly Climatology polygons
+18NA96002_304: Test 3.6 -> Profile 18NA96002_304 outside Monthly Nutrient Climatology polygons
+18NA96002_315: Test 3.6 -> Profile 18NA96002_315 outside TS Monthly Climatology polygons
+18NA96002_315: Test 3.6 -> Profile 18NA96002_315 outside Monthly Nutrient Climatology polygons
+18NA96002_326: Test 3.6 -> Profile 18NA96002_326 outside TS Monthly Climatology polygons
+18NA96002_326: Test 3.6 -> Profile 18NA96002_326 outside Monthly Nutrient Climatology polygons
+18NA96002_339: Test 3.6 -> Profile 18NA96002_339 outside TS Monthly Climatology polygons
+18NA96002_339: Test 3.6 -> Profile 18NA96002_339 outside Monthly Nutrient Climatology polygons
+18NA96002_014: Test 3.6 -> Profile 18NA96002_014 outside TS Monthly Climatology polygons
+18NA96002_014: Test 3.6 -> Profile 18NA96002_014 outside Monthly Nutrient Climatology polygons
+18NA96002_058: Test 3.6 -> Profile 18NA96002_058 outside TS Monthly Climatology polygons
+18NA96002_058: Test 3.6 -> Profile 18NA96002_058 outside Monthly Nutrient Climatology polygons
+18NA96002_069: Test 3.5 -> Profile 18NA96002_069 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NA96002_069: Test 3.6 -> Profile 18NA96002_069 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA96002_080: Test 3.5 -> Profile 18NA96002_080 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NA96002_080: Test 3.6 -> Profile 18NA96002_080 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA96002_091: Test 3.6 -> Profile 18NA96002_091 outside TS Monthly Climatology polygons
+18NA96002_091: Test 3.6 -> Profile 18NA96002_091 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA96002_102: Test 3.6 -> Profile 18NA96002_102 outside TS Monthly Climatology polygons
+18NA96002_102: Test 3.6 -> Profile 18NA96002_102 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA96002_114: Test 3.6 -> Profile 18NA96002_114 outside TS Monthly Climatology polygons
+18NA96002_114: Test 3.6 -> Profile 18NA96002_114 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA96002_127: Test 3.6 -> Profile 18NA96002_127 outside TS Monthly Climatology polygons
+18NA96002_127: Test 3.6 -> Profile 18NA96002_127 outside Monthly Nutrient Climatology polygons
+18NA96002_149: Test 3.6 -> Profile 18NA96002_149 outside TS Monthly Climatology polygons
+18NA96002_149: Test 3.6 -> Profile 18NA96002_149 outside Monthly Nutrient Climatology polygons
+18NA96002_171: Test 3.6 -> Profile 18NA96002_171 outside TS Monthly Climatology polygons
+18NA96002_171: Test 3.6 -> Profile 18NA96002_171 outside Monthly Nutrient Climatology polygons
+18NA96002_182: Test 3.6 -> Profile 18NA96002_182 outside TS Monthly Climatology polygons
+18NA96002_182: Test 3.6 -> Profile 18NA96002_182 outside Monthly Nutrient Climatology polygons
+18NA96002_193: Test 3.5 -> Profile 18NA96002_193 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NA96002_193: Test 3.6 -> Profile 18NA96002_193 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA96002_204: Test 3.5 -> Profile 18NA96002_204 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NA96002_204: Test 3.6 -> Profile 18NA96002_204 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA96002_215: Test 3.6 -> Profile 18NA96002_215 outside TS Monthly Climatology polygons
+18NA96002_215: Test 3.6 -> Profile 18NA96002_215 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA96002_226: Test 3.6 -> Profile 18NA96002_226 outside TS Monthly Climatology polygons
+18NA96002_226: Test 3.6 -> Profile 18NA96002_226 outside Monthly Nutrient Climatology polygons
+18NA96002_237: Test 3.6 -> Profile 18NA96002_237 outside TS Monthly Climatology polygons
+18NA96002_237: Test 3.6 -> Profile 18NA96002_237 outside Monthly Nutrient Climatology polygons
+18NA96002_239: Test 3.6 -> Profile 18NA96002_239 outside TS Monthly Climatology polygons
+18NA96002_239: Test 3.6 -> Profile 18NA96002_239 outside Monthly Nutrient Climatology polygons
+18NA96002_243: Test 3.6 -> Profile 18NA96002_243 outside TS Monthly Climatology polygons
+18NA96002_243: Test 3.6 -> Profile 18NA96002_243 outside Monthly Nutrient Climatology polygons
+18NA96002_244: Test 3.6 -> Profile 18NA96002_244 outside TS Monthly Climatology polygons
+18NA96002_244: Test 3.6 -> Profile 18NA96002_244 outside Monthly Nutrient Climatology polygons
+18NA96002_247: Test 3.6 -> Profile 18NA96002_247 outside TS Monthly Climatology polygons
+18NA96002_247: Test 3.6 -> Profile 18NA96002_247 outside Monthly Nutrient Climatology polygons
+18NA96002_253: Test 3.6 -> Profile 18NA96002_253 outside TS Monthly Climatology polygons
+18NA96002_253: Test 3.6 -> Profile 18NA96002_253 outside Monthly Nutrient Climatology polygons
+18NA96002_257: Test 3.6 -> Profile 18NA96002_257 outside TS Monthly Climatology polygons
+18NA96002_257: Test 3.6 -> Profile 18NA96002_257 outside Monthly Nutrient Climatology polygons
+18NA96002_261: Test 2.1 -> Global Impossible Parameter Value for phos
+18NA96002_261: Test 2.1 -> Global Impossible Parameter Value for phos
+18NA96002_261: Test 2.2 -> Regional Impossible Parameter Value for phos
+18NA96002_261: Test 2.2 -> Regional Impossible Parameter Value for phos
+18NA96002_261: Test 3.6 -> Profile 18NA96002_261 outside TS Monthly Climatology polygons
+18NA96002_261: Test 3.6 -> Profile 18NA96002_261 outside Monthly Nutrient Climatology polygons
+18NA96002_263: Test 3.6 -> Profile 18NA96002_263 outside TS Monthly Climatology polygons
+18NA96002_263: Test 3.6 -> Profile 18NA96002_263 outside Monthly Nutrient Climatology polygons
+18NA96002_275: Test 3.6 -> Profile 18NA96002_275 outside TS Monthly Climatology polygons
+18NA96002_275: Test 3.6 -> Profile 18NA96002_275 outside Monthly Nutrient Climatology polygons
+18NA96002_276: Test 3.6 -> Profile 18NA96002_276 outside TS Monthly Climatology polygons
+18NA96002_276: Test 3.6 -> Profile 18NA96002_276 outside Monthly Nutrient Climatology polygons
+18NA96002_278: Test 3.6 -> Profile 18NA96002_278 outside TS Monthly Climatology polygons
+18NA96002_278: Test 3.6 -> Profile 18NA96002_278 outside Monthly Nutrient Climatology polygons
+18NA96002_280: Test 3.6 -> Profile 18NA96002_280 outside TS Monthly Climatology polygons
+18NA96002_280: Test 3.6 -> Profile 18NA96002_280 outside Monthly Nutrient Climatology polygons
+18NA96002_281: Test 3.6 -> Profile 18NA96002_281 outside TS Monthly Climatology polygons
+18NA96002_281: Test 3.6 -> Profile 18NA96002_281 outside Monthly Nutrient Climatology polygons
+18NA96002_282: Test 3.6 -> Profile 18NA96002_282 outside TS Monthly Climatology polygons
+18NA96002_282: Test 3.6 -> Profile 18NA96002_282 outside Monthly Nutrient Climatology polygons
+18NA96002_283: Test 3.6 -> Profile 18NA96002_283 outside TS Monthly Climatology polygons
+18NA96002_283: Test 3.6 -> Profile 18NA96002_283 outside Monthly Nutrient Climatology polygons
+18NA96002_285: Test 3.6 -> Profile 18NA96002_285 outside TS Monthly Climatology polygons
+18NA96002_285: Test 3.6 -> Profile 18NA96002_285 outside Monthly Nutrient Climatology polygons
+18NA96002_295: Test 3.6 -> Profile 18NA96002_295 outside TS Monthly Climatology polygons
+18NA96002_295: Test 3.6 -> Profile 18NA96002_295 outside Monthly Nutrient Climatology polygons
+18NA96002_296: Test 3.6 -> Profile 18NA96002_296 outside TS Monthly Climatology polygons
+18NA96002_296: Test 3.6 -> Profile 18NA96002_296 outside Monthly Nutrient Climatology polygons
+18NA96002_297: Test 3.6 -> Profile 18NA96002_297 outside TS Monthly Climatology polygons
+18NA96002_297: Test 3.6 -> Profile 18NA96002_297 outside Monthly Nutrient Climatology polygons
+18NA96002_298: Test 3.6 -> Profile 18NA96002_298 outside TS Monthly Climatology polygons
+18NA96002_298: Test 3.6 -> Profile 18NA96002_298 outside Monthly Nutrient Climatology polygons
+18NA96002_299: Test 3.6 -> Profile 18NA96002_299 outside TS Monthly Climatology polygons
+18NA96002_299: Test 3.6 -> Profile 18NA96002_299 outside Monthly Nutrient Climatology polygons
+18NA96002_300: Test 3.6 -> Profile 18NA96002_300 outside TS Monthly Climatology polygons
+18NA96002_300: Test 3.6 -> Profile 18NA96002_300 outside Monthly Nutrient Climatology polygons
+18NA96002_301: Test 3.6 -> Profile 18NA96002_301 outside TS Monthly Climatology polygons
+18NA96002_301: Test 3.6 -> Profile 18NA96002_301 outside Monthly Nutrient Climatology polygons
+18NA96002_302: Test 3.6 -> Profile 18NA96002_302 outside TS Monthly Climatology polygons
+18NA96002_302: Test 3.6 -> Profile 18NA96002_302 outside Monthly Nutrient Climatology polygons
+18NA96002_303: Test 3.6 -> Profile 18NA96002_303 outside TS Monthly Climatology polygons
+18NA96002_303: Test 3.6 -> Profile 18NA96002_303 outside Monthly Nutrient Climatology polygons
+18NA96002_305: Test 3.6 -> Profile 18NA96002_305 outside TS Monthly Climatology polygons
+18NA96002_305: Test 3.6 -> Profile 18NA96002_305 outside Monthly Nutrient Climatology polygons
+18NA96002_306: Test 3.6 -> Profile 18NA96002_306 outside TS Monthly Climatology polygons
+18NA96002_306: Test 3.6 -> Profile 18NA96002_306 outside Monthly Nutrient Climatology polygons
+18NA96002_308: Test 3.6 -> Profile 18NA96002_308 outside TS Monthly Climatology polygons
+18NA96002_308: Test 3.6 -> Profile 18NA96002_308 outside Monthly Nutrient Climatology polygons

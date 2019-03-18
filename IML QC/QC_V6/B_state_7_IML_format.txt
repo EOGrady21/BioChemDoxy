@@ -1,0 +1,98 @@
+Test 1.6 -> No known depth for 89037_315
+Test 1.6 -> No known depth for 89037_326
+Test 1.6 -> No known depth for 89037_339
+Test 1.6 -> No known depth for 89037_003
+Test 1.6 -> No known depth for 89037_014
+Test 1.6 -> No known depth for 89037_025
+Test 1.6 -> No known depth for 89037_182
+Test 1.6 -> No known depth for 89037_193
+Test 1.6 -> No known depth for 89037_204
+Test 1.6 -> No known depth for 89037_215
+Test 1.6 -> No known depth for 89037_226
+Test 1.6 -> No known depth for 89037_237
+Test 1.6 -> No known depth for 89037_239
+Test 1.6 -> No known depth for 89037_243
+Test 1.6 -> No known depth for 89037_244
+Test 1.6 -> No known depth for 89037_247
+Test 1.6 -> No known depth for 89037_253
+Test 1.6 -> No known depth for 89037_257
+Test 1.6 -> No known depth for 89037_261
+Test 1.6 -> No known depth for 89037_263
+Test 1.6 -> No known depth for 89037_265
+Test 1.6 -> No known depth for 89037_275
+Test 1.6 -> No known depth for 89037_276
+Test 1.6 -> No known depth for 89037_277
+Test 1.6 -> No known depth for 89037_278
+89037_315: Test 3.6 -> Profile 89037_315 outside TS Monthly Climatology polygons
+89037_315: Test 3.6 -> Profile 89037_315 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+89037_315: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 12.0 m
+89037_315: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 13.0 m
+89037_315: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 12.0 m
+89037_315: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 13.0 m
+89037_326: Test 3.6 -> Profile 89037_326 outside TS Monthly Climatology polygons
+89037_326: Test 3.6 -> Profile 89037_326 outside Monthly Nutrient Climatology polygons
+89037_339: Test 3.6 -> Profile 89037_339 outside TS Monthly Climatology polygons
+89037_339: Test 3.6 -> Profile 89037_339 outside Monthly Nutrient Climatology polygons
+89037_003: Test 3.6 -> Profile 89037_003 outside TS Monthly Climatology polygons
+89037_003: Test 3.6 -> Profile 89037_003 outside Monthly Nutrient Climatology polygons
+89037_014: Test 3.6 -> Profile 89037_014 outside TS Monthly Climatology polygons
+89037_014: Test 3.6 -> Profile 89037_014 outside Monthly Nutrient Climatology polygons
+89037_025: Test 3.6 -> Profile 89037_025 outside TS Monthly Climatology polygons
+89037_025: Test 3.6 -> Profile 89037_025 outside Monthly Nutrient Climatology polygons
+89037_182: Test 3.6 -> Profile 89037_182 outside TS Monthly Climatology polygons
+89037_182: Test 3.6 -> Profile 89037_182 outside Monthly Nutrient Climatology polygons
+89037_193: Test 3.6 -> Profile 89037_193 outside TS Monthly Climatology polygons
+89037_193: Test 3.6 -> Profile 89037_193 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+89037_204: Test 3.6 -> Profile 89037_204 outside TS Monthly Climatology polygons
+89037_204: Test 3.6 -> Profile 89037_204 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+89037_204: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 17.0 m
+89037_204: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 101.0 m
+89037_215: Test 3.6 -> Profile 89037_215 outside TS Monthly Climatology polygons
+89037_215: Test 3.6 -> Profile 89037_215 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+89037_215: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 17.0 m
+89037_215: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 107.0 m
+89037_226: Test 3.6 -> Profile 89037_226 outside TS Monthly Climatology polygons
+89037_226: Test 3.6 -> Profile 89037_226 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+89037_226: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 16.0 m
+89037_237: Test 3.6 -> Profile 89037_237 outside TS Monthly Climatology polygons
+89037_237: Test 3.6 -> Profile 89037_237 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+89037_239: Test 3.6 -> Profile 89037_239 outside TS Monthly Climatology polygons
+89037_239: Test 3.6 -> Profile 89037_239 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+89037_239: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 20.0 m
+89037_239: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 20.0 m
+89037_243: Test 3.6 -> Profile 89037_243 outside TS Monthly Climatology polygons
+89037_243: Test 3.6 -> Profile 89037_243 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+89037_243: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 16.0 m
+89037_243: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 16.0 m
+89037_243: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 104.0 m
+89037_243: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 3605.0 m
+89037_244: Test 3.6 -> Profile 89037_244 outside TS Monthly Climatology polygons
+89037_244: Test 3.6 -> Profile 89037_244 outside Monthly Nutrient Climatology polygons
+89037_247: Test 3.6 -> Profile 89037_247 outside TS Monthly Climatology polygons
+89037_247: Test 3.6 -> Profile 89037_247 outside Monthly Nutrient Climatology polygons
+89037_253: Test 3.6 -> Profile 89037_253 outside TS Monthly Climatology polygons
+89037_253: Test 3.6 -> Profile 89037_253 outside Monthly Nutrient Climatology polygons
+89037_257: Test 3.6 -> Profile 89037_257 outside TS Monthly Climatology polygons
+89037_257: Test 3.6 -> Profile 89037_257 outside Monthly Nutrient Climatology polygons
+89037_261: Test 3.6 -> Profile 89037_261 outside TS Monthly Climatology polygons
+89037_261: Test 3.6 -> Profile 89037_261 outside Monthly Nutrient Climatology polygons
+89037_263: Test 2.2 -> Regional Impossible Parameter Value for pres
+89037_263: Test 3.6 -> Profile 89037_263 outside TS Monthly Climatology polygons
+89037_263: Test 3.6 -> Profile 89037_263 outside Monthly Nutrient Climatology polygons
+89037_265: Test 2.2 -> Regional Impossible Parameter Value for pres
+89037_265: Test 3.6 -> Profile 89037_265 outside TS Monthly Climatology polygons
+89037_265: Test 3.6 -> Profile 89037_265 outside Monthly Nutrient Climatology polygons
+89037_275: Test 2.2 -> Regional Impossible Parameter Value for pres
+89037_275: Test 3.6 -> Profile 89037_275 outside TS Monthly Climatology polygons
+89037_275: Test 3.6 -> Profile 89037_275 outside Monthly Nutrient Climatology polygons
+89037_276: Test 2.2 -> Regional Impossible Parameter Value for pres
+89037_276: Test 2.2 -> Regional Impossible Parameter Value for pres
+89037_276: Test 3.6 -> Profile 89037_276 outside TS Monthly Climatology polygons
+89037_276: Test 3.6 -> Profile 89037_276 outside Monthly Nutrient Climatology polygons
+89037_277: Test 2.2 -> Regional Impossible Parameter Value for pres
+89037_277: Test 3.6 -> Profile 89037_277 outside TS Monthly Climatology polygons
+89037_277: Test 3.6 -> Profile 89037_277 outside Monthly Nutrient Climatology polygons
+89037_278: Test 2.2 -> Regional Impossible Parameter Value for pres
+89037_278: Test 2.2 -> Regional Impossible Parameter Value for pres
+89037_278: Test 3.6 -> Profile 89037_278 outside TS Monthly Climatology polygons
+89037_278: Test 3.6 -> Profile 89037_278 outside Monthly Nutrient Climatology polygons

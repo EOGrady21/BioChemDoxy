@@ -1,0 +1,100 @@
+Test 1.6 -> No known depth for 18NE14101_002
+Test 1.6 -> No known depth for 18NE14101_113
+Test 1.6 -> No known depth for 18NE14101_225
+Test 1.6 -> No known depth for 18NE14101_264
+Test 1.6 -> No known depth for 18NE14101_284
+Test 1.6 -> No known depth for 18NE14101_304
+Test 1.6 -> No known depth for 18NE14101_315
+Test 1.6 -> No known depth for 18NE14101_326
+Test 1.6 -> No known depth for 18NE14101_339
+Test 1.6 -> No known depth for 18NE14101_003
+Test 1.6 -> No known depth for 18NE14101_014
+Test 1.6 -> No known depth for 18NE14101_025
+Test 1.6 -> No known depth for 18NE14101_036
+Test 1.6 -> No known depth for 18NE14101_047
+Test 1.6 -> No known depth for 18NE14101_058
+Test 1.6 -> No known depth for 18NE14101_080
+Test 1.6 -> No known depth for 18NE14101_091
+Test 1.6 -> No known depth for 18NE14101_102
+Test 1.6 -> No known depth for 18NE14101_127
+Test 1.6 -> No known depth for 18NE14101_138
+Test 1.6 -> No known depth for 18NE14101_149
+Test 1.6 -> No known depth for 18NE14101_160
+Test 1.6 -> No known depth for 18NE14101_368
+Test 1.6 -> No known depth for 18NE14101_171
+Test 1.6 -> No known depth for 18NE14101_182
+Test 1.6 -> No known depth for 18NE14101_193
+Test 1.6 -> No known depth for 18NE14101_204
+Test 1.6 -> No known depth for 18NE14101_215
+Test 1.6 -> No known depth for 18NE14101_226
+Test 1.6 -> No known depth for 18NE14101_237
+Test 1.6 -> No known depth for 18NE14101_239
+Test 1.6 -> No known depth for 18NE14101_243
+Test 1.6 -> No known depth for 18NE14101_244
+Test 1.6 -> No known depth for 18NE14101_247
+Test 1.6 -> No known depth for 18NE14101_253
+Test 1.6 -> No known depth for 18NE14101_257
+Test 1.6 -> No known depth for 18NE14101_261
+Test 1.6 -> No known depth for 18NE14101_263
+Test 1.6 -> No known depth for 18NE14101_265
+Test 1.6 -> No known depth for 18NE14101_275
+Test 1.6 -> No known depth for 18NE14101_276
+Test 1.6 -> No known depth for 18NE14101_277
+Test 1.6 -> No known depth for 18NE14101_278
+Test 1.6 -> No known depth for 18NE14101_279
+Test 1.6 -> No known depth for 18NE14101_280
+Test 1.6 -> No known depth for 18NE14101_281
+Test 1.6 -> No known depth for 18NE14101_282
+Test 1.6 -> No known depth for 18NE14101_283
+Test 1.6 -> No known depth for 18NE14101_285
+Test 1.6 -> No known depth for 18NE14101_295
+Test 1.6 -> No known depth for 18NE14101_296
+Test 1.6 -> No known depth for 18NE14101_297
+Test 1.6 -> No known depth for 18NE14101_298
+Test 1.6 -> No known depth for 18NE14101_299
+18NE14101_058: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.1 m
+18NE14101_058: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.1 m
+18NE14101_080: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.2 m
+18NE14101_080: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.2 m
+18NE14101_102: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.8 m
+18NE14101_102: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.8 m
+18NE14101_114: Test 3.5 -> psal in box(es) 55 is out of TS Climatology by more than 3*std at 50.0 m
+18NE14101_114: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.4 m
+18NE14101_114: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.4 m
+18NE14101_127: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 24.4 m
+18NE14101_127: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 24.4 m
+18NE14101_138: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.2 m
+18NE14101_138: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.2 m
+18NE14101_149: Test 3.5 -> Profile 18NE14101_149 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NE14101_149: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.2 m
+18NE14101_149: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.2 m
+18NE14101_160: Test 3.5 -> Profile 18NE14101_160 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NE14101_160: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.1 m
+18NE14101_160: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.1 m
+18NE14101_368: Test 3.5 -> Profile 18NE14101_368 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NE14101_368: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.1 m
+18NE14101_368: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.1 m
+18NE14101_171: Test 3.5 -> Profile 18NE14101_171 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NE14101_171: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 24.7 m
+18NE14101_171: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 24.7 m
+18NE14101_182: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 24.5 m
+18NE14101_182: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 24.5 m
+18NE14101_193: Test 3.5 -> Profile 18NE14101_193 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NE14101_193: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.3 m
+18NE14101_193: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.3 m
+18NE14101_204: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.3 m
+18NE14101_204: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.3 m
+18NE14101_215: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 24.9 m
+18NE14101_215: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 24.9 m
+18NE14101_226: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 24.6 m
+18NE14101_226: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 24.6 m
+18NE14101_237: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.2 m
+18NE14101_237: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.2 m
+18NE14101_239: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.0 m
+18NE14101_239: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.0 m
+18NE14101_243: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 24.7 m
+18NE14101_243: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 24.7 m
+18NE14101_244: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 26.0 m
+18NE14101_244: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 26.0 m
+18NE14101_247: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 25.0 m
+18NE14101_247: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.0 m

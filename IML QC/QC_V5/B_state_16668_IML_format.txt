@@ -1,0 +1,24 @@
+    The end of 18VA16668_1711 and the beginning of 18VA16668_1712 (found ship velocity is 0.00 kt)
+    The end of 18VA16668_1712 and the beginning of 18VA16668_1713 (found ship velocity is 0.00 kt)
+18VA16668_1711: Test 3.6 -> Profile 18VA16668_1711 outside TS Monthly Climatology polygons
+18VA16668_1711: Test 3.6 -> Profile 18VA16668_1711 outside Monthly Nutrient Climatology polygons
+18VA16668_1712: Test 3.6 -> Profile 18VA16668_1712 outside TS Monthly Climatology polygons
+18VA16668_1712: Test 3.6 -> Profile 18VA16668_1712 outside Monthly Nutrient Climatology polygons
+18VA16668_1713: Test 3.6 -> Profile 18VA16668_1713 outside TS Monthly Climatology polygons
+18VA16668_1713: Test 3.6 -> Profile 18VA16668_1713 outside Monthly Nutrient Climatology polygons
+18VA16668_1714: Test 2.1 -> Global Impossible Parameter Value for doxy
+18VA16668_1714: Test 2.1 -> Global Impossible Parameter Value for doxy
+18VA16668_1714: Test 2.1 -> Global Impossible Parameter Value for doxy
+18VA16668_1714: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18VA16668_1714: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18VA16668_1714: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18VA16668_1714: Test 3.6 -> Profile 18VA16668_1714 outside TS Monthly Climatology polygons
+18VA16668_1714: Test 3.6 -> Profile 18VA16668_1714 outside Monthly Nutrient Climatology polygons
+18VA16668_1715: Test 2.1 -> Global Impossible Parameter Value for doxy
+18VA16668_1715: Test 2.1 -> Global Impossible Parameter Value for doxy
+18VA16668_1715: Test 2.1 -> Global Impossible Parameter Value for doxy
+18VA16668_1715: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18VA16668_1715: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18VA16668_1715: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18VA16668_1715: Test 3.6 -> Profile 18VA16668_1715 outside TS Monthly Climatology polygons
+18VA16668_1715: Test 3.6 -> Profile 18VA16668_1715 outside Monthly Nutrient Climatology polygons

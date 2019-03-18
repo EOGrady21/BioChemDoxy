@@ -1,0 +1,31 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+89037_315; 46.00 to 46.00; 66332, 66333; psal; 33.23  33.23  ; Gradient or Inversion too high
+89037_315; 12.00; 66334; ntrz; 7.45  ; Out of Nutrient Climatology in box(es) 9 (Min=0.28 Max=4.02 n=16)
+89037_315; 13.00; 66335; ntrz; 7.36  ; Out of Nutrient Climatology in box(es) 9 (Min=0.28 Max=4.02 n=16)
+89037_315; 12.00; 66334; slca; 6.50  ; Out of Nutrient Climatology in box(es) 9 (Min=2.14 Max=4.44 n=16)
+89037_315; 13.00; 66335; slca; 6.27  ; Out of Nutrient Climatology in box(es) 9 (Min=2.14 Max=4.44 n=16)
+89037_326; 139.00 to 139.00; 66336, 66337; psal; 33.67  33.68  ; Gradient or Inversion too high
+89037_326; 139.00 to 139.00; 66336, 66337; ntrz; 10.09  10.21  ; Gradient or Inversion too high
+89037_193; 55.00 to 55.00; 66543, 66544; ntrz; 6.56  6.66  ; Gradient or Inversion too high
+89037_193; 70.00 to 70.00; 66541, 66542; ntrz; 7.67  7.65  ; Gradient or Inversion too high
+89037_193; 55.00 to 55.00; 66543, 66544; phos; 0.73  0.76  ; Gradient or Inversion too high
+89037_193; 70.00 to 70.00; 66541, 66542; phos; 0.81  0.78  ; Gradient or Inversion too high
+89037_204; 17.00; 66550; ntrz; 4.08  ; Out of Nutrient Climatology in box(es) 7 (Min=4.90 Max=6.70 n=4)
+89037_204; 101.00; 66548; ntrz; 7.92  ; Out of Nutrient Climatology in box(es) 7 (Min=8.81 Max=25.23 n=15)
+89037_215; 17.00; 66560; ntrz; 7.13  ; Out of Nutrient Climatology in box(es) 7 (Min=4.90 Max=6.70 n=4)
+89037_215; 107.00; 66559; ntrz; 7.82  ; Out of Nutrient Climatology in box(es) 7 (Min=8.81 Max=25.23 n=15)
+89037_226; 16.00; 66570; ntrz; 7.40  ; Out of Nutrient Climatology in box(es) 7 (Min=4.90 Max=6.70 n=4)
+89037_239; 20.00; 66590; ntrz; 3.85  ; Out of Nutrient Climatology in box(es) 7 (Min=4.90 Max=6.70 n=4)
+89037_239; 20.00; 66590; slca; 3.61  ; Out of Nutrient Climatology in box(es) 7 (Min=4.19 Max=7.44 n=8)
+89037_243; 16.00; 66600; ntrz; 3.73  ; Out of Nutrient Climatology in box(es) 7 (Min=4.90 Max=6.70 n=4)
+89037_243; 16.00; 66600; slca; 3.77  ; Out of Nutrient Climatology in box(es) 7 (Min=4.19 Max=7.44 n=8)
+89037_243; 104.00; 66599; slca; 3.92  ; Out of Nutrient Climatology in box(es) 7 (Min=4.40 Max=16.11 n=20)
+89037_243; 3605.00; 66591; slca; 18.80  ; Out of Nutrient Climatology in box(es) 7 (Min=4.40 Max=16.11 n=20)
+89037_263; 5456.00; 66651; pres; 5456.00  ; Regional Impossible Parameter Value
+89037_265; 5493.00; 66661; pres; 5493.00  ; Regional Impossible Parameter Value
+89037_275; 5468.00; 66671; pres; 5468.00  ; Regional Impossible Parameter Value
+89037_276; 5063.00; 66682; pres; 5063.00  ; Regional Impossible Parameter Value
+89037_276; 5456.00; 66681; pres; 5456.00  ; Regional Impossible Parameter Value
+89037_277; 5459.00; 66691; pres; 5459.00  ; Regional Impossible Parameter Value
+89037_278; 5081.00; 66702; pres; 5081.00  ; Regional Impossible Parameter Value
+89037_278; 5516.00; 66701; pres; 5516.00  ; Regional Impossible Parameter Value

@@ -1,0 +1,93 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18MF02066 FLAG Report:,  2019-03-15 11:59:43
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged OXYGEN, event IML2002066351, station 351:
+
+ sample_key  depth O2_CTD_mLL qc
+              1.79   319.3637  0
+              5.55   319.5423  0
+             14.78   319.7656  0
+             25.58   317.4879  0
+             47.79   314.5404  0
+            101.03   290.3347  0
+            197.94   168.1896  0
+            301.35   148.6731  0
+            399.45   166.9391  0
+            451.51   166.4032  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event IML2002066441, station 441:
+
+ sample_key depth O2_CTD_mLL qc
+             1.98   318.7831  0
+             4.86   317.9792  0
+            14.87   317.7559  0
+            24.79   316.4161  0
+            47.20   245.9426  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event IML2002066471, station 471:
+
+ sample_key depth O2_CTD_mLL qc
+             1.59   314.8083  0
+             4.96   314.7637  0
+            15.07   314.7190  0
+            25.38   313.6025  0
+            50.47   256.0358  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event IML2002066481, station 481:
+
+ sample_key depth O2_CTD_mLL qc
+             1.78   317.1307  0
+             4.96   317.1753  0
+            15.07   317.1307  0
+            25.58   315.8355  0
+            50.27   313.5132  0
+            73.47   217.0923  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

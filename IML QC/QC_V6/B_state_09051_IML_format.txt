@@ -1,0 +1,6 @@
+18TL09051_1055: Test 3.5 -> Profile 18TL09051_1055 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18TL09051_1055: Test 3.6 -> Profile 18TL09051_1055 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18TL09051_1058: Test 3.5 -> Profile 18TL09051_1058 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18TL09051_1058: Test 3.6 -> Profile 18TL09051_1058 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18TL09051_1050: Test 3.6 -> Profile 18TL09051_1050 outside TS Monthly Climatology polygons
+18TL09051_1050: Test 3.6 -> Profile 18TL09051_1050 outside Monthly Nutrient Climatology polygons

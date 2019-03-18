@@ -1,0 +1,38 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU94030_003; 12.20; 150756; slca; -0.29  ; Global Impossible Parameter Value
+18HU94030_003; 110.63; 150755; slca; -0.13  ; Global Impossible Parameter Value
+18HU94030_003; 12.20; 150756; slca; -0.29  ; Regional Impossible Parameter Value
+18HU94030_003; 110.63; 150755; slca; -0.13  ; Regional Impossible Parameter Value
+18HU94030_014; 5167.03; 150759; pres; 5167.03  ; Regional Impossible Parameter Value
+18HU94030_014; 5401.54; 150758; pres; 5401.54  ; Regional Impossible Parameter Value
+18HU94030_014; 5507.43; 150757; pres; 5507.43  ; Regional Impossible Parameter Value
+18HU94030_025; 5199.48; 150779; pres; 5199.48  ; Regional Impossible Parameter Value
+18HU94030_025; 5405.88; 150778; pres; 5405.88  ; Regional Impossible Parameter Value
+18HU94030_025; 5503.38; 150777; pres; 5503.38  ; Regional Impossible Parameter Value
+18HU94030_036; 5186.38; 150799; pres; 5186.38  ; Regional Impossible Parameter Value
+18HU94030_036; 5386.87; 150798; pres; 5386.87  ; Regional Impossible Parameter Value
+18HU94030_036; 5500.07; 150797; pres; 5500.07  ; Regional Impossible Parameter Value
+18HU94030_047; 5182.50; 150819; pres; 5182.50  ; Regional Impossible Parameter Value
+18HU94030_047; 5401.51; 150818; pres; 5401.51  ; Regional Impossible Parameter Value
+18HU94030_047; 5511.03; 150817; pres; 5511.03  ; Regional Impossible Parameter Value
+18HU94030_069; 5004.62; 150859; pres; 5004.62  ; Regional Impossible Parameter Value
+18HU94030_069; 5389.44; 150858; pres; 5389.44  ; Regional Impossible Parameter Value
+18HU94030_069; 5501.94; 150857; pres; 5501.94  ; Regional Impossible Parameter Value
+18HU94030_080; 5296.69; 150878; pres; 5296.69  ; Regional Impossible Parameter Value
+18HU94030_080; 5447.02; 150877; pres; 5447.02  ; Regional Impossible Parameter Value
+18HU94030_277; 247.92; 151369; ntrz; 14.44  ; Out of Nutrient Climatology in box(es) 9 (Min=3.39 Max=7.89 n=4)
+18HU94030_277; 377.40; 151368; ntrz; 15.43  ; Out of Nutrient Climatology in box(es) 9 (Min=3.39 Max=7.89 n=4)
+18HU94030_277; 531.71; 151367; ntrz; 15.15  ; Out of Nutrient Climatology in box(es) 9 (Min=3.39 Max=7.89 n=4)
+18HU94030_277; 247.92; 151369; phos; 1.13  ; Out of Nutrient Climatology in box(es) 9 (Min=0.68 Max=1.01 n=4)
+18HU94030_277; 377.40; 151368; phos; 1.14  ; Out of Nutrient Climatology in box(es) 9 (Min=0.68 Max=1.01 n=4)
+18HU94030_277; 531.71; 151367; phos; 1.14  ; Out of Nutrient Climatology in box(es) 9 (Min=0.68 Max=1.01 n=4)
+18HU94030_277; 247.92; 151369; slca; 11.97  ; Out of Nutrient Climatology in box(es) 9 (Min=3.93 Max=9.32 n=4)
+18HU94030_277; 377.40; 151368; slca; 11.88  ; Out of Nutrient Climatology in box(es) 9 (Min=3.93 Max=9.32 n=4)
+18HU94030_277; 531.71; 151367; slca; 11.16  ; Out of Nutrient Climatology in box(es) 9 (Min=3.93 Max=9.32 n=4)
+18HU94030_278; 12.90; 151373; ntrz; 0.00  ; Out of Nutrient Climatology in box(es) 9 (Min=0.15 Max=3.21 n=37)
+18HU94030_278; 104.65; 151372; ntrz; 10.03  ; Out of Nutrient Climatology in box(es) 9 (Min=3.39 Max=7.89 n=4)
+18HU94030_278; 178.54; 151371; ntrz; 13.27  ; Out of Nutrient Climatology in box(es) 9 (Min=3.39 Max=7.89 n=4)
+18HU94030_278; 104.65; 151372; phos; 1.08  ; Out of Nutrient Climatology in box(es) 9 (Min=0.68 Max=1.01 n=4)
+18HU94030_278; 178.54; 151371; phos; 1.10  ; Out of Nutrient Climatology in box(es) 9 (Min=0.68 Max=1.01 n=4)
+18HU94030_278; 104.65; 151372; slca; 10.22  ; Out of Nutrient Climatology in box(es) 9 (Min=3.93 Max=9.32 n=4)
+18HU94030_278; 178.54; 151371; slca; 11.64  ; Out of Nutrient Climatology in box(es) 9 (Min=3.93 Max=9.32 n=4)

@@ -1,0 +1,14 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18VA16668_1713; 72.18 to 74.16; 329942, 329941; ntrz; 5.40  9.31  ; Gradient or Inversion too high
+18VA16668_1714; 4.96; 423698; doxy; 286.76  ; Global Impossible Parameter Value
+18VA16668_1714; 49.58; 423695; doxy; 309.18  ; Global Impossible Parameter Value
+18VA16668_1714; 78.13; 423694; doxy; 270.30  ; Global Impossible Parameter Value
+18VA16668_1714; 4.96; 423698; doxy; 286.76  ; Regional Impossible Parameter Value
+18VA16668_1714; 49.58; 423695; doxy; 309.18  ; Regional Impossible Parameter Value
+18VA16668_1714; 78.13; 423694; doxy; 270.30  ; Regional Impossible Parameter Value
+18VA16668_1715; 4.96; 423809; doxy; 293.91  ; Global Impossible Parameter Value
+18VA16668_1715; 49.58; 423806; doxy; 307.24  ; Global Impossible Parameter Value
+18VA16668_1715; 79.31; 423805; doxy; 257.53  ; Global Impossible Parameter Value
+18VA16668_1715; 4.96; 423809; doxy; 293.91  ; Regional Impossible Parameter Value
+18VA16668_1715; 49.58; 423806; doxy; 307.24  ; Regional Impossible Parameter Value
+18VA16668_1715; 79.31; 423805; doxy; 257.53  ; Regional Impossible Parameter Value

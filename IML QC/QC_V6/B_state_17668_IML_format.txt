@@ -1,0 +1,7 @@
+    The end of 18VA17668_1716 and the beginning of 18VA17668_1717 (found ship velocity is 0.00 kt)
+18VA17668_1716: Test 3.6 -> Profile 18VA17668_1716 outside TS Monthly Climatology polygons
+18VA17668_1716: Test 3.6 -> Profile 18VA17668_1716 outside Monthly Nutrient Climatology polygons
+18VA17668_1717: Test 3.6 -> Profile 18VA17668_1717 outside TS Monthly Climatology polygons
+18VA17668_1717: Test 3.6 -> Profile 18VA17668_1717 outside Monthly Nutrient Climatology polygons
+18VA17668_1718: Test 3.6 -> Profile 18VA17668_1718 outside TS Monthly Climatology polygons
+18VA17668_1718: Test 3.6 -> Profile 18VA17668_1718 outside Monthly Nutrient Climatology polygons

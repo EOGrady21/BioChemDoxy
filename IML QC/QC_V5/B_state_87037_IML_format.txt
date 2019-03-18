@@ -1,0 +1,188 @@
+Test 1.5 ->Negative cruise velocity -> Check time of
+    The end of 18HU87037_305 and the beginning of 18HU87037_306 (deltaT=-0.0 h; deltaD=14.9 nm)
+Test 1.6 -> No known depth for 18HU87037_002
+Test 1.6 -> No known depth for 18HU87037_113
+Test 1.6 -> No known depth for 18HU87037_225
+Test 1.6 -> No known depth for 18HU87037_305
+Test 1.6 -> No known depth for 18HU87037_306
+Test 1.6 -> No known depth for 18HU87037_307
+18HU87037_002: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_002: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_002: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_002: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_002: Test 3.6 -> Profile 18HU87037_002 outside TS Monthly Climatology polygons
+18HU87037_002: Test 3.6 -> Profile 18HU87037_002 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU87037_002: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 16.0 m
+18HU87037_002: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 16.0 m
+18HU87037_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_113: Test 3.6 -> Profile 18HU87037_113 outside TS Monthly Climatology polygons
+18HU87037_113: Test 3.6 -> Profile 18HU87037_113 outside Monthly Nutrient Climatology polygons
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_225: Test 3.6 -> Profile 18HU87037_225 outside TS Monthly Climatology polygons
+18HU87037_225: Test 3.6 -> Profile 18HU87037_225 outside Monthly Nutrient Climatology polygons
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_305: Test 3.6 -> Profile 18HU87037_305 outside TS Monthly Climatology polygons
+18HU87037_305: Test 3.6 -> Profile 18HU87037_305 outside Monthly Nutrient Climatology polygons
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_306: Test 3.6 -> Profile 18HU87037_306 outside TS Monthly Climatology polygons
+18HU87037_306: Test 3.6 -> Profile 18HU87037_306 outside Monthly Nutrient Climatology polygons
+18HU87037_307: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_307: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_307: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_307: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_307: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_307: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_307: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_307: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_307: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_307: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU87037_307: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_307: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_307: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_307: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_307: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_307: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_307: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_307: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_307: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_307: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18HU87037_307: Test 3.6 -> Profile 18HU87037_307 outside TS Monthly Climatology polygons
+18HU87037_307: Test 3.6 -> Profile 18HU87037_307 outside Monthly Nutrient Climatology polygons

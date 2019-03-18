@@ -1,0 +1,96 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18TL12001 FLAG Report:,  2019-03-15 12:46:05
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged NITRATE, event IML2012012401, station 401:
+
+ sample_key  depth  value         method qc
+              1.78  0.035 NO2NO3_Tech_SF  1
+              5.75  0.035 NO2NO3_Tech_SF  1
+             25.68  0.100 NO2NO3_Tech_SF  1
+             50.47  1.820 NO2NO3_Tech_SF  1
+             98.55 11.370 NO2NO3_Tech_SF  2
+            198.83 17.555 NO2NO3_Tech_SF  1
+            246.67 20.065 NO2NO3_Tech_SF  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event IML2012012421, station 421:
+
+ sample_key  depth O2_CTD_mLL qc
+              2.68   315.6569  0
+              5.85   315.7909  0
+             15.67   317.0413  0
+             25.98   340.4878  0
+             50.97   333.0296  0
+            100.63   279.0357  0
+            201.81   167.1624  0
+            298.57   137.9994  0
+            396.98   177.3449  0
+            456.46   189.5370  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event IML2012012521, station 521:
+
+ sample_key depth O2_CTD_mLL qc
+             1.39   315.4336  0
+             5.85   313.9598  0
+            15.37   323.2044  0
+            25.29   338.1655  0
+            50.27   319.9889  0
+            74.96   270.8182  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged OXYGEN, event IML2012012571, station 571:
+
+ sample_key depth O2_CTD_mLL qc
+             1.29   313.7812  0
+             5.85   315.4782  0
+            15.07   333.4316  0
+            25.28   333.8782  0
+            49.97   285.6007  0
+            65.73   262.3328  0
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

@@ -1,0 +1,33 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18OL03019_652; 1.69; 233779; doxy; 7.67; Bottle-CTD Difference Problem
+18OL03019_652; 244.59; 233772; doxy; 4.30; Bottle-CTD Difference Problem
+18OL03019_653; 1.49; 233789; doxy; 7.66; Bottle-CTD Difference Problem
+18OL03019_653; 468.12; 233780; doxy; 3.94; Bottle-CTD Difference Problem
+18OL03019_654; 458.14; 233790; doxy; 3.97; Bottle-CTD Difference Problem
+18OL03019_655; 0.89; 233808; doxy; 7.47; Bottle-CTD Difference Problem
+18OL03019_655; 323.53; 233800; doxy; 3.38; Bottle-CTD Difference Problem
+18OL03019_656; 175.95; 233809; doxy; 4.67; Bottle-CTD Difference Problem
+18OL03019_657; 1.69; 233821; doxy; 7.21; Bottle-CTD Difference Problem
+18OL03019_657; 77.34; 233816; doxy; 6.93; Bottle-CTD Difference Problem
+18OL03019_658; 1.49; 233827; doxy; 6.96; Bottle-CTD Difference Problem
+18OL03019_658; 62.87; 233822; doxy; 7.66; Bottle-CTD Difference Problem
+18OL03019_659; 1.29; 233833; doxy; 7.47; Bottle-CTD Difference Problem
+18OL03019_659; 60.58; 233828; doxy; 7.30; Bottle-CTD Difference Problem
+18OL03019_660; 1.19; 233838; doxy; 7.49; Bottle-CTD Difference Problem
+18OL03019_660; 50.47; 233834; doxy; 7.13; Bottle-CTD Difference Problem
+18OL03019_661; 1.29; 233843; doxy; 7.63  ; Constant profile problem
+18OL03019_661; 40.95; 233839; doxy; 7.63  ; Constant profile problem
+18OL03019_661; 1.29; 233843; doxy; 7.63; Bottle-CTD Difference Problem
+18OL03019_661; 40.95; 233839; doxy; 7.63; Bottle-CTD Difference Problem
+18OL03019_662; 1.29; 233848; doxy; 7.72; Bottle-CTD Difference Problem
+18OL03019_662; 40.26; 233844; doxy; 7.29; Bottle-CTD Difference Problem
+18OL03019_663; 1.19; 233853; doxy; 8.22; Bottle-CTD Difference Problem
+18OL03019_663; 49.87; 233849; doxy; 7.28; Bottle-CTD Difference Problem
+18OL03019_664; 1.19; 233859; doxy; 7.29; Bottle-CTD Difference Problem
+18OL03019_664; 76.14; 233854; doxy; 5.86; Bottle-CTD Difference Problem
+18OL03019_665; 1.09; 233865; doxy; 7.32; Bottle-CTD Difference Problem
+18OL03019_665; 62.36; 233860; doxy; 6.58; Bottle-CTD Difference Problem
+18OL03019_666; 1.29; 233871; doxy; 7.26; Bottle-CTD Difference Problem
+18OL03019_666; 76.94; 233866; doxy; 6.13; Bottle-CTD Difference Problem
+18OL03019_667; 1.19; 233876; doxy; 7.17; Bottle-CTD Difference Problem
+18OL03019_667; 38.67; 233872; doxy; 7.41; Bottle-CTD Difference Problem

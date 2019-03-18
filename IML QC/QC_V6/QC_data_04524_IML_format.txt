@@ -1,0 +1,4 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL04524_304; 85.07; 258064; slca; 9.22  ; Out of Nutrient Climatology in box(es) 9 (Min=0.00 Max=8.82 n=244)
+18TL04524_069; 383.27; 258111; doxy; 8.11; Impossible Parameter Value in Profile
+18TL04524_091; 1512.20; 258122; doxy; 8.67; Impossible Parameter Value in Profile

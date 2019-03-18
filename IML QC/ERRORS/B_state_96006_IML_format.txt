@@ -1,0 +1,20 @@
+Test 1.5 -> Cruise velocity > permitted -> Check time and position of
+    the end of 18HU96006_398 and the beginning of 18HU96006_399 (found ship velocity is 19.7 kt)
+Test 1.6 -> No known depth for 18HU96006_390
+Test 1.6 -> No known depth for 18HU96006_391
+Test 1.6 -> No known depth for 18HU96006_392
+Test 1.6 -> No known depth for 18HU96006_393
+Test 1.6 -> No known depth for 18HU96006_394
+Test 1.6 -> No known depth for 18HU96006_395
+Test 1.6 -> No known depth for 18HU96006_396
+Test 1.6 -> No known depth for 18HU96006_397
+Test 1.6 -> No known depth for 18HU96006_398
+Test 1.6 -> No known depth for 18HU96006_399
+Test 1.6 -> No known depth for 18HU96006_400
+Test 1.6 -> No known depth for 18HU96006_401
+Test 1.6 -> No known depth for 18HU96006_402
+Test 1.6 -> No known depth for 18HU96006_403
+Test 1.6 -> No known depth for 18HU96006_404
+Test 1.6 -> No known depth for 18HU96006_405
+Test 1.6 -> No known depth for 18HU96006_406
+18HU96006_403: Test 3.5 -> Profile 18HU96006_403 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes

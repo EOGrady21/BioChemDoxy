@@ -1,0 +1,127 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18HU83023 FLAG Report:,  2019-03-15 11:38:05
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged CHLOROPHYLL, event 83023501, station 0:
+
+            sample_key depth Chl_a_Holm-Hansen_sF qc
+ 18HU83023_331_8309002     0                0.417  7
+ 18HU83023_331_8309001     0                0.417  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 83023501, station 0:
+
+            sample_key depth value   method qc
+ 18HU83023_331_8309001     0  0.03 NO2NO3_0  7
+ 18HU83023_331_8309002     0  0.03 NO2NO3_0  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 83023501, station 0:
+
+            sample_key depth value method qc
+ 18HU83023_331_8309001     0  0.22  PO4_0  7
+ 18HU83023_331_8309002     0  0.22  PO4_0  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 83023501, station 0:
+
+            sample_key depth value method qc
+ 18HU83023_331_8309001     0  0.85 SiO4_0  7
+ 18HU83023_331_8309002     0  0.85 SiO4_0  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged CHLOROPHYLL, event 83023502, station 1:
+
+            sample_key depth Chl_a_Holm-Hansen_sF qc
+ 18HU83023_332_8309004     3                0.241  7
+ 18HU83023_332_8309003     3                0.241  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 83023502, station 1:
+
+            sample_key depth value   method qc
+ 18HU83023_332_8309004     3  0.02 NO2NO3_0  7
+ 18HU83023_332_8309003     3  0.02 NO2NO3_0  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 83023502, station 1:
+
+            sample_key depth value method qc
+ 18HU83023_332_8309004     3   0.2  PO4_0  7
+ 18HU83023_332_8309003     3   0.2  PO4_0  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 83023502, station 1:
+
+            sample_key depth value method qc
+ 18HU83023_332_8309004     3  0.35 SiO4_0  7
+ 18HU83023_332_8309003     3  0.35 SiO4_0  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

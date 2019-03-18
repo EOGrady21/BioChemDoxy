@@ -1,0 +1,201 @@
+Test 1.6 -> No known depth for 18HU16027_315
+Test 1.6 -> No known depth for 18HU16027_058
+Test 1.6 -> No known depth for 18HU16027_091
+Test 1.6 -> No known depth for 18HU16027_138
+Test 1.6 -> No known depth for 18HU16027_171
+Test 1.6 -> No known depth for 18HU16027_204
+Test 1.6 -> No known depth for 18HU16027_237
+Test 1.6 -> No known depth for 18HU16027_244
+Test 1.6 -> No known depth for 18HU16027_257
+Test 1.6 -> No known depth for 18HU16027_278
+Test 1.6 -> No known depth for 18HU16027_279
+Test 1.6 -> No known depth for 18HU16027_281
+Test 1.6 -> No known depth for 18HU16027_283
+Test 1.6 -> No known depth for 18HU16027_296
+Test 1.6 -> No known depth for 18HU16027_299
+Test 1.6 -> No known depth for 18HU16027_301
+Test 1.6 -> No known depth for 18HU16027_302
+Test 1.6 -> No known depth for 18HU16027_306
+Test 1.6 -> No known depth for 18HU16027_312
+Test 1.6 -> No known depth for 18HU16027_316
+Test 1.6 -> No known depth for 18HU16027_318
+Test 1.6 -> No known depth for 18HU16027_321
+Test 1.6 -> No known depth for 18HU16027_325
+Test 1.6 -> No known depth for 18HU16027_333
+Test 1.6 -> No known depth for 18HU16027_337
+Test 1.6 -> No known depth for 18HU16027_353
+Test 1.6 -> No known depth for 18HU16027_369
+Test 1.6 -> No known depth for 18HU16027_371
+Test 1.6 -> No known depth for 18HU16027_059
+Test 1.6 -> No known depth for 18HU16027_061
+Test 1.6 -> No known depth for 18HU16027_064
+Test 1.6 -> No known depth for 18HU16027_066
+Test 1.6 -> No known depth for 18HU16027_068
+Test 1.6 -> No known depth for 18HU16027_072
+Test 1.6 -> No known depth for 18HU16027_074
+Test 1.6 -> No known depth for 18HU16027_076
+Test 1.6 -> No known depth for 18HU16027_078
+Test 1.6 -> No known depth for 18HU16027_082
+Test 1.6 -> No known depth for 18HU16027_085
+Test 1.6 -> No known depth for 18HU16027_089
+Test 1.6 -> No known depth for 18HU16027_092
+Test 1.6 -> No known depth for 18HU16027_097
+Test 1.6 -> No known depth for 18HU16027_101
+Test 1.6 -> No known depth for 18HU16027_105
+Test 1.6 -> No known depth for 18HU16027_106
+Test 1.6 -> No known depth for 18HU16027_107
+Test 1.6 -> No known depth for 18HU16027_108
+Test 1.6 -> No known depth for 18HU16027_109
+Test 1.6 -> No known depth for 18HU16027_112
+Test 1.6 -> No known depth for 18HU16027_118
+Test 1.6 -> No known depth for 18HU16027_120
+Test 1.6 -> No known depth for 18HU16027_122
+Test 1.6 -> No known depth for 18HU16027_123
+Test 1.6 -> No known depth for 18HU16027_125
+Test 1.6 -> No known depth for 18HU16027_128
+Test 1.6 -> No known depth for 18HU16027_130
+Test 1.6 -> No known depth for 18HU16027_133
+Test 1.6 -> No known depth for 18HU16027_137
+Test 1.6 -> No known depth for 18HU16027_140
+Test 1.6 -> No known depth for 18HU16027_142
+Test 1.6 -> No known depth for 18HU16027_144
+Test 1.6 -> No known depth for 18HU16027_146
+Test 1.6 -> No known depth for 18HU16027_150
+Test 1.6 -> No known depth for 18HU16027_152
+Test 1.6 -> No known depth for 18HU16027_154
+Test 1.6 -> No known depth for 18HU16027_156
+Test 1.6 -> No known depth for 18HU16027_158
+Test 1.6 -> No known depth for 18HU16027_162
+Test 1.6 -> No known depth for 18HU16027_164
+Test 1.6 -> No known depth for 18HU16027_166
+Test 1.6 -> No known depth for 18HU16027_169
+Test 1.6 -> No known depth for 18HU16027_172
+Test 1.6 -> No known depth for 18HU16027_174
+Test 1.6 -> No known depth for 18HU16027_177
+Test 1.6 -> No known depth for 18HU16027_179
+Test 1.6 -> No known depth for 18HU16027_183
+Test 1.6 -> No known depth for 18HU16027_186
+Test 1.6 -> No known depth for 18HU16027_188
+Test 1.6 -> No known depth for 18HU16027_190
+Test 1.6 -> No known depth for 18HU16027_192
+Test 1.6 -> No known depth for 18HU16027_195
+Test 1.6 -> No known depth for 18HU16027_198
+Test 1.6 -> No known depth for 18HU16027_200
+Test 1.6 -> No known depth for 18HU16027_205
+18HU16027_315: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 19.4 m
+18HU16027_315: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 19.4 m
+18HU16027_138: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 195.4 m
+18HU16027_204: Test 3.6 -> phos in box(es) 6 is out of Nutrient Climatology at 30.5 m
+18HU16027_204: Test 3.6 -> phos in box(es) 6 is out of Nutrient Climatology at 41.0 m
+18HU16027_244: Test 3.5 -> psal in box(es) 33 is out of TS Climatology by more than 3*std at 500.0 m
+18HU16027_257: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 500.0 m
+18HU16027_257: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 29.8 m
+18HU16027_278: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+18HU16027_278: Test 3.6 -> phos in box(es) 7 is out of Nutrient Climatology at 10.7 m
+18HU16027_278: Test 3.6 -> phos in box(es) 7 is out of Nutrient Climatology at 20.7 m
+18HU16027_281: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+18HU16027_281: Test 3.6 -> phos in box(es) 7 is out of Nutrient Climatology at 30.0 m
+18HU16027_281: Test 3.6 -> phos in box(es) 7 is out of Nutrient Climatology at 2000.8 m
+18HU16027_296: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 50.0 m
+18HU16027_296: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 250.0 m
+18HU16027_299: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 0.0 m
+18HU16027_299: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 50.0 m
+18HU16027_299: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 250.0 m
+18HU16027_301: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 0.0 m
+18HU16027_301: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 50.0 m
+18HU16027_301: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 250.0 m
+18HU16027_301: Test 3.6 -> phos in box(es) 7 is out of Nutrient Climatology at 2.6 m
+18HU16027_301: Test 3.6 -> phos in box(es) 7 is out of Nutrient Climatology at 20.1 m
+18HU16027_301: Test 3.6 -> phos in box(es) 7 is out of Nutrient Climatology at 30.3 m
+18HU16027_306: Test 3.6 -> Profile 18HU16027_306 outside TS Monthly Climatology polygons
+18HU16027_306: Test 3.6 -> Profile 18HU16027_306 outside Monthly Nutrient Climatology polygons
+18HU16027_318: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 250.0 m
+18HU16027_325: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 250.0 m
+18HU16027_004: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 100.9 m
+18HU16027_019: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 366.4 m
+18HU16027_019: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 20.5 m
+18HU16027_019: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 29.3 m
+18HU16027_022: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 150.0 m
+18HU16027_053: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 30.0 m
+18HU16027_055: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 29.3 m
+18HU16027_059: Test 3.6 -> Profile 18HU16027_059 outside TS Monthly Climatology polygons
+18HU16027_059: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 2.5 m
+18HU16027_059: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 9.5 m
+18HU16027_059: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 18.6 m
+18HU16027_061: Test 3.5 -> Profile 18HU16027_061 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU16027_061: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 250.0 m
+18HU16027_061: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 10.4 m
+18HU16027_061: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 3.4 m
+18HU16027_061: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 10.4 m
+18HU16027_064: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 250.0 m
+18HU16027_064: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 10.8 m
+18HU16027_064: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 20.7 m
+18HU16027_064: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 3.2 m
+18HU16027_064: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 10.8 m
+18HU16027_064: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 20.7 m
+18HU16027_066: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 0.0 m
+18HU16027_066: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 10.8 m
+18HU16027_066: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 19.8 m
+18HU16027_066: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 30.7 m
+18HU16027_066: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 2.9 m
+18HU16027_066: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 10.8 m
+18HU16027_068: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 0.0 m
+18HU16027_068: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 11.1 m
+18HU16027_068: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 19.2 m
+18HU16027_068: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 29.0 m
+18HU16027_072: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 2.7 m
+18HU16027_072: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 8.5 m
+18HU16027_072: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 19.5 m
+18HU16027_082: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 11.0 m
+18HU16027_082: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 20.0 m
+18HU16027_082: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 28.4 m
+18HU16027_085: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 10.4 m
+18HU16027_085: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 4.2 m
+18HU16027_092: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 3.0 m
+18HU16027_092: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 9.4 m
+18HU16027_092: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 19.8 m
+18HU16027_097: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 3.0 m
+18HU16027_097: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 10.2 m
+18HU16027_097: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 20.3 m
+18HU16027_101: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 18.9 m
+18HU16027_105: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 10.3 m
+18HU16027_105: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 20.0 m
+18HU16027_107: Test 3.5 -> psal in box(es) 29 is out of TS Climatology by more than 3*std at 0.0 m
+18HU16027_108: Test 3.5 -> psal in box(es) 29 is out of TS Climatology by more than 3*std at 0.0 m
+18HU16027_109: Test 3.6 -> slca in box(es) 2 is out of Nutrient Climatology at 3.4 m
+18HU16027_109: Test 3.6 -> slca in box(es) 2 is out of Nutrient Climatology at 10.9 m
+18HU16027_118: Test 3.5 -> psal in box(es) 29 is out of TS Climatology by more than 3*std at 0.0 m
+18HU16027_130: Test 3.6 -> phos in box(es) 1 is out of Nutrient Climatology at 29.9 m
+18HU16027_144: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 3.5 m
+18HU16027_144: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 10.3 m
+18HU16027_144: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 19.7 m
+18HU16027_150: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 3.6 m
+18HU16027_150: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 9.9 m
+18HU16027_150: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 20.2 m
+18HU16027_152: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 10.0 m
+18HU16027_152: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 19.2 m
+18HU16027_154: Test 3.5 -> psal in box(es) 51 is out of TS Climatology by more than 3*std at 150.0 m
+18HU16027_158: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 3.4 m
+18HU16027_158: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 10.0 m
+18HU16027_158: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 19.3 m
+18HU16027_158: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 28.6 m
+18HU16027_162: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 3.4 m
+18HU16027_164: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 3.1 m
+18HU16027_164: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 9.9 m
+18HU16027_164: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 20.3 m
+18HU16027_169: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 3.6 m
+18HU16027_169: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 10.0 m
+18HU16027_169: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 20.5 m
+18HU16027_169: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 30.3 m
+18HU16027_172: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 3.5 m
+18HU16027_172: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 9.1 m
+18HU16027_172: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 20.6 m
+18HU16027_177: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 3.7 m
+18HU16027_186: Test 3.6 -> ntrz in box(es) 1 is out of Nutrient Climatology at 100.0 m
+18HU16027_186: Test 3.6 -> slca in box(es) 1 is out of Nutrient Climatology at 100.0 m
+18HU16027_192: Test 3.5 -> psal in box(es) 15 is out of TS Climatology by more than 3*std at 200.0 m
+18HU16027_198: Test 3.5 -> psal in box(es) 14 is out of TS Climatology by more than 3*std at 0.0 m
+18HU16027_198: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 2.9 m
+18HU16027_200: Test 3.5 -> Profile 18HU16027_200 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU16027_200: Test 3.5 -> psal in box(es) 14 is out of TS Climatology by more than 3*std at 50.0 m
+18HU16027_205: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 3.3 m

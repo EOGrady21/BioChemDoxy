@@ -1,0 +1,21 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL11050_1175; 4.86; 345936; doxy; 272.52  ; Global Impossible Parameter Value
+18TL11050_1175; 246.87; 345935; doxy; 178.39  ; Global Impossible Parameter Value
+18TL11050_1175; 4.86; 345936; doxy; 272.52  ; Regional Impossible Parameter Value
+18TL11050_1175; 246.87; 345935; doxy; 178.39  ; Regional Impossible Parameter Value
+18TL11050_1176; 5.65; 345941; doxy; 264.07  ; Global Impossible Parameter Value
+18TL11050_1176; 457.73; 345937; doxy; 215.48  ; Global Impossible Parameter Value
+18TL11050_1176; 5.65; 345941; doxy; 264.07  ; Regional Impossible Parameter Value
+18TL11050_1176; 457.73; 345937; doxy; 215.48  ; Regional Impossible Parameter Value
+18TL11050_1177; 6.45; 345948; doxy; 270.04  ; Global Impossible Parameter Value
+18TL11050_1177; 521.54; 345943; doxy; 210.95  ; Global Impossible Parameter Value
+18TL11050_1177; 6.45; 345948; doxy; 270.04  ; Regional Impossible Parameter Value
+18TL11050_1177; 521.54; 345943; doxy; 210.95  ; Regional Impossible Parameter Value
+18TL11050_1178; 4.96; 345950; doxy; 269.72  ; Global Impossible Parameter Value
+18TL11050_1178; 427.74; 345949; doxy; 179.22  ; Global Impossible Parameter Value
+18TL11050_1178; 4.96; 345950; doxy; 269.72  ; Regional Impossible Parameter Value
+18TL11050_1178; 427.74; 345949; doxy; 179.22  ; Regional Impossible Parameter Value
+18TL11050_1179; 5.55; 345952; doxy; 268.83  ; Global Impossible Parameter Value
+18TL11050_1179; 245.28; 345951; doxy; 126.25  ; Global Impossible Parameter Value
+18TL11050_1179; 5.55; 345952; doxy; 268.83  ; Regional Impossible Parameter Value
+18TL11050_1179; 245.28; 345951; doxy; 126.25  ; Regional Impossible Parameter Value

@@ -1,0 +1,133 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18NA96002 FLAG Report:,  2019-03-15 12:04:23
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged NITRATE, event 23, station CAST#1:
+
+           sample_key depth value   method qc
+ 18NA96002_149_147465     1 0.080 NO2NO3_0  1
+ 18NA96002_149_147464     7 0.075 NO2NO3_0  1
+ 18NA96002_149_147463    21 0.215 NO2NO3_0  7
+ 18NA96002_149_147462    46 0.415 NO2NO3_0  1
+ 18NA96002_149_147461    88 0.765 NO2NO3_0  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 23, station CAST#1:
+
+           sample_key depth  value method qc
+ 18NA96002_149_147465     1 0.1495  PO4_0  1
+ 18NA96002_149_147464     7 0.1895  PO4_0  7
+ 18NA96002_149_147463    21 0.2615  PO4_0  1
+ 18NA96002_149_147462    46 0.3130  PO4_0  1
+ 18NA96002_149_147461    88 0.5580  PO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 23, station CAST#1:
+
+           sample_key depth value method qc
+ 18NA96002_149_147465     1 1.770 SiO4_0  7
+ 18NA96002_149_147464     7 0.805 SiO4_0  1
+ 18NA96002_149_147463    21 0.845 SiO4_0  1
+ 18NA96002_149_147462    46 1.085 SiO4_0  7
+ 18NA96002_149_147461    88 0.815 SiO4_0  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 46, station CAST#1:
+
+           sample_key depth  value   method qc
+ 18NA96002_280_147623     1  0.000 NO2NO3_0  1
+ 18NA96002_280_147622     5  0.010 NO2NO3_0  1
+ 18NA96002_280_147621    15  0.190 NO2NO3_0  1
+ 18NA96002_280_147620   222 14.485 NO2NO3_0  4
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 55, station CAST#1:
+
+           sample_key depth value   method qc
+ 18NA96002_299_147650     1 0.090 NO2NO3_0  1
+ 18NA96002_299_147649     5 0.100 NO2NO3_0  1
+ 18NA96002_299_147648    15 0.130 NO2NO3_0  1
+ 18NA96002_299_147647    50 0.295 NO2NO3_0  7
+ 18NA96002_299_147646    70 0.795 NO2NO3_0  1
+ 18NA96002_299_147645   112 1.920 NO2NO3_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 55, station CAST#1:
+
+           sample_key depth  value method qc
+ 18NA96002_299_147650     1 0.1615  PO4_0  1
+ 18NA96002_299_147649     5 0.1495  PO4_0  1
+ 18NA96002_299_147648    15 0.1805  PO4_0  7
+ 18NA96002_299_147647    50 0.3455  PO4_0  1
+ 18NA96002_299_147646    70 0.3420  PO4_0  1
+ 18NA96002_299_147645   112 0.4830  PO4_0  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event 58, station CAST#1:
+
+           sample_key depth  value method qc
+ 18NA96002_302_147661     1 0.1495  PO4_0  1
+ 18NA96002_302_147660     5 0.1610  PO4_0  7
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

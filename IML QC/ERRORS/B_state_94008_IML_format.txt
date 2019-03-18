@@ -1,0 +1,4 @@
+Test 1.6 -> No known depth for 18HU94008_002
+Test 1.6 -> No known depth for 18HU94008_113
+18HU94008_113: Test 3.6 -> Profile 18HU94008_113 outside TS Monthly Climatology polygons
+18HU94008_113: Test 3.6 -> Profile 18HU94008_113 outside Monthly Nutrient Climatology polygons

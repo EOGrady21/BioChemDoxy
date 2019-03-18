@@ -1,0 +1,141 @@
+Test 1.4 -> 18NA97052_002 is on land
+Test 1.4 -> 18NA97052_113 is on land
+Test 1.4 -> 18NA97052_339 is on land
+Test 1.4 -> 18NA97052_003 is on land
+Test 1.4 -> 18NA97052_014 is on land
+Test 1.4 -> 18NA97052_080 is on land
+Test 1.4 -> 18NA97052_091 is on land
+Test 1.4 -> 18NA97052_102 is on land
+Test 1.4 -> 18NA97052_114 is on land
+Test 1.4 -> 18NA97052_127 is on land
+Test 1.4 -> 18NA97052_138 is on land
+Test 1.4 -> 18NA97052_149 is on land
+Test 1.4 -> 18NA97052_160 is on land
+Test 1.4 -> 18NA97052_226 is on land
+18NA97052_002: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_002: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_002: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_002: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_002: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_002: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_002: Test 3.5 -> Profile 18NA97052_002 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NA97052_002: Test 3.6 -> Profile 18NA97052_002 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA97052_002: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 25.0 m
+18NA97052_002: Test 3.6 -> phos in box(es) 6 is out of Nutrient Climatology at 15.0 m
+18NA97052_002: Test 3.6 -> phos in box(es) 6 is out of Nutrient Climatology at 25.0 m
+18NA97052_002: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 15.0 m
+18NA97052_002: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 25.0 m
+18NA97052_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_113: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_113: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_113: Test 3.5 -> Profile 18NA97052_113 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NA97052_113: Test 3.6 -> Profile 18NA97052_113 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA97052_113: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 10.0 m
+18NA97052_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_225: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_225: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_225: Test 3.5 -> Profile 18NA97052_225 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NA97052_225: Test 3.6 -> Profile 18NA97052_225 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA97052_225: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 18.0 m
+18NA97052_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_264: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_264: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_264: Test 3.5 -> Profile 18NA97052_264 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NA97052_264: Test 3.6 -> Profile 18NA97052_264 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA97052_284: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_284: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_284: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_284: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_284: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_284: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_284: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_284: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_284: Test 3.6 -> Profile 18NA97052_284 outside TS Monthly Climatology polygons
+18NA97052_284: Test 3.6 -> Profile 18NA97052_284 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18NA97052_304: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_304: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_304: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_304: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_304: Test 3.6 -> Profile 18NA97052_304 outside TS Monthly Climatology polygons
+18NA97052_304: Test 3.6 -> Profile 18NA97052_304 outside Monthly Nutrient Climatology polygons
+18NA97052_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_326: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_326: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_326: Test 3.6 -> Profile 18NA97052_326 outside TS Monthly Climatology polygons
+18NA97052_326: Test 3.6 -> Profile 18NA97052_326 outside Monthly Nutrient Climatology polygons
+18NA97052_339: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_339: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_339: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_339: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_339: Test 3.6 -> Profile 18NA97052_339 outside TS Monthly Climatology polygons
+18NA97052_339: Test 3.6 -> Profile 18NA97052_339 outside Monthly Nutrient Climatology polygons
+18NA97052_003: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_003: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_003: Test 3.6 -> Profile 18NA97052_003 outside TS Monthly Climatology polygons
+18NA97052_003: Test 3.6 -> Profile 18NA97052_003 outside Monthly Nutrient Climatology polygons
+18NA97052_014: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_014: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_014: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_014: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_014: Test 3.6 -> Profile 18NA97052_014 outside TS Monthly Climatology polygons
+18NA97052_014: Test 3.6 -> Profile 18NA97052_014 outside Monthly Nutrient Climatology polygons
+18NA97052_080: Test 3.6 -> Profile 18NA97052_080 outside TS Monthly Climatology polygons
+18NA97052_080: Test 3.6 -> Profile 18NA97052_080 outside Monthly Nutrient Climatology polygons
+18NA97052_091: Test 3.6 -> Profile 18NA97052_091 outside TS Monthly Climatology polygons
+18NA97052_091: Test 3.6 -> Profile 18NA97052_091 outside Monthly Nutrient Climatology polygons
+18NA97052_102: Test 3.6 -> Profile 18NA97052_102 outside TS Monthly Climatology polygons
+18NA97052_102: Test 3.6 -> Profile 18NA97052_102 outside Monthly Nutrient Climatology polygons
+18NA97052_114: Test 3.6 -> Profile 18NA97052_114 outside TS Monthly Climatology polygons
+18NA97052_114: Test 3.6 -> Profile 18NA97052_114 outside Monthly Nutrient Climatology polygons
+18NA97052_127: Test 3.6 -> Profile 18NA97052_127 outside TS Monthly Climatology polygons
+18NA97052_127: Test 3.6 -> Profile 18NA97052_127 outside Monthly Nutrient Climatology polygons
+18NA97052_138: Test 3.6 -> Profile 18NA97052_138 outside TS Monthly Climatology polygons
+18NA97052_138: Test 3.6 -> Profile 18NA97052_138 outside Monthly Nutrient Climatology polygons
+18NA97052_149: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_149: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_149: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_149: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_149: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_149: Test 2.1 -> Global Impossible Parameter Value for phos
+18NA97052_149: Test 2.1 -> Global Impossible Parameter Value for phos
+18NA97052_149: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_149: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_149: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_149: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_149: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_149: Test 2.2 -> Regional Impossible Parameter Value for phos
+18NA97052_149: Test 2.2 -> Regional Impossible Parameter Value for phos
+18NA97052_149: Test 3.6 -> Profile 18NA97052_149 outside TS Monthly Climatology polygons
+18NA97052_149: Test 3.6 -> Profile 18NA97052_149 outside Monthly Nutrient Climatology polygons
+18NA97052_160: Test 3.6 -> Profile 18NA97052_160 outside TS Monthly Climatology polygons
+18NA97052_160: Test 3.6 -> Profile 18NA97052_160 outside Monthly Nutrient Climatology polygons
+18NA97052_182: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_182: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_182: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_182: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_182: Test 3.6 -> Profile 18NA97052_182 outside TS Monthly Climatology polygons
+18NA97052_182: Test 3.6 -> Profile 18NA97052_182 outside Monthly Nutrient Climatology polygons
+18NA97052_193: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_193: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_193: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_193: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_193: Test 3.6 -> Profile 18NA97052_193 outside TS Monthly Climatology polygons
+18NA97052_193: Test 3.6 -> Profile 18NA97052_193 outside Monthly Nutrient Climatology polygons
+18NA97052_226: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_226: Test 2.1 -> Global Impossible Parameter Value for doxy
+18NA97052_226: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_226: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18NA97052_226: Test 3.6 -> Profile 18NA97052_226 outside TS Monthly Climatology polygons
+18NA97052_226: Test 3.6 -> Profile 18NA97052_226 outside Monthly Nutrient Climatology polygons

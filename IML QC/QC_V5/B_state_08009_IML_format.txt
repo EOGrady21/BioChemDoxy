@@ -1,0 +1,18 @@
+Test 1.6 -> No known depth for 18HU08009_225
+Test 1.6 -> No known depth for 18HU08009_144
+Test 1.6 -> No known depth for 18HU08009_146
+Test 1.6 -> No known depth for 18HU08009_148
+Test 1.6 -> No known depth for 18HU08009_151
+Test 1.6 -> No known depth for 18HU08009_153
+Test 1.6 -> No known depth for 18HU08009_155
+Test 1.6 -> No known depth for 18HU08009_157
+Test 1.6 -> No known depth for 18HU08009_161
+Test 1.6 -> No known depth for 18HU08009_164
+Test 1.6 -> No known depth for 18HU08009_169
+Test 1.6 -> No known depth for 18HU08009_172
+Test 1.6 -> No known depth for 18HU08009_174
+Test 1.6 -> No known depth for 18HU08009_181
+18HU08009_225: Test 3.6 -> Profile 18HU08009_225 outside TS Monthly Climatology polygons
+18HU08009_225: Test 3.6 -> Profile 18HU08009_225 outside Monthly Nutrient Climatology polygons
+18HU08009_151: Test 3.6 -> Profile 18HU08009_151 outside TS Monthly Climatology polygons
+18HU08009_151: Test 3.6 -> Profile 18HU08009_151 outside Monthly Nutrient Climatology polygons

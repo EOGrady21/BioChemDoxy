@@ -1,0 +1,21 @@
+18MF01015_572: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 2.5 m
+18MF01015_578: Test 3.6 -> Profile 18MF01015_578 outside TS Monthly Climatology polygons
+18MF01015_578: Test 3.6 -> Profile 18MF01015_578 outside Monthly Nutrient Climatology polygons
+18MF01015_579: Test 3.6 -> Profile 18MF01015_579 outside TS Monthly Climatology polygons
+18MF01015_579: Test 3.6 -> Profile 18MF01015_579 outside Monthly Nutrient Climatology polygons
+18MF01015_580: Test 3.6 -> Profile 18MF01015_580 outside TS Monthly Climatology polygons
+18MF01015_580: Test 3.6 -> Profile 18MF01015_580 outside Monthly Nutrient Climatology polygons
+18MF01015_581: Test 3.6 -> Profile 18MF01015_581 outside TS Monthly Climatology polygons
+18MF01015_581: Test 3.6 -> Profile 18MF01015_581 outside Monthly Nutrient Climatology polygons
+18MF01015_582: Test 3.6 -> Profile 18MF01015_582 outside TS Monthly Climatology polygons
+18MF01015_582: Test 3.6 -> Profile 18MF01015_582 outside Monthly Nutrient Climatology polygons
+18MF01015_583: Test 3.6 -> Profile 18MF01015_583 outside TS Monthly Climatology polygons
+18MF01015_583: Test 3.6 -> Profile 18MF01015_583 outside Monthly Nutrient Climatology polygons
+18MF01015_584: Test 3.6 -> Profile 18MF01015_584 outside TS Monthly Climatology polygons
+18MF01015_584: Test 3.6 -> Profile 18MF01015_584 outside Monthly Nutrient Climatology polygons
+18MF01015_585: Test 3.6 -> Profile 18MF01015_585 outside TS Monthly Climatology polygons
+18MF01015_585: Test 3.6 -> Profile 18MF01015_585 outside Monthly Nutrient Climatology polygons
+18MF01015_586: Test 3.6 -> Profile 18MF01015_586 outside TS Monthly Climatology polygons
+18MF01015_586: Test 3.6 -> Profile 18MF01015_586 outside Monthly Nutrient Climatology polygons
+18MF01015_587: Test 3.6 -> Profile 18MF01015_587 outside TS Monthly Climatology polygons
+18MF01015_587: Test 3.6 -> Profile 18MF01015_587 outside Monthly Nutrient Climatology polygons

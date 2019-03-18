@@ -1,0 +1,14 @@
+18BA68003_1736: Test 3.6 -> Profile 18BA68003_1736 outside TS Monthly Climatology polygons
+18BA68003_1736: Test 3.6 -> Profile 18BA68003_1736 outside Monthly Nutrient Climatology polygons
+18BA68003_1738: Test 3.6 -> Profile 18BA68003_1738 outside TS Monthly Climatology polygons
+18BA68003_1738: Test 3.6 -> Profile 18BA68003_1738 outside Monthly Nutrient Climatology polygons
+18BA68003_1743: Test 3.6 -> Profile 18BA68003_1743 outside TS Monthly Climatology polygons
+18BA68003_1743: Test 3.6 -> Profile 18BA68003_1743 outside Monthly Nutrient Climatology polygons
+18BA68003_1744: Test 3.6 -> Profile 18BA68003_1744 outside TS Monthly Climatology polygons
+18BA68003_1744: Test 3.6 -> Profile 18BA68003_1744 outside Monthly Nutrient Climatology polygons
+18BA68003_1745: Test 3.6 -> Profile 18BA68003_1745 outside TS Monthly Climatology polygons
+18BA68003_1745: Test 3.6 -> Profile 18BA68003_1745 outside Monthly Nutrient Climatology polygons
+18BA68003_1746: Test 3.6 -> Profile 18BA68003_1746 outside TS Monthly Climatology polygons
+18BA68003_1746: Test 3.6 -> Profile 18BA68003_1746 outside Monthly Nutrient Climatology polygons
+18BA68003_1752: Test 3.6 -> Profile 18BA68003_1752 outside TS Monthly Climatology polygons
+18BA68003_1752: Test 3.6 -> Profile 18BA68003_1752 outside Monthly Nutrient Climatology polygons

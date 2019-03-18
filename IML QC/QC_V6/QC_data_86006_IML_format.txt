@@ -1,0 +1,6 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU86006_058; 4.00 to 9.00; 30279, 30278; ntrz; 1.03  9.83  ; Gradient or Inversion too high
+18HU86006_114; 601.00; 30377; phos; 0.00; Impossible Parameter Value in Profile
+18HU86006_301; 41.00; 31196; doxy; 9.04; Impossible Parameter Value in Profile
+18HU86006_301; 41.00 to 41.00; 31195, 31196; ntrz; 6.68  4.26  ; Gradient or Inversion too high
+18HU86006_301; 41.00 to 41.00; 31195, 31196; phos; 1.02  0.73  ; Gradient or Inversion too high

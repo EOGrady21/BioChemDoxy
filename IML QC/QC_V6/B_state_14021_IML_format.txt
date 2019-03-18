@@ -1,0 +1,19 @@
+18TL14021_1394: Test 3.6 -> Profile 18TL14021_1394 outside TS Monthly Climatology polygons
+18TL14021_1394: Test 3.6 -> Profile 18TL14021_1394 outside Monthly Nutrient Climatology polygons
+18TL14021_1387: Test 3.5 -> Profile 18TL14021_1387 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18TL14021_1387: Test 3.6 -> Profile 18TL14021_1387 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18TL14021_1387: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 31.2 m
+18TL14021_1388: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 2.5 m
+18TL14021_1388: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 15.6 m
+18TL14021_1388: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 18.1 m
+18TL14021_1389: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 1.8 m
+18TL14021_1389: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 462.9 m
+18TL14021_1390: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 1.9 m
+18TL14021_1390: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 34.4 m
+18TL14021_1390: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 458.6 m
+18TL14021_1391: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 316.7 m
+18TL14021_1391: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 35.9 m
+18TL14021_1392: Test 3.6 -> Profile 18TL14021_1392 outside TS Monthly Climatology polygons
+18TL14021_1392: Test 3.6 -> Profile 18TL14021_1392 outside Monthly Nutrient Climatology polygons
+18TL14021_1393: Test 3.6 -> Profile 18TL14021_1393 outside TS Monthly Climatology polygons
+18TL14021_1393: Test 3.6 -> Profile 18TL14021_1393 outside Monthly Nutrient Climatology polygons

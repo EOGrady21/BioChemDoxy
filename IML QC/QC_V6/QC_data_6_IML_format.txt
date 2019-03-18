@@ -1,0 +1,26 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+84036_002; 5269.00; 13601; pres; 5269.00  ; Regional Impossible Parameter Value
+84036_113; 5221.00; 13622; pres; 5221.00  ; Regional Impossible Parameter Value
+84036_225; 5222.00; 13643; pres; 5222.00  ; Regional Impossible Parameter Value
+84036_264; 3926.00 to 3926.00; 13666, 13667; psal; 34.91  34.91  ; Gradient or Inversion too high
+84036_264; 3926.00 to 3926.00; 13667, 13668; psal; 34.91  34.91  ; Gradient or Inversion too high
+84036_284; 5246.00; 13685; pres; 5246.00  ; Regional Impossible Parameter Value
+84036_304; 4691.00 to 4691.00; 13706, 13707; psal; 34.89  34.89  ; Gradient or Inversion too high
+84036_315; 5201.00; 13727; pres; 5201.00  ; Regional Impossible Parameter Value
+84036_326; 5127.00; 13748; pres; 5127.00  ; Regional Impossible Parameter Value
+84036_003; 4202.00 to 4202.00; 13792, 13793; psal; 34.90  34.90  ; Gradient or Inversion too high
+84036_003; 4535.00 to 4535.00; 13790, 13791; psal; 34.89  34.89  ; Gradient or Inversion too high
+84036_014; 4828.00 to 4828.00; 13811, 13812; psal; 34.89  34.89  ; Gradient or Inversion too high
+84036_025; 3990.00 to 3990.00; 13834, 13835; psal; 34.90  34.91  ; Gradient or Inversion too high
+84036_025; 3990.00 to 3990.00; 13835, 13836; psal; 34.91  34.92  ; Gradient or Inversion too high
+84036_069; 5330.00; 13916; pres; 5330.00  ; Regional Impossible Parameter Value
+84036_080; 5286.00; 13937; pres; 5286.00  ; Regional Impossible Parameter Value
+84036_091; 5286.00; 13958; pres; 5286.00  ; Regional Impossible Parameter Value
+84036_102; 5166.00; 13979; pres; 5166.00  ; Regional Impossible Parameter Value
+84036_114; 5178.00; 14000; pres; 5178.00  ; Regional Impossible Parameter Value
+84036_127; 5042.00; 14021; pres; 5042.00  ; Regional Impossible Parameter Value
+84036_138; 5049.00; 14042; pres; 5049.00  ; Regional Impossible Parameter Value
+84036_149; 5133.00; 14063; pres; 5133.00  ; Regional Impossible Parameter Value
+84036_160; 5090.00; 14084; pres; 5090.00  ; Regional Impossible Parameter Value
+84036_193; 5021.00; 14147; pres; 5021.00  ; Regional Impossible Parameter Value
+84036_215; 4747.00 to 4747.00; 14189, 14190; psal; 34.89  34.89  ; Gradient or Inversion too high

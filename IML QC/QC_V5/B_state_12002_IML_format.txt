@@ -1,0 +1,56 @@
+18TL12002_1233: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1233: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1233: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1233: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1233: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1233: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1233: Test 3.5 -> Profile 18TL12002_1233 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18TL12002_1233: Test 3.6 -> Profile 18TL12002_1233 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18TL12002_1234: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1234: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1234: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1234: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1234: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1234: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1234: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1234: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1234: Test 3.6 -> Profile 18TL12002_1234 outside TS Monthly Climatology polygons
+18TL12002_1234: Test 3.6 -> Profile 18TL12002_1234 outside Monthly Nutrient Climatology polygons
+18TL12002_1235: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1235: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1235: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1235: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1235: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1235: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1235: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1235: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1235: Test 3.5 -> Profile 18TL12002_1235 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18TL12002_1235: Test 3.6 -> Profile 18TL12002_1235 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18TL12002_1235: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 5.1 m
+18TL12002_1235: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 40.1 m
+18TL12002_1236: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1236: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1236: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1236: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1236: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1236: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1236: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1236: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1236: Test 3.6 -> Profile 18TL12002_1236 outside TS Monthly Climatology polygons
+18TL12002_1236: Test 3.6 -> Profile 18TL12002_1236 outside Monthly Nutrient Climatology polygons
+18TL12002_1237: Test 3.6 -> Profile 18TL12002_1237 outside TS Monthly Climatology polygons
+18TL12002_1237: Test 3.6 -> Profile 18TL12002_1237 outside Monthly Nutrient Climatology polygons
+18TL12002_1238: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1238: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1238: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1238: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1238: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1238: Test 2.1 -> Global Impossible Parameter Value for doxy
+18TL12002_1238: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1238: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1238: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1238: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1238: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1238: Test 2.2 -> Regional Impossible Parameter Value for doxy
+18TL12002_1238: Test 3.6 -> Profile 18TL12002_1238 outside TS Monthly Climatology polygons
+18TL12002_1238: Test 3.6 -> Profile 18TL12002_1238 outside Monthly Nutrient Climatology polygons

@@ -1,0 +1,51 @@
+Test 1.6 -> No known depth for 18HU11043_339
+Test 1.6 -> No known depth for 18HU11043_080
+Test 1.6 -> No known depth for 18HU11043_102
+Test 1.6 -> No known depth for 18HU11043_138
+Test 1.6 -> No known depth for 18HU11043_237
+Test 1.6 -> No known depth for 18HU11043_243
+Test 1.6 -> No known depth for 18HU11043_257
+Test 1.6 -> No known depth for 18HU11043_276
+Test 1.6 -> No known depth for 18HU11043_281
+Test 1.6 -> No known depth for 18HU11043_300
+Test 1.6 -> No known depth for 18HU11043_305
+Test 1.6 -> No known depth for 18HU11043_308
+Test 1.6 -> No known depth for 18HU11043_311
+Test 1.6 -> No known depth for 18HU11043_314
+Test 1.6 -> No known depth for 18HU11043_318
+Test 1.6 -> No known depth for 18HU11043_320
+Test 1.6 -> No known depth for 18HU11043_323
+Test 1.6 -> No known depth for 18HU11043_325
+Test 1.6 -> No known depth for 18HU11043_334
+Test 1.6 -> No known depth for 18HU11043_336
+Test 1.6 -> No known depth for 18HU11043_353
+Test 1.6 -> No known depth for 18HU11043_370
+Test 1.6 -> No known depth for 18HU11043_408
+Test 1.6 -> No known depth for 18HU11043_005
+Test 1.6 -> No known depth for 18HU11043_007
+Test 1.6 -> No known depth for 18HU11043_009
+Test 1.6 -> No known depth for 18HU11043_011
+Test 1.6 -> No known depth for 18HU11043_017
+Test 1.6 -> No known depth for 18HU11043_019
+Test 1.6 -> No known depth for 18HU11043_059
+Test 1.6 -> No known depth for 18HU11043_061
+Test 1.6 -> No known depth for 18HU11043_063
+Test 1.6 -> No known depth for 18HU11043_067
+Test 1.6 -> No known depth for 18HU11043_070
+Test 1.6 -> No known depth for 18HU11043_073
+Test 1.6 -> No known depth for 18HU11043_078
+Test 1.6 -> No known depth for 18HU11043_083
+Test 1.6 -> No known depth for 18HU11043_085
+Test 1.6 -> No known depth for 18HU11043_088
+Test 1.6 -> No known depth for 18HU11043_089
+Test 1.6 -> No known depth for 18HU11043_093
+Test 1.6 -> No known depth for 18HU11043_095
+Test 1.6 -> No known depth for 18HU11043_097
+Test 1.6 -> No known depth for 18HU11043_104
+18HU11043_257: Test 3.6 -> Profile 18HU11043_257 outside TS Monthly Climatology polygons
+18HU11043_257: Test 3.6 -> Profile 18HU11043_257 outside Monthly Nutrient Climatology polygons
+18HU11043_089: Test 3.6 -> Profile 18HU11043_089 outside TS Monthly Climatology polygons
+18HU11043_089: Test 3.6 -> Profile 18HU11043_089 outside Monthly Nutrient Climatology polygons
+18HU11043_093: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU11043_093: Test 3.6 -> Profile 18HU11043_093 outside TS Monthly Climatology polygons
+18HU11043_093: Test 3.6 -> Profile 18HU11043_093 outside Monthly Nutrient Climatology polygons

@@ -1,0 +1,2 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18VA70002_1856; 70 to 80 m; NaN; temp; 2.70  ; Out of TS Climatology by more than 3*std in box(es) 66 (0.84 ± 1.83)

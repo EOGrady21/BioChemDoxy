@@ -1,0 +1,23 @@
+Test 1.1: GTSPP Platform Identification
+Test 1.2: GTSPP Impossible Date/Time
+Test 1.3: GTSPP Impossible Location
+Test 1.4: GTSPP Position on Land
+Test 1.5: GTSPP Impossible Speed
+Test 5.1: Cruise Track Visual Inspection
+Test 2.1: Global Impossible Parameter Values (2)
+Test 2.2: Regional Impossible Parameter Values (4)
+Test 2.3: Increasing Depth (8)
+Test 2.4: Profile Envelope (16)
+Test 2.5: Constant Profile (32)
+Test 2.6: Freezing Point (64)
+Test 2.7: Replicate Comparisons (128)
+Test 2.8: Bottle versus CTD Measurements (TEMP, PSAL, DOXY) (256)
+Test 2.9: Excessive Gradient or Inversion (TEMP, PSAL, NTRZ, PHOS) (512)
+Test 2.10: Surface Dissolved Oxygen Data versus Percent Saturation (1024)
+Test 3.5: Petrie Monthly Climatology (TEMP, PSAL)
+Test 3.6: Brickman Monthly Climatology (NTRA, PHOS, SLCA)
+Test 5.2: Ratio and Profile Visual Inspection (station data)
+Test 5.3: Replicates Visual Inspection (whole cruise data)
+Test 5.4: Bottle Versus CTD Measurements Visual Inspection (whole cruise data)
+Test 5.5: Ratio and Profile Visual Inspection (whole cruise data)
+Test 5.6: Variable patterns with time (whole cruise data)

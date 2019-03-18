@@ -1,0 +1,11 @@
+Test 1.6 -> No known depth for 18HU15006_304
+Test 1.6 -> No known depth for 18HU15006_339
+Test 1.6 -> No known depth for 18HU15006_129
+18HU15006_339: Test 3.6 -> Profile 18HU15006_339 outside TS Monthly Climatology polygons
+18HU15006_339: Test 3.6 -> Profile 18HU15006_339 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU15006_339: Test 3.6 -> phos in box(es) 9 is out of Nutrient Climatology at 3.8 m
+18HU15006_339: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 3.8 m
+18HU15006_129: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU15006_129: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU15006_129: Test 3.6 -> Profile 18HU15006_129 outside TS Monthly Climatology polygons
+18HU15006_129: Test 3.6 -> Profile 18HU15006_129 outside Monthly Nutrient Climatology polygons

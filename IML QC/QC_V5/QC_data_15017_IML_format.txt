@@ -1,0 +1,49 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18NE15017_265; 90 to 110 m; NaN; psal; 35.19  ; Out of TS Climatology by more than 3*std in box(es) 18 (33.16 ± 1.44)
+18NE15017_317; 106.63; 403855; doxy; 5.75; Bottle-CTD Difference Problem
+18NE15017_389; 4.78; 403945; doxy; 6.91; Bottle-CTD Difference Problem
+18NE15017_009; 180.60; 403964; psal; 33.35; Bottle-CTD Difference Problem
+18NE15017_017; 209.63; 403985; psal; 33.25; Bottle-CTD Difference Problem
+18NE15017_017; 209.63; 403985; doxy; 6.09; Bottle-CTD Difference Problem
+18NE15017_017; 190 to 210 m; NaN; psal; 33.25  ; Out of TS Climatology by more than 3*std in box(es) 43 (34.70 ± 0.63)
+18NE15017_022; 5.28; 402008; slca; 0.56  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+18NE15017_023; 4.74; 402012; slca; 0.48  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+18NE15017_034; 4.37; 402044; slca; 0.34  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+18NE15017_039; 4.56; 402056; slca; 0.28  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+18NE15017_042; 4.79; 402065; slca; 0.21  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+18NE15017_045; 31.24; 402079; phos; 0.29  ; Out of Nutrient Climatology in box(es) 5 (Min=0.37 Max=1.61 n=138)
+18NE15017_063; 140 to 160 m; NaN; psal; 33.81  ; Out of TS Climatology by more than 3*std in box(es) 7 (32.78 ± 0.36)
+18NE15017_064; 4.57; 402131; ntrz; 0.00  ; Constant profile problem
+18NE15017_064; 27.71; 402130; ntrz; 0.00  ; Constant profile problem
+18NE15017_068; 24.62; 402146; psal; 34.66; Bottle-CTD Difference Problem
+18NE15017_068; 15 to 25 m; NaN; psal; 34.66  ; Out of TS Climatology by more than 3*std in box(es) 8 (31.49 ± 1.56)
+18NE15017_068; 190 to 210 m; NaN; psal; 34.71  ; Out of TS Climatology by more than 3*std in box(es) 8 (34.93 ± 0.00)
+18NE15017_072; 190 to 210 m; NaN; psal; 34.70  ; Out of TS Climatology by more than 3*std in box(es) 8 (34.93 ± 0.00)
+18NE15017_078; 90 to 110 m; NaN; psal; 33.39  ; Out of TS Climatology by more than 3*std in box(es) 7 (32.64 ± 0.45)
+18NE15017_092; 140 to 160 m; NaN; psal; 34.06  ; Out of TS Climatology by more than 3*std in box(es) 5 (32.98 ± 1.08)
+18NE15017_097; 4.97; 402232; ntrz; 0.00  ; Constant profile problem
+18NE15017_097; 25.01; 402231; ntrz; 0.00  ; Constant profile problem
+18NE15017_104; 325.73; 402250; ntrz; 22.84  ; Out of Nutrient Climatology in box(es) 6 (Min=5.52 Max=21.98 n=58)
+18NE15017_115; 52.97; 402281; slca; 1.37  ; Out of Nutrient Climatology in box(es) 8 (Min=1.39 Max=9.12 n=32)
+18NE15017_118; 50.56; 402286; slca; 1.13  ; Out of Nutrient Climatology in box(es) 8 (Min=1.39 Max=9.12 n=32)
+18NE15017_121; 50.63; 402295; slca; 0.57  ; Out of Nutrient Climatology in box(es) 8 (Min=1.39 Max=9.12 n=32)
+18NE15017_123; 240 to 260 m; NaN; psal; 34.22  ; Out of TS Climatology by more than 3*std in box(es) 5 (33.44 ± 0.36)
+18NE15017_129; 240 to 260 m; NaN; psal; 34.46  ; Out of TS Climatology by more than 3*std in box(es) 5 (33.44 ± 0.36)
+18NE15017_130; 51.44; 402329; slca; 0.92  ; Out of Nutrient Climatology in box(es) 8 (Min=1.39 Max=9.12 n=32)
+18NE15017_133; 4.76; 402342; ntrz; 0.00  ; Constant profile problem
+18NE15017_133; 25.41; 402341; ntrz; 0.00  ; Constant profile problem
+18NE15017_133; 40.15; 402340; ntrz; 0.00  ; Constant profile problem
+18NE15017_136; 24.88; 402351; phos; 0.10  ; Out of Nutrient Climatology in box(es) 6 (Min=0.10 Max=1.72 n=149)
+18NE15017_141; 5.01; 402366; ntrz; 0.00  ; Constant profile problem
+18NE15017_141; 24.44; 402365; ntrz; 0.00  ; Constant profile problem
+18NE15017_141; 31.74; 402364; ntrz; 0.00  ; Constant profile problem
+18NE15017_142; 4.58; 402369; ntrz; 0.00  ; Constant profile problem
+18NE15017_142; 25.49; 402368; ntrz; 0.00  ; Constant profile problem
+18NE15017_142; 37.40; 402367; ntrz; 0.00  ; Constant profile problem
+18NE15017_147; 69.16; 402386; psal; 32.66; Bottle-CTD Difference Problem
+18NE15017_159; 45 to 55 m; NaN; psal; 32.79  ; Out of TS Climatology by more than 3*std in box(es) 9 (32.46 ± 0.33)
+18NE15017_165; 5.82; 402443; ntrz; 0.00  ; Constant profile problem
+18NE15017_165; 24.66; 402442; ntrz; 0.00  ; Constant profile problem
+18NE15017_165; 63.65; 402441; ntrz; 0.00  ; Constant profile problem
+18NE15017_165; 63.65; 402441; psal; 31.89; Bottle-CTD Difference Problem
+18NE15017_180; 10.17; 402500; phos; 0.11  ; Out of Nutrient Climatology in box(es) 5 (Min=0.11 Max=0.88 n=89)

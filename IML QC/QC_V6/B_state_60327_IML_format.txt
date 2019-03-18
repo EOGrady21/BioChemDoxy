@@ -1,0 +1,120 @@
+    The end of 180160327_005 and the beginning of 180160327_006 (found ship velocity is 0.00 kt)
+Test 1.6 -> No known depth for 180160327_113
+Test 1.6 -> No known depth for 180160327_225
+Test 1.6 -> No known depth for 180160327_264
+Test 1.6 -> No known depth for 180160327_284
+Test 1.6 -> No known depth for 180160327_304
+Test 1.6 -> No known depth for 180160327_315
+Test 1.6 -> No known depth for 180160327_326
+Test 1.6 -> No known depth for 180160327_339
+Test 1.6 -> No known depth for 180160327_003
+Test 1.6 -> No known depth for 180160327_014
+Test 1.6 -> No known depth for 180160327_025
+Test 1.6 -> No known depth for 180160327_036
+Test 1.6 -> No known depth for 180160327_047
+Test 1.6 -> No known depth for 180160327_058
+Test 1.6 -> No known depth for 180160327_069
+Test 1.6 -> No known depth for 180160327_080
+Test 1.6 -> No known depth for 180160327_091
+Test 1.6 -> No known depth for 180160327_102
+Test 1.6 -> No known depth for 180160327_114
+Test 1.6 -> No known depth for 180160327_127
+Test 1.6 -> No known depth for 180160327_138
+Test 1.6 -> No known depth for 180160327_149
+Test 1.6 -> No known depth for 180160327_160
+Test 1.6 -> No known depth for 180160327_171
+Test 1.6 -> No known depth for 180160327_182
+Test 1.6 -> No known depth for 180160327_193
+Test 1.6 -> No known depth for 180160327_204
+Test 1.6 -> No known depth for 180160327_215
+Test 1.6 -> No known depth for 180160327_226
+Test 1.6 -> No known depth for 180160327_237
+Test 1.6 -> No known depth for 180160327_239
+Test 1.6 -> No known depth for 180160327_243
+Test 1.6 -> No known depth for 180160327_244
+Test 1.6 -> No known depth for 180160327_247
+Test 1.6 -> No known depth for 180160327_253
+Test 1.6 -> No known depth for 180160327_257
+Test 1.6 -> No known depth for 180160327_261
+Test 1.6 -> No known depth for 180160327_263
+Test 1.6 -> No known depth for 180160327_265
+Test 1.6 -> No known depth for 180160327_275
+Test 1.6 -> No known depth for 180160327_276
+Test 1.6 -> No known depth for 180160327_277
+Test 1.6 -> No known depth for 180160327_278
+Test 1.6 -> No known depth for 180160327_279
+Test 1.6 -> No known depth for 180160327_280
+Test 1.6 -> No known depth for 180160327_281
+Test 1.6 -> No known depth for 180160327_282
+Test 1.6 -> No known depth for 180160327_283
+Test 1.6 -> No known depth for 180160327_285
+Test 1.6 -> No known depth for 180160327_295
+Test 1.6 -> No known depth for 180160327_300
+Test 1.6 -> No known depth for 180160327_302
+Test 1.6 -> No known depth for 180160327_303
+Test 1.6 -> No known depth for 180160327_305
+Test 1.6 -> No known depth for 180160327_306
+Test 1.6 -> No known depth for 180160327_319
+Test 1.6 -> No known depth for 180160327_320
+Test 1.6 -> No known depth for 180160327_321
+180160327_003: Test 3.5 -> Profile 180160327_003 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_014: Test 3.5 -> Profile 180160327_014 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_025: Test 3.5 -> Profile 180160327_025 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_036: Test 3.5 -> Profile 180160327_036 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_047: Test 3.5 -> Profile 180160327_047 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_182: Test 3.5 -> Profile 180160327_182 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_193: Test 3.5 -> Profile 180160327_193 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_204: Test 3.5 -> Profile 180160327_204 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_243: Test 3.5 -> Profile 180160327_243 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_244: Test 3.5 -> Profile 180160327_244 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_253: Test 3.5 -> Profile 180160327_253 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_297: Test 3.5 -> Profile 180160327_297 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_298: Test 3.5 -> temp in box(es) 55 is out of TS Climatology by more than 3*std at 50.0 m
+180160327_303: Test 3.5 -> Profile 180160327_303 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_303: Test 3.6 -> Profile 180160327_303 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_305: Test 3.5 -> Profile 180160327_305 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_305: Test 3.6 -> Profile 180160327_305 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_306: Test 3.5 -> Profile 180160327_306 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_306: Test 3.6 -> Profile 180160327_306 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_318: Test 3.5 -> Profile 180160327_318 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_318: Test 3.6 -> Profile 180160327_318 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_319: Test 3.5 -> Profile 180160327_319 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_319: Test 3.5 -> temp in box(es) 55 is out of TS Climatology by more than 3*std at 50.0 m
+180160327_319: Test 3.6 -> Profile 180160327_319 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_320: Test 3.5 -> Profile 180160327_320 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_320: Test 3.5 -> temp in box(es) 55 is out of TS Climatology by more than 3*std at 50.0 m
+180160327_320: Test 3.6 -> Profile 180160327_320 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_321: Test 3.5 -> temp in box(es) 55 is out of TS Climatology by more than 3*std at 50.0 m
+180160327_322: Test 3.5 -> temp in box(es) 55 is out of TS Climatology by more than 3*std at 50.0 m
+180160327_329: Test 3.5 -> Profile 180160327_329 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_329: Test 3.5 -> temp in box(es) 55 is out of TS Climatology by more than 3*std at 30.0 m
+180160327_329: Test 3.6 -> Profile 180160327_329 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_330: Test 3.5 -> Profile 180160327_330 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_330: Test 3.5 -> temp in box(es) 55 is out of TS Climatology by more than 3*std at 30.0 m
+180160327_330: Test 3.6 -> Profile 180160327_330 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_333: Test 3.5 -> Profile 180160327_333 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_333: Test 3.6 -> Profile 180160327_333 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_334: Test 3.5 -> Profile 180160327_334 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_334: Test 3.6 -> Profile 180160327_334 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_336: Test 3.5 -> Profile 180160327_336 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_336: Test 3.5 -> temp in box(es) 55 is out of TS Climatology by more than 3*std at 30.0 m
+180160327_336: Test 3.6 -> Profile 180160327_336 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_338: Test 3.5 -> Profile 180160327_338 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_338: Test 3.5 -> temp in box(es) 55 is out of TS Climatology by more than 3*std at 30.0 m
+180160327_338: Test 3.6 -> Profile 180160327_338 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_353: Test 3.6 -> Profile 180160327_353 outside TS Monthly Climatology polygons
+180160327_353: Test 3.6 -> Profile 180160327_353 outside Monthly Nutrient Climatology polygons
+180160327_354: Test 3.6 -> Profile 180160327_354 outside TS Monthly Climatology polygons
+180160327_354: Test 3.6 -> Profile 180160327_354 outside Monthly Nutrient Climatology polygons
+180160327_371: Test 3.5 -> Profile 180160327_371 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_371: Test 3.6 -> Profile 180160327_371 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_389: Test 3.5 -> Profile 180160327_389 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_389: Test 3.6 -> Profile 180160327_389 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_407: Test 3.5 -> Profile 180160327_407 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_407: Test 3.5 -> temp in box(es) 55 is out of TS Climatology by more than 3*std at 30.0 m
+180160327_407: Test 3.6 -> Profile 180160327_407 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_409: Test 3.5 -> Profile 180160327_409 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+180160327_409: Test 3.5 -> temp in box(es) 55 is out of TS Climatology by more than 3*std at 30.0 m
+180160327_409: Test 3.6 -> Profile 180160327_409 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+180160327_005: Test 3.5 -> temp in box(es) 55 is out of TS Climatology by more than 3*std at 30.0 m
+180160327_007: Test 3.5 -> temp in box(es) 55 is out of TS Climatology by more than 3*std at 50.0 m

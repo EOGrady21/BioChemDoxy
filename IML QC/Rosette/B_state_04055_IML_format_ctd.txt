@@ -1,0 +1,50 @@
+Test 1.6 -> No known depth for 2
+Test 1.6 -> No known depth for 6
+Test 1.6 -> No known depth for 7
+Test 1.6 -> No known depth for 13
+Test 1.6 -> No known depth for 16
+Test 1.6 -> No known depth for 22
+Test 1.6 -> No known depth for 25
+Test 1.6 -> No known depth for 32
+Test 1.6 -> No known depth for 35
+Test 1.6 -> No known depth for 38
+Test 1.6 -> No known depth for 47
+Test 1.6 -> No known depth for 52
+Test 1.6 -> No known depth for 55
+Test 1.6 -> No known depth for 59
+Test 1.6 -> No known depth for 63
+Test 1.6 -> No known depth for 70
+Test 1.6 -> No known depth for 106
+Test 1.6 -> No known depth for 110
+Test 1.6 -> No known depth for 114
+Test 1.6 -> No known depth for 117
+Test 1.6 -> No known depth for 120
+Test 1.6 -> No known depth for 121
+Test 1.6 -> No known depth for 124
+Test 1.6 -> No known depth for 127
+16: Test 3.5 -> temp in box(es) 22 is out of TS Climatology by more than 3*std at 50.0 m
+38: Test 3.5 -> temp in box(es) 33 is out of TS Climatology by more than 3*std at 20.0 m
+38: Test 3.5 -> temp in box(es) 33 is out of TS Climatology by more than 3*std at 30.0 m
+55: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 0.0 m
+55: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 10.0 m
+55: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 20.0 m
+55: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 250.0 m
+77: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 20.0 m
+95: Test 3.5 -> temp in box(es) 67 is out of TS Climatology by more than 3*std at 300.0 m
+99: Test 3.5 -> psal in box(es) 68 is out of TS Climatology by more than 3*std at 0.0 m
+99: Test 3.5 -> psal in box(es) 68 is out of TS Climatology by more than 3*std at 300.0 m
+103: Test 3.5 -> temp in box(es) 68 is out of TS Climatology by more than 3*std at 50.0 m
+103: Test 3.5 -> temp in box(es) 68 is out of TS Climatology by more than 3*std at 75.0 m
+103: Test 3.5 -> temp in box(es) 68 is out of TS Climatology by more than 3*std at 100.0 m
+103: Test 3.5 -> psal in box(es) 68 is out of TS Climatology by more than 3*std at 30.0 m
+103: Test 3.5 -> psal in box(es) 68 is out of TS Climatology by more than 3*std at 50.0 m
+103: Test 3.5 -> psal in box(es) 68 is out of TS Climatology by more than 3*std at 75.0 m
+106: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 10.0 m
+106: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 20.0 m
+106: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 30.0 m
+106: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 75.0 m
+106: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 100.0 m
+114: Test 3.5 -> psal in box(es) 33 is out of TS Climatology by more than 3*std at 0.0 m
+114: Test 3.5 -> psal in box(es) 33 is out of TS Climatology by more than 3*std at 10.0 m
+127: Test 3.5 -> temp in box(es) 14 is out of TS Climatology by more than 3*std at 50.0 m
+127: Test 3.5 -> psal in box(es) 14 is out of TS Climatology by more than 3*std at 50.0 m

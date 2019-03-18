@@ -1,0 +1,19 @@
+
+88025 FLAG Report:,  2019-03-15 13:41:00
+----------------------- 
+ 
+-> Flagged OXYGEN, event 4, station 4:
+
+      sample_key depth O2_Winkler_Molar qc
+ 88025_264_48913    11         420.5632  3
+ 88025_264_48912    42         375.4566  1
+ 88025_264_48911    71         334.3694  1
+ 88025_264_48910   102         316.5054  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+

@@ -1,0 +1,17 @@
+Test 1.5 -> Cruise velocity > permitted -> Check time and position of
+    the end of 18HU92053_113 and the beginning of 18HU92053_367 (found ship velocity is 25.5 kt)
+Test 1.6 -> No known depth for 18HU92053_366
+Test 1.6 -> No known depth for 18HU92053_002
+Test 1.6 -> No known depth for 18HU92053_113
+Test 1.6 -> No known depth for 18HU92053_367
+Test 1.6 -> No known depth for 18HU92053_225
+18HU92053_366: Test 3.6 -> Profile 18HU92053_366 outside TS Monthly Climatology polygons
+18HU92053_366: Test 3.6 -> Profile 18HU92053_366 outside Monthly Nutrient Climatology polygons
+18HU92053_002: Test 3.6 -> Profile 18HU92053_002 outside TS Monthly Climatology polygons
+18HU92053_002: Test 3.6 -> Profile 18HU92053_002 outside Monthly Nutrient Climatology polygons
+18HU92053_113: Test 3.6 -> Profile 18HU92053_113 outside TS Monthly Climatology polygons
+18HU92053_113: Test 3.6 -> Profile 18HU92053_113 outside Monthly Nutrient Climatology polygons
+18HU92053_367: Test 3.6 -> Profile 18HU92053_367 outside TS Monthly Climatology polygons
+18HU92053_367: Test 3.6 -> Profile 18HU92053_367 outside Monthly Nutrient Climatology polygons
+18HU92053_225: Test 3.6 -> Profile 18HU92053_225 outside TS Monthly Climatology polygons
+18HU92053_225: Test 3.6 -> Profile 18HU92053_225 outside Monthly Nutrient Climatology polygons

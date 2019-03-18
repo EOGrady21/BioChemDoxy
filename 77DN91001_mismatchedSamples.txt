@@ -1,0 +1,126 @@
+    DIS_DATA_NUM MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID
+235           NA Oden-91          77DN91001                     51/2
+594           NA Oden-91          77DN91001                     45/2
+    EVENT_COLLECTOR_STN_NAME DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH
+235                       51                  249.3                249.3
+594                       45                   74.5                 74.5
+    DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE DIS_HEADER_STIME
+235        83.06167        10.35167       1991-09-27              326
+594        85.05833       -12.63167       1991-09-20               58
+    DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL DIS_DETAIL_DATA_QC_CODE
+235          90000007       O2_Winkler            308.6660                       1
+594          90000007       O2_Winkler            316.4557                       1
+    DIS_DETAIL_DETECTION_LIMIT DIS_DETAIL_DETAIL_COLLECTOR
+235                         NA                          NA
+594                         NA                          NA
+    DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY CREATED_DATE DATA_CENTER_CODE
+235                        82445 Jay Bugden           NA               23
+594                        82445 Jay Bugden           NA               23
+    INSTITUTE PROCESS_FLAG BATCH_SEQ DIS_SAMPLE_KEY_VALUE
+235       BIO           NR        NA                2e+13
+594       BIO           NR        NA                2e+13
+    DIS_DATA_NUM MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID
+234           NA Oden-91          77DN91001                     51/2
+593           NA Oden-91          77DN91001                     45/2
+    EVENT_COLLECTOR_STN_NAME DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH
+234                       51                  199.7                199.7
+593                       45                   59.3                 59.3
+    DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE DIS_HEADER_STIME
+234        83.06167        10.35167       1991-09-27              326
+593        85.05833       -12.63167       1991-09-20               58
+    DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL DIS_DETAIL_DATA_QC_CODE
+234          90000007       O2_Winkler            307.6923                       1
+593          90000007       O2_Winkler            319.3768                       1
+    DIS_DETAIL_DETECTION_LIMIT DIS_DETAIL_DETAIL_COLLECTOR
+234                         NA                          NA
+593                         NA                          NA
+    DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY CREATED_DATE DATA_CENTER_CODE
+234                        82446 Jay Bugden           NA               23
+593                        82446 Jay Bugden           NA               23
+    INSTITUTE PROCESS_FLAG BATCH_SEQ DIS_SAMPLE_KEY_VALUE
+234       BIO           NR        NA                2e+13
+593       BIO           NR        NA                2e+13
+    DIS_DATA_NUM MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID
+210           NA Oden-91          77DN91001                     51/2
+592           NA Oden-91          77DN91001                     45/2
+    EVENT_COLLECTOR_STN_NAME DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH
+210                       51                  165.1                165.1
+592                       45                   49.4                 49.4
+    DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE DIS_HEADER_STIME
+210        83.06167        10.35167       1991-09-27              326
+592        85.05833       -12.63167       1991-09-20               58
+    DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL DIS_DETAIL_DATA_QC_CODE
+210          90000007       O2_Winkler            314.5083                       1
+592          90000007       O2_Winkler            363.1938                       1
+    DIS_DETAIL_DETECTION_LIMIT DIS_DETAIL_DETAIL_COLLECTOR
+210                         NA                          NA
+592                         NA                          NA
+    DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY CREATED_DATE DATA_CENTER_CODE
+210                        82447 Jay Bugden           NA               23
+592                        82447 Jay Bugden           NA               23
+    INSTITUTE PROCESS_FLAG BATCH_SEQ DIS_SAMPLE_KEY_VALUE
+210       BIO           NR        NA                2e+13
+592       BIO           NR        NA                2e+13
+    DIS_DATA_NUM MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID
+209           NA Oden-91          77DN91001                     51/2
+590           NA Oden-91          77DN91001                     45/2
+    EVENT_COLLECTOR_STN_NAME DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH
+209                       51                  135.2                135.2
+590                       45                   34.3                 34.3
+    DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE DIS_HEADER_STIME
+209        83.06167        10.35167       1991-09-27              326
+590        85.05833       -12.63167       1991-09-20               58
+    DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL DIS_DETAIL_DATA_QC_CODE
+209          90000007       O2_Winkler            320.3505                       1
+590          90000007       O2_Winkler            371.9572                       1
+    DIS_DETAIL_DETECTION_LIMIT DIS_DETAIL_DETAIL_COLLECTOR
+209                         NA                          NA
+590                         NA                          NA
+    DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY CREATED_DATE DATA_CENTER_CODE
+209                        82448 Jay Bugden           NA               23
+590                        82448 Jay Bugden           NA               23
+    INSTITUTE PROCESS_FLAG BATCH_SEQ DIS_SAMPLE_KEY_VALUE
+209       BIO           NR        NA                2e+13
+590       BIO           NR        NA                2e+13
+    DIS_DATA_NUM MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID
+202           NA Oden-91          77DN91001                     51/2
+589           NA Oden-91          77DN91001                     45/2
+    EVENT_COLLECTOR_STN_NAME DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH
+202                       51                  110.8                110.8
+589                       45                   24.2                 24.2
+    DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE DIS_HEADER_STIME
+202        83.06167        10.35167       1991-09-27              326
+589        85.05833       -12.63167       1991-09-20               58
+    DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL DIS_DETAIL_DATA_QC_CODE
+202          90000007       O2_Winkler            336.9036                       1
+589          90000007       O2_Winkler            370.9834                       1
+    DIS_DETAIL_DETECTION_LIMIT DIS_DETAIL_DETAIL_COLLECTOR
+202                         NA                          NA
+589                         NA                          NA
+    DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY CREATED_DATE DATA_CENTER_CODE
+202                        82449 Jay Bugden           NA               23
+589                        82449 Jay Bugden           NA               23
+    INSTITUTE PROCESS_FLAG BATCH_SEQ DIS_SAMPLE_KEY_VALUE
+202       BIO           NR        NA                2e+13
+589       BIO           NR        NA                2e+13
+    DIS_DATA_NUM MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID
+201           NA Oden-91          77DN91001                     51/2
+586           NA Oden-91          77DN91001                     45/2
+    EVENT_COLLECTOR_STN_NAME DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH
+201                       51                   76.2                 76.2
+586                       45                   14.7                 14.7
+    DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE DIS_HEADER_STIME
+201        83.06167        10.35167       1991-09-27              326
+586        85.05833       -12.63167       1991-09-20               58
+    DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL DIS_DETAIL_DATA_QC_CODE
+201          90000007       O2_Winkler            353.4567                       1
+586          90000007       O2_Winkler            370.0097                       1
+    DIS_DETAIL_DETECTION_LIMIT DIS_DETAIL_DETAIL_COLLECTOR
+201                         NA                          NA
+586                         NA                          NA
+    DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY CREATED_DATE DATA_CENTER_CODE
+201                        82450 Jay Bugden           NA               23
+586                        82450 Jay Bugden           NA               23
+    INSTITUTE PROCESS_FLAG BATCH_SEQ DIS_SAMPLE_KEY_VALUE
+201       BIO           NR        NA                2e+13
+586       BIO           NR        NA                2e+13

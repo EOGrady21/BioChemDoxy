@@ -1,0 +1,187 @@
+Test 1.5 -> Cruise velocity > permitted -> Check time and position of
+    the end of 18NE14018_276 and the beginning of 18NE14018_275 (found ship velocity is 167.3 kt)
+Test 1.6 -> No known depth for 18NE14018_002
+Test 1.6 -> No known depth for 18NE14018_113
+Test 1.6 -> No known depth for 18NE14018_225
+Test 1.6 -> No known depth for 18NE14018_264
+Test 1.6 -> No known depth for 18NE14018_284
+Test 1.6 -> No known depth for 18NE14018_304
+Test 1.6 -> No known depth for 18NE14018_315
+Test 1.6 -> No known depth for 18NE14018_326
+Test 1.6 -> No known depth for 18NE14018_339
+Test 1.6 -> No known depth for 18NE14018_003
+Test 1.6 -> No known depth for 18NE14018_025
+Test 1.6 -> No known depth for 18NE14018_036
+Test 1.6 -> No known depth for 18NE14018_058
+Test 1.6 -> No known depth for 18NE14018_069
+Test 1.6 -> No known depth for 18NE14018_080
+Test 1.6 -> No known depth for 18NE14018_091
+Test 1.6 -> No known depth for 18NE14018_102
+Test 1.6 -> No known depth for 18NE14018_138
+Test 1.6 -> No known depth for 18NE14018_149
+Test 1.6 -> No known depth for 18NE14018_160
+Test 1.6 -> No known depth for 18NE14018_171
+Test 1.6 -> No known depth for 18NE14018_193
+Test 1.6 -> No known depth for 18NE14018_215
+Test 1.6 -> No known depth for 18NE14018_226
+Test 1.6 -> No known depth for 18NE14018_237
+Test 1.6 -> No known depth for 18NE14018_239
+Test 1.6 -> No known depth for 18NE14018_243
+Test 1.6 -> No known depth for 18NE14018_244
+Test 1.6 -> No known depth for 18NE14018_247
+Test 1.6 -> No known depth for 18NE14018_253
+Test 1.6 -> No known depth for 18NE14018_257
+Test 1.6 -> No known depth for 18NE14018_261
+Test 1.6 -> No known depth for 18NE14018_263
+Test 1.6 -> No known depth for 18NE14018_265
+Test 1.6 -> No known depth for 18NE14018_275
+Test 1.6 -> No known depth for 18NE14018_277
+Test 1.6 -> No known depth for 18NE14018_279
+Test 1.6 -> No known depth for 18NE14018_280
+Test 1.6 -> No known depth for 18NE14018_281
+Test 1.6 -> No known depth for 18NE14018_282
+Test 1.6 -> No known depth for 18NE14018_283
+Test 1.6 -> No known depth for 18NE14018_285
+Test 1.6 -> No known depth for 18NE14018_295
+Test 1.6 -> No known depth for 18NE14018_296
+Test 1.6 -> No known depth for 18NE14018_297
+Test 1.6 -> No known depth for 18NE14018_298
+Test 1.6 -> No known depth for 18NE14018_299
+Test 1.6 -> No known depth for 18NE14018_300
+Test 1.6 -> No known depth for 18NE14018_301
+Test 1.6 -> No known depth for 18NE14018_303
+Test 1.6 -> No known depth for 18NE14018_305
+Test 1.6 -> No known depth for 18NE14018_306
+Test 1.6 -> No known depth for 18NE14018_307
+Test 1.6 -> No known depth for 18NE14018_308
+Test 1.6 -> No known depth for 18NE14018_309
+Test 1.6 -> No known depth for 18NE14018_310
+Test 1.6 -> No known depth for 18NE14018_311
+Test 1.6 -> No known depth for 18NE14018_312
+Test 1.6 -> No known depth for 18NE14018_313
+Test 1.6 -> No known depth for 18NE14018_316
+Test 1.6 -> No known depth for 18NE14018_317
+Test 1.6 -> No known depth for 18NE14018_318
+Test 1.6 -> No known depth for 18NE14018_319
+Test 1.6 -> No known depth for 18NE14018_320
+Test 1.6 -> No known depth for 18NE14018_321
+Test 1.6 -> No known depth for 18NE14018_322
+Test 1.6 -> No known depth for 18NE14018_323
+Test 1.6 -> No known depth for 18NE14018_324
+Test 1.6 -> No known depth for 18NE14018_325
+Test 1.6 -> No known depth for 18NE14018_327
+Test 1.6 -> No known depth for 18NE14018_328
+Test 1.6 -> No known depth for 18NE14018_329
+Test 1.6 -> No known depth for 18NE14018_330
+Test 1.6 -> No known depth for 18NE14018_333
+Test 1.6 -> No known depth for 18NE14018_334
+Test 1.6 -> No known depth for 18NE14018_335
+Test 1.6 -> No known depth for 18NE14018_336
+Test 1.6 -> No known depth for 18NE14018_337
+Test 1.6 -> No known depth for 18NE14018_338
+Test 1.6 -> No known depth for 18NE14018_340
+Test 1.6 -> No known depth for 18NE14018_353
+Test 1.6 -> No known depth for 18NE14018_354
+Test 1.6 -> No known depth for 18NE14018_369
+Test 1.6 -> No known depth for 18NE14018_370
+Test 1.6 -> No known depth for 18NE14018_371
+Test 1.6 -> No known depth for 18NE14018_389
+Test 1.6 -> No known depth for 18NE14018_407
+Test 1.6 -> No known depth for 18NE14018_020
+Test 1.6 -> No known depth for 18NE14018_021
+Test 1.6 -> No known depth for 18NE14018_022
+Test 1.6 -> No known depth for 18NE14018_023
+Test 1.6 -> No known depth for 18NE14018_024
+Test 1.6 -> No known depth for 18NE14018_026
+Test 1.6 -> No known depth for 18NE14018_027
+Test 1.6 -> No known depth for 18NE14018_028
+Test 1.6 -> No known depth for 18NE14018_029
+Test 1.6 -> No known depth for 18NE14018_030
+Test 1.6 -> No known depth for 18NE14018_031
+Test 1.6 -> No known depth for 18NE14018_032
+Test 1.6 -> No known depth for 18NE14018_033
+Test 1.6 -> No known depth for 18NE14018_034
+Test 1.6 -> No known depth for 18NE14018_035
+Test 1.6 -> No known depth for 18NE14018_037
+Test 1.6 -> No known depth for 18NE14018_038
+Test 1.6 -> No known depth for 18NE14018_039
+Test 1.6 -> No known depth for 18NE14018_040
+Test 1.6 -> No known depth for 18NE14018_042
+Test 1.6 -> No known depth for 18NE14018_043
+Test 1.6 -> No known depth for 18NE14018_044
+Test 1.6 -> No known depth for 18NE14018_045
+Test 1.6 -> No known depth for 18NE14018_046
+Test 1.6 -> No known depth for 18NE14018_048
+Test 1.6 -> No known depth for 18NE14018_049
+Test 1.6 -> No known depth for 18NE14018_050
+Test 1.6 -> No known depth for 18NE14018_051
+Test 1.6 -> No known depth for 18NE14018_052
+Test 1.6 -> No known depth for 18NE14018_054
+Test 1.6 -> No known depth for 18NE14018_055
+Test 1.6 -> No known depth for 18NE14018_056
+Test 1.6 -> No known depth for 18NE14018_057
+Test 1.6 -> No known depth for 18NE14018_060
+Test 1.6 -> No known depth for 18NE14018_061
+Test 1.6 -> No known depth for 18NE14018_062
+Test 1.6 -> No known depth for 18NE14018_063
+Test 1.6 -> No known depth for 18NE14018_065
+Test 1.6 -> No known depth for 18NE14018_068
+Test 1.6 -> No known depth for 18NE14018_070
+Test 1.6 -> No known depth for 18NE14018_107
+Test 1.6 -> No known depth for 18NE14018_110
+Test 1.6 -> No known depth for 18NE14018_111
+Test 1.6 -> No known depth for 18NE14018_112
+Test 1.6 -> No known depth for 18NE14018_115
+Test 1.6 -> No known depth for 18NE14018_118
+Test 1.6 -> No known depth for 18NE14018_120
+Test 1.6 -> No known depth for 18NE14018_121
+Test 1.6 -> No known depth for 18NE14018_122
+Test 1.6 -> No known depth for 18NE14018_123
+Test 1.6 -> No known depth for 18NE14018_124
+Test 1.6 -> No known depth for 18NE14018_125
+Test 1.6 -> No known depth for 18NE14018_126
+Test 1.6 -> No known depth for 18NE14018_128
+Test 1.6 -> No known depth for 18NE14018_129
+Test 1.6 -> No known depth for 18NE14018_130
+Test 1.6 -> No known depth for 18NE14018_131
+Test 1.6 -> No known depth for 18NE14018_132
+Test 1.6 -> No known depth for 18NE14018_133
+Test 1.6 -> No known depth for 18NE14018_134
+Test 1.6 -> No known depth for 18NE14018_135
+Test 1.6 -> No known depth for 18NE14018_136
+Test 1.6 -> No known depth for 18NE14018_137
+Test 1.6 -> No known depth for 18NE14018_140
+Test 1.6 -> No known depth for 18NE14018_141
+Test 1.6 -> No known depth for 18NE14018_142
+Test 1.6 -> No known depth for 18NE14018_143
+Test 1.6 -> No known depth for 18NE14018_144
+Test 1.6 -> No known depth for 18NE14018_145
+18NE14018_339: Test 3.6 -> ntrz in box(es) 4 is out of Nutrient Climatology at 50.5 m
+18NE14018_253: Test 3.5 -> Profile 18NE14018_253 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NE14018_257: Test 3.5 -> Profile 18NE14018_257 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18NE14018_310: Test 3.5 -> psal in box(es) 26 is out of TS Climatology by more than 3*std at 100.0 m
+18NE14018_317: Test 3.5 -> psal in box(es) 26 is out of TS Climatology by more than 3*std at 200.0 m
+18NE14018_322: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 5.7 m
+18NE14018_322: Test 3.6 -> phos in box(es) 4 is out of Nutrient Climatology at 25.7 m
+18NE14018_044: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 49.3 m
+18NE14018_048: Test 3.5 -> psal in box(es) 7 is out of TS Climatology by more than 3*std at 75.0 m
+18NE14018_050: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 101.1 m
+18NE14018_050: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 101.1 m
+18NE14018_054: Test 3.6 -> slca in box(es) 5 is out of Nutrient Climatology at 106.0 m
+18NE14018_063: Test 3.5 -> psal in box(es) 7 is out of TS Climatology by more than 3*std at 150.0 m
+18NE14018_078: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 100.0 m
+18NE14018_082: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 25.0 m
+18NE14018_092: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 336.9 m
+18NE14018_093: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 5.1 m
+18NE14018_093: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 5.1 m
+18NE14018_093: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 49.9 m
+18NE14018_094: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 4.7 m
+18NE14018_094: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 4.7 m
+18NE14018_094: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 49.9 m
+18NE14018_101: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 4.2 m
+18NE14018_101: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 50.4 m
+18NE14018_109: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 49.9 m
+18NE14018_118: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 4.3 m
+18NE14018_118: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 50.9 m
+18NE14018_121: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 50.0 m
+18NE14018_144: Test 3.6 -> phos in box(es) 5 is out of Nutrient Climatology at 4.4 m

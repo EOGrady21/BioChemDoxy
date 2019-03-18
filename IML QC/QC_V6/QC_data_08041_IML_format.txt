@@ -1,0 +1,28 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL08041_989; 2.78; 291081; doxy; 5.82; Bottle-CTD Difference Problem
+18TL08041_989; 75.65; 291077; doxy; 7.11; Bottle-CTD Difference Problem
+18TL08041_992; 2.48; 291086; doxy; 5.83; Bottle-CTD Difference Problem
+18TL08041_992; 175.95; 291082; doxy; 3.76; Bottle-CTD Difference Problem
+18TL08041_992; 15.67 to 15.67; 291084, 291085; ntrz; 0.24  0.20  ; Gradient or Inversion too high
+18TL08041_992; 15.67 to 15.67; 291084, 291085; phos; 0.35  0.34  ; Gradient or Inversion too high
+18TL08041_993; 2.58; 291092; doxy; 5.85; Bottle-CTD Difference Problem
+18TL08041_993; 250.05; 291088; doxy; 3.48; Bottle-CTD Difference Problem
+18TL08041_993; 329.47; 291087; doxy; 3.59; Bottle-CTD Difference Problem
+18TL08041_994; 250.44; 291094; doxy; 3.48; Bottle-CTD Difference Problem
+18TL08041_994; 452.70; 291093; doxy; 5.21; Bottle-CTD Difference Problem
+18TL08041_995; 3.17; 291104; doxy; 6.04; Bottle-CTD Difference Problem
+18TL08041_995; 249.45; 291100; doxy; 3.89; Bottle-CTD Difference Problem
+18TL08041_995; 454.37; 291099; doxy; 3.84; Bottle-CTD Difference Problem
+18TL08041_996; 248.26; 291105; doxy; 3.82; Bottle-CTD Difference Problem
+18TL08041_997; 247.46; 291111; doxy; 3.56; Bottle-CTD Difference Problem
+18TL08041_997; 484.04; 291110; doxy; 4.03; Bottle-CTD Difference Problem
+18TL08041_998; 2.88; 291121; doxy; 7.11; Bottle-CTD Difference Problem
+18TL08041_998; 250.04; 291117; doxy; 4.28; Bottle-CTD Difference Problem
+18TL08041_998; 493.45; 291116; doxy; 4.08; Bottle-CTD Difference Problem
+18TL08041_998; 2.88; 291121; doxy; 7.11; Surface O2 Out of Prescribed Limits
+18TL08041_988; 214.29; 291122; doxy; 3.36; Bottle-CTD Difference Problem
+18TL08041_990; 2.78; 291136; doxy; 5.94; Bottle-CTD Difference Problem
+18TL08041_990; 250.63; 291132; doxy; 3.46; Bottle-CTD Difference Problem
+18TL08041_990; 466.72; 291131; doxy; 3.81; Bottle-CTD Difference Problem
+18TL08041_991; 2.78; 291141; doxy; 5.73; Bottle-CTD Difference Problem
+18TL08041_991; 202.59; 291137; doxy; 2.83; Bottle-CTD Difference Problem

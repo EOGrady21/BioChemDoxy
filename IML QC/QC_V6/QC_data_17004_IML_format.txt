@@ -1,0 +1,5 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18EG17004_1583; 0.50; 420509; doxy; 6.14; Surface O2 Out of Prescribed Limits
+18EG17004_1584; 209.83; 420510; phos; 1.71  ; Out of Nutrient Climatology in box(es) 6, 8 (Min=0.50 Max=1.70 n=281)
+18EG17004_1584; 209.83; 420510; slca; 30.18  ; Out of Nutrient Climatology in box(es) 6, 8 (Min=2.10 Max=29.91 n=280)
+18EG17004_1585; 98.65; 420518; slca; 12.96  ; Out of Nutrient Climatology in box(es) 6 (Min=0.28 Max=12.92 n=567)

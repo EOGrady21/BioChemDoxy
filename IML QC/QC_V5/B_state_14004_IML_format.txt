@@ -1,0 +1,103 @@
+Test 1.6 -> No known depth for 18HU14004_014
+Test 1.6 -> No known depth for 18HU14004_127
+Test 1.6 -> No known depth for 18HU14004_215
+Test 1.6 -> No known depth for 18HU14004_237
+Test 1.6 -> No known depth for 18HU14004_243
+Test 1.6 -> No known depth for 18HU14004_257
+Test 1.6 -> No known depth for 18HU14004_265
+Test 1.6 -> No known depth for 18HU14004_277
+Test 1.6 -> No known depth for 18HU14004_279
+Test 1.6 -> No known depth for 18HU14004_281
+Test 1.6 -> No known depth for 18HU14004_296
+Test 1.6 -> No known depth for 18HU14004_299
+Test 1.6 -> No known depth for 18HU14004_301
+Test 1.6 -> No known depth for 18HU14004_303
+Test 1.6 -> No known depth for 18HU14004_306
+Test 1.6 -> No known depth for 18HU14004_308
+Test 1.6 -> No known depth for 18HU14004_310
+Test 1.6 -> No known depth for 18HU14004_312
+Test 1.6 -> No known depth for 18HU14004_313
+Test 1.6 -> No known depth for 18HU14004_314
+Test 1.6 -> No known depth for 18HU14004_316
+Test 1.6 -> No known depth for 18HU14004_317
+Test 1.6 -> No known depth for 18HU14004_319
+Test 1.6 -> No known depth for 18HU14004_321
+Test 1.6 -> No known depth for 18HU14004_323
+Test 1.6 -> No known depth for 18HU14004_325
+Test 1.6 -> No known depth for 18HU14004_328
+Test 1.6 -> No known depth for 18HU14004_330
+Test 1.6 -> No known depth for 18HU14004_334
+Test 1.6 -> No known depth for 18HU14004_337
+Test 1.6 -> No known depth for 18HU14004_353
+Test 1.6 -> No known depth for 18HU14004_369
+Test 1.6 -> No known depth for 18HU14004_371
+Test 1.6 -> No known depth for 18HU14004_408
+Test 1.6 -> No known depth for 18HU14004_004
+Test 1.6 -> No known depth for 18HU14004_007
+Test 1.6 -> No known depth for 18HU14004_010
+Test 1.6 -> No known depth for 18HU14004_013
+Test 1.6 -> No known depth for 18HU14004_017
+Test 1.6 -> No known depth for 18HU14004_022
+Test 1.6 -> No known depth for 18HU14004_026
+Test 1.6 -> No known depth for 18HU14004_030
+Test 1.6 -> No known depth for 18HU14004_033
+Test 1.6 -> No known depth for 18HU14004_035
+Test 1.6 -> No known depth for 18HU14004_038
+Test 1.6 -> No known depth for 18HU14004_040
+Test 1.6 -> No known depth for 18HU14004_042
+Test 1.6 -> No known depth for 18HU14004_044
+Test 1.6 -> No known depth for 18HU14004_046
+Test 1.6 -> No known depth for 18HU14004_049
+Test 1.6 -> No known depth for 18HU14004_052
+Test 1.6 -> No known depth for 18HU14004_054
+Test 1.6 -> No known depth for 18HU14004_059
+Test 1.6 -> No known depth for 18HU14004_062
+Test 1.6 -> No known depth for 18HU14004_064
+Test 1.6 -> No known depth for 18HU14004_066
+Test 1.6 -> No known depth for 18HU14004_070
+Test 1.6 -> No known depth for 18HU14004_115
+Test 1.6 -> No known depth for 18HU14004_119
+Test 1.6 -> No known depth for 18HU14004_121
+Test 1.6 -> No known depth for 18HU14004_123
+Test 1.6 -> No known depth for 18HU14004_126
+Test 1.6 -> No known depth for 18HU14004_129
+Test 1.6 -> No known depth for 18HU14004_131
+Test 1.6 -> No known depth for 18HU14004_133
+Test 1.6 -> No known depth for 18HU14004_135
+Test 1.6 -> No known depth for 18HU14004_137
+Test 1.6 -> No known depth for 18HU14004_141
+Test 1.6 -> No known depth for 18HU14004_144
+18HU14004_215: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 250.0 m
+18HU14004_323: Test 3.5 -> psal in box(es) 30 is out of TS Climatology by more than 3*std at 0.0 m
+18HU14004_323: Test 3.6 -> ntrz in box(es) 1 is out of Nutrient Climatology at 29.3 m
+18HU14004_325: Test 3.5 -> psal in box(es) 33 is out of TS Climatology by more than 3*std at 0.0 m
+18HU14004_325: Test 3.6 -> ntrz in box(es) 1 is out of Nutrient Climatology at 3.7 m
+18HU14004_328: Test 3.5 -> psal in box(es) 33 is out of TS Climatology by more than 3*std at 0.0 m
+18HU14004_328: Test 3.5 -> psal in box(es) 33 is out of TS Climatology by more than 3*std at 250.0 m
+18HU14004_328: Test 3.6 -> ntrz in box(es) 1 is out of Nutrient Climatology at 2.5 m
+18HU14004_328: Test 3.6 -> ntrz in box(es) 1 is out of Nutrient Climatology at 10.0 m
+18HU14004_328: Test 3.6 -> ntrz in box(es) 1 is out of Nutrient Climatology at 20.3 m
+18HU14004_330: Test 3.5 -> psal in box(es) 33 is out of TS Climatology by more than 3*std at 0.0 m
+18HU14004_330: Test 3.5 -> psal in box(es) 33 is out of TS Climatology by more than 3*std at 250.0 m
+18HU14004_334: Test 3.5 -> psal in box(es) 33 is out of TS Climatology by more than 3*std at 0.0 m
+18HU14004_004: Test 3.6 -> Profile 18HU14004_004 outside TS Monthly Climatology polygons
+18HU14004_035: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 28.4 m
+18HU14004_038: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 39.2 m
+18HU14004_044: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 500.0 m
+18HU14004_046: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 500.0 m
+18HU14004_046: Test 3.6 -> phos in box(es) 7 is out of Nutrient Climatology at 3.5 m
+18HU14004_046: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 4139.9 m
+18HU14004_049: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 500.0 m
+18HU14004_049: Test 3.6 -> phos in box(es) 7 is out of Nutrient Climatology at 10.6 m
+18HU14004_049: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 4506.0 m
+18HU14004_052: Test 3.6 -> Profile 18HU14004_052 outside TS Monthly Climatology polygons
+18HU14004_052: Test 3.6 -> Profile 18HU14004_052 outside Monthly Nutrient Climatology polygons
+18HU14004_082: Test 3.5 -> psal in box(es) 66 is out of TS Climatology by more than 3*std at 75.0 m
+18HU14004_094: Test 3.5 -> psal in box(es) 68 is out of TS Climatology by more than 3*std at 0.0 m
+18HU14004_115: Test 3.6 -> Profile 18HU14004_115 outside TS Monthly Climatology polygons
+18HU14004_119: Test 3.5 -> Profile 18HU14004_119 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU14004_119: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 250.0 m
+18HU14004_121: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 250.0 m
+18HU14004_123: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 75.0 m
+18HU14004_126: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 250.0 m
+18HU14004_129: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 250.0 m

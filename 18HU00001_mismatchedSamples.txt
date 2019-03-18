@@ -1,0 +1,90 @@
+      DIS_DATA_NUM  MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID EVENT_COLLECTOR_STN_NAME
+52885           NA HUD20004          18HU00001                        1                       NA
+53047           NA HUD20004          18HU00001                        2                       NA
+      DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE
+52885                     74                   74         47.5467        -52.5867       2000-11-01
+53047                     75                   75         47.5467        -52.5867       2000-11-01
+      DIS_HEADER_STIME DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL DIS_DETAIL_DATA_QC_CODE
+52885             1318          90000007       O2_Winkler            359.0632                       1
+53047             1443          90000007       O2_Winkler            353.7040                       1
+      DIS_DETAIL_DETECTION_LIMIT DIS_DETAIL_DETAIL_COLLECTOR DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY
+52885                         NA                          NA                       221511 Jay Bugden
+53047                         NA                          NA                       221511 Jay Bugden
+      CREATED_DATE DATA_CENTER_CODE INSTITUTE PROCESS_FLAG BATCH_SEQ DIS_SAMPLE_KEY_VALUE
+52885           NA               11      NAFC           NR        NA                2e+13
+53047           NA               11      NAFC           NR        NA                2e+13
+      DIS_DATA_NUM  MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID EVENT_COLLECTOR_STN_NAME
+52885           NA HUD20004          18HU00001                        1                       NA
+53047           NA HUD20004          18HU00001                        2                       NA
+      DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE
+52885                     74                   74         47.5467        -52.5867       2000-11-01
+53047                     75                   75         47.5467        -52.5867       2000-11-01
+      DIS_HEADER_STIME DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL DIS_DETAIL_DATA_QC_CODE
+52885             1318          90000007       O2_Winkler            359.0632                       1
+53047             1443          90000007       O2_Winkler            353.7040                       1
+      DIS_DETAIL_DETECTION_LIMIT DIS_DETAIL_DETAIL_COLLECTOR DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY
+52885                         NA                          NA                       221511 Jay Bugden
+53047                         NA                          NA                       221511 Jay Bugden
+      CREATED_DATE DATA_CENTER_CODE INSTITUTE PROCESS_FLAG BATCH_SEQ DIS_SAMPLE_KEY_VALUE
+52885           NA               11      NAFC           NR        NA                2e+13
+53047           NA               11      NAFC           NR        NA                2e+13
+      DIS_DATA_NUM  MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID EVENT_COLLECTOR_STN_NAME
+52885           NA HUD20004          18HU00001                        1                       NA
+53047           NA HUD20004          18HU00001                        2                       NA
+      DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE
+52885                     74                   74         47.5467        -52.5867       2000-11-01
+53047                     75                   75         47.5467        -52.5867       2000-11-01
+      DIS_HEADER_STIME DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL DIS_DETAIL_DATA_QC_CODE
+52885             1318          90000007       O2_Winkler            359.0632                       1
+53047             1443          90000007       O2_Winkler            353.7040                       1
+      DIS_DETAIL_DETECTION_LIMIT DIS_DETAIL_DETAIL_COLLECTOR DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY
+52885                         NA                          NA                       221511 Jay Bugden
+53047                         NA                          NA                       221511 Jay Bugden
+      CREATED_DATE DATA_CENTER_CODE INSTITUTE PROCESS_FLAG BATCH_SEQ DIS_SAMPLE_KEY_VALUE
+52885           NA               11      NAFC           NR        NA                2e+13
+53047           NA               11      NAFC           NR        NA                2e+13
+      DIS_DATA_NUM  MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID EVENT_COLLECTOR_STN_NAME
+52885           NA HUD20004          18HU00001                        1                       NA
+53047           NA HUD20004          18HU00001                        2                       NA
+      DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE
+52885                     74                   74         47.5467        -52.5867       2000-11-01
+53047                     75                   75         47.5467        -52.5867       2000-11-01
+      DIS_HEADER_STIME DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL DIS_DETAIL_DATA_QC_CODE
+52885             1318          90000007       O2_Winkler            359.0632                       1
+53047             1443          90000007       O2_Winkler            353.7040                       1
+      DIS_DETAIL_DETECTION_LIMIT DIS_DETAIL_DETAIL_COLLECTOR DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY
+52885                         NA                          NA                       221511 Jay Bugden
+53047                         NA                          NA                       221511 Jay Bugden
+      CREATED_DATE DATA_CENTER_CODE INSTITUTE PROCESS_FLAG BATCH_SEQ DIS_SAMPLE_KEY_VALUE
+52885           NA               11      NAFC           NR        NA                2e+13
+53047           NA               11      NAFC           NR        NA                2e+13
+      DIS_DATA_NUM  MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID EVENT_COLLECTOR_STN_NAME
+52885           NA HUD20004          18HU00001                        1                       NA
+53047           NA HUD20004          18HU00001                        2                       NA
+      DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE
+52885                     74                   74         47.5467        -52.5867       2000-11-01
+53047                     75                   75         47.5467        -52.5867       2000-11-01
+      DIS_HEADER_STIME DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL DIS_DETAIL_DATA_QC_CODE
+52885             1318          90000007       O2_Winkler            359.0632                       1
+53047             1443          90000007       O2_Winkler            353.7040                       1
+      DIS_DETAIL_DETECTION_LIMIT DIS_DETAIL_DETAIL_COLLECTOR DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY
+52885                         NA                          NA                       221511 Jay Bugden
+53047                         NA                          NA                       221511 Jay Bugden
+      CREATED_DATE DATA_CENTER_CODE INSTITUTE PROCESS_FLAG BATCH_SEQ DIS_SAMPLE_KEY_VALUE
+52885           NA               11      NAFC           NR        NA                2e+13
+53047           NA               11      NAFC           NR        NA                2e+13
+      DIS_DATA_NUM  MISSION MISSION_DESCRIPTOR EVENT_COLLECTOR_EVENT_ID EVENT_COLLECTOR_STN_NAME
+52885           NA HUD20004          18HU00001                        1                       NA
+53047           NA HUD20004          18HU00001                        2                       NA
+      DIS_HEADER_START_DEPTH DIS_HEADER_END_DEPTH DIS_HEADER_SLAT DIS_HEADER_SLON DIS_HEADER_SDATE
+52885                     74                   74         47.5467        -52.5867       2000-11-01
+53047                     75                   75         47.5467        -52.5867       2000-11-01
+      DIS_HEADER_STIME DIS_DATA_TYPE_SEQ DATA_TYPE_METHOD DIS_DETAIL_DATA_VAL DIS_DETAIL_DATA_QC_CODE
+52885             1318          90000007       O2_Winkler            359.0632                       1
+53047             1443          90000007       O2_Winkler            353.7040                       1
+      DIS_DETAIL_DETECTION_LIMIT DIS_DETAIL_DETAIL_COLLECTOR DIS_DETAIL_COLLECTOR_SAMP_ID CREATED_BY
+52885                         NA                          NA                       221511 Jay Bugden
+53047                         NA                          NA                       221511 Jay Bugden
+      CREATED_DATE DATA_CENTER_CODE INSTITUTE PROCESS_FLAG BATCH_SEQ DIS_SAMPLE_KEY_VALUE
+52885           NA               11      NAFC           NR        NA                2e+13
+53047           NA               11      NAFC           NR        NA                2e+13

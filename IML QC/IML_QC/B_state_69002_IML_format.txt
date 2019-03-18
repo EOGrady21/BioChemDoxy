@@ -1,0 +1,167 @@
+Test 1.5 ->Negative cruise velocity -> Check time of
+    The end of 18VA69002_1760 and the beginning of 18VA69002_1767 (deltaT=-0.0 h; deltaD=14.7 nm)
+    The end of 18VA69002_1782 and the beginning of 18VA69002_1789 (deltaT=-0.0 h; deltaD=13.7 nm)
+    The end of 18VA69002_1769 and the beginning of 18VA69002_1773 (deltaT=-0.0 h; deltaD=52.5 nm)
+    The end of 18VA69002_1821 and the beginning of 18VA69002_1846 (deltaT=-0.0 h; deltaD=29.9 nm)
+    The end of 18VA69002_1768 and the beginning of 18VA69002_1783 (deltaT=-0.0 h; deltaD=16.0 nm)
+    The end of 18VA69002_1790 and the beginning of 18VA69002_1796 (deltaT=-0.0 h; deltaD=97.7 nm)
+    The end of 18VA69002_1822 and the beginning of 18VA69002_1847 (deltaT=-0.0 h; deltaD=29.9 nm)
+    The end of 18VA69002_1800 and the beginning of 18VA69002_1848 (deltaT=-0.0 h; deltaD=116.3 nm)
+    The end of 18VA69002_1801 and the beginning of 18VA69002_1824 (deltaT=-0.0 h; deltaD=86.9 nm)
+    The end of 18VA69002_1824 and the beginning of 18VA69002_1829 (deltaT=-0.0 h; deltaD=39.4 nm)
+    The end of 18VA69002_1762 and the beginning of 18VA69002_1772 (deltaT=-0.0 h; deltaD=14.7 nm)
+    The end of 18VA69002_1772 and the beginning of 18VA69002_1784 (deltaT=-0.0 h; deltaD=16.0 nm)
+    The end of 18VA69002_1825 and the beginning of 18VA69002_1850 (deltaT=-0.0 h; deltaD=29.9 nm)
+    The end of 18VA69002_1803 and the beginning of 18VA69002_1826 (deltaT=-0.0 h; deltaD=86.9 nm)
+    The end of 18VA69002_1763 and the beginning of 18VA69002_1776 (deltaT=-0.0 h; deltaD=14.7 nm)
+    The end of 18VA69002_1785 and the beginning of 18VA69002_1792 (deltaT=-0.0 h; deltaD=13.7 nm)
+    The end of 18VA69002_1792 and the beginning of 18VA69002_1809 (deltaT=-0.0 h; deltaD=181.3 nm)
+    The end of 18VA69002_1809 and the beginning of 18VA69002_1837 (deltaT=-0.0 h; deltaD=29.9 nm)
+    The end of 18VA69002_1832 and the beginning of 18VA69002_1838 (deltaT=-0.0 h; deltaD=31.2 nm)
+    The end of 18VA69002_1770 and the beginning of 18VA69002_1774 (deltaT=-0.0 h; deltaD=52.5 nm)
+    The end of 18VA69002_1774 and the beginning of 18VA69002_1777 (deltaT=-0.0 h; deltaD=19.3 nm)
+    The end of 18VA69002_1833 and the beginning of 18VA69002_1839 (deltaT=-0.0 h; deltaD=31.2 nm)
+    The end of 18VA69002_1764 and the beginning of 18VA69002_1779 (deltaT=-0.0 h; deltaD=14.7 nm)
+    The end of 18VA69002_1779 and the beginning of 18VA69002_1786 (deltaT=-0.0 h; deltaD=16.0 nm)
+    The end of 18VA69002_1835 and the beginning of 18VA69002_1841 (deltaT=-0.0 h; deltaD=31.2 nm)
+    The end of 18VA69002_1765 and the beginning of 18VA69002_1780 (deltaT=-0.0 h; deltaD=14.7 nm)
+    The end of 18VA69002_1780 and the beginning of 18VA69002_1787 (deltaT=-0.0 h; deltaD=16.0 nm)
+    The end of 18VA69002_1787 and the beginning of 18VA69002_1842 (deltaT=-0.0 h; deltaD=196.9 nm)
+    The end of 18VA69002_1794 and the beginning of 18VA69002_1797 (deltaT=-0.0 h; deltaD=97.7 nm)
+    The end of 18VA69002_1771 and the beginning of 18VA69002_1778 (deltaT=-0.0 h; deltaD=39.4 nm)
+    The end of 18VA69002_1766 and the beginning of 18VA69002_1781 (deltaT=-0.0 h; deltaD=14.7 nm)
+    The end of 18VA69002_1788 and the beginning of 18VA69002_1795 (deltaT=-0.0 h; deltaD=13.7 nm)
+    The end of 18VA69002_1818 and the beginning of 18VA69002_1820 (found ship velocity is 0.00 kt)
+18VA69002_1808: Test 3.6 -> Profile 18VA69002_1808 outside TS Monthly Climatology polygons
+18VA69002_1808: Test 3.6 -> Profile 18VA69002_1808 outside Monthly Nutrient Climatology polygons
+18VA69002_1836: Test 3.6 -> Profile 18VA69002_1836 outside TS Monthly Climatology polygons
+18VA69002_1836: Test 3.6 -> Profile 18VA69002_1836 outside Monthly Nutrient Climatology polygons
+18VA69002_1819: Test 3.6 -> Profile 18VA69002_1819 outside TS Monthly Climatology polygons
+18VA69002_1819: Test 3.6 -> Profile 18VA69002_1819 outside Monthly Nutrient Climatology polygons
+18VA69002_1769: Test 3.6 -> Profile 18VA69002_1769 outside TS Monthly Climatology polygons
+18VA69002_1769: Test 3.6 -> Profile 18VA69002_1769 outside Monthly Nutrient Climatology polygons
+18VA69002_1773: Test 3.6 -> Profile 18VA69002_1773 outside TS Monthly Climatology polygons
+18VA69002_1773: Test 3.6 -> Profile 18VA69002_1773 outside Monthly Nutrient Climatology polygons
+18VA69002_1845: Test 3.6 -> Profile 18VA69002_1845 outside TS Monthly Climatology polygons
+18VA69002_1845: Test 3.6 -> Profile 18VA69002_1845 outside Monthly Nutrient Climatology polygons
+18VA69002_1821: Test 3.6 -> Profile 18VA69002_1821 outside TS Monthly Climatology polygons
+18VA69002_1821: Test 3.6 -> Profile 18VA69002_1821 outside Monthly Nutrient Climatology polygons
+18VA69002_1846: Test 3.6 -> Profile 18VA69002_1846 outside TS Monthly Climatology polygons
+18VA69002_1846: Test 3.6 -> Profile 18VA69002_1846 outside Monthly Nutrient Climatology polygons
+18VA69002_1796: Test 3.6 -> Profile 18VA69002_1796 outside TS Monthly Climatology polygons
+18VA69002_1796: Test 3.6 -> Profile 18VA69002_1796 outside Monthly Nutrient Climatology polygons
+18VA69002_1822: Test 3.6 -> Profile 18VA69002_1822 outside TS Monthly Climatology polygons
+18VA69002_1822: Test 3.6 -> Profile 18VA69002_1822 outside Monthly Nutrient Climatology polygons
+18VA69002_1847: Test 3.6 -> Profile 18VA69002_1847 outside TS Monthly Climatology polygons
+18VA69002_1847: Test 3.6 -> Profile 18VA69002_1847 outside Monthly Nutrient Climatology polygons
+18VA69002_1828: Test 3.6 -> Profile 18VA69002_1828 outside TS Monthly Climatology polygons
+18VA69002_1828: Test 3.6 -> Profile 18VA69002_1828 outside Monthly Nutrient Climatology polygons
+18VA69002_1823: Test 3.6 -> Profile 18VA69002_1823 outside TS Monthly Climatology polygons
+18VA69002_1823: Test 3.6 -> Profile 18VA69002_1823 outside Monthly Nutrient Climatology polygons
+18VA69002_1800: Test 3.6 -> Profile 18VA69002_1800 outside TS Monthly Climatology polygons
+18VA69002_1800: Test 3.6 -> Profile 18VA69002_1800 outside Monthly Nutrient Climatology polygons
+18VA69002_1848: Test 3.6 -> Profile 18VA69002_1848 outside TS Monthly Climatology polygons
+18VA69002_1848: Test 3.6 -> Profile 18VA69002_1848 outside Monthly Nutrient Climatology polygons
+18VA69002_1801: Test 3.6 -> Profile 18VA69002_1801 outside TS Monthly Climatology polygons
+18VA69002_1801: Test 3.6 -> Profile 18VA69002_1801 outside Monthly Nutrient Climatology polygons
+18VA69002_1824: Test 3.6 -> Profile 18VA69002_1824 outside TS Monthly Climatology polygons
+18VA69002_1824: Test 3.6 -> Profile 18VA69002_1824 outside Monthly Nutrient Climatology polygons
+18VA69002_1829: Test 3.6 -> Profile 18VA69002_1829 outside TS Monthly Climatology polygons
+18VA69002_1829: Test 3.6 -> Profile 18VA69002_1829 outside Monthly Nutrient Climatology polygons
+18VA69002_1849: Test 3.6 -> Profile 18VA69002_1849 outside TS Monthly Climatology polygons
+18VA69002_1849: Test 3.6 -> Profile 18VA69002_1849 outside Monthly Nutrient Climatology polygons
+18VA69002_1830: Test 3.6 -> Profile 18VA69002_1830 outside TS Monthly Climatology polygons
+18VA69002_1830: Test 3.6 -> Profile 18VA69002_1830 outside Monthly Nutrient Climatology polygons
+18VA69002_1825: Test 3.6 -> Profile 18VA69002_1825 outside TS Monthly Climatology polygons
+18VA69002_1825: Test 3.6 -> Profile 18VA69002_1825 outside Monthly Nutrient Climatology polygons
+18VA69002_1850: Test 3.6 -> Profile 18VA69002_1850 outside TS Monthly Climatology polygons
+18VA69002_1850: Test 3.6 -> Profile 18VA69002_1850 outside Monthly Nutrient Climatology polygons
+18VA69002_1802: Test 3.6 -> Profile 18VA69002_1802 outside TS Monthly Climatology polygons
+18VA69002_1802: Test 3.6 -> Profile 18VA69002_1802 outside Monthly Nutrient Climatology polygons
+18VA69002_1851: Test 3.6 -> Profile 18VA69002_1851 outside TS Monthly Climatology polygons
+18VA69002_1851: Test 3.6 -> Profile 18VA69002_1851 outside Monthly Nutrient Climatology polygons
+18VA69002_1803: Test 3.6 -> Profile 18VA69002_1803 outside TS Monthly Climatology polygons
+18VA69002_1803: Test 3.6 -> Profile 18VA69002_1803 outside Monthly Nutrient Climatology polygons
+18VA69002_1826: Test 3.6 -> Profile 18VA69002_1826 outside TS Monthly Climatology polygons
+18VA69002_1826: Test 3.6 -> Profile 18VA69002_1826 outside Monthly Nutrient Climatology polygons
+18VA69002_1831: Test 3.6 -> Profile 18VA69002_1831 outside TS Monthly Climatology polygons
+18VA69002_1831: Test 3.6 -> Profile 18VA69002_1831 outside Monthly Nutrient Climatology polygons
+18VA69002_1852: Test 3.6 -> Profile 18VA69002_1852 outside TS Monthly Climatology polygons
+18VA69002_1852: Test 3.6 -> Profile 18VA69002_1852 outside Monthly Nutrient Climatology polygons
+18VA69002_1827: Test 3.6 -> Profile 18VA69002_1827 outside TS Monthly Climatology polygons
+18VA69002_1827: Test 3.6 -> Profile 18VA69002_1827 outside Monthly Nutrient Climatology polygons
+18VA69002_1809: Test 3.6 -> Profile 18VA69002_1809 outside TS Monthly Climatology polygons
+18VA69002_1809: Test 3.6 -> Profile 18VA69002_1809 outside Monthly Nutrient Climatology polygons
+18VA69002_1837: Test 3.6 -> Profile 18VA69002_1837 outside TS Monthly Climatology polygons
+18VA69002_1837: Test 3.6 -> Profile 18VA69002_1837 outside Monthly Nutrient Climatology polygons
+18VA69002_1804: Test 3.6 -> Profile 18VA69002_1804 outside TS Monthly Climatology polygons
+18VA69002_1804: Test 3.6 -> Profile 18VA69002_1804 outside Monthly Nutrient Climatology polygons
+18VA69002_1832: Test 3.6 -> Profile 18VA69002_1832 outside TS Monthly Climatology polygons
+18VA69002_1832: Test 3.6 -> Profile 18VA69002_1832 outside Monthly Nutrient Climatology polygons
+18VA69002_1838: Test 3.6 -> Profile 18VA69002_1838 outside TS Monthly Climatology polygons
+18VA69002_1838: Test 3.6 -> Profile 18VA69002_1838 outside Monthly Nutrient Climatology polygons
+18VA69002_1810: Test 3.6 -> Profile 18VA69002_1810 outside TS Monthly Climatology polygons
+18VA69002_1810: Test 3.6 -> Profile 18VA69002_1810 outside Monthly Nutrient Climatology polygons
+18VA69002_1805: Test 3.6 -> Profile 18VA69002_1805 outside TS Monthly Climatology polygons
+18VA69002_1805: Test 3.6 -> Profile 18VA69002_1805 outside Monthly Nutrient Climatology polygons
+18VA69002_1770: Test 3.6 -> Profile 18VA69002_1770 outside TS Monthly Climatology polygons
+18VA69002_1770: Test 3.6 -> Profile 18VA69002_1770 outside Monthly Nutrient Climatology polygons
+18VA69002_1774: Test 3.6 -> Profile 18VA69002_1774 outside TS Monthly Climatology polygons
+18VA69002_1774: Test 3.6 -> Profile 18VA69002_1774 outside Monthly Nutrient Climatology polygons
+18VA69002_1777: Test 3.6 -> Profile 18VA69002_1777 outside TS Monthly Climatology polygons
+18VA69002_1777: Test 3.6 -> Profile 18VA69002_1777 outside Monthly Nutrient Climatology polygons
+18VA69002_1833: Test 3.6 -> Profile 18VA69002_1833 outside TS Monthly Climatology polygons
+18VA69002_1833: Test 3.6 -> Profile 18VA69002_1833 outside Monthly Nutrient Climatology polygons
+18VA69002_1839: Test 3.6 -> Profile 18VA69002_1839 outside TS Monthly Climatology polygons
+18VA69002_1839: Test 3.6 -> Profile 18VA69002_1839 outside Monthly Nutrient Climatology polygons
+18VA69002_1764: Test 3.5 -> temp in box(es) 66 is out of TS Climatology by more than 3*std at 10.0 m
+18VA69002_1764: Test 3.5 -> temp in box(es) 66 is out of TS Climatology by more than 3*std at 20.0 m
+18VA69002_1811: Test 3.6 -> Profile 18VA69002_1811 outside TS Monthly Climatology polygons
+18VA69002_1811: Test 3.6 -> Profile 18VA69002_1811 outside Monthly Nutrient Climatology polygons
+18VA69002_1806: Test 3.6 -> Profile 18VA69002_1806 outside TS Monthly Climatology polygons
+18VA69002_1806: Test 3.6 -> Profile 18VA69002_1806 outside Monthly Nutrient Climatology polygons
+18VA69002_1840: Test 3.6 -> Profile 18VA69002_1840 outside TS Monthly Climatology polygons
+18VA69002_1840: Test 3.6 -> Profile 18VA69002_1840 outside Monthly Nutrient Climatology polygons
+18VA69002_1834: Test 3.6 -> Profile 18VA69002_1834 outside TS Monthly Climatology polygons
+18VA69002_1834: Test 3.6 -> Profile 18VA69002_1834 outside Monthly Nutrient Climatology polygons
+18VA69002_1812: Test 3.6 -> Profile 18VA69002_1812 outside TS Monthly Climatology polygons
+18VA69002_1812: Test 3.6 -> Profile 18VA69002_1812 outside Monthly Nutrient Climatology polygons
+18VA69002_1835: Test 3.6 -> Profile 18VA69002_1835 outside TS Monthly Climatology polygons
+18VA69002_1835: Test 3.6 -> Profile 18VA69002_1835 outside Monthly Nutrient Climatology polygons
+18VA69002_1841: Test 3.6 -> Profile 18VA69002_1841 outside TS Monthly Climatology polygons
+18VA69002_1841: Test 3.6 -> Profile 18VA69002_1841 outside Monthly Nutrient Climatology polygons
+18VA69002_1807: Test 3.6 -> Profile 18VA69002_1807 outside TS Monthly Climatology polygons
+18VA69002_1807: Test 3.6 -> Profile 18VA69002_1807 outside Monthly Nutrient Climatology polygons
+18VA69002_1813: Test 3.6 -> Profile 18VA69002_1813 outside TS Monthly Climatology polygons
+18VA69002_1813: Test 3.6 -> Profile 18VA69002_1813 outside Monthly Nutrient Climatology polygons
+18VA69002_1842: Test 3.6 -> Profile 18VA69002_1842 outside TS Monthly Climatology polygons
+18VA69002_1842: Test 3.6 -> Profile 18VA69002_1842 outside Monthly Nutrient Climatology polygons
+18VA69002_1797: Test 3.6 -> Profile 18VA69002_1797 outside TS Monthly Climatology polygons
+18VA69002_1797: Test 3.6 -> Profile 18VA69002_1797 outside Monthly Nutrient Climatology polygons
+18VA69002_1814: Test 3.6 -> Profile 18VA69002_1814 outside TS Monthly Climatology polygons
+18VA69002_1814: Test 3.6 -> Profile 18VA69002_1814 outside Monthly Nutrient Climatology polygons
+18VA69002_1843: Test 3.6 -> Profile 18VA69002_1843 outside TS Monthly Climatology polygons
+18VA69002_1843: Test 3.6 -> Profile 18VA69002_1843 outside Monthly Nutrient Climatology polygons
+18VA69002_1815: Test 3.6 -> Profile 18VA69002_1815 outside TS Monthly Climatology polygons
+18VA69002_1815: Test 3.6 -> Profile 18VA69002_1815 outside Monthly Nutrient Climatology polygons
+18VA69002_1798: Test 3.6 -> Profile 18VA69002_1798 outside TS Monthly Climatology polygons
+18VA69002_1798: Test 3.6 -> Profile 18VA69002_1798 outside Monthly Nutrient Climatology polygons
+18VA69002_1816: Test 3.6 -> Profile 18VA69002_1816 outside TS Monthly Climatology polygons
+18VA69002_1816: Test 3.6 -> Profile 18VA69002_1816 outside Monthly Nutrient Climatology polygons
+18VA69002_1799: Test 3.6 -> Profile 18VA69002_1799 outside TS Monthly Climatology polygons
+18VA69002_1799: Test 3.6 -> Profile 18VA69002_1799 outside Monthly Nutrient Climatology polygons
+18VA69002_1817: Test 3.6 -> Profile 18VA69002_1817 outside TS Monthly Climatology polygons
+18VA69002_1817: Test 3.6 -> Profile 18VA69002_1817 outside Monthly Nutrient Climatology polygons
+18VA69002_1771: Test 3.6 -> Profile 18VA69002_1771 outside TS Monthly Climatology polygons
+18VA69002_1771: Test 3.6 -> Profile 18VA69002_1771 outside Monthly Nutrient Climatology polygons
+18VA69002_1778: Test 3.6 -> Profile 18VA69002_1778 outside TS Monthly Climatology polygons
+18VA69002_1778: Test 3.6 -> Profile 18VA69002_1778 outside Monthly Nutrient Climatology polygons
+18VA69002_1775: Test 3.6 -> Profile 18VA69002_1775 outside TS Monthly Climatology polygons
+18VA69002_1775: Test 3.6 -> Profile 18VA69002_1775 outside Monthly Nutrient Climatology polygons
+18VA69002_1781: Test 3.5 -> temp in box(es) 67 is out of TS Climatology by more than 3*std at 150.0 m
+18VA69002_1844: Test 3.6 -> Profile 18VA69002_1844 outside TS Monthly Climatology polygons
+18VA69002_1844: Test 3.6 -> Profile 18VA69002_1844 outside Monthly Nutrient Climatology polygons
+18VA69002_1818: Test 3.6 -> Profile 18VA69002_1818 outside TS Monthly Climatology polygons
+18VA69002_1818: Test 3.6 -> Profile 18VA69002_1818 outside Monthly Nutrient Climatology polygons
+18VA69002_1820: Test 3.6 -> Profile 18VA69002_1820 outside TS Monthly Climatology polygons
+18VA69002_1820: Test 3.6 -> Profile 18VA69002_1820 outside Monthly Nutrient Climatology polygons

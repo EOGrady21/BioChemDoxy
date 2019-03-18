@@ -1,0 +1,114 @@
+Test 1.5 -> Cruise velocity > permitted -> Check time and position of
+    the end of 18HU05656_296 and the beginning of 18HU05656_297 (found ship velocity is 19.9 kt)
+Test 1.6 -> No known depth for 18HU05656_002
+Test 1.6 -> No known depth for 18HU05656_113
+Test 1.6 -> No known depth for 18HU05656_225
+Test 1.6 -> No known depth for 18HU05656_264
+Test 1.6 -> No known depth for 18HU05656_284
+Test 1.6 -> No known depth for 18HU05656_304
+Test 1.6 -> No known depth for 18HU05656_315
+Test 1.6 -> No known depth for 18HU05656_326
+Test 1.6 -> No known depth for 18HU05656_339
+Test 1.6 -> No known depth for 18HU05656_003
+Test 1.6 -> No known depth for 18HU05656_014
+Test 1.6 -> No known depth for 18HU05656_025
+Test 1.6 -> No known depth for 18HU05656_036
+Test 1.6 -> No known depth for 18HU05656_047
+Test 1.6 -> No known depth for 18HU05656_058
+Test 1.6 -> No known depth for 18HU05656_069
+Test 1.6 -> No known depth for 18HU05656_080
+Test 1.6 -> No known depth for 18HU05656_091
+Test 1.6 -> No known depth for 18HU05656_279
+Test 1.6 -> No known depth for 18HU05656_280
+Test 1.6 -> No known depth for 18HU05656_281
+Test 1.6 -> No known depth for 18HU05656_282
+Test 1.6 -> No known depth for 18HU05656_283
+Test 1.6 -> No known depth for 18HU05656_285
+Test 1.6 -> No known depth for 18HU05656_295
+Test 1.6 -> No known depth for 18HU05656_296
+Test 1.6 -> No known depth for 18HU05656_297
+Test 1.6 -> No known depth for 18HU05656_298
+Test 1.6 -> No known depth for 18HU05656_299
+Test 1.6 -> No known depth for 18HU05656_300
+Test 1.6 -> No known depth for 18HU05656_301
+Test 1.6 -> No known depth for 18HU05656_329
+Test 1.6 -> No known depth for 18HU05656_330
+Test 1.6 -> No known depth for 18HU05656_333
+Test 1.6 -> No known depth for 18HU05656_334
+Test 1.6 -> No known depth for 18HU05656_335
+Test 1.6 -> No known depth for 18HU05656_354
+Test 1.6 -> No known depth for 18HU05656_369
+18HU05656_002: Test 3.6 -> Profile 18HU05656_002 outside TS Monthly Climatology polygons
+18HU05656_002: Test 3.6 -> Profile 18HU05656_002 outside Monthly Nutrient Climatology polygons
+18HU05656_113: Test 3.6 -> Profile 18HU05656_113 outside TS Monthly Climatology polygons
+18HU05656_113: Test 3.6 -> Profile 18HU05656_113 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU05656_225: Test 3.6 -> Profile 18HU05656_225 outside TS Monthly Climatology polygons
+18HU05656_225: Test 3.6 -> Profile 18HU05656_225 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU05656_264: Test 3.6 -> Profile 18HU05656_264 outside TS Monthly Climatology polygons
+18HU05656_264: Test 3.6 -> Profile 18HU05656_264 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU05656_264: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 100.2 m
+18HU05656_264: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 151.0 m
+18HU05656_264: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 151.0 m
+18HU05656_264: Test 3.6 -> slca in box(es) 9 is out of Nutrient Climatology at 168.3 m
+18HU05656_284: Test 3.6 -> Profile 18HU05656_284 outside TS Monthly Climatology polygons
+18HU05656_284: Test 3.6 -> Profile 18HU05656_284 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU05656_304: Test 3.6 -> Profile 18HU05656_304 outside TS Monthly Climatology polygons
+18HU05656_304: Test 3.6 -> Profile 18HU05656_304 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU05656_304: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 85.6 m
+18HU05656_315: Test 3.6 -> Profile 18HU05656_315 outside TS Monthly Climatology polygons
+18HU05656_315: Test 3.6 -> Profile 18HU05656_315 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU05656_326: Test 3.6 -> Profile 18HU05656_326 outside TS Monthly Climatology polygons
+18HU05656_339: Test 3.6 -> Profile 18HU05656_339 outside TS Monthly Climatology polygons
+18HU05656_003: Test 3.6 -> Profile 18HU05656_003 outside TS Monthly Climatology polygons
+18HU05656_014: Test 3.6 -> Profile 18HU05656_014 outside TS Monthly Climatology polygons
+18HU05656_025: Test 3.6 -> Profile 18HU05656_025 outside TS Monthly Climatology polygons
+18HU05656_036: Test 3.6 -> Profile 18HU05656_036 outside TS Monthly Climatology polygons
+18HU05656_047: Test 3.6 -> Profile 18HU05656_047 outside TS Monthly Climatology polygons
+18HU05656_058: Test 3.6 -> Profile 18HU05656_058 outside TS Monthly Climatology polygons
+18HU05656_058: Test 3.6 -> Profile 18HU05656_058 outside Monthly Nutrient Climatology polygons
+18HU05656_069: Test 3.6 -> Profile 18HU05656_069 outside TS Monthly Climatology polygons
+18HU05656_069: Test 3.6 -> Profile 18HU05656_069 outside Monthly Nutrient Climatology polygons
+18HU05656_080: Test 3.6 -> Profile 18HU05656_080 outside TS Monthly Climatology polygons
+18HU05656_080: Test 3.6 -> Profile 18HU05656_080 outside Monthly Nutrient Climatology polygons
+18HU05656_091: Test 3.6 -> Profile 18HU05656_091 outside TS Monthly Climatology polygons
+18HU05656_091: Test 3.6 -> Profile 18HU05656_091 outside Monthly Nutrient Climatology polygons
+18HU05656_279: Test 3.6 -> Profile 18HU05656_279 outside TS Monthly Climatology polygons
+18HU05656_279: Test 3.6 -> Profile 18HU05656_279 outside Monthly Nutrient Climatology polygons
+18HU05656_280: Test 3.6 -> Profile 18HU05656_280 outside TS Monthly Climatology polygons
+18HU05656_280: Test 3.6 -> Profile 18HU05656_280 outside Monthly Nutrient Climatology polygons
+18HU05656_281: Test 3.6 -> Profile 18HU05656_281 outside TS Monthly Climatology polygons
+18HU05656_281: Test 3.6 -> Profile 18HU05656_281 outside Monthly Nutrient Climatology polygons
+18HU05656_282: Test 3.6 -> Profile 18HU05656_282 outside TS Monthly Climatology polygons
+18HU05656_282: Test 3.6 -> Profile 18HU05656_282 outside Monthly Nutrient Climatology polygons
+18HU05656_283: Test 3.6 -> Profile 18HU05656_283 outside TS Monthly Climatology polygons
+18HU05656_283: Test 3.6 -> Profile 18HU05656_283 outside Monthly Nutrient Climatology polygons
+18HU05656_285: Test 3.6 -> Profile 18HU05656_285 outside TS Monthly Climatology polygons
+18HU05656_285: Test 3.6 -> Profile 18HU05656_285 outside Monthly Nutrient Climatology polygons
+18HU05656_295: Test 3.6 -> Profile 18HU05656_295 outside TS Monthly Climatology polygons
+18HU05656_295: Test 3.6 -> Profile 18HU05656_295 outside Monthly Nutrient Climatology polygons
+18HU05656_296: Test 3.6 -> Profile 18HU05656_296 outside TS Monthly Climatology polygons
+18HU05656_296: Test 3.6 -> Profile 18HU05656_296 outside Monthly Nutrient Climatology polygons
+18HU05656_297: Test 3.6 -> Profile 18HU05656_297 outside TS Monthly Climatology polygons
+18HU05656_297: Test 3.6 -> Profile 18HU05656_297 outside Monthly Nutrient Climatology polygons
+18HU05656_298: Test 3.6 -> Profile 18HU05656_298 outside TS Monthly Climatology polygons
+18HU05656_298: Test 3.6 -> Profile 18HU05656_298 outside Monthly Nutrient Climatology polygons
+18HU05656_299: Test 3.6 -> Profile 18HU05656_299 outside TS Monthly Climatology polygons
+18HU05656_299: Test 3.6 -> Profile 18HU05656_299 outside Monthly Nutrient Climatology polygons
+18HU05656_300: Test 3.6 -> Profile 18HU05656_300 outside TS Monthly Climatology polygons
+18HU05656_300: Test 3.6 -> Profile 18HU05656_300 outside Monthly Nutrient Climatology polygons
+18HU05656_301: Test 3.6 -> Profile 18HU05656_301 outside TS Monthly Climatology polygons
+18HU05656_301: Test 3.6 -> Profile 18HU05656_301 outside Monthly Nutrient Climatology polygons
+18HU05656_329: Test 3.6 -> Profile 18HU05656_329 outside TS Monthly Climatology polygons
+18HU05656_329: Test 3.6 -> Profile 18HU05656_329 outside Monthly Nutrient Climatology polygons
+18HU05656_330: Test 3.6 -> Profile 18HU05656_330 outside TS Monthly Climatology polygons
+18HU05656_330: Test 3.6 -> Profile 18HU05656_330 outside Monthly Nutrient Climatology polygons
+18HU05656_333: Test 3.6 -> Profile 18HU05656_333 outside TS Monthly Climatology polygons
+18HU05656_333: Test 3.6 -> Profile 18HU05656_333 outside Monthly Nutrient Climatology polygons
+18HU05656_334: Test 3.6 -> Profile 18HU05656_334 outside TS Monthly Climatology polygons
+18HU05656_334: Test 3.6 -> Profile 18HU05656_334 outside Monthly Nutrient Climatology polygons
+18HU05656_335: Test 3.6 -> Profile 18HU05656_335 outside TS Monthly Climatology polygons
+18HU05656_335: Test 3.6 -> Profile 18HU05656_335 outside Monthly Nutrient Climatology polygons
+18HU05656_354: Test 3.6 -> Profile 18HU05656_354 outside TS Monthly Climatology polygons
+18HU05656_354: Test 3.6 -> Profile 18HU05656_354 outside Monthly Nutrient Climatology polygons
+18HU05656_369: Test 3.6 -> Profile 18HU05656_369 outside TS Monthly Climatology polygons
+18HU05656_369: Test 3.6 -> Profile 18HU05656_369 outside Monthly Nutrient Climatology polygons

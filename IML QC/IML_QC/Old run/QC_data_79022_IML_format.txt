@@ -1,0 +1,1127 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+181079022_001; 10.00; 4108; doxy; 271.09  ; Global Impossible Parameter Value
+181079022_001; 20.00; 4107; doxy; 343.44  ; Global Impossible Parameter Value
+181079022_001; 30.00; 4106; doxy; 371.57  ; Global Impossible Parameter Value
+181079022_001; 50.00; 4104; doxy; 322.89  ; Global Impossible Parameter Value
+181079022_001; 50.00; 4105; doxy; 328.25  ; Global Impossible Parameter Value
+181079022_001; 75.00; 4103; doxy; 230.45  ; Global Impossible Parameter Value
+181079022_001; 100.00; 4102; doxy; 187.13  ; Global Impossible Parameter Value
+181079022_001; 10.00; 4108; doxy; 271.09  ; Regional Impossible Parameter Value
+181079022_001; 20.00; 4107; doxy; 343.44  ; Regional Impossible Parameter Value
+181079022_001; 30.00; 4106; doxy; 371.57  ; Regional Impossible Parameter Value
+181079022_001; 50.00; 4104; doxy; 322.89  ; Regional Impossible Parameter Value
+181079022_001; 50.00; 4105; doxy; 328.25  ; Regional Impossible Parameter Value
+181079022_001; 75.00; 4103; doxy; 230.45  ; Regional Impossible Parameter Value
+181079022_001; 100.00; 4102; doxy; 187.13  ; Regional Impossible Parameter Value
+181079022_001; 130.00 to 130.00; 4100, 4101; psal; 34.53  34.53  ; Gradient or Inversion too high
+181079022_001; 50.00 to 50.00; 4104, 4105; ntrz; 3.12  11.35  ; Gradient or Inversion too high
+181079022_001; 130.00 to 130.00; 4100, 4101; ntrz; 18.14  16.31  ; Gradient or Inversion too high
+181079022_001; 50.00 to 50.00; 4104, 4105; phos; 1.00  1.39  ; Gradient or Inversion too high
+181079022_001; 130.00 to 130.00; 4100, 4101; phos; 1.75  1.59  ; Gradient or Inversion too high
+181079022_002; 10.00; 4117; doxy; 252.78  ; Global Impossible Parameter Value
+181079022_002; 30.00; 4116; doxy; 318.43  ; Global Impossible Parameter Value
+181079022_002; 50.00; 4115; doxy; 266.17  ; Global Impossible Parameter Value
+181079022_002; 100.00; 4114; doxy; 200.97  ; Global Impossible Parameter Value
+181079022_002; 150.00; 4113; doxy; 188.02  ; Global Impossible Parameter Value
+181079022_002; 200.00; 4112; doxy; 150.95  ; Global Impossible Parameter Value
+181079022_002; 500.00; 4109; doxy; 328.25  ; Global Impossible Parameter Value
+181079022_002; 500.00; 4110; doxy; 227.77  ; Global Impossible Parameter Value
+181079022_002; 10.00; 4117; doxy; 252.78  ; Regional Impossible Parameter Value
+181079022_002; 30.00; 4116; doxy; 318.43  ; Regional Impossible Parameter Value
+181079022_002; 50.00; 4115; doxy; 266.17  ; Regional Impossible Parameter Value
+181079022_002; 100.00; 4114; doxy; 200.97  ; Regional Impossible Parameter Value
+181079022_002; 150.00; 4113; doxy; 188.02  ; Regional Impossible Parameter Value
+181079022_002; 200.00; 4112; doxy; 150.95  ; Regional Impossible Parameter Value
+181079022_002; 500.00; 4109; doxy; 328.25  ; Regional Impossible Parameter Value
+181079022_002; 500.00; 4110; doxy; 227.77  ; Regional Impossible Parameter Value
+181079022_002; 500.00 to 500.00; 4109, 4110; psal; 34.94  34.94  ; Gradient or Inversion too high
+181079022_002; 500.00 to 500.00; 4109, 4110; ntrz; 20.93  19.16  ; Gradient or Inversion too high
+181079022_002; 500.00 to 500.00; 4109, 4110; phos; 1.68  1.58  ; Gradient or Inversion too high
+181079022_113; 10.00; 4126; doxy; 259.47  ; Global Impossible Parameter Value
+181079022_113; 20.00; 4125; doxy; 294.76  ; Global Impossible Parameter Value
+181079022_113; 30.00; 4124; doxy; 316.64  ; Global Impossible Parameter Value
+181079022_113; 50.00; 4122; doxy; 316.64  ; Global Impossible Parameter Value
+181079022_113; 50.00; 4123; doxy; 326.02  ; Global Impossible Parameter Value
+181079022_113; 75.00; 4121; doxy; 246.97  ; Global Impossible Parameter Value
+181079022_113; 100.00; 4120; doxy; 217.49  ; Global Impossible Parameter Value
+181079022_113; 138.00; 4118; doxy; 220.17  ; Global Impossible Parameter Value
+181079022_113; 138.00; 4119; doxy; 179.53  ; Global Impossible Parameter Value
+181079022_113; 10.00; 4126; doxy; 259.47  ; Regional Impossible Parameter Value
+181079022_113; 20.00; 4125; doxy; 294.76  ; Regional Impossible Parameter Value
+181079022_113; 30.00; 4124; doxy; 316.64  ; Regional Impossible Parameter Value
+181079022_113; 50.00; 4122; doxy; 316.64  ; Regional Impossible Parameter Value
+181079022_113; 50.00; 4123; doxy; 326.02  ; Regional Impossible Parameter Value
+181079022_113; 75.00; 4121; doxy; 246.97  ; Regional Impossible Parameter Value
+181079022_113; 100.00; 4120; doxy; 217.49  ; Regional Impossible Parameter Value
+181079022_113; 138.00; 4118; doxy; 220.17  ; Regional Impossible Parameter Value
+181079022_113; 138.00; 4119; doxy; 179.53  ; Regional Impossible Parameter Value
+181079022_113; 138.00 to 138.00; 4118, 4119; psal; 35.28  35.27  ; Gradient or Inversion too high
+181079022_113; 50.00 to 50.00; 4122, 4123; ntrz; 0.43  0.51  ; Gradient or Inversion too high
+181079022_113; 138.00 to 138.00; 4118, 4119; ntrz; 16.76  16.20  ; Gradient or Inversion too high
+181079022_113; 50.00 to 50.00; 4122, 4123; phos; 0.59  0.58  ; Gradient or Inversion too high
+181079022_113; 138.00 to 138.00; 4118, 4119; phos; 1.30  1.33  ; Gradient or Inversion too high
+181079022_113; 10.00; 4126; slca; 0.61  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+181079022_225; 10.00; 4135; doxy; 259.92  ; Global Impossible Parameter Value
+181079022_225; 20.00; 4134; doxy; 326.02  ; Global Impossible Parameter Value
+181079022_225; 30.00; 4133; doxy; 342.54  ; Global Impossible Parameter Value
+181079022_225; 50.00; 4131; doxy; 271.53  ; Global Impossible Parameter Value
+181079022_225; 50.00; 4132; doxy; 300.56  ; Global Impossible Parameter Value
+181079022_225; 75.00; 4130; doxy; 261.26  ; Global Impossible Parameter Value
+181079022_225; 100.00; 4129; doxy; 188.91  ; Global Impossible Parameter Value
+181079022_225; 111.00; 4127; doxy; 188.02  ; Global Impossible Parameter Value
+181079022_225; 111.00; 4128; doxy; 180.43  ; Global Impossible Parameter Value
+181079022_225; 10.00; 4135; doxy; 259.92  ; Regional Impossible Parameter Value
+181079022_225; 20.00; 4134; doxy; 326.02  ; Regional Impossible Parameter Value
+181079022_225; 30.00; 4133; doxy; 342.54  ; Regional Impossible Parameter Value
+181079022_225; 50.00; 4131; doxy; 271.53  ; Regional Impossible Parameter Value
+181079022_225; 50.00; 4132; doxy; 300.56  ; Regional Impossible Parameter Value
+181079022_225; 75.00; 4130; doxy; 261.26  ; Regional Impossible Parameter Value
+181079022_225; 100.00; 4129; doxy; 188.91  ; Regional Impossible Parameter Value
+181079022_225; 111.00; 4127; doxy; 188.02  ; Regional Impossible Parameter Value
+181079022_225; 111.00; 4128; doxy; 180.43  ; Regional Impossible Parameter Value
+181079022_225; 111.00 to 111.00; 4127, 4128; psal; 34.29  34.29  ; Gradient or Inversion too high
+181079022_225; 50.00 to 50.00; 4131, 4132; ntrz; 4.71  4.96  ; Gradient or Inversion too high
+181079022_225; 111.00 to 111.00; 4127, 4128; ntrz; 16.59  14.35  ; Gradient or Inversion too high
+181079022_225; 50.00 to 50.00; 4131, 4132; phos; 1.04  1.09  ; Gradient or Inversion too high
+181079022_225; 111.00 to 111.00; 4127, 4128; phos; 1.45  1.39  ; Gradient or Inversion too high
+181079022_225; 10.00; 4135; slca; 0.56  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+181079022_264; 10.00; 4144; doxy; 269.30  ; Global Impossible Parameter Value
+181079022_264; 20.00; 4143; doxy; 345.67  ; Global Impossible Parameter Value
+181079022_264; 30.00; 4142; doxy; 288.06  ; Global Impossible Parameter Value
+181079022_264; 50.00; 4140; doxy; 313.07  ; Global Impossible Parameter Value
+181079022_264; 50.00; 4141; doxy; 322.00  ; Global Impossible Parameter Value
+181079022_264; 75.00; 4139; doxy; 246.08  ; Global Impossible Parameter Value
+181079022_264; 100.00; 4138; doxy; 236.70  ; Global Impossible Parameter Value
+181079022_264; 130.00; 4136; doxy; 166.58  ; Global Impossible Parameter Value
+181079022_264; 130.00; 4137; doxy; 136.66  ; Global Impossible Parameter Value
+181079022_264; 10.00; 4144; doxy; 269.30  ; Regional Impossible Parameter Value
+181079022_264; 20.00; 4143; doxy; 345.67  ; Regional Impossible Parameter Value
+181079022_264; 30.00; 4142; doxy; 288.06  ; Regional Impossible Parameter Value
+181079022_264; 50.00; 4140; doxy; 313.07  ; Regional Impossible Parameter Value
+181079022_264; 50.00; 4141; doxy; 322.00  ; Regional Impossible Parameter Value
+181079022_264; 75.00; 4139; doxy; 246.08  ; Regional Impossible Parameter Value
+181079022_264; 100.00; 4138; doxy; 236.70  ; Regional Impossible Parameter Value
+181079022_264; 130.00; 4136; doxy; 166.58  ; Regional Impossible Parameter Value
+181079022_264; 130.00; 4137; doxy; 136.66  ; Regional Impossible Parameter Value
+181079022_264; 130.00 to 130.00; 4136, 4137; psal; 34.17  34.17  ; Gradient or Inversion too high
+181079022_264; 50.00 to 50.00; 4140, 4141; ntrz; 5.57  4.98  ; Gradient or Inversion too high
+181079022_264; 130.00 to 130.00; 4136, 4137; ntrz; 16.70  16.98  ; Gradient or Inversion too high
+181079022_264; 50.00 to 50.00; 4140, 4141; phos; 1.20  1.16  ; Gradient or Inversion too high
+181079022_264; 130.00 to 130.00; 4136, 4137; phos; 1.48  1.53  ; Gradient or Inversion too high
+181079022_264; 10.00; 4144; slca; 0.77  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+181079022_284; 10.00; 4153; doxy; 183.11  ; Global Impossible Parameter Value
+181079022_284; 20.00; 4152; doxy; 234.91  ; Global Impossible Parameter Value
+181079022_284; 30.00; 4151; doxy; 221.96  ; Global Impossible Parameter Value
+181079022_284; 50.00; 4149; doxy; 202.31  ; Global Impossible Parameter Value
+181079022_284; 50.00; 4150; doxy; 205.44  ; Global Impossible Parameter Value
+181079022_284; 75.00; 4148; doxy; 82.17  ; Global Impossible Parameter Value
+181079022_284; 100.00; 4147; doxy; 111.65  ; Global Impossible Parameter Value
+181079022_284; 124.00; 4145; doxy; 146.93  ; Global Impossible Parameter Value
+181079022_284; 124.00; 4146; doxy; 70.12  ; Global Impossible Parameter Value
+181079022_284; 10.00; 4153; doxy; 183.11  ; Regional Impossible Parameter Value
+181079022_284; 20.00; 4152; doxy; 234.91  ; Regional Impossible Parameter Value
+181079022_284; 30.00; 4151; doxy; 221.96  ; Regional Impossible Parameter Value
+181079022_284; 50.00; 4149; doxy; 202.31  ; Regional Impossible Parameter Value
+181079022_284; 50.00; 4150; doxy; 205.44  ; Regional Impossible Parameter Value
+181079022_284; 75.00; 4148; doxy; 82.17  ; Regional Impossible Parameter Value
+181079022_284; 100.00; 4147; doxy; 111.65  ; Regional Impossible Parameter Value
+181079022_284; 124.00; 4145; doxy; 146.93  ; Regional Impossible Parameter Value
+181079022_284; 124.00; 4146; doxy; 70.12  ; Regional Impossible Parameter Value
+181079022_284; 124.00 to 124.00; 4145, 4146; psal; 34.05  34.05  ; Gradient or Inversion too high
+181079022_284; 50.00 to 50.00; 4149, 4150; ntrz; 7.68  7.14  ; Gradient or Inversion too high
+181079022_284; 124.00 to 124.00; 4145, 4146; ntrz; 17.23  17.42  ; Gradient or Inversion too high
+181079022_284; 50.00 to 50.00; 4149, 4150; phos; 1.31  1.20  ; Gradient or Inversion too high
+181079022_284; 124.00 to 124.00; 4145, 4146; phos; 1.69  2.09  ; Gradient or Inversion too high
+181079022_284; 124.00; 4146; phos; 2.09  ; Out of Nutrient Climatology in box(es) 4 (Min=0.80 Max=1.80 n=101)
+181079022_284; 10.00; 4153; slca; 0.65  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+181079022_304; 10.00; 4162; doxy; 313.51  ; Global Impossible Parameter Value
+181079022_304; 20.00; 4161; doxy; 329.59  ; Global Impossible Parameter Value
+181079022_304; 30.00; 4160; doxy; 342.54  ; Global Impossible Parameter Value
+181079022_304; 50.00; 4158; doxy; 300.56  ; Global Impossible Parameter Value
+181079022_304; 50.00; 4159; doxy; 295.65  ; Global Impossible Parameter Value
+181079022_304; 75.00; 4157; doxy; 259.92  ; Global Impossible Parameter Value
+181079022_304; 100.00; 4156; doxy; 219.73  ; Global Impossible Parameter Value
+181079022_304; 115.00; 4154; doxy; 201.86  ; Global Impossible Parameter Value
+181079022_304; 115.00; 4155; doxy; 192.04  ; Global Impossible Parameter Value
+181079022_304; 10.00; 4162; doxy; 313.51  ; Regional Impossible Parameter Value
+181079022_304; 20.00; 4161; doxy; 329.59  ; Regional Impossible Parameter Value
+181079022_304; 30.00; 4160; doxy; 342.54  ; Regional Impossible Parameter Value
+181079022_304; 50.00; 4158; doxy; 300.56  ; Regional Impossible Parameter Value
+181079022_304; 50.00; 4159; doxy; 295.65  ; Regional Impossible Parameter Value
+181079022_304; 75.00; 4157; doxy; 259.92  ; Regional Impossible Parameter Value
+181079022_304; 100.00; 4156; doxy; 219.73  ; Regional Impossible Parameter Value
+181079022_304; 115.00; 4154; doxy; 201.86  ; Regional Impossible Parameter Value
+181079022_304; 115.00; 4155; doxy; 192.04  ; Regional Impossible Parameter Value
+181079022_304; 115.00 to 115.00; 4154, 4155; psal; 33.87  33.87  ; Gradient or Inversion too high
+181079022_304; 50.00 to 50.00; 4158, 4159; ntrz; 8.00  8.37  ; Gradient or Inversion too high
+181079022_304; 115.00 to 115.00; 4154, 4155; ntrz; 15.61  15.95  ; Gradient or Inversion too high
+181079022_304; 50.00 to 50.00; 4158, 4159; phos; 1.14  1.22  ; Gradient or Inversion too high
+181079022_304; 115.00 to 115.00; 4154, 4155; phos; 1.76  1.56  ; Gradient or Inversion too high
+181079022_304; 100.00; 4156; phos; 1.82  ; Out of Nutrient Climatology in box(es) 4 (Min=0.30 Max=1.59 n=561)
+181079022_315; 10.00; 4171; doxy; 295.20  ; Global Impossible Parameter Value
+181079022_315; 20.00; 4170; doxy; 216.60  ; Global Impossible Parameter Value
+181079022_315; 30.00; 4169; doxy; 213.03  ; Global Impossible Parameter Value
+181079022_315; 50.00; 4167; doxy; 108.08  ; Global Impossible Parameter Value
+181079022_315; 50.00; 4168; doxy; 175.07  ; Global Impossible Parameter Value
+181079022_315; 75.00; 4166; doxy; 149.61  ; Global Impossible Parameter Value
+181079022_315; 100.00; 4165; doxy; 184.89  ; Global Impossible Parameter Value
+181079022_315; 140.00; 4163; doxy; 265.73  ; Global Impossible Parameter Value
+181079022_315; 140.00; 4164; doxy; 142.47  ; Global Impossible Parameter Value
+181079022_315; 10.00; 4171; doxy; 295.20  ; Regional Impossible Parameter Value
+181079022_315; 20.00; 4170; doxy; 216.60  ; Regional Impossible Parameter Value
+181079022_315; 30.00; 4169; doxy; 213.03  ; Regional Impossible Parameter Value
+181079022_315; 50.00; 4167; doxy; 108.08  ; Regional Impossible Parameter Value
+181079022_315; 50.00; 4168; doxy; 175.07  ; Regional Impossible Parameter Value
+181079022_315; 75.00; 4166; doxy; 149.61  ; Regional Impossible Parameter Value
+181079022_315; 100.00; 4165; doxy; 184.89  ; Regional Impossible Parameter Value
+181079022_315; 140.00; 4163; doxy; 265.73  ; Regional Impossible Parameter Value
+181079022_315; 140.00; 4164; doxy; 142.47  ; Regional Impossible Parameter Value
+181079022_315; 140.00 to 140.00; 4163, 4164; psal; 33.52  33.51  ; Gradient or Inversion too high
+181079022_315; 50.00 to 50.00; 4167, 4168; ntrz; 5.92  7.98  ; Gradient or Inversion too high
+181079022_315; 140.00 to 140.00; 4163, 4164; ntrz; 12.74  10.11  ; Gradient or Inversion too high
+181079022_315; 50.00 to 50.00; 4167, 4168; phos; 1.03  1.23  ; Gradient or Inversion too high
+181079022_315; 140.00 to 140.00; 4163, 4164; phos; 1.42  1.24  ; Gradient or Inversion too high
+181079022_315; 100.00; 4165; phos; 1.83  ; Out of Nutrient Climatology in box(es) 4 (Min=0.30 Max=1.59 n=561)
+181079022_315; 10.00; 4171; slca; 0.53  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+181079022_326; 10.00; 4180; doxy; 335.40  ; Global Impossible Parameter Value
+181079022_326; 20.00; 4179; doxy; 355.94  ; Global Impossible Parameter Value
+181079022_326; 50.00; 4176; doxy; 298.33  ; Global Impossible Parameter Value
+181079022_326; 50.00; 4177; doxy; 295.65  ; Global Impossible Parameter Value
+181079022_326; 75.00; 4175; doxy; 225.98  ; Global Impossible Parameter Value
+181079022_326; 100.00; 4174; doxy; 206.78  ; Global Impossible Parameter Value
+181079022_326; 108.00; 4172; doxy; 224.19  ; Global Impossible Parameter Value
+181079022_326; 108.00; 4173; doxy; 205.88  ; Global Impossible Parameter Value
+181079022_326; 10.00; 4180; doxy; 335.40  ; Regional Impossible Parameter Value
+181079022_326; 20.00; 4179; doxy; 355.94  ; Regional Impossible Parameter Value
+181079022_326; 50.00; 4176; doxy; 298.33  ; Regional Impossible Parameter Value
+181079022_326; 50.00; 4177; doxy; 295.65  ; Regional Impossible Parameter Value
+181079022_326; 75.00; 4175; doxy; 225.98  ; Regional Impossible Parameter Value
+181079022_326; 100.00; 4174; doxy; 206.78  ; Regional Impossible Parameter Value
+181079022_326; 108.00; 4172; doxy; 224.19  ; Regional Impossible Parameter Value
+181079022_326; 108.00; 4173; doxy; 205.88  ; Regional Impossible Parameter Value
+181079022_326; 108.00 to 108.00; 4172, 4173; psal; 33.41  33.41  ; Gradient or Inversion too high
+181079022_326; 50.00 to 50.00; 4176, 4177; ntrz; 6.31  5.57  ; Gradient or Inversion too high
+181079022_326; 108.00 to 108.00; 4172, 4173; ntrz; 12.20  13.88  ; Gradient or Inversion too high
+181079022_326; 50.00 to 50.00; 4176, 4177; phos; 1.39  1.22  ; Gradient or Inversion too high
+181079022_326; 108.00 to 108.00; 4172, 4173; phos; 1.37  1.63  ; Gradient or Inversion too high
+181079022_326; 10.00; 4180; slca; 0.41  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+181079022_339; 10.00; 4188; doxy; 353.26  ; Global Impossible Parameter Value
+181079022_339; 10.00; 4189; doxy; 340.31  ; Global Impossible Parameter Value
+181079022_339; 20.00; 4187; doxy; 330.04  ; Global Impossible Parameter Value
+181079022_339; 30.00; 4186; doxy; 305.03  ; Global Impossible Parameter Value
+181079022_339; 40.00; 4185; doxy; 298.33  ; Global Impossible Parameter Value
+181079022_339; 50.00; 4183; doxy; 276.45  ; Global Impossible Parameter Value
+181079022_339; 55.00; 4181; doxy; 329.14  ; Global Impossible Parameter Value
+181079022_339; 55.00; 4182; doxy; 277.79  ; Global Impossible Parameter Value
+181079022_339; 10.00; 4188; doxy; 353.26  ; Regional Impossible Parameter Value
+181079022_339; 10.00; 4189; doxy; 340.31  ; Regional Impossible Parameter Value
+181079022_339; 20.00; 4187; doxy; 330.04  ; Regional Impossible Parameter Value
+181079022_339; 30.00; 4186; doxy; 305.03  ; Regional Impossible Parameter Value
+181079022_339; 40.00; 4185; doxy; 298.33  ; Regional Impossible Parameter Value
+181079022_339; 50.00; 4183; doxy; 276.45  ; Regional Impossible Parameter Value
+181079022_339; 55.00; 4181; doxy; 329.14  ; Regional Impossible Parameter Value
+181079022_339; 55.00; 4182; doxy; 277.79  ; Regional Impossible Parameter Value
+181079022_339; 55.00 to 55.00; 4181, 4182; psal; 32.55  32.58  ; Gradient or Inversion too high
+181079022_339; 10.00 to 10.00; 4188, 4189; ntrz; 0.71  0.40  ; Gradient or Inversion too high
+181079022_339; 50.00 to 50.00; 4183, 4184; ntrz; 7.96  6.55  ; Gradient or Inversion too high
+181079022_339; 55.00 to 55.00; 4181, 4182; ntrz; 7.41  7.96  ; Gradient or Inversion too high
+181079022_339; 10.00 to 10.00; 4188, 4189; phos; 0.81  0.78  ; Gradient or Inversion too high
+181079022_339; 50.00 to 50.00; 4183, 4184; phos; 1.28  1.27  ; Gradient or Inversion too high
+181079022_339; 55.00 to 55.00; 4181, 4182; phos; 1.27  1.37  ; Gradient or Inversion too high
+181079022_339; 10.00; 4189; slca; 0.73  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+181079022_003; 10.00; 4198; doxy; 287.16  ; Global Impossible Parameter Value
+181079022_003; 20.00; 4197; doxy; 271.53  ; Global Impossible Parameter Value
+181079022_003; 30.00; 4196; doxy; 208.56  ; Global Impossible Parameter Value
+181079022_003; 40.00; 4194; doxy; 275.11  ; Global Impossible Parameter Value
+181079022_003; 40.00; 4195; doxy; 263.94  ; Global Impossible Parameter Value
+181079022_003; 50.00; 4192; doxy; 270.64  ; Global Impossible Parameter Value
+181079022_003; 50.00; 4193; doxy; 267.96  ; Global Impossible Parameter Value
+181079022_003; 64.00; 4190; doxy; 253.22  ; Global Impossible Parameter Value
+181079022_003; 64.00; 4191; doxy; 245.63  ; Global Impossible Parameter Value
+181079022_003; 10.00; 4198; doxy; 287.16  ; Regional Impossible Parameter Value
+181079022_003; 20.00; 4197; doxy; 271.53  ; Regional Impossible Parameter Value
+181079022_003; 30.00; 4196; doxy; 208.56  ; Regional Impossible Parameter Value
+181079022_003; 40.00; 4194; doxy; 275.11  ; Regional Impossible Parameter Value
+181079022_003; 40.00; 4195; doxy; 263.94  ; Regional Impossible Parameter Value
+181079022_003; 50.00; 4192; doxy; 270.64  ; Regional Impossible Parameter Value
+181079022_003; 50.00; 4193; doxy; 267.96  ; Regional Impossible Parameter Value
+181079022_003; 64.00; 4190; doxy; 253.22  ; Regional Impossible Parameter Value
+181079022_003; 64.00; 4191; doxy; 245.63  ; Regional Impossible Parameter Value
+181079022_003; 64.00 to 64.00; 4190, 4191; psal; 32.87  32.87  ; Gradient or Inversion too high
+181079022_003; 40.00 to 40.00; 4194, 4195; ntrz; 6.88  6.32  ; Gradient or Inversion too high
+181079022_003; 50.00 to 50.00; 4192, 4193; ntrz; 7.42  7.03  ; Gradient or Inversion too high
+181079022_003; 64.00 to 64.00; 4190, 4191; ntrz; 7.00  7.13  ; Gradient or Inversion too high
+181079022_003; 40.00 to 40.00; 4194, 4195; phos; 1.12  1.10  ; Gradient or Inversion too high
+181079022_003; 50.00 to 50.00; 4192, 4193; phos; 1.12  1.11  ; Gradient or Inversion too high
+181079022_003; 64.00 to 64.00; 4190, 4191; phos; 1.06  1.09  ; Gradient or Inversion too high
+181079022_014; 10.00; 4207; doxy; 307.71  ; Global Impossible Parameter Value
+181079022_014; 20.00; 4205; doxy; 261.26  ; Global Impossible Parameter Value
+181079022_014; 20.00; 4206; doxy; 306.81  ; Global Impossible Parameter Value
+181079022_014; 30.00; 4204; doxy; 259.03  ; Global Impossible Parameter Value
+181079022_014; 50.00; 4202; doxy; 232.68  ; Global Impossible Parameter Value
+181079022_014; 50.00; 4203; doxy; 254.12  ; Global Impossible Parameter Value
+181079022_014; 75.00; 4201; doxy; 204.54  ; Global Impossible Parameter Value
+181079022_014; 100.00; 4199; doxy; 195.16  ; Global Impossible Parameter Value
+181079022_014; 100.00; 4200; doxy; 209.01  ; Global Impossible Parameter Value
+181079022_014; 10.00; 4207; doxy; 307.71  ; Regional Impossible Parameter Value
+181079022_014; 20.00; 4205; doxy; 261.26  ; Regional Impossible Parameter Value
+181079022_014; 20.00; 4206; doxy; 306.81  ; Regional Impossible Parameter Value
+181079022_014; 30.00; 4204; doxy; 259.03  ; Regional Impossible Parameter Value
+181079022_014; 50.00; 4202; doxy; 232.68  ; Regional Impossible Parameter Value
+181079022_014; 50.00; 4203; doxy; 254.12  ; Regional Impossible Parameter Value
+181079022_014; 75.00; 4201; doxy; 204.54  ; Regional Impossible Parameter Value
+181079022_014; 100.00; 4199; doxy; 195.16  ; Regional Impossible Parameter Value
+181079022_014; 100.00; 4200; doxy; 209.01  ; Regional Impossible Parameter Value
+181079022_014; 100.00 to 100.00; 4199, 4200; psal; 33.10  33.10  ; Gradient or Inversion too high
+181079022_014; 20.00 to 20.00; 4205, 4206; ntrz; 3.46  0.72  ; Gradient or Inversion too high
+181079022_014; 50.00 to 50.00; 4202, 4203; ntrz; 11.09  8.54  ; Gradient or Inversion too high
+181079022_014; 100.00 to 100.00; 4199, 4200; ntrz; 11.28  11.19  ; Gradient or Inversion too high
+181079022_014; 20.00 to 20.00; 4205, 4206; phos; 0.84  0.72  ; Gradient or Inversion too high
+181079022_014; 50.00 to 50.00; 4202, 4203; phos; 1.39  1.31  ; Gradient or Inversion too high
+181079022_014; 100.00 to 100.00; 4199, 4200; phos; 1.40  1.46  ; Gradient or Inversion too high
+181079022_025; 10.00; 4216; doxy; 316.19  ; Global Impossible Parameter Value
+181079022_025; 30.00; 4215; doxy; 263.94  ; Global Impossible Parameter Value
+181079022_025; 50.00; 4213; doxy; 225.98  ; Global Impossible Parameter Value
+181079022_025; 50.00; 4214; doxy; 209.90  ; Global Impossible Parameter Value
+181079022_025; 75.00; 4212; doxy; 187.57  ; Global Impossible Parameter Value
+181079022_025; 100.00; 4211; doxy; 185.79  ; Global Impossible Parameter Value
+181079022_025; 125.00; 4210; doxy; 199.18  ; Global Impossible Parameter Value
+181079022_025; 150.00; 4208; doxy; 199.18  ; Global Impossible Parameter Value
+181079022_025; 150.00; 4209; doxy; 203.65  ; Global Impossible Parameter Value
+181079022_025; 10.00; 4216; doxy; 316.19  ; Regional Impossible Parameter Value
+181079022_025; 30.00; 4215; doxy; 263.94  ; Regional Impossible Parameter Value
+181079022_025; 50.00; 4213; doxy; 225.98  ; Regional Impossible Parameter Value
+181079022_025; 50.00; 4214; doxy; 209.90  ; Regional Impossible Parameter Value
+181079022_025; 75.00; 4212; doxy; 187.57  ; Regional Impossible Parameter Value
+181079022_025; 100.00; 4211; doxy; 185.79  ; Regional Impossible Parameter Value
+181079022_025; 125.00; 4210; doxy; 199.18  ; Regional Impossible Parameter Value
+181079022_025; 150.00; 4208; doxy; 199.18  ; Regional Impossible Parameter Value
+181079022_025; 150.00; 4209; doxy; 203.65  ; Regional Impossible Parameter Value
+181079022_025; 150.00 to 150.00; 4208, 4209; psal; 33.52  33.52  ; Gradient or Inversion too high
+181079022_025; 50.00 to 50.00; 4213, 4214; ntrz; 11.83  9.26  ; Gradient or Inversion too high
+181079022_025; 150.00 to 150.00; 4208, 4209; ntrz; 13.71  14.31  ; Gradient or Inversion too high
+181079022_025; 50.00 to 50.00; 4213, 4214; phos; 1.39  1.32  ; Gradient or Inversion too high
+181079022_025; 150.00 to 150.00; 4208, 4209; phos; 1.35  1.48  ; Gradient or Inversion too high
+181079022_036; 10.00; 4225; doxy; 284.93  ; Global Impossible Parameter Value
+181079022_036; 20.00; 4223; doxy; 336.29  ; Global Impossible Parameter Value
+181079022_036; 20.00; 4224; doxy; 339.42  ; Global Impossible Parameter Value
+181079022_036; 30.00; 4222; doxy; 351.47  ; Global Impossible Parameter Value
+181079022_036; 50.00; 4220; doxy; 278.68  ; Global Impossible Parameter Value
+181079022_036; 50.00; 4221; doxy; 272.43  ; Global Impossible Parameter Value
+181079022_036; 75.00; 4219; doxy; 266.17  ; Global Impossible Parameter Value
+181079022_036; 100.00; 4217; doxy; 264.83  ; Global Impossible Parameter Value
+181079022_036; 100.00; 4218; doxy; 263.49  ; Global Impossible Parameter Value
+181079022_036; 10.00; 4225; doxy; 284.93  ; Regional Impossible Parameter Value
+181079022_036; 20.00; 4223; doxy; 336.29  ; Regional Impossible Parameter Value
+181079022_036; 20.00; 4224; doxy; 339.42  ; Regional Impossible Parameter Value
+181079022_036; 30.00; 4222; doxy; 351.47  ; Regional Impossible Parameter Value
+181079022_036; 50.00; 4220; doxy; 278.68  ; Regional Impossible Parameter Value
+181079022_036; 50.00; 4221; doxy; 272.43  ; Regional Impossible Parameter Value
+181079022_036; 75.00; 4219; doxy; 266.17  ; Regional Impossible Parameter Value
+181079022_036; 100.00; 4217; doxy; 264.83  ; Regional Impossible Parameter Value
+181079022_036; 100.00; 4218; doxy; 263.49  ; Regional Impossible Parameter Value
+181079022_036; 20.00 to 20.00; 4223, 4224; ntrz; 0.24  0.15  ; Gradient or Inversion too high
+181079022_036; 50.00 to 50.00; 4220, 4221; ntrz; 7.83  8.60  ; Gradient or Inversion too high
+181079022_036; 100.00 to 100.00; 4217, 4218; ntrz; 8.95  8.63  ; Gradient or Inversion too high
+181079022_036; 20.00 to 20.00; 4223, 4224; phos; 0.63  0.56  ; Gradient or Inversion too high
+181079022_036; 50.00 to 50.00; 4220, 4221; phos; 1.11  1.20  ; Gradient or Inversion too high
+181079022_036; 100.00 to 100.00; 4217, 4218; phos; 1.22  1.25  ; Gradient or Inversion too high
+181079022_036; 10.00; 4225; slca; 0.64  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+181079022_047; 10.00; 4234; doxy; 271.53  ; Global Impossible Parameter Value
+181079022_047; 20.00; 4233; doxy; 320.21  ; Global Impossible Parameter Value
+181079022_047; 30.00; 4232; doxy; 319.32  ; Global Impossible Parameter Value
+181079022_047; 40.00; 4231; doxy; 284.04  ; Global Impossible Parameter Value
+181079022_047; 50.00; 4229; doxy; 276.00  ; Global Impossible Parameter Value
+181079022_047; 50.00; 4230; doxy; 275.55  ; Global Impossible Parameter Value
+181079022_047; 75.00; 4228; doxy; 256.80  ; Global Impossible Parameter Value
+181079022_047; 98.00; 4226; doxy; 218.83  ; Global Impossible Parameter Value
+181079022_047; 98.00; 4227; doxy; 199.18  ; Global Impossible Parameter Value
+181079022_047; 10.00; 4234; doxy; 271.53  ; Regional Impossible Parameter Value
+181079022_047; 20.00; 4233; doxy; 320.21  ; Regional Impossible Parameter Value
+181079022_047; 30.00; 4232; doxy; 319.32  ; Regional Impossible Parameter Value
+181079022_047; 40.00; 4231; doxy; 284.04  ; Regional Impossible Parameter Value
+181079022_047; 50.00; 4229; doxy; 276.00  ; Regional Impossible Parameter Value
+181079022_047; 50.00; 4230; doxy; 275.55  ; Regional Impossible Parameter Value
+181079022_047; 75.00; 4228; doxy; 256.80  ; Regional Impossible Parameter Value
+181079022_047; 98.00; 4226; doxy; 218.83  ; Regional Impossible Parameter Value
+181079022_047; 98.00; 4227; doxy; 199.18  ; Regional Impossible Parameter Value
+181079022_047; 98.00 to 98.00; 4226, 4227; psal; 33.15  33.15  ; Gradient or Inversion too high
+181079022_047; 50.00 to 50.00; 4229, 4230; ntrz; 8.21  8.14  ; Gradient or Inversion too high
+181079022_047; 98.00 to 98.00; 4226, 4227; ntrz; 10.51  8.91  ; Gradient or Inversion too high
+181079022_047; 50.00 to 50.00; 4229, 4230; phos; 1.16  1.21  ; Gradient or Inversion too high
+181079022_047; 98.00 to 98.00; 4226, 4227; phos; 1.25  1.08  ; Gradient or Inversion too high
+181079022_047; 10.00; 4234; slca; 0.52  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+181079022_058; 10.00; 4243; doxy; 264.39  ; Global Impossible Parameter Value
+181079022_058; 20.00; 4242; doxy; 340.31  ; Global Impossible Parameter Value
+181079022_058; 30.00; 4241; doxy; 295.65  ; Global Impossible Parameter Value
+181079022_058; 50.00; 4239; doxy; 155.42  ; Global Impossible Parameter Value
+181079022_058; 50.00; 4240; doxy; 159.44  ; Global Impossible Parameter Value
+181079022_058; 75.00; 4238; doxy; 179.53  ; Global Impossible Parameter Value
+181079022_058; 100.00; 4237; doxy; 85.75  ; Global Impossible Parameter Value
+181079022_058; 112.00; 4235; doxy; 172.83  ; Global Impossible Parameter Value
+181079022_058; 112.00; 4236; doxy; 129.51  ; Global Impossible Parameter Value
+181079022_058; 10.00; 4243; doxy; 264.39  ; Regional Impossible Parameter Value
+181079022_058; 20.00; 4242; doxy; 340.31  ; Regional Impossible Parameter Value
+181079022_058; 30.00; 4241; doxy; 295.65  ; Regional Impossible Parameter Value
+181079022_058; 50.00; 4239; doxy; 155.42  ; Regional Impossible Parameter Value
+181079022_058; 50.00; 4240; doxy; 159.44  ; Regional Impossible Parameter Value
+181079022_058; 75.00; 4238; doxy; 179.53  ; Regional Impossible Parameter Value
+181079022_058; 100.00; 4237; doxy; 85.75  ; Regional Impossible Parameter Value
+181079022_058; 112.00; 4235; doxy; 172.83  ; Regional Impossible Parameter Value
+181079022_058; 112.00; 4236; doxy; 129.51  ; Regional Impossible Parameter Value
+181079022_058; 112.00 to 112.00; 4235, 4236; psal; 34.36  34.35  ; Gradient or Inversion too high
+181079022_058; 50.00 to 50.00; 4239, 4240; ntrz; 6.69  6.95  ; Gradient or Inversion too high
+181079022_058; 112.00 to 112.00; 4235, 4236; ntrz; 11.15  11.84  ; Gradient or Inversion too high
+181079022_058; 50.00 to 50.00; 4239, 4240; phos; 1.20  1.22  ; Gradient or Inversion too high
+181079022_058; 112.00 to 112.00; 4235, 4236; phos; 1.12  1.18  ; Gradient or Inversion too high
+181079022_058; 10.00; 4243; slca; 0.59  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+181079022_069; 10.00; 4252; doxy; 268.41  ; Global Impossible Parameter Value
+181079022_069; 30.00; 4251; doxy; 351.92  ; Global Impossible Parameter Value
+181079022_069; 50.00; 4250; doxy; 306.81  ; Global Impossible Parameter Value
+181079022_069; 100.00; 4249; doxy; 215.26  ; Global Impossible Parameter Value
+181079022_069; 150.00; 4248; doxy; 190.25  ; Global Impossible Parameter Value
+181079022_069; 200.00; 4247; doxy; 162.12  ; Global Impossible Parameter Value
+181079022_069; 250.00; 4246; doxy; 158.99  ; Global Impossible Parameter Value
+181079022_069; 353.00; 4244; doxy; 160.78  ; Global Impossible Parameter Value
+181079022_069; 353.00; 4245; doxy; 139.34  ; Global Impossible Parameter Value
+181079022_069; 10.00; 4252; doxy; 268.41  ; Regional Impossible Parameter Value
+181079022_069; 30.00; 4251; doxy; 351.92  ; Regional Impossible Parameter Value
+181079022_069; 50.00; 4250; doxy; 306.81  ; Regional Impossible Parameter Value
+181079022_069; 100.00; 4249; doxy; 215.26  ; Regional Impossible Parameter Value
+181079022_069; 150.00; 4248; doxy; 190.25  ; Regional Impossible Parameter Value
+181079022_069; 200.00; 4247; doxy; 162.12  ; Regional Impossible Parameter Value
+181079022_069; 250.00; 4246; doxy; 158.99  ; Regional Impossible Parameter Value
+181079022_069; 353.00; 4244; doxy; 160.78  ; Regional Impossible Parameter Value
+181079022_069; 353.00; 4245; doxy; 139.34  ; Regional Impossible Parameter Value
+181079022_069; 353.00 to 353.00; 4244, 4245; psal; 35.03  35.03  ; Gradient or Inversion too high
+181079022_069; 353.00 to 353.00; 4244, 4245; ntrz; 21.73  16.48  ; Gradient or Inversion too high
+181079022_069; 353.00 to 353.00; 4244, 4245; phos; 1.68  1.40  ; Gradient or Inversion too high
+181079022_080; 10.00; 4261; doxy; 274.66  ; Global Impossible Parameter Value
+181079022_080; 20.00; 4260; doxy; 326.46  ; Global Impossible Parameter Value
+181079022_080; 30.00; 4259; doxy; 345.67  ; Global Impossible Parameter Value
+181079022_080; 50.00; 4257; doxy; 226.87  ; Global Impossible Parameter Value
+181079022_080; 50.00; 4258; doxy; 343.88  ; Global Impossible Parameter Value
+181079022_080; 75.00; 4256; doxy; 179.53  ; Global Impossible Parameter Value
+181079022_080; 100.00; 4255; doxy; 191.14  ; Global Impossible Parameter Value
+181079022_080; 126.00; 4253; doxy; 171.94  ; Global Impossible Parameter Value
+181079022_080; 126.00; 4254; doxy; 151.84  ; Global Impossible Parameter Value
+181079022_080; 10.00; 4261; doxy; 274.66  ; Regional Impossible Parameter Value
+181079022_080; 20.00; 4260; doxy; 326.46  ; Regional Impossible Parameter Value
+181079022_080; 30.00; 4259; doxy; 345.67  ; Regional Impossible Parameter Value
+181079022_080; 50.00; 4257; doxy; 226.87  ; Regional Impossible Parameter Value
+181079022_080; 50.00; 4258; doxy; 343.88  ; Regional Impossible Parameter Value
+181079022_080; 75.00; 4256; doxy; 179.53  ; Regional Impossible Parameter Value
+181079022_080; 100.00; 4255; doxy; 191.14  ; Regional Impossible Parameter Value
+181079022_080; 126.00; 4253; doxy; 171.94  ; Regional Impossible Parameter Value
+181079022_080; 126.00; 4254; doxy; 151.84  ; Regional Impossible Parameter Value
+181079022_080; 126.00 to 126.00; 4253, 4254; psal; 35.03  35.06  ; Gradient or Inversion too high
+181079022_080; 50.00 to 50.00; 4257, 4258; ntrz; 9.74  1.64  ; Gradient or Inversion too high
+181079022_080; 126.00 to 126.00; 4253, 4254; ntrz; 15.66  14.78  ; Gradient or Inversion too high
+181079022_080; 50.00 to 50.00; 4257, 4258; phos; 1.09  0.77  ; Gradient or Inversion too high
+181079022_091; 10.00; 4270; doxy; 285.82  ; Global Impossible Parameter Value
+181079022_091; 20.00; 4269; doxy; 284.04  ; Global Impossible Parameter Value
+181079022_091; 30.00; 4268; doxy; 304.58  ; Global Impossible Parameter Value
+181079022_091; 50.00; 4266; doxy; 305.03  ; Global Impossible Parameter Value
+181079022_091; 50.00; 4267; doxy; 305.92  ; Global Impossible Parameter Value
+181079022_091; 75.00; 4265; doxy; 231.34  ; Global Impossible Parameter Value
+181079022_091; 100.00; 4264; doxy; 230.45  ; Global Impossible Parameter Value
+181079022_091; 108.00; 4262; doxy; 227.32  ; Global Impossible Parameter Value
+181079022_091; 108.00; 4263; doxy; 229.11  ; Global Impossible Parameter Value
+181079022_091; 10.00; 4270; doxy; 285.82  ; Regional Impossible Parameter Value
+181079022_091; 20.00; 4269; doxy; 284.04  ; Regional Impossible Parameter Value
+181079022_091; 30.00; 4268; doxy; 304.58  ; Regional Impossible Parameter Value
+181079022_091; 50.00; 4266; doxy; 305.03  ; Regional Impossible Parameter Value
+181079022_091; 50.00; 4267; doxy; 305.92  ; Regional Impossible Parameter Value
+181079022_091; 75.00; 4265; doxy; 231.34  ; Regional Impossible Parameter Value
+181079022_091; 100.00; 4264; doxy; 230.45  ; Regional Impossible Parameter Value
+181079022_091; 108.00; 4262; doxy; 227.32  ; Regional Impossible Parameter Value
+181079022_091; 108.00; 4263; doxy; 229.11  ; Regional Impossible Parameter Value
+181079022_091; 108.00 to 108.00; 4262, 4263; psal; 34.33  34.33  ; Gradient or Inversion too high
+181079022_091; 50.00 to 50.00; 4266, 4267; ntrz; 3.83  3.82  ; Gradient or Inversion too high
+181079022_091; 108.00 to 108.00; 4262, 4263; ntrz; 12.36  11.99  ; Gradient or Inversion too high
+181079022_091; 50.00 to 50.00; 4266, 4267; phos; 0.69  0.70  ; Gradient or Inversion too high
+181079022_091; 108.00 to 108.00; 4262, 4263; phos; 0.98  0.97  ; Gradient or Inversion too high
+181079022_091; 10.00; 4270; slca; 0.71  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+181079022_102; 10.00; 4279; doxy; 293.42  ; Global Impossible Parameter Value
+181079022_102; 20.00; 4277; doxy; 309.05  ; Global Impossible Parameter Value
+181079022_102; 20.00; 4278; doxy; 311.73  ; Global Impossible Parameter Value
+181079022_102; 30.00; 4276; doxy; 309.49  ; Global Impossible Parameter Value
+181079022_102; 50.00; 4274; doxy; 283.14  ; Global Impossible Parameter Value
+181079022_102; 50.00; 4275; doxy; 261.26  ; Global Impossible Parameter Value
+181079022_102; 75.00; 4273; doxy; 253.22  ; Global Impossible Parameter Value
+181079022_102; 100.00; 4271; doxy; 256.35  ; Global Impossible Parameter Value
+181079022_102; 100.00; 4272; doxy; 256.35  ; Global Impossible Parameter Value
+181079022_102; 10.00; 4279; doxy; 293.42  ; Regional Impossible Parameter Value
+181079022_102; 20.00; 4277; doxy; 309.05  ; Regional Impossible Parameter Value
+181079022_102; 20.00; 4278; doxy; 311.73  ; Regional Impossible Parameter Value
+181079022_102; 30.00; 4276; doxy; 309.49  ; Regional Impossible Parameter Value
+181079022_102; 50.00; 4274; doxy; 283.14  ; Regional Impossible Parameter Value
+181079022_102; 50.00; 4275; doxy; 261.26  ; Regional Impossible Parameter Value
+181079022_102; 75.00; 4273; doxy; 253.22  ; Regional Impossible Parameter Value
+181079022_102; 100.00; 4271; doxy; 256.35  ; Regional Impossible Parameter Value
+181079022_102; 100.00; 4272; doxy; 256.35  ; Regional Impossible Parameter Value
+181079022_102; 100.00 to 100.00; 4271, 4272; psal; 33.46  33.53  ; Gradient or Inversion too high
+181079022_102; 20.00 to 20.00; 4277, 4278; ntrz; 0.58  0.15  ; Gradient or Inversion too high
+181079022_102; 50.00 to 50.00; 4274, 4275; ntrz; 7.47  7.41  ; Gradient or Inversion too high
+181079022_102; 100.00 to 100.00; 4271, 4272; ntrz; 10.20  9.77  ; Gradient or Inversion too high
+181079022_102; 20.00 to 20.00; 4277, 4278; phos; 0.43  0.51  ; Gradient or Inversion too high
+181079022_102; 50.00 to 50.00; 4274, 4275; phos; 0.98  1.21  ; Gradient or Inversion too high
+181079022_102; 100.00 to 100.00; 4271, 4272; phos; 1.02  1.00  ; Gradient or Inversion too high
+181079022_114; 10.00; 4287; doxy; 311.73  ; Global Impossible Parameter Value
+181079022_114; 20.00; 4286; doxy; 309.05  ; Global Impossible Parameter Value
+181079022_114; 30.00; 4285; doxy; 286.72  ; Global Impossible Parameter Value
+181079022_114; 40.00; 4284; doxy; 268.85  ; Global Impossible Parameter Value
+181079022_114; 50.00; 4282; doxy; 257.24  ; Global Impossible Parameter Value
+181079022_114; 50.00; 4283; doxy; 257.24  ; Global Impossible Parameter Value
+181079022_114; 75.00; 4281; doxy; 250.10  ; Global Impossible Parameter Value
+181079022_114; 101.00; 4280; doxy; 253.67  ; Global Impossible Parameter Value
+181079022_114; 10.00; 4287; doxy; 311.73  ; Regional Impossible Parameter Value
+181079022_114; 20.00; 4286; doxy; 309.05  ; Regional Impossible Parameter Value
+181079022_114; 30.00; 4285; doxy; 286.72  ; Regional Impossible Parameter Value
+181079022_114; 40.00; 4284; doxy; 268.85  ; Regional Impossible Parameter Value
+181079022_114; 50.00; 4282; doxy; 257.24  ; Regional Impossible Parameter Value
+181079022_114; 50.00; 4283; doxy; 257.24  ; Regional Impossible Parameter Value
+181079022_114; 75.00; 4281; doxy; 250.10  ; Regional Impossible Parameter Value
+181079022_114; 101.00; 4280; doxy; 253.67  ; Regional Impossible Parameter Value
+181079022_114; 50.00 to 50.00; 4282, 4283; ntrz; 8.21  8.04  ; Gradient or Inversion too high
+181079022_127; 10.00; 4295; doxy; 179.53  ; Global Impossible Parameter Value
+181079022_127; 10.00; 4296; doxy; 164.80  ; Global Impossible Parameter Value
+181079022_127; 20.00; 4294; doxy; 160.33  ; Global Impossible Parameter Value
+181079022_127; 30.00; 4292; doxy; 131.75  ; Global Impossible Parameter Value
+181079022_127; 30.00; 4293; doxy; 228.66  ; Global Impossible Parameter Value
+181079022_127; 35.00; 4290; doxy; 280.02  ; Global Impossible Parameter Value
+181079022_127; 35.00; 4291; doxy; 163.90  ; Global Impossible Parameter Value
+181079022_127; 10.00; 4295; doxy; 179.53  ; Regional Impossible Parameter Value
+181079022_127; 10.00; 4296; doxy; 164.80  ; Regional Impossible Parameter Value
+181079022_127; 20.00; 4294; doxy; 160.33  ; Regional Impossible Parameter Value
+181079022_127; 30.00; 4292; doxy; 131.75  ; Regional Impossible Parameter Value
+181079022_127; 30.00; 4293; doxy; 228.66  ; Regional Impossible Parameter Value
+181079022_127; 35.00; 4290; doxy; 280.02  ; Regional Impossible Parameter Value
+181079022_127; 35.00; 4291; doxy; 163.90  ; Regional Impossible Parameter Value
+181079022_127; 10.00 to 10.00; 4295, 4296; ntrz; 4.68  4.17  ; Gradient or Inversion too high
+181079022_127; 30.00 to 30.00; 4292, 4293; ntrz; 4.74  4.70  ; Gradient or Inversion too high
+181079022_127; 35.00 to 35.00; 4290, 4291; ntrz; 4.61  4.65  ; Gradient or Inversion too high
+181079022_127; 10.00 to 10.00; 4295, 4296; phos; 0.95  0.83  ; Gradient or Inversion too high
+181079022_127; 30.00 to 30.00; 4292, 4293; phos; 1.01  0.98  ; Gradient or Inversion too high
+181079022_127; 35.00 to 35.00; 4290, 4291; phos; 0.88  0.83  ; Gradient or Inversion too high
+181079022_149; 10.00; 4305; doxy; 252.33  ; Global Impossible Parameter Value
+181079022_149; 20.00; 4304; doxy; 254.12  ; Global Impossible Parameter Value
+181079022_149; 30.00; 4303; doxy; 253.67  ; Global Impossible Parameter Value
+181079022_149; 40.00; 4302; doxy; 131.30  ; Global Impossible Parameter Value
+181079022_149; 50.00; 4300; doxy; 242.95  ; Global Impossible Parameter Value
+181079022_149; 50.00; 4301; doxy; 188.91  ; Global Impossible Parameter Value
+181079022_149; 75.00; 4299; doxy; 260.37  ; Global Impossible Parameter Value
+181079022_149; 82.00; 4297; doxy; 209.90  ; Global Impossible Parameter Value
+181079022_149; 82.00; 4298; doxy; 257.24  ; Global Impossible Parameter Value
+181079022_149; 10.00; 4305; doxy; 252.33  ; Regional Impossible Parameter Value
+181079022_149; 20.00; 4304; doxy; 254.12  ; Regional Impossible Parameter Value
+181079022_149; 30.00; 4303; doxy; 253.67  ; Regional Impossible Parameter Value
+181079022_149; 40.00; 4302; doxy; 131.30  ; Regional Impossible Parameter Value
+181079022_149; 50.00; 4300; doxy; 242.95  ; Regional Impossible Parameter Value
+181079022_149; 50.00; 4301; doxy; 188.91  ; Regional Impossible Parameter Value
+181079022_149; 75.00; 4299; doxy; 260.37  ; Regional Impossible Parameter Value
+181079022_149; 82.00; 4297; doxy; 209.90  ; Regional Impossible Parameter Value
+181079022_149; 82.00; 4298; doxy; 257.24  ; Regional Impossible Parameter Value
+181079022_149; 82.00 to 82.00; 4297, 4298; psal; 33.36  33.36  ; Gradient or Inversion too high
+181079022_149; 50.00 to 50.00; 4300, 4301; ntrz; 7.47  7.51  ; Gradient or Inversion too high
+181079022_149; 82.00 to 82.00; 4297, 4298; ntrz; 7.23  7.38  ; Gradient or Inversion too high
+181079022_149; 50.00 to 50.00; 4300, 4301; phos; 0.94  0.93  ; Gradient or Inversion too high
+181079022_149; 82.00 to 82.00; 4297, 4298; phos; 0.99  0.98  ; Gradient or Inversion too high
+181079022_160; 10.00; 4314; doxy; 297.88  ; Global Impossible Parameter Value
+181079022_160; 20.00; 4313; doxy; 292.52  ; Global Impossible Parameter Value
+181079022_160; 30.00; 4312; doxy; 282.70  ; Global Impossible Parameter Value
+181079022_160; 40.00; 4311; doxy; 275.55  ; Global Impossible Parameter Value
+181079022_160; 50.00; 4309; doxy; 252.78  ; Global Impossible Parameter Value
+181079022_160; 50.00; 4310; doxy; 257.69  ; Global Impossible Parameter Value
+181079022_160; 75.00; 4308; doxy; 255.46  ; Global Impossible Parameter Value
+181079022_160; 100.00; 4306; doxy; 135.77  ; Global Impossible Parameter Value
+181079022_160; 100.00; 4307; doxy; 254.12  ; Global Impossible Parameter Value
+181079022_160; 10.00; 4314; doxy; 297.88  ; Regional Impossible Parameter Value
+181079022_160; 20.00; 4313; doxy; 292.52  ; Regional Impossible Parameter Value
+181079022_160; 30.00; 4312; doxy; 282.70  ; Regional Impossible Parameter Value
+181079022_160; 40.00; 4311; doxy; 275.55  ; Regional Impossible Parameter Value
+181079022_160; 50.00; 4309; doxy; 252.78  ; Regional Impossible Parameter Value
+181079022_160; 50.00; 4310; doxy; 257.69  ; Regional Impossible Parameter Value
+181079022_160; 75.00; 4308; doxy; 255.46  ; Regional Impossible Parameter Value
+181079022_160; 100.00; 4306; doxy; 135.77  ; Regional Impossible Parameter Value
+181079022_160; 100.00; 4307; doxy; 254.12  ; Regional Impossible Parameter Value
+181079022_160; 100.00 to 100.00; 4306, 4307; psal; 33.42  33.42  ; Gradient or Inversion too high
+181079022_160; 50.00 to 50.00; 4309, 4310; ntrz; 8.79  7.39  ; Gradient or Inversion too high
+181079022_160; 100.00 to 100.00; 4306, 4307; ntrz; 8.61  8.63  ; Gradient or Inversion too high
+181079022_160; 50.00 to 50.00; 4309, 4310; phos; 1.08  0.93  ; Gradient or Inversion too high
+181079022_160; 100.00 to 100.00; 4306, 4307; phos; 1.01  1.06  ; Gradient or Inversion too high
+181079022_160; 20.00; 4313; phos; 1.42  ; Out of Nutrient Climatology in box(es) 4 (Min=0.09 Max=1.36 n=255)
+181079022_171; 10.00; 4323; doxy; 288.06  ; Global Impossible Parameter Value
+181079022_171; 20.00; 4322; doxy; 265.73  ; Global Impossible Parameter Value
+181079022_171; 30.00; 4321; doxy; 265.73  ; Global Impossible Parameter Value
+181079022_171; 50.00; 4319; doxy; 247.86  ; Global Impossible Parameter Value
+181079022_171; 50.00; 4320; doxy; 256.35  ; Global Impossible Parameter Value
+181079022_171; 75.00; 4318; doxy; 244.29  ; Global Impossible Parameter Value
+181079022_171; 100.00; 4317; doxy; 244.74  ; Global Impossible Parameter Value
+181079022_171; 135.00; 4315; doxy; 244.29  ; Global Impossible Parameter Value
+181079022_171; 135.00; 4316; doxy; 246.97  ; Global Impossible Parameter Value
+181079022_171; 10.00; 4323; doxy; 288.06  ; Regional Impossible Parameter Value
+181079022_171; 20.00; 4322; doxy; 265.73  ; Regional Impossible Parameter Value
+181079022_171; 30.00; 4321; doxy; 265.73  ; Regional Impossible Parameter Value
+181079022_171; 50.00; 4319; doxy; 247.86  ; Regional Impossible Parameter Value
+181079022_171; 50.00; 4320; doxy; 256.35  ; Regional Impossible Parameter Value
+181079022_171; 75.00; 4318; doxy; 244.29  ; Regional Impossible Parameter Value
+181079022_171; 100.00; 4317; doxy; 244.74  ; Regional Impossible Parameter Value
+181079022_171; 135.00; 4315; doxy; 244.29  ; Regional Impossible Parameter Value
+181079022_171; 135.00; 4316; doxy; 246.97  ; Regional Impossible Parameter Value
+181079022_171; 135.00 to 135.00; 4315, 4316; psal; 33.72  33.72  ; Gradient or Inversion too high
+181079022_171; 50.00 to 50.00; 4319, 4320; ntrz; 9.81  9.39  ; Gradient or Inversion too high
+181079022_171; 135.00 to 135.00; 4315, 4316; ntrz; 9.54  10.72  ; Gradient or Inversion too high
+181079022_171; 50.00 to 50.00; 4319, 4320; phos; 1.15  1.17  ; Gradient or Inversion too high
+181079022_171; 135.00 to 135.00; 4315, 4316; phos; 1.06  1.15  ; Gradient or Inversion too high
+181079022_182; 10.00; 4332; doxy; 292.08  ; Global Impossible Parameter Value
+181079022_182; 20.00; 4331; doxy; 292.52  ; Global Impossible Parameter Value
+181079022_182; 30.00; 4330; doxy; 284.04  ; Global Impossible Parameter Value
+181079022_182; 40.00; 4329; doxy; 250.54  ; Global Impossible Parameter Value
+181079022_182; 50.00; 4327; doxy; 256.80  ; Global Impossible Parameter Value
+181079022_182; 50.00; 4328; doxy; 259.47  ; Global Impossible Parameter Value
+181079022_182; 75.00; 4326; doxy; 249.20  ; Global Impossible Parameter Value
+181079022_182; 95.00; 4324; doxy; 233.13  ; Global Impossible Parameter Value
+181079022_182; 95.00; 4325; doxy; 248.76  ; Global Impossible Parameter Value
+181079022_182; 10.00; 4332; doxy; 292.08  ; Regional Impossible Parameter Value
+181079022_182; 20.00; 4331; doxy; 292.52  ; Regional Impossible Parameter Value
+181079022_182; 30.00; 4330; doxy; 284.04  ; Regional Impossible Parameter Value
+181079022_182; 40.00; 4329; doxy; 250.54  ; Regional Impossible Parameter Value
+181079022_182; 50.00; 4327; doxy; 256.80  ; Regional Impossible Parameter Value
+181079022_182; 50.00; 4328; doxy; 259.47  ; Regional Impossible Parameter Value
+181079022_182; 75.00; 4326; doxy; 249.20  ; Regional Impossible Parameter Value
+181079022_182; 95.00; 4324; doxy; 233.13  ; Regional Impossible Parameter Value
+181079022_182; 95.00; 4325; doxy; 248.76  ; Regional Impossible Parameter Value
+181079022_182; 95.00 to 95.00; 4324, 4325; psal; 33.55  33.54  ; Gradient or Inversion too high
+181079022_182; 50.00 to 50.00; 4327, 4328; ntrz; 9.06  8.73  ; Gradient or Inversion too high
+181079022_182; 95.00 to 95.00; 4324, 4325; ntrz; 9.27  9.23  ; Gradient or Inversion too high
+181079022_182; 50.00 to 50.00; 4327, 4328; phos; 1.04  1.03  ; Gradient or Inversion too high
+181079022_182; 95.00 to 95.00; 4324, 4325; phos; 1.03  1.05  ; Gradient or Inversion too high
+181079022_193; 10.00; 4341; doxy; 306.81  ; Global Impossible Parameter Value
+181079022_193; 20.00; 4340; doxy; 301.01  ; Global Impossible Parameter Value
+181079022_193; 30.00; 4339; doxy; 274.66  ; Global Impossible Parameter Value
+181079022_193; 40.00; 4338; doxy; 260.81  ; Global Impossible Parameter Value
+181079022_193; 50.00; 4336; doxy; 257.69  ; Global Impossible Parameter Value
+181079022_193; 50.00; 4337; doxy; 260.37  ; Global Impossible Parameter Value
+181079022_193; 75.00; 4335; doxy; 255.46  ; Global Impossible Parameter Value
+181079022_193; 93.00; 4333; doxy; 260.37  ; Global Impossible Parameter Value
+181079022_193; 93.00; 4334; doxy; 256.80  ; Global Impossible Parameter Value
+181079022_193; 10.00; 4341; doxy; 306.81  ; Regional Impossible Parameter Value
+181079022_193; 20.00; 4340; doxy; 301.01  ; Regional Impossible Parameter Value
+181079022_193; 30.00; 4339; doxy; 274.66  ; Regional Impossible Parameter Value
+181079022_193; 40.00; 4338; doxy; 260.81  ; Regional Impossible Parameter Value
+181079022_193; 50.00; 4336; doxy; 257.69  ; Regional Impossible Parameter Value
+181079022_193; 50.00; 4337; doxy; 260.37  ; Regional Impossible Parameter Value
+181079022_193; 75.00; 4335; doxy; 255.46  ; Regional Impossible Parameter Value
+181079022_193; 93.00; 4333; doxy; 260.37  ; Regional Impossible Parameter Value
+181079022_193; 93.00; 4334; doxy; 256.80  ; Regional Impossible Parameter Value
+181079022_193; 93.00 to 93.00; 4333, 4334; psal; 33.37  33.37  ; Gradient or Inversion too high
+181079022_193; 50.00 to 50.00; 4336, 4337; ntrz; 8.28  8.30  ; Gradient or Inversion too high
+181079022_193; 93.00 to 93.00; 4333, 4334; ntrz; 7.17  8.13  ; Gradient or Inversion too high
+181079022_193; 50.00 to 50.00; 4336, 4337; phos; 1.01  1.02  ; Gradient or Inversion too high
+181079022_193; 93.00 to 93.00; 4333, 4334; phos; 0.91  1.00  ; Gradient or Inversion too high
+181079022_204; 10.00; 4350; doxy; 303.69  ; Global Impossible Parameter Value
+181079022_204; 20.00; 4349; doxy; 306.37  ; Global Impossible Parameter Value
+181079022_204; 30.00; 4348; doxy; 260.81  ; Global Impossible Parameter Value
+181079022_204; 40.00; 4347; doxy; 259.47  ; Global Impossible Parameter Value
+181079022_204; 50.00; 4345; doxy; 232.68  ; Global Impossible Parameter Value
+181079022_204; 50.00; 4346; doxy; 259.47  ; Global Impossible Parameter Value
+181079022_204; 75.00; 4344; doxy; 247.86  ; Global Impossible Parameter Value
+181079022_204; 83.00; 4342; doxy; 258.13  ; Global Impossible Parameter Value
+181079022_204; 83.00; 4343; doxy; 259.03  ; Global Impossible Parameter Value
+181079022_204; 10.00; 4350; doxy; 303.69  ; Regional Impossible Parameter Value
+181079022_204; 20.00; 4349; doxy; 306.37  ; Regional Impossible Parameter Value
+181079022_204; 30.00; 4348; doxy; 260.81  ; Regional Impossible Parameter Value
+181079022_204; 40.00; 4347; doxy; 259.47  ; Regional Impossible Parameter Value
+181079022_204; 50.00; 4345; doxy; 232.68  ; Regional Impossible Parameter Value
+181079022_204; 50.00; 4346; doxy; 259.47  ; Regional Impossible Parameter Value
+181079022_204; 75.00; 4344; doxy; 247.86  ; Regional Impossible Parameter Value
+181079022_204; 83.00; 4342; doxy; 258.13  ; Regional Impossible Parameter Value
+181079022_204; 83.00; 4343; doxy; 259.03  ; Regional Impossible Parameter Value
+181079022_204; 83.00 to 83.00; 4342, 4343; psal; 33.13  33.13  ; Gradient or Inversion too high
+181079022_204; 50.00 to 50.00; 4345, 4346; ntrz; 8.31  8.30  ; Gradient or Inversion too high
+181079022_204; 83.00 to 83.00; 4342, 4343; ntrz; 7.89  8.18  ; Gradient or Inversion too high
+181079022_204; 50.00 to 50.00; 4345, 4346; phos; 1.07  1.12  ; Gradient or Inversion too high
+181079022_204; 83.00 to 83.00; 4342, 4343; phos; 1.05  1.19  ; Gradient or Inversion too high
+181079022_215; 10.00; 4359; doxy; 314.85  ; Global Impossible Parameter Value
+181079022_215; 20.00; 4358; doxy; 289.84  ; Global Impossible Parameter Value
+181079022_215; 30.00; 4357; doxy; 259.47  ; Global Impossible Parameter Value
+181079022_215; 40.00; 4356; doxy; 253.22  ; Global Impossible Parameter Value
+181079022_215; 50.00; 4354; doxy; 246.08  ; Global Impossible Parameter Value
+181079022_215; 50.00; 4355; doxy; 256.80  ; Global Impossible Parameter Value
+181079022_215; 75.00; 4353; doxy; 247.42  ; Global Impossible Parameter Value
+181079022_215; 80.00; 4351; doxy; 252.33  ; Global Impossible Parameter Value
+181079022_215; 80.00; 4352; doxy; 254.12  ; Global Impossible Parameter Value
+181079022_215; 10.00; 4359; doxy; 314.85  ; Regional Impossible Parameter Value
+181079022_215; 20.00; 4358; doxy; 289.84  ; Regional Impossible Parameter Value
+181079022_215; 30.00; 4357; doxy; 259.47  ; Regional Impossible Parameter Value
+181079022_215; 40.00; 4356; doxy; 253.22  ; Regional Impossible Parameter Value
+181079022_215; 50.00; 4354; doxy; 246.08  ; Regional Impossible Parameter Value
+181079022_215; 50.00; 4355; doxy; 256.80  ; Regional Impossible Parameter Value
+181079022_215; 75.00; 4353; doxy; 247.42  ; Regional Impossible Parameter Value
+181079022_215; 80.00; 4351; doxy; 252.33  ; Regional Impossible Parameter Value
+181079022_215; 80.00; 4352; doxy; 254.12  ; Regional Impossible Parameter Value
+181079022_215; 80.00; 4351; psal; 33.25  ; Constant profile problem
+181079022_215; 80.00; 4352; psal; 33.25  ; Constant profile problem
+181079022_215; 50.00 to 50.00; 4354, 4355; ntrz; 9.57  9.59  ; Gradient or Inversion too high
+181079022_215; 80.00 to 80.00; 4351, 4352; ntrz; 8.77  9.54  ; Gradient or Inversion too high
+181079022_215; 50.00 to 50.00; 4354, 4355; phos; 1.15  1.18  ; Gradient or Inversion too high
+181079022_215; 80.00 to 80.00; 4351, 4352; phos; 1.03  1.13  ; Gradient or Inversion too high
+181079022_226; 10.00; 4368; doxy; 212.58  ; Global Impossible Parameter Value
+181079022_226; 20.00; 4367; doxy; 165.24  ; Global Impossible Parameter Value
+181079022_226; 30.00; 4366; doxy; 228.66  ; Global Impossible Parameter Value
+181079022_226; 50.00; 4364; doxy; 150.95  ; Global Impossible Parameter Value
+181079022_226; 50.00; 4365; doxy; 187.13  ; Global Impossible Parameter Value
+181079022_226; 75.00; 4363; doxy; 110.31  ; Global Impossible Parameter Value
+181079022_226; 100.00; 4362; doxy; 185.34  ; Global Impossible Parameter Value
+181079022_226; 116.00; 4360; doxy; 130.41  ; Global Impossible Parameter Value
+181079022_226; 116.00; 4361; doxy; 150.95  ; Global Impossible Parameter Value
+181079022_226; 10.00; 4368; doxy; 212.58  ; Regional Impossible Parameter Value
+181079022_226; 20.00; 4367; doxy; 165.24  ; Regional Impossible Parameter Value
+181079022_226; 30.00; 4366; doxy; 228.66  ; Regional Impossible Parameter Value
+181079022_226; 50.00; 4364; doxy; 150.95  ; Regional Impossible Parameter Value
+181079022_226; 50.00; 4365; doxy; 187.13  ; Regional Impossible Parameter Value
+181079022_226; 75.00; 4363; doxy; 110.31  ; Regional Impossible Parameter Value
+181079022_226; 100.00; 4362; doxy; 185.34  ; Regional Impossible Parameter Value
+181079022_226; 116.00; 4360; doxy; 130.41  ; Regional Impossible Parameter Value
+181079022_226; 116.00; 4361; doxy; 150.95  ; Regional Impossible Parameter Value
+181079022_226; 116.00 to 116.00; 4360, 4361; psal; 34.63  34.63  ; Gradient or Inversion too high
+181079022_226; 50.00 to 50.00; 4364, 4365; ntrz; 4.27  4.39  ; Gradient or Inversion too high
+181079022_226; 116.00 to 116.00; 4360, 4361; ntrz; 14.89  14.83  ; Gradient or Inversion too high
+181079022_226; 50.00 to 50.00; 4364, 4365; phos; 0.91  0.97  ; Gradient or Inversion too high
+181079022_226; 116.00 to 116.00; 4360, 4361; phos; 1.58  1.27  ; Gradient or Inversion too high
+181079022_237; 10.00; 4377; doxy; 271.98  ; Global Impossible Parameter Value
+181079022_237; 50.00; 4376; doxy; 216.60  ; Global Impossible Parameter Value
+181079022_237; 75.00; 4375; doxy; 271.09  ; Global Impossible Parameter Value
+181079022_237; 100.00; 4374; doxy; 243.84  ; Global Impossible Parameter Value
+181079022_237; 125.00; 4373; doxy; 129.96  ; Global Impossible Parameter Value
+181079022_237; 150.00; 4372; doxy; 167.47  ; Global Impossible Parameter Value
+181079022_237; 175.00; 4371; doxy; 151.40  ; Global Impossible Parameter Value
+181079022_237; 205.00; 4369; doxy; 147.82  ; Global Impossible Parameter Value
+181079022_237; 205.00; 4370; doxy; 173.28  ; Global Impossible Parameter Value
+181079022_237; 10.00; 4377; doxy; 271.98  ; Regional Impossible Parameter Value
+181079022_237; 50.00; 4376; doxy; 216.60  ; Regional Impossible Parameter Value
+181079022_237; 75.00; 4375; doxy; 271.09  ; Regional Impossible Parameter Value
+181079022_237; 100.00; 4374; doxy; 243.84  ; Regional Impossible Parameter Value
+181079022_237; 125.00; 4373; doxy; 129.96  ; Regional Impossible Parameter Value
+181079022_237; 150.00; 4372; doxy; 167.47  ; Regional Impossible Parameter Value
+181079022_237; 175.00; 4371; doxy; 151.40  ; Regional Impossible Parameter Value
+181079022_237; 205.00; 4369; doxy; 147.82  ; Regional Impossible Parameter Value
+181079022_237; 205.00; 4370; doxy; 173.28  ; Regional Impossible Parameter Value
+181079022_237; 205.00 to 205.00; 4369, 4370; psal; 35.22  35.22  ; Gradient or Inversion too high
+181079022_237; 205.00 to 205.00; 4369, 4370; ntrz; 18.71  17.70  ; Gradient or Inversion too high
+181079022_237; 205.00 to 205.00; 4369, 4370; phos; 1.41  1.38  ; Gradient or Inversion too high
+181079022_239; 10.00; 4386; doxy; 194.27  ; Global Impossible Parameter Value
+181079022_239; 50.00; 4385; doxy; 173.73  ; Global Impossible Parameter Value
+181079022_239; 75.00; 4384; doxy; 127.28  ; Global Impossible Parameter Value
+181079022_239; 100.00; 4383; doxy; 115.67  ; Global Impossible Parameter Value
+181079022_239; 150.00; 4382; doxy; 99.59  ; Global Impossible Parameter Value
+181079022_239; 175.00; 4381; doxy; 113.44  ; Global Impossible Parameter Value
+181079022_239; 200.00; 4380; doxy; 129.96  ; Global Impossible Parameter Value
+181079022_239; 250.00; 4378; doxy; 158.54  ; Global Impossible Parameter Value
+181079022_239; 250.00; 4379; doxy; 146.48  ; Global Impossible Parameter Value
+181079022_239; 10.00; 4386; doxy; 194.27  ; Regional Impossible Parameter Value
+181079022_239; 50.00; 4385; doxy; 173.73  ; Regional Impossible Parameter Value
+181079022_239; 75.00; 4384; doxy; 127.28  ; Regional Impossible Parameter Value
+181079022_239; 100.00; 4383; doxy; 115.67  ; Regional Impossible Parameter Value
+181079022_239; 150.00; 4382; doxy; 99.59  ; Regional Impossible Parameter Value
+181079022_239; 175.00; 4381; doxy; 113.44  ; Regional Impossible Parameter Value
+181079022_239; 200.00; 4380; doxy; 129.96  ; Regional Impossible Parameter Value
+181079022_239; 250.00; 4378; doxy; 158.54  ; Regional Impossible Parameter Value
+181079022_239; 250.00; 4379; doxy; 146.48  ; Regional Impossible Parameter Value
+181079022_239; 250.00 to 250.00; 4378, 4379; psal; 35.04  35.03  ; Gradient or Inversion too high
+181079022_239; 250.00 to 250.00; 4378, 4379; ntrz; 21.91  20.79  ; Gradient or Inversion too high
+181079022_239; 250.00 to 250.00; 4378, 4379; phos; 1.66  1.69  ; Gradient or Inversion too high
+181079022_243; 10.00; 4395; doxy; 252.33  ; Global Impossible Parameter Value
+181079022_243; 30.00; 4394; doxy; 287.61  ; Global Impossible Parameter Value
+181079022_243; 50.00; 4393; doxy; 193.82  ; Global Impossible Parameter Value
+181079022_243; 75.00; 4392; doxy; 234.02  ; Global Impossible Parameter Value
+181079022_243; 100.00; 4391; doxy; 191.59  ; Global Impossible Parameter Value
+181079022_243; 150.00; 4390; doxy; 141.13  ; Global Impossible Parameter Value
+181079022_243; 200.00; 4389; doxy; 186.23  ; Global Impossible Parameter Value
+181079022_243; 264.00; 4387; doxy; 130.41  ; Global Impossible Parameter Value
+181079022_243; 264.00; 4388; doxy; 189.81  ; Global Impossible Parameter Value
+181079022_243; 10.00; 4395; doxy; 252.33  ; Regional Impossible Parameter Value
+181079022_243; 30.00; 4394; doxy; 287.61  ; Regional Impossible Parameter Value
+181079022_243; 50.00; 4393; doxy; 193.82  ; Regional Impossible Parameter Value
+181079022_243; 75.00; 4392; doxy; 234.02  ; Regional Impossible Parameter Value
+181079022_243; 100.00; 4391; doxy; 191.59  ; Regional Impossible Parameter Value
+181079022_243; 150.00; 4390; doxy; 141.13  ; Regional Impossible Parameter Value
+181079022_243; 200.00; 4389; doxy; 186.23  ; Regional Impossible Parameter Value
+181079022_243; 264.00; 4387; doxy; 130.41  ; Regional Impossible Parameter Value
+181079022_243; 264.00; 4388; doxy; 189.81  ; Regional Impossible Parameter Value
+181079022_243; 264.00 to 264.00; 4387, 4388; psal; 34.99  35.00  ; Gradient or Inversion too high
+181079022_243; 264.00 to 264.00; 4387, 4388; ntrz; 20.97  22.14  ; Gradient or Inversion too high
+181079022_243; 264.00 to 264.00; 4387, 4388; phos; 1.55  1.48  ; Gradient or Inversion too high
+181079022_244; 10.00; 4404; doxy; 271.53  ; Global Impossible Parameter Value
+181079022_244; 30.00; 4403; doxy; 196.50  ; Global Impossible Parameter Value
+181079022_244; 50.00; 4402; doxy; 244.29  ; Global Impossible Parameter Value
+181079022_244; 75.00; 4401; doxy; 154.97  ; Global Impossible Parameter Value
+181079022_244; 100.00; 4400; doxy; 193.82  ; Global Impossible Parameter Value
+181079022_244; 150.00; 4399; doxy; 156.76  ; Global Impossible Parameter Value
+181079022_244; 200.00; 4398; doxy; 156.31  ; Global Impossible Parameter Value
+181079022_244; 240.00; 4396; doxy; 122.37  ; Global Impossible Parameter Value
+181079022_244; 240.00; 4397; doxy; 172.83  ; Global Impossible Parameter Value
+181079022_244; 10.00; 4404; doxy; 271.53  ; Regional Impossible Parameter Value
+181079022_244; 30.00; 4403; doxy; 196.50  ; Regional Impossible Parameter Value
+181079022_244; 50.00; 4402; doxy; 244.29  ; Regional Impossible Parameter Value
+181079022_244; 75.00; 4401; doxy; 154.97  ; Regional Impossible Parameter Value
+181079022_244; 100.00; 4400; doxy; 193.82  ; Regional Impossible Parameter Value
+181079022_244; 150.00; 4399; doxy; 156.76  ; Regional Impossible Parameter Value
+181079022_244; 200.00; 4398; doxy; 156.31  ; Regional Impossible Parameter Value
+181079022_244; 240.00; 4396; doxy; 122.37  ; Regional Impossible Parameter Value
+181079022_244; 240.00; 4397; doxy; 172.83  ; Regional Impossible Parameter Value
+181079022_244; 240.00 to 240.00; 4396, 4397; psal; 35.00  35.00  ; Gradient or Inversion too high
+181079022_244; 240.00 to 240.00; 4396, 4397; ntrz; 20.03  21.91  ; Gradient or Inversion too high
+181079022_244; 240.00 to 240.00; 4396, 4397; phos; 1.40  1.56  ; Gradient or Inversion too high
+181079022_244; 30.00; 4403; ntrz; 9.19  ; Out of Nutrient Climatology in box(es) 3 (Min=0.00 Max=8.70 n=275)
+181079022_244; 30.00; 4403; phos; 1.05  ; Out of Nutrient Climatology in box(es) 3 (Min=0.00 Max=0.99 n=250)
+181079022_247; 10.00; 4413; doxy; 301.45  ; Global Impossible Parameter Value
+181079022_247; 20.00; 4412; doxy; 301.01  ; Global Impossible Parameter Value
+181079022_247; 30.00; 4411; doxy; 273.77  ; Global Impossible Parameter Value
+181079022_247; 50.00; 4410; doxy; 247.86  ; Global Impossible Parameter Value
+181079022_247; 75.00; 4409; doxy; 220.62  ; Global Impossible Parameter Value
+181079022_247; 100.00; 4408; doxy; 196.06  ; Global Impossible Parameter Value
+181079022_247; 150.00; 4407; doxy; 189.36  ; Global Impossible Parameter Value
+181079022_247; 195.00; 4405; doxy; 199.63  ; Global Impossible Parameter Value
+181079022_247; 195.00; 4406; doxy; 191.14  ; Global Impossible Parameter Value
+181079022_247; 10.00; 4413; doxy; 301.45  ; Regional Impossible Parameter Value
+181079022_247; 20.00; 4412; doxy; 301.01  ; Regional Impossible Parameter Value
+181079022_247; 30.00; 4411; doxy; 273.77  ; Regional Impossible Parameter Value
+181079022_247; 50.00; 4410; doxy; 247.86  ; Regional Impossible Parameter Value
+181079022_247; 75.00; 4409; doxy; 220.62  ; Regional Impossible Parameter Value
+181079022_247; 100.00; 4408; doxy; 196.06  ; Regional Impossible Parameter Value
+181079022_247; 150.00; 4407; doxy; 189.36  ; Regional Impossible Parameter Value
+181079022_247; 195.00; 4405; doxy; 199.63  ; Regional Impossible Parameter Value
+181079022_247; 195.00; 4406; doxy; 191.14  ; Regional Impossible Parameter Value
+181079022_247; 195.00 to 195.00; 4405, 4406; psal; 35.02  35.00  ; Gradient or Inversion too high
+181079022_247; 195.00 to 195.00; 4405, 4406; ntrz; 21.96  19.70  ; Gradient or Inversion too high
+181079022_247; 195.00 to 195.00; 4405, 4406; phos; 1.76  1.63  ; Gradient or Inversion too high
+181079022_247; 30.00; 4411; phos; 1.00  ; Out of Nutrient Climatology in box(es) 3 (Min=0.00 Max=0.99 n=250)
+181079022_253; 10.00; 4422; doxy; 299.67  ; Global Impossible Parameter Value
+181079022_253; 20.00; 4421; doxy; 289.40  ; Global Impossible Parameter Value
+181079022_253; 30.00; 4420; doxy; 263.05  ; Global Impossible Parameter Value
+181079022_253; 40.00; 4419; doxy; 258.58  ; Global Impossible Parameter Value
+181079022_253; 50.00; 4418; doxy; 247.86  ; Global Impossible Parameter Value
+181079022_253; 75.00; 4416; doxy; 238.48  ; Global Impossible Parameter Value
+181079022_253; 96.00; 4414; doxy; 236.70  ; Global Impossible Parameter Value
+181079022_253; 96.00; 4415; doxy; 241.61  ; Global Impossible Parameter Value
+181079022_253; 10.00; 4422; doxy; 299.67  ; Regional Impossible Parameter Value
+181079022_253; 20.00; 4421; doxy; 289.40  ; Regional Impossible Parameter Value
+181079022_253; 30.00; 4420; doxy; 263.05  ; Regional Impossible Parameter Value
+181079022_253; 40.00; 4419; doxy; 258.58  ; Regional Impossible Parameter Value
+181079022_253; 50.00; 4418; doxy; 247.86  ; Regional Impossible Parameter Value
+181079022_253; 75.00; 4416; doxy; 238.48  ; Regional Impossible Parameter Value
+181079022_253; 96.00; 4414; doxy; 236.70  ; Regional Impossible Parameter Value
+181079022_253; 96.00; 4415; doxy; 241.61  ; Regional Impossible Parameter Value
+181079022_253; 96.00 to 96.00; 4414, 4415; psal; 34.03  34.03  ; Gradient or Inversion too high
+181079022_253; 50.00 to 50.00; 4417, 4418; ntrz; 14.06  11.34  ; Gradient or Inversion too high
+181079022_253; 96.00 to 96.00; 4414, 4415; ntrz; 14.24  7.74  ; Gradient or Inversion too high
+181079022_253; 50.00 to 50.00; 4417, 4418; phos; 1.23  1.08  ; Gradient or Inversion too high
+181079022_253; 96.00 to 96.00; 4414, 4415; phos; 1.54  0.88  ; Gradient or Inversion too high
+181079022_253; 30.00; 4420; ntrz; 10.41  ; Out of Nutrient Climatology in box(es) 2 (Min=0.00 Max=7.47 n=368)
+181079022_257; 10.00; 4431; doxy; 318.43  ; Global Impossible Parameter Value
+181079022_257; 20.00; 4430; doxy; 306.37  ; Global Impossible Parameter Value
+181079022_257; 30.00; 4428; doxy; 294.76  ; Global Impossible Parameter Value
+181079022_257; 40.00; 4427; doxy; 292.08  ; Global Impossible Parameter Value
+181079022_257; 50.00; 4425; doxy; 290.29  ; Global Impossible Parameter Value
+181079022_257; 50.00; 4426; doxy; 296.54  ; Global Impossible Parameter Value
+181079022_257; 75.00; 4423; doxy; 288.06  ; Global Impossible Parameter Value
+181079022_257; 75.00; 4424; doxy; 288.95  ; Global Impossible Parameter Value
+181079022_257; 10.00; 4431; doxy; 318.43  ; Regional Impossible Parameter Value
+181079022_257; 20.00; 4430; doxy; 306.37  ; Regional Impossible Parameter Value
+181079022_257; 30.00; 4428; doxy; 294.76  ; Regional Impossible Parameter Value
+181079022_257; 40.00; 4427; doxy; 292.08  ; Regional Impossible Parameter Value
+181079022_257; 50.00; 4425; doxy; 290.29  ; Regional Impossible Parameter Value
+181079022_257; 50.00; 4426; doxy; 296.54  ; Regional Impossible Parameter Value
+181079022_257; 75.00; 4423; doxy; 288.06  ; Regional Impossible Parameter Value
+181079022_257; 75.00; 4424; doxy; 288.95  ; Regional Impossible Parameter Value
+181079022_257; 75.00 to 75.00; 4423, 4424; psal; 32.97  32.99  ; Gradient or Inversion too high
+181079022_257; 20.00 to 30.00; 4430, 4428; ntrz; 12.90  0.96  ; Gradient or Inversion too high
+181079022_257; 50.00 to 50.00; 4425, 4426; ntrz; 7.28  7.44  ; Gradient or Inversion too high
+181079022_257; 75.00 to 75.00; 4423, 4424; ntrz; 7.65  6.21  ; Gradient or Inversion too high
+181079022_257; 50.00 to 50.00; 4425, 4426; phos; 1.08  1.02  ; Gradient or Inversion too high
+181079022_257; 75.00 to 75.00; 4423, 4424; phos; 1.14  0.97  ; Gradient or Inversion too high
+181079022_257; 10.00; 4431; ntrz; 10.41  ; Out of Nutrient Climatology in box(es) 2 (Min=0.00 Max=3.80 n=187)
+181079022_257; 20.00; 4430; ntrz; 12.90  ; Out of Nutrient Climatology in box(es) 2 (Min=0.00 Max=7.47 n=368)
+181079022_257; 10.00; 4431; phos; 1.08  ; Out of Nutrient Climatology in box(es) 2 (Min=0.00 Max=0.86 n=126)
+181079022_257; 10.00; 4431; slca; 6.55  ; Out of Nutrient Climatology in box(es) 2 (Min=0.00 Max=4.39 n=214)
+181079022_261; 10.00; 4440; doxy; 311.73  ; Global Impossible Parameter Value
+181079022_261; 20.00; 4438; doxy; 274.66  ; Global Impossible Parameter Value
+181079022_261; 20.00; 4439; doxy; 290.29  ; Global Impossible Parameter Value
+181079022_261; 30.00; 4437; doxy; 296.10  ; Global Impossible Parameter Value
+181079022_261; 40.00; 4436; doxy; 297.88  ; Global Impossible Parameter Value
+181079022_261; 50.00; 4434; doxy; 216.60  ; Global Impossible Parameter Value
+181079022_261; 50.00; 4435; doxy; 213.03  ; Global Impossible Parameter Value
+181079022_261; 75.00; 4432; doxy; 273.77  ; Global Impossible Parameter Value
+181079022_261; 75.00; 4433; doxy; 258.58  ; Global Impossible Parameter Value
+181079022_261; 10.00; 4440; doxy; 311.73  ; Regional Impossible Parameter Value
+181079022_261; 20.00; 4438; doxy; 274.66  ; Regional Impossible Parameter Value
+181079022_261; 20.00; 4439; doxy; 290.29  ; Regional Impossible Parameter Value
+181079022_261; 30.00; 4437; doxy; 296.10  ; Regional Impossible Parameter Value
+181079022_261; 40.00; 4436; doxy; 297.88  ; Regional Impossible Parameter Value
+181079022_261; 50.00; 4434; doxy; 216.60  ; Regional Impossible Parameter Value
+181079022_261; 50.00; 4435; doxy; 213.03  ; Regional Impossible Parameter Value
+181079022_261; 75.00; 4432; doxy; 273.77  ; Regional Impossible Parameter Value
+181079022_261; 75.00; 4433; doxy; 258.58  ; Regional Impossible Parameter Value
+181079022_261; 75.00 to 75.00; 4432, 4433; psal; 32.74  32.74  ; Gradient or Inversion too high
+181079022_261; 20.00 to 20.00; 4438, 4439; ntrz; 3.42  3.59  ; Gradient or Inversion too high
+181079022_261; 50.00 to 50.00; 4434, 4435; ntrz; 8.33  7.82  ; Gradient or Inversion too high
+181079022_261; 75.00 to 75.00; 4432, 4433; ntrz; 12.11  11.86  ; Gradient or Inversion too high
+181079022_261; 20.00 to 20.00; 4438, 4439; phos; 0.81  1.02  ; Gradient or Inversion too high
+181079022_261; 50.00 to 50.00; 4434, 4435; phos; 1.05  1.13  ; Gradient or Inversion too high
+181079022_261; 75.00 to 75.00; 4432, 4433; phos; 1.23  1.22  ; Gradient or Inversion too high
+181079022_261; 10.00; 4440; phos; 0.86  ; Out of Nutrient Climatology in box(es) 2 (Min=0.00 Max=0.86 n=126)
+181079022_263; 10.00; 4449; doxy; 305.47  ; Global Impossible Parameter Value
+181079022_263; 20.00; 4448; doxy; 297.44  ; Global Impossible Parameter Value
+181079022_263; 30.00; 4447; doxy; 292.08  ; Global Impossible Parameter Value
+181079022_263; 40.00; 4446; doxy; 284.93  ; Global Impossible Parameter Value
+181079022_263; 50.00; 4444; doxy; 277.79  ; Global Impossible Parameter Value
+181079022_263; 50.00; 4445; doxy; 277.79  ; Global Impossible Parameter Value
+181079022_263; 75.00; 4443; doxy; 276.00  ; Global Impossible Parameter Value
+181079022_263; 90.00; 4441; doxy; 274.66  ; Global Impossible Parameter Value
+181079022_263; 90.00; 4442; doxy; 276.00  ; Global Impossible Parameter Value
+181079022_263; 10.00; 4449; doxy; 305.47  ; Regional Impossible Parameter Value
+181079022_263; 20.00; 4448; doxy; 297.44  ; Regional Impossible Parameter Value
+181079022_263; 30.00; 4447; doxy; 292.08  ; Regional Impossible Parameter Value
+181079022_263; 40.00; 4446; doxy; 284.93  ; Regional Impossible Parameter Value
+181079022_263; 50.00; 4444; doxy; 277.79  ; Regional Impossible Parameter Value
+181079022_263; 50.00; 4445; doxy; 277.79  ; Regional Impossible Parameter Value
+181079022_263; 75.00; 4443; doxy; 276.00  ; Regional Impossible Parameter Value
+181079022_263; 90.00; 4441; doxy; 274.66  ; Regional Impossible Parameter Value
+181079022_263; 90.00; 4442; doxy; 276.00  ; Regional Impossible Parameter Value
+181079022_263; 90.00 to 90.00; 4441, 4442; psal; 33.16  33.16  ; Gradient or Inversion too high
+181079022_263; 50.00 to 50.00; 4444, 4445; ntrz; 9.62  9.69  ; Gradient or Inversion too high
+181079022_263; 90.00 to 90.00; 4441, 4442; ntrz; 9.25  9.82  ; Gradient or Inversion too high
+181079022_263; 50.00 to 50.00; 4444, 4445; phos; 1.10  1.14  ; Gradient or Inversion too high
+181079022_263; 90.00 to 90.00; 4441, 4442; phos; 1.08  1.16  ; Gradient or Inversion too high
+181079022_263; 10.00; 4449; ntrz; 6.85  ; Out of Nutrient Climatology in box(es) 2 (Min=0.00 Max=3.80 n=187)
+181079022_263; 30.00; 4447; ntrz; 7.56  ; Out of Nutrient Climatology in box(es) 2 (Min=0.00 Max=7.47 n=368)
+181079022_263; 10.00; 4449; phos; 1.06  ; Out of Nutrient Climatology in box(es) 2 (Min=0.00 Max=0.86 n=126)
+181079022_263; 10.00; 4449; slca; 5.18  ; Out of Nutrient Climatology in box(es) 2 (Min=0.00 Max=4.39 n=214)
+181079022_265; 10.00; 4458; doxy; 307.71  ; Global Impossible Parameter Value
+181079022_265; 20.00; 4457; doxy; 295.65  ; Global Impossible Parameter Value
+181079022_265; 30.00; 4456; doxy; 299.67  ; Global Impossible Parameter Value
+181079022_265; 50.00; 4454; doxy; 287.16  ; Global Impossible Parameter Value
+181079022_265; 50.00; 4455; doxy; 286.27  ; Global Impossible Parameter Value
+181079022_265; 75.00; 4453; doxy; 256.80  ; Global Impossible Parameter Value
+181079022_265; 100.00; 4452; doxy; 244.29  ; Global Impossible Parameter Value
+181079022_265; 113.00; 4450; doxy; 251.44  ; Global Impossible Parameter Value
+181079022_265; 113.00; 4451; doxy; 250.54  ; Global Impossible Parameter Value
+181079022_265; 10.00; 4458; doxy; 307.71  ; Regional Impossible Parameter Value
+181079022_265; 20.00; 4457; doxy; 295.65  ; Regional Impossible Parameter Value
+181079022_265; 30.00; 4456; doxy; 299.67  ; Regional Impossible Parameter Value
+181079022_265; 50.00; 4454; doxy; 287.16  ; Regional Impossible Parameter Value
+181079022_265; 50.00; 4455; doxy; 286.27  ; Regional Impossible Parameter Value
+181079022_265; 75.00; 4453; doxy; 256.80  ; Regional Impossible Parameter Value
+181079022_265; 100.00; 4452; doxy; 244.29  ; Regional Impossible Parameter Value
+181079022_265; 113.00; 4450; doxy; 251.44  ; Regional Impossible Parameter Value
+181079022_265; 113.00; 4451; doxy; 250.54  ; Regional Impossible Parameter Value
+181079022_265; 113.00 to 113.00; 4450, 4451; psal; 33.74  33.74  ; Gradient or Inversion too high
+181079022_265; 50.00 to 50.00; 4454, 4455; ntrz; 4.55  4.13  ; Gradient or Inversion too high
+181079022_265; 113.00 to 113.00; 4450, 4451; ntrz; 3.05  2.86  ; Gradient or Inversion too high
+181079022_265; 50.00 to 50.00; 4454, 4455; phos; 0.88  0.91  ; Gradient or Inversion too high
+181079022_265; 113.00 to 113.00; 4450, 4451; phos; 0.84  0.72  ; Gradient or Inversion too high
+181079022_275; 10.00; 4467; doxy; 161.22  ; Global Impossible Parameter Value
+181079022_275; 30.00; 4466; doxy; 208.12  ; Global Impossible Parameter Value
+181079022_275; 50.00; 4465; doxy; 158.99  ; Global Impossible Parameter Value
+181079022_275; 75.00; 4464; doxy; 138.89  ; Global Impossible Parameter Value
+181079022_275; 100.00; 4463; doxy; 224.64  ; Global Impossible Parameter Value
+181079022_275; 150.00; 4462; doxy; 161.67  ; Global Impossible Parameter Value
+181079022_275; 200.00; 4461; doxy; 150.95  ; Global Impossible Parameter Value
+181079022_275; 245.00; 4459; doxy; 151.40  ; Global Impossible Parameter Value
+181079022_275; 245.00; 4460; doxy; 60.74  ; Global Impossible Parameter Value
+181079022_275; 10.00; 4467; doxy; 161.22  ; Regional Impossible Parameter Value
+181079022_275; 30.00; 4466; doxy; 208.12  ; Regional Impossible Parameter Value
+181079022_275; 50.00; 4465; doxy; 158.99  ; Regional Impossible Parameter Value
+181079022_275; 75.00; 4464; doxy; 138.89  ; Regional Impossible Parameter Value
+181079022_275; 100.00; 4463; doxy; 224.64  ; Regional Impossible Parameter Value
+181079022_275; 150.00; 4462; doxy; 161.67  ; Regional Impossible Parameter Value
+181079022_275; 200.00; 4461; doxy; 150.95  ; Regional Impossible Parameter Value
+181079022_275; 245.00; 4459; doxy; 151.40  ; Regional Impossible Parameter Value
+181079022_275; 245.00; 4460; doxy; 60.74  ; Regional Impossible Parameter Value
+181079022_275; 245.00 to 245.00; 4459, 4460; psal; 35.00  35.00  ; Gradient or Inversion too high
+181079022_275; 245.00 to 245.00; 4459, 4460; ntrz; 21.91  22.16  ; Gradient or Inversion too high
+181079022_275; 245.00 to 245.00; 4459, 4460; phos; 1.62  1.76  ; Gradient or Inversion too high
+181079022_276; 30.00; 4475; doxy; 259.03  ; Global Impossible Parameter Value
+181079022_276; 50.00; 4474; doxy; 284.93  ; Global Impossible Parameter Value
+181079022_276; 75.00; 4473; doxy; 278.68  ; Global Impossible Parameter Value
+181079022_276; 100.00; 4472; doxy; 267.96  ; Global Impossible Parameter Value
+181079022_276; 150.00; 4471; doxy; 225.53  ; Global Impossible Parameter Value
+181079022_276; 200.00; 4470; doxy; 208.56  ; Global Impossible Parameter Value
+181079022_276; 256.00; 4468; doxy; 176.85  ; Global Impossible Parameter Value
+181079022_276; 256.00; 4469; doxy; 213.92  ; Global Impossible Parameter Value
+181079022_276; 30.00; 4475; doxy; 259.03  ; Regional Impossible Parameter Value
+181079022_276; 50.00; 4474; doxy; 284.93  ; Regional Impossible Parameter Value
+181079022_276; 75.00; 4473; doxy; 278.68  ; Regional Impossible Parameter Value
+181079022_276; 100.00; 4472; doxy; 267.96  ; Regional Impossible Parameter Value
+181079022_276; 150.00; 4471; doxy; 225.53  ; Regional Impossible Parameter Value
+181079022_276; 200.00; 4470; doxy; 208.56  ; Regional Impossible Parameter Value
+181079022_276; 256.00; 4468; doxy; 176.85  ; Regional Impossible Parameter Value
+181079022_276; 256.00; 4469; doxy; 213.92  ; Regional Impossible Parameter Value
+181079022_276; 256.00 to 256.00; 4468, 4469; psal; 35.00  35.00  ; Gradient or Inversion too high
+181079022_276; 256.00 to 256.00; 4468, 4469; ntrz; 19.86  21.17  ; Gradient or Inversion too high
+181079022_276; 256.00 to 256.00; 4468, 4469; phos; 1.55  1.62  ; Gradient or Inversion too high
+181079022_277; 10.00; 4476; doxy; 258.58  ; Global Impossible Parameter Value
+181079022_277; 10.00; 4485; doxy; 199.18  ; Global Impossible Parameter Value
+181079022_277; 30.00; 4484; doxy; 179.98  ; Global Impossible Parameter Value
+181079022_277; 50.00; 4483; doxy; 197.40  ; Global Impossible Parameter Value
+181079022_277; 75.00; 4482; doxy; 221.96  ; Global Impossible Parameter Value
+181079022_277; 100.00; 4481; doxy; 210.80  ; Global Impossible Parameter Value
+181079022_277; 150.00; 4480; doxy; 149.16  ; Global Impossible Parameter Value
+181079022_277; 200.00; 4479; doxy; 97.36  ; Global Impossible Parameter Value
+181079022_277; 250.00; 4477; doxy; 206.78  ; Global Impossible Parameter Value
+181079022_277; 250.00; 4478; doxy; 193.82  ; Global Impossible Parameter Value
+181079022_277; 10.00; 4476; doxy; 258.58  ; Regional Impossible Parameter Value
+181079022_277; 10.00; 4485; doxy; 199.18  ; Regional Impossible Parameter Value
+181079022_277; 30.00; 4484; doxy; 179.98  ; Regional Impossible Parameter Value
+181079022_277; 50.00; 4483; doxy; 197.40  ; Regional Impossible Parameter Value
+181079022_277; 75.00; 4482; doxy; 221.96  ; Regional Impossible Parameter Value
+181079022_277; 100.00; 4481; doxy; 210.80  ; Regional Impossible Parameter Value
+181079022_277; 150.00; 4480; doxy; 149.16  ; Regional Impossible Parameter Value
+181079022_277; 200.00; 4479; doxy; 97.36  ; Regional Impossible Parameter Value
+181079022_277; 250.00; 4477; doxy; 206.78  ; Regional Impossible Parameter Value
+181079022_277; 250.00; 4478; doxy; 193.82  ; Regional Impossible Parameter Value
+181079022_277; 250.00 to 250.00; 4477, 4478; psal; 35.02  35.02  ; Gradient or Inversion too high
+181079022_277; 10.00 to 10.00; 4476, 4485; ntrz; 0.63  0.85  ; Gradient or Inversion too high
+181079022_277; 250.00 to 250.00; 4477, 4478; ntrz; 20.71  21.02  ; Gradient or Inversion too high
+181079022_277; 10.00 to 10.00; 4476, 4485; phos; 0.64  0.93  ; Gradient or Inversion too high
+181079022_277; 250.00 to 250.00; 4477, 4478; phos; 1.78  1.76  ; Gradient or Inversion too high
+181079022_277; 30.00; 4484; phos; 1.07  ; Out of Nutrient Climatology in box(es) 3 (Min=0.00 Max=0.99 n=250)
+181079022_278; 10.00; 4494; doxy; 306.81  ; Global Impossible Parameter Value
+181079022_278; 20.00; 4493; doxy; 275.11  ; Global Impossible Parameter Value
+181079022_278; 30.00; 4492; doxy; 241.16  ; Global Impossible Parameter Value
+181079022_278; 50.00; 4490; doxy; 349.24  ; Global Impossible Parameter Value
+181079022_278; 50.00; 4491; doxy; 237.59  ; Global Impossible Parameter Value
+181079022_278; 75.00; 4488; doxy; 177.30  ; Global Impossible Parameter Value
+181079022_278; 75.00; 4489; doxy; 229.11  ; Global Impossible Parameter Value
+181079022_278; 100.00; 4486; doxy; 250.54  ; Global Impossible Parameter Value
+181079022_278; 100.00; 4487; doxy; 224.19  ; Global Impossible Parameter Value
+181079022_278; 10.00; 4494; doxy; 306.81  ; Regional Impossible Parameter Value
+181079022_278; 20.00; 4493; doxy; 275.11  ; Regional Impossible Parameter Value
+181079022_278; 30.00; 4492; doxy; 241.16  ; Regional Impossible Parameter Value
+181079022_278; 50.00; 4490; doxy; 349.24  ; Regional Impossible Parameter Value
+181079022_278; 50.00; 4491; doxy; 237.59  ; Regional Impossible Parameter Value
+181079022_278; 75.00; 4488; doxy; 177.30  ; Regional Impossible Parameter Value
+181079022_278; 75.00; 4489; doxy; 229.11  ; Regional Impossible Parameter Value
+181079022_278; 100.00; 4486; doxy; 250.54  ; Regional Impossible Parameter Value
+181079022_278; 100.00; 4487; doxy; 224.19  ; Regional Impossible Parameter Value
+181079022_278; 100.00 to 100.00; 4486, 4487; psal; 34.35  34.35  ; Gradient or Inversion too high
+181079022_278; 50.00 to 50.00; 4490, 4491; ntrz; 10.85  8.30  ; Gradient or Inversion too high
+181079022_278; 75.00 to 75.00; 4488, 4489; ntrz; 10.54  11.51  ; Gradient or Inversion too high
+181079022_278; 100.00 to 100.00; 4486, 4487; ntrz; 12.07  12.23  ; Gradient or Inversion too high
+181079022_278; 50.00 to 50.00; 4490, 4491; phos; 1.40  1.17  ; Gradient or Inversion too high
+181079022_278; 75.00 to 75.00; 4488, 4489; phos; 1.28  1.40  ; Gradient or Inversion too high
+181079022_278; 100.00 to 100.00; 4486, 4487; phos; 1.41  1.44  ; Gradient or Inversion too high
+181079022_279; 10.00; 4503; doxy; 284.04  ; Global Impossible Parameter Value
+181079022_279; 20.00; 4502; doxy; 310.83  ; Global Impossible Parameter Value
+181079022_279; 30.00; 4501; doxy; 291.18  ; Global Impossible Parameter Value
+181079022_279; 50.00; 4499; doxy; 289.84  ; Global Impossible Parameter Value
+181079022_279; 50.00; 4500; doxy; 288.50  ; Global Impossible Parameter Value
+181079022_279; 75.00; 4498; doxy; 264.39  ; Global Impossible Parameter Value
+181079022_279; 100.00; 4497; doxy; 237.59  ; Global Impossible Parameter Value
+181079022_279; 136.00; 4495; doxy; 235.80  ; Global Impossible Parameter Value
+181079022_279; 136.00; 4496; doxy; 198.29  ; Global Impossible Parameter Value
+181079022_279; 10.00; 4503; doxy; 284.04  ; Regional Impossible Parameter Value
+181079022_279; 20.00; 4502; doxy; 310.83  ; Regional Impossible Parameter Value
+181079022_279; 30.00; 4501; doxy; 291.18  ; Regional Impossible Parameter Value
+181079022_279; 50.00; 4499; doxy; 289.84  ; Regional Impossible Parameter Value
+181079022_279; 50.00; 4500; doxy; 288.50  ; Regional Impossible Parameter Value
+181079022_279; 75.00; 4498; doxy; 264.39  ; Regional Impossible Parameter Value
+181079022_279; 100.00; 4497; doxy; 237.59  ; Regional Impossible Parameter Value
+181079022_279; 136.00; 4495; doxy; 235.80  ; Regional Impossible Parameter Value
+181079022_279; 136.00; 4496; doxy; 198.29  ; Regional Impossible Parameter Value
+181079022_279; 136.00 to 136.00; 4495, 4496; psal; 35.12  35.11  ; Gradient or Inversion too high
+181079022_279; 50.00 to 50.00; 4499, 4500; ntrz; 3.91  4.03  ; Gradient or Inversion too high
+181079022_279; 136.00 to 136.00; 4495, 4496; ntrz; 18.00  18.09  ; Gradient or Inversion too high
+181079022_279; 50.00 to 50.00; 4499, 4500; phos; 1.68  1.41  ; Gradient or Inversion too high
+181079022_279; 136.00 to 136.00; 4495, 4496; phos; 2.19  2.31  ; Gradient or Inversion too high
+181079022_279; 50.00; 4499; phos; 1.68  ; Out of Nutrient Climatology in box(es) 4 (Min=0.30 Max=1.59 n=561)
+181079022_279; 136.00; 4495; phos; 2.19  ; Out of Nutrient Climatology in box(es) 4 (Min=0.80 Max=1.80 n=101)
+181079022_279; 136.00; 4496; phos; 2.31  ; Out of Nutrient Climatology in box(es) 4 (Min=0.80 Max=1.80 n=101)
+181079022_280; 10.00; 4512; doxy; 305.47  ; Global Impossible Parameter Value
+181079022_280; 20.00; 4511; doxy; 254.12  ; Global Impossible Parameter Value
+181079022_280; 30.00; 4509; doxy; 285.82  ; Global Impossible Parameter Value
+181079022_280; 50.00; 4507; doxy; 184.00  ; Global Impossible Parameter Value
+181079022_280; 50.00; 4508; doxy; 302.79  ; Global Impossible Parameter Value
+181079022_280; 75.00; 4506; doxy; 129.51  ; Global Impossible Parameter Value
+181079022_280; 105.00; 4504; doxy; 237.59  ; Global Impossible Parameter Value
+181079022_280; 105.00; 4505; doxy; 220.17  ; Global Impossible Parameter Value
+181079022_280; 10.00; 4512; doxy; 305.47  ; Regional Impossible Parameter Value
+181079022_280; 20.00; 4511; doxy; 254.12  ; Regional Impossible Parameter Value
+181079022_280; 30.00; 4509; doxy; 285.82  ; Regional Impossible Parameter Value
+181079022_280; 50.00; 4507; doxy; 184.00  ; Regional Impossible Parameter Value
+181079022_280; 50.00; 4508; doxy; 302.79  ; Regional Impossible Parameter Value
+181079022_280; 75.00; 4506; doxy; 129.51  ; Regional Impossible Parameter Value
+181079022_280; 105.00; 4504; doxy; 237.59  ; Regional Impossible Parameter Value
+181079022_280; 105.00; 4505; doxy; 220.17  ; Regional Impossible Parameter Value
+181079022_280; 105.00 to 105.00; 4504, 4505; psal; 34.70  34.66  ; Gradient or Inversion too high
+181079022_280; 20.00 to 20.00; 4510, 4511; ntrz; 0.48  0.70  ; Gradient or Inversion too high
+181079022_280; 50.00 to 50.00; 4507, 4508; ntrz; 8.65  1.86  ; Gradient or Inversion too high
+181079022_280; 105.00 to 105.00; 4504, 4505; ntrz; 12.84  13.29  ; Gradient or Inversion too high
+181079022_280; 20.00 to 20.00; 4510, 4511; phos; 0.81  0.90  ; Gradient or Inversion too high
+181079022_280; 50.00 to 50.00; 4507, 4508; phos; 1.29  1.01  ; Gradient or Inversion too high
+181079022_280; 105.00 to 105.00; 4504, 4505; phos; 1.36  1.45  ; Gradient or Inversion too high
+181079022_285; 159.00; 4540; psal; 35.00  ; Constant profile problem
+181079022_285; 159.00; 4541; psal; 35.00  ; Constant profile problem
+181079022_285; 159.00 to 159.00; 4540, 4541; ntrz; 16.64  13.88  ; Gradient or Inversion too high
+181079022_285; 159.00 to 159.00; 4540, 4541; phos; 1.36  1.19  ; Gradient or Inversion too high
+181079022_295; 108.00; 4549; psal; 34.36  ; Constant profile problem
+181079022_295; 108.00; 4550; psal; 34.36  ; Constant profile problem
+181079022_295; 50.00 to 50.00; 4553, 4554; ntrz; 12.04  12.11  ; Gradient or Inversion too high
+181079022_295; 108.00 to 108.00; 4549, 4550; ntrz; 11.90  13.10  ; Gradient or Inversion too high
+181079022_295; 50.00 to 50.00; 4553, 4554; phos; 1.22  1.21  ; Gradient or Inversion too high
+181079022_295; 108.00 to 108.00; 4549, 4550; phos; 1.22  1.23  ; Gradient or Inversion too high
+181079022_296; 148.00 to 148.00; 4558, 4559; psal; 34.51  34.51  ; Gradient or Inversion too high
+181079022_296; 50.00 to 50.00; 4562, 4563; ntrz; 10.79  11.24  ; Gradient or Inversion too high
+181079022_296; 148.00 to 148.00; 4558, 4559; ntrz; 15.23  14.76  ; Gradient or Inversion too high
+181079022_296; 50.00 to 50.00; 4562, 4563; phos; 1.11  1.14  ; Gradient or Inversion too high
+181079022_296; 148.00 to 148.00; 4558, 4559; phos; 1.34  1.34  ; Gradient or Inversion too high
+181079022_297; 93.00 to 93.00; 4567, 4568; psal; 33.80  33.81  ; Gradient or Inversion too high
+181079022_297; 50.00 to 50.00; 4571, 4572; ntrz; 8.38  9.78  ; Gradient or Inversion too high
+181079022_297; 93.00 to 93.00; 4567, 4568; ntrz; 2.38  3.00  ; Gradient or Inversion too high
+181079022_297; 93.00 to 93.00; 4568, 4569; ntrz; 3.00  5.73  ; Gradient or Inversion too high
+181079022_297; 50.00 to 50.00; 4571, 4572; phos; 1.04  1.19  ; Gradient or Inversion too high
+181079022_297; 93.00 to 93.00; 4567, 4568; phos; 0.82  0.88  ; Gradient or Inversion too high
+181079022_297; 93.00 to 93.00; 4568, 4569; phos; 0.88  0.95  ; Gradient or Inversion too high
+181079022_297; 10.00; 4575; ntrz; 10.65  ; Out of Nutrient Climatology in box(es) 4 (Min=0.00 Max=6.43 n=77)
+181079022_297; 10.00; 4575; slca; 7.06  ; Out of Nutrient Climatology in box(es) 4 (Min=0.79 Max=6.76 n=74)
+181079022_298; 90.00 to 90.00; 4576, 4578; psal; 33.46  33.46  ; Gradient or Inversion too high
+181079022_298; 50.00 to 50.00; 4581, 4582; ntrz; 7.26  6.77  ; Gradient or Inversion too high
+181079022_298; 75.00 to 75.00; 4579, 4580; ntrz; 7.37  7.38  ; Gradient or Inversion too high
+181079022_298; 90.00 to 90.00; 4576, 4577; ntrz; 7.86  7.76  ; Gradient or Inversion too high
+181079022_298; 90.00 to 90.00; 4577, 4578; ntrz; 7.76  6.42  ; Gradient or Inversion too high
+181079022_298; 50.00 to 50.00; 4581, 4582; phos; 1.04  1.04  ; Gradient or Inversion too high
+181079022_298; 75.00 to 75.00; 4579, 4580; phos; 1.01  1.19  ; Gradient or Inversion too high
+181079022_298; 90.00 to 90.00; 4576, 4577; phos; 1.25  1.14  ; Gradient or Inversion too high
+181079022_298; 90.00 to 90.00; 4577, 4578; phos; 1.14  0.96  ; Gradient or Inversion too high
+181079022_298; 30.00; 4583; phos; 1.50  ; Out of Nutrient Climatology in box(es) 4 (Min=0.09 Max=1.36 n=255)
+181079022_299; 100.00 to 100.00; 4586, 4587; psal; 33.67  33.68  ; Gradient or Inversion too high
+181079022_299; 50.00 to 50.00; 4589, 4590; ntrz; 7.83  6.12  ; Gradient or Inversion too high
+181079022_299; 100.00 to 100.00; 4586, 4587; ntrz; 10.56  10.54  ; Gradient or Inversion too high
+181079022_299; 50.00 to 50.00; 4589, 4590; phos; 1.13  1.01  ; Gradient or Inversion too high
+181079022_299; 100.00 to 100.00; 4586, 4587; phos; 1.47  1.53  ; Gradient or Inversion too high
+181079022_281; 103.00 to 103.00; 4513, 4514; psal; 34.26  34.26  ; Gradient or Inversion too high
+181079022_281; 50.00 to 50.00; 4516, 4517; ntrz; 8.70  5.52  ; Gradient or Inversion too high
+181079022_281; 103.00 to 103.00; 4513, 4514; ntrz; 13.82  13.51  ; Gradient or Inversion too high
+181079022_281; 50.00 to 50.00; 4516, 4517; phos; 1.65  1.21  ; Gradient or Inversion too high
+181079022_281; 103.00 to 103.00; 4513, 4514; phos; 1.82  1.68  ; Gradient or Inversion too high
+181079022_282; 72.00 to 72.00; 4522, 4523; psal; 33.90  33.90  ; Gradient or Inversion too high
+181079022_282; 50.00 to 50.00; 4525, 4526; ntrz; 11.85  11.77  ; Gradient or Inversion too high
+181079022_282; 72.00 to 72.00; 4522, 4523; ntrz; 12.20  12.16  ; Gradient or Inversion too high
+181079022_282; 50.00 to 50.00; 4525, 4526; phos; 1.45  1.52  ; Gradient or Inversion too high
+181079022_282; 72.00 to 72.00; 4522, 4523; phos; 1.43  1.53  ; Gradient or Inversion too high
+181079022_283; 140.00 to 140.00; 4531, 4532; psal; 35.06  35.06  ; Gradient or Inversion too high
+181079022_283; 50.00 to 50.00; 4535, 4536; ntrz; 4.77  14.03  ; Gradient or Inversion too high
+181079022_283; 140.00 to 140.00; 4531, 4532; ntrz; 0.35  0.34  ; Gradient or Inversion too high
+181079022_283; 50.00 to 50.00; 4535, 4536; phos; 0.91  1.29  ; Gradient or Inversion too high
+181079022_283; 140.00 to 140.00; 4531, 4532; phos; 0.60  0.56  ; Gradient or Inversion too high
+181079022_283; 10.00; 4539; ntrz; 15.62  ; Out of Nutrient Climatology in box(es) 3 (Min=0.00 Max=5.38 n=149)
+181079022_283; 20.00; 4538; ntrz; 16.21  ; Out of Nutrient Climatology in box(es) 3 (Min=0.00 Max=8.70 n=275)
+181079022_283; 30.00; 4537; ntrz; 15.29  ; Out of Nutrient Climatology in box(es) 3 (Min=0.00 Max=8.70 n=275)
+181079022_283; 140.00; 4531; ntrz; 0.35  ; Out of Nutrient Climatology in box(es) 3 (Min=3.86 Max=27.70 n=396)
+181079022_283; 140.00; 4532; ntrz; 0.34  ; Out of Nutrient Climatology in box(es) 3 (Min=3.86 Max=27.70 n=396)
+181079022_283; 10.00; 4539; phos; 1.27  ; Out of Nutrient Climatology in box(es) 3 (Min=0.00 Max=1.05 n=144)
+181079022_283; 20.00; 4538; phos; 1.30  ; Out of Nutrient Climatology in box(es) 3 (Min=0.00 Max=0.99 n=250)
+181079022_283; 30.00; 4537; phos; 1.26  ; Out of Nutrient Climatology in box(es) 3 (Min=0.00 Max=0.99 n=250)
+181079022_283; 140.00; 4531; slca; 0.91  ; Out of Nutrient Climatology in box(es) 3 (Min=1.00 Max=23.00 n=373)

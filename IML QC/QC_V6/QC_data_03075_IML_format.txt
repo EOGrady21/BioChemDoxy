@@ -1,0 +1,6 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18HU03075_264; 151.00; 257395; phos; 1.44  ; Out of Nutrient Climatology in box(es) 9 (Min=0.42 Max=1.26 n=9)
+18HU03075_264; 168.00; 257394; phos; 1.37  ; Out of Nutrient Climatology in box(es) 9 (Min=0.42 Max=1.26 n=9)
+18HU03075_264; 151.00; 257395; slca; 16.80  ; Out of Nutrient Climatology in box(es) 9 (Min=2.45 Max=16.32 n=9)
+18HU03075_264; 168.00; 257394; slca; 16.70  ; Out of Nutrient Climatology in box(es) 9 (Min=2.45 Max=16.32 n=9)
+18HU03075_304; 88.00; 257405; ntrz; 11.74  ; Out of Nutrient Climatology in box(es) 9 (Min=0.00 Max=10.79 n=212)

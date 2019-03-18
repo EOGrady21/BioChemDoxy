@@ -1,0 +1,12 @@
+Test 1.6 -> No known depth for 18HU06019_178
+Test 1.6 -> No known depth for 18HU06019_187
+Test 1.6 -> No known depth for 18HU06019_192
+Test 1.6 -> No known depth for 18HU06019_199
+Test 1.6 -> No known depth for 18HU06019_212
+Test 1.6 -> No known depth for 18HU06019_227
+Test 1.6 -> No known depth for 18HU06019_238
+Test 1.6 -> No known depth for 18HU06019_240
+Test 1.6 -> No known depth for 18HU06019_241
+Test 1.6 -> No known depth for 18HU06019_242
+18HU06019_187: Test 2.1 -> Global Impossible Parameter Value for doxy
+18HU06019_187: Test 2.2 -> Regional Impossible Parameter Value for doxy

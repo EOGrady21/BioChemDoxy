@@ -1,0 +1,105 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18HU16050 FLAG Report:,  2019-03-15 11:23:24
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged PHOSPHATE, event IML20160501331, station 1331:
+
+ sample_key  depth value      method qc
+              1.98 0.300 PO4_Tech_SF  1
+              5.06 0.290 PO4_Tech_SF  1
+             15.07 0.295 PO4_Tech_SF  1
+             25.19 0.300 PO4_Tech_SF  1
+             50.47 0.305 PO4_Tech_SF  2
+            100.03 0.835 PO4_Tech_SF  1
+            200.31 1.155 PO4_Tech_SF  1
+            299.95 1.720 PO4_Tech_SF  1
+            400.33 1.730 PO4_Tech_SF  1
+            515.70 1.795 PO4_Tech_SF  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event IML20160501341, station 1341:
+
+ sample_key  depth   value      method qc
+              2.28 0.31333 PO4_Tech_SF  1
+              5.45 0.32000 PO4_Tech_SF  1
+             15.27 0.29000 PO4_Tech_SF  1
+             24.99 0.28500 PO4_Tech_SF  1
+             51.06 0.29500 PO4_Tech_SF  2
+            101.02 0.60000 PO4_Tech_SF  1
+            198.53 1.32000 PO4_Tech_SF  1
+            245.48 1.40500 PO4_Tech_SF  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event IML20160501351, station 1351:
+
+ sample_key  depth value      method qc
+              1.29 0.225 PO4_Tech_SF  2
+              4.86 0.230 PO4_Tech_SF  2
+             15.07 0.265 PO4_Tech_SF  1
+             25.78 0.265 PO4_Tech_SF  1
+             50.67 0.365 PO4_Tech_SF  1
+            100.93 0.835 PO4_Tech_SF  1
+            200.22 0.900 PO4_Tech_SF  1
+            300.25 1.630 PO4_Tech_SF  1
+            400.54 1.755 PO4_Tech_SF  1
+            464.36 1.805 PO4_Tech_SF  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged PHOSPHATE, event IML20160501371, station 1371:
+
+ sample_key  depth value      method qc
+              2.28 0.230 PO4_Tech_SF  2
+              5.65 0.220 PO4_Tech_SF  2
+             15.07 0.245 PO4_Tech_SF  1
+             25.39 0.275 PO4_Tech_SF  1
+             50.37 0.755 PO4_Tech_SF  1
+            100.53 0.955 PO4_Tech_SF  1
+            201.21 1.310 PO4_Tech_SF  1
+            300.46 1.575 PO4_Tech_SF  1
+            400.34 1.800 PO4_Tech_SF  1
+            454.18 1.785 PO4_Tech_SF  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

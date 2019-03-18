@@ -1,0 +1,33 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18NA95908_002; 25.00; 152202; phos; 18.82  ; Global Impossible Parameter Value
+18NA95908_002; 44.00; 152201; phos; 24.30  ; Global Impossible Parameter Value
+18NA95908_002; 25.00; 152202; phos; 18.82  ; Regional Impossible Parameter Value
+18NA95908_002; 44.00; 152201; phos; 24.30  ; Regional Impossible Parameter Value
+18NA95908_002; 5.00 to 5.00; 152203, 152244; ntrz; 0.28  0.00  ; Gradient or Inversion too high
+18NA95908_002; 5.00 to 5.00; 152203, 152244; phos; 0.39  0.29  ; Gradient or Inversion too high
+18NA95908_225; 5.00 to 5.00; 152208, 152245; ntrz; 0.20  0.00  ; Gradient or Inversion too high
+18NA95908_225; 30.00 to 30.00; 152206, 152247; ntrz; 9.90  12.49  ; Gradient or Inversion too high
+18NA95908_225; 5.00 to 5.00; 152208, 152245; phos; 0.23  0.20  ; Gradient or Inversion too high
+18NA95908_225; 30.00 to 30.00; 152206, 152247; phos; 1.82  2.11  ; Gradient or Inversion too high
+18NA95908_284; 5.00 to 5.00; 152212, 152248; ntrz; 0.18  0.03  ; Gradient or Inversion too high
+18NA95908_284; 5.00 to 5.00; 152212, 152248; phos; 0.16  0.17  ; Gradient or Inversion too high
+18NA95908_304; 5.00; 152214; ntrz; 0.00  ; Constant profile problem
+18NA95908_304; 9.00; 152213; ntrz; 0.00  ; Constant profile problem
+18NA95908_315; 10.00 to 10.00; 152215, 152250; ntrz; 0.07  0.05  ; Gradient or Inversion too high
+18NA95908_315; 10.00 to 10.00; 152215, 152250; phos; 0.43  0.46  ; Gradient or Inversion too high
+18NA95908_326; 9.00 to 9.00; 152217, 152251; ntrz; 0.06  0.00  ; Gradient or Inversion too high
+18NA95908_326; 9.00 to 9.00; 152217, 152251; phos; 0.25  0.24  ; Gradient or Inversion too high
+18NA95908_339; 5.00 to 5.00; 152220, 152254; ntrz; 0.00  0.17  ; Gradient or Inversion too high
+18NA95908_339; 5.00 to 5.00; 152220, 152254; phos; 0.17  0.05  ; Gradient or Inversion too high
+18NA95908_014; 7.00 to 7.00; 152225, 152255; ntrz; 0.01  0.01  ; Gradient or Inversion too high
+18NA95908_014; 25.00 to 25.00; 152224, 152256; ntrz; 1.93  2.03  ; Gradient or Inversion too high
+18NA95908_014; 7.00 to 7.00; 152225, 152255; phos; 0.11  0.08  ; Gradient or Inversion too high
+18NA95908_014; 25.00 to 25.00; 152224, 152256; phos; 0.43  0.42  ; Gradient or Inversion too high
+18NA95908_025; 7.00 to 7.00; 152226, 152258; ntrz; 0.41  0.06  ; Gradient or Inversion too high
+18NA95908_025; 7.00 to 7.00; 152226, 152258; phos; 0.28  0.27  ; Gradient or Inversion too high
+18NA95908_036; 5.00 to 5.00; 152228, 152260; ntrz; 0.00  0.02  ; Gradient or Inversion too high
+18NA95908_036; 5.00 to 5.00; 152228, 152260; phos; 0.18  0.15  ; Gradient or Inversion too high
+18NA95908_047; 3.00; 152230; ntrz; 0.00  ; Constant profile problem
+18NA95908_047; 3.00; 152259; ntrz; 0.00  ; Constant profile problem
+18NA95908_047; 3.00 to 3.00; 152230, 152259; phos; 0.16  0.15  ; Gradient or Inversion too high
+18NA95908_080; 5.00 to 5.00; 152237, 152263; phos; 0.13  0.10  ; Gradient or Inversion too high

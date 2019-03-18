@@ -1,0 +1,153 @@
+Test 1.6 -> No known depth for 18HU15030_002
+Test 1.6 -> No known depth for 18HU15030_315
+Test 1.6 -> No known depth for 18HU15030_036
+Test 1.6 -> No known depth for 18HU15030_058
+Test 1.6 -> No known depth for 18HU15030_080
+Test 1.6 -> No known depth for 18HU15030_102
+Test 1.6 -> No known depth for 18HU15030_310
+Test 1.6 -> No known depth for 18HU15030_316
+Test 1.6 -> No known depth for 18HU15030_319
+Test 1.6 -> No known depth for 18HU15030_322
+Test 1.6 -> No known depth for 18HU15030_325
+Test 1.6 -> No known depth for 18HU15030_330
+Test 1.6 -> No known depth for 18HU15030_335
+Test 1.6 -> No known depth for 18HU15030_338
+Test 1.6 -> No known depth for 18HU15030_354
+Test 1.6 -> No known depth for 18HU15030_371
+Test 1.6 -> No known depth for 18HU15030_408
+Test 1.6 -> No known depth for 18HU15030_004
+Test 1.6 -> No known depth for 18HU15030_006
+Test 1.6 -> No known depth for 18HU15030_008
+Test 1.6 -> No known depth for 18HU15030_010
+Test 1.6 -> No known depth for 18HU15030_012
+Test 1.6 -> No known depth for 18HU15030_015
+Test 1.6 -> No known depth for 18HU15030_018
+Test 1.6 -> No known depth for 18HU15030_020
+Test 1.6 -> No known depth for 18HU15030_022
+Test 1.6 -> No known depth for 18HU15030_024
+Test 1.6 -> No known depth for 18HU15030_027
+Test 1.6 -> No known depth for 18HU15030_029
+Test 1.6 -> No known depth for 18HU15030_031
+Test 1.6 -> No known depth for 18HU15030_033
+Test 1.6 -> No known depth for 18HU15030_035
+Test 1.6 -> No known depth for 18HU15030_038
+Test 1.6 -> No known depth for 18HU15030_040
+Test 1.6 -> No known depth for 18HU15030_042
+Test 1.6 -> No known depth for 18HU15030_045
+Test 1.6 -> No known depth for 18HU15030_050
+Test 1.6 -> No known depth for 18HU15030_053
+Test 1.6 -> No known depth for 18HU15030_056
+Test 1.6 -> No known depth for 18HU15030_059
+Test 1.6 -> No known depth for 18HU15030_062
+Test 1.6 -> No known depth for 18HU15030_064
+Test 1.6 -> No known depth for 18HU15030_067
+Test 1.6 -> No known depth for 18HU15030_071
+Test 1.6 -> No known depth for 18HU15030_073
+Test 1.6 -> No known depth for 18HU15030_076
+Test 1.6 -> No known depth for 18HU15030_081
+Test 1.6 -> No known depth for 18HU15030_084
+Test 1.6 -> No known depth for 18HU15030_086
+Test 1.6 -> No known depth for 18HU15030_088
+Test 1.6 -> No known depth for 18HU15030_092
+Test 1.6 -> No known depth for 18HU15030_094
+Test 1.6 -> No known depth for 18HU15030_096
+Test 1.6 -> No known depth for 18HU15030_098
+Test 1.6 -> No known depth for 18HU15030_100
+Test 1.6 -> No known depth for 18HU15030_103
+Test 1.6 -> No known depth for 18HU15030_105
+Test 1.6 -> No known depth for 18HU15030_107
+Test 1.6 -> No known depth for 18HU15030_109
+Test 1.6 -> No known depth for 18HU15030_111
+Test 1.6 -> No known depth for 18HU15030_115
+Test 1.6 -> No known depth for 18HU15030_119
+Test 1.6 -> No known depth for 18HU15030_121
+Test 1.6 -> No known depth for 18HU15030_123
+Test 1.6 -> No known depth for 18HU15030_125
+Test 1.6 -> No known depth for 18HU15030_128
+Test 1.6 -> No known depth for 18HU15030_130
+Test 1.6 -> No known depth for 18HU15030_133
+Test 1.6 -> No known depth for 18HU15030_136
+Test 1.6 -> No known depth for 18HU15030_139
+Test 1.6 -> No known depth for 18HU15030_140
+Test 1.6 -> No known depth for 18HU15030_141
+Test 1.6 -> No known depth for 18HU15030_142
+Test 1.6 -> No known depth for 18HU15030_143
+Test 1.6 -> No known depth for 18HU15030_145
+Test 1.6 -> No known depth for 18HU15030_147
+Test 1.6 -> No known depth for 18HU15030_150
+Test 1.6 -> No known depth for 18HU15030_152
+Test 1.6 -> No known depth for 18HU15030_154
+Test 1.6 -> No known depth for 18HU15030_156
+Test 1.6 -> No known depth for 18HU15030_161
+Test 1.6 -> No known depth for 18HU15030_163
+Test 1.6 -> No known depth for 18HU15030_166
+Test 1.6 -> No known depth for 18HU15030_168
+Test 1.6 -> No known depth for 18HU15030_170
+Test 1.6 -> No known depth for 18HU15030_174
+Test 1.6 -> No known depth for 18HU15030_177
+Test 1.6 -> No known depth for 18HU15030_180
+Test 1.6 -> No known depth for 18HU15030_183
+Test 1.6 -> No known depth for 18HU15030_185
+Test 1.6 -> No known depth for 18HU15030_187
+Test 1.6 -> No known depth for 18HU15030_189
+Test 1.6 -> No known depth for 18HU15030_191
+Test 1.6 -> No known depth for 18HU15030_194
+Test 1.6 -> No known depth for 18HU15030_196
+Test 1.6 -> No known depth for 18HU15030_198
+Test 1.6 -> No known depth for 18HU15030_200
+Test 1.6 -> No known depth for 18HU15030_202
+Test 1.6 -> No known depth for 18HU15030_208
+Test 1.6 -> No known depth for 18HU15030_212
+18HU15030_002: Test 3.6 -> Profile 18HU15030_002 outside TS Monthly Climatology polygons
+18HU15030_102: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 0.0 m
+18HU15030_102: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 250.0 m
+18HU15030_204: Test 3.5 -> Profile 18HU15030_204 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU15030_226: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 20.7 m
+18HU15030_226: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 29.0 m
+18HU15030_243: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 150.0 m
+18HU15030_281: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 100.5 m
+18HU15030_283: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 251.2 m
+18HU15030_283: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 336.7 m
+18HU15030_283: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 251.2 m
+18HU15030_283: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 336.7 m
+18HU15030_338: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 250.0 m
+18HU15030_371: Test 3.5 -> Profile 18HU15030_371 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU15030_408: Test 3.6 -> Profile 18HU15030_408 outside TS Monthly Climatology polygons
+18HU15030_004: Test 3.6 -> Profile 18HU15030_004 outside TS Monthly Climatology polygons
+18HU15030_006: Test 3.6 -> Profile 18HU15030_006 outside TS Monthly Climatology polygons
+18HU15030_008: Test 3.6 -> Profile 18HU15030_008 outside TS Monthly Climatology polygons
+18HU15030_010: Test 3.6 -> Profile 18HU15030_010 outside TS Monthly Climatology polygons
+18HU15030_010: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 30.3 m
+18HU15030_010: Test 3.6 -> ntrz in box(es) 9 is out of Nutrient Climatology at 39.7 m
+18HU15030_012: Test 3.6 -> Profile 18HU15030_012 outside TS Monthly Climatology polygons
+18HU15030_012: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 9.8 m
+18HU15030_012: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 19.9 m
+18HU15030_015: Test 3.5 -> Profile 18HU15030_015 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU15030_015: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 250.0 m
+18HU15030_015: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 30.8 m
+18HU15030_015: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 40.2 m
+18HU15030_018: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 250.0 m
+18HU15030_018: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 30.4 m
+18HU15030_018: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 39.8 m
+18HU15030_020: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 30.7 m
+18HU15030_020: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 39.7 m
+18HU15030_033: Test 2.2 -> Regional Impossible Parameter Value for pres
+18HU15030_033: Test 3.6 -> Profile 18HU15030_033 outside TS Monthly Climatology polygons
+18HU15030_033: Test 3.6 -> Profile 18HU15030_033 outside Monthly Nutrient Climatology polygons
+18HU15030_035: Test 3.6 -> Profile 18HU15030_035 outside TS Monthly Climatology polygons
+18HU15030_035: Test 3.6 -> Profile 18HU15030_035 outside Monthly Nutrient Climatology polygons
+18HU15030_038: Test 3.5 -> Profile 18HU15030_038 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+18HU15030_038: Test 3.6 -> Profile 18HU15030_038 slightly outside Monthly Nutrient Climatology polygons; Test performed with the closest boxes
+18HU15030_038: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 3999.6 m
+18HU15030_038: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 4707.5 m
+18HU15030_040: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 4513.3 m
+18HU15030_042: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 4115.6 m
+18HU15030_119: Test 3.5 -> psal in box(es) 46 is out of TS Climatology by more than 3*std at 200.0 m
+18HU15030_139: Test 3.6 -> slca in box(es) 1 is out of Nutrient Climatology at 29.7 m
+18HU15030_147: Test 3.5 -> psal in box(es) 29 is out of TS Climatology by more than 3*std at 200.0 m
+18HU15030_168: Test 3.5 -> psal in box(es) 20 is out of TS Climatology by more than 3*std at 0.0 m
+18HU15030_170: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 10.3 m
+18HU15030_170: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 20.5 m
+18HU15030_180: Test 3.5 -> psal in box(es) 32 is out of TS Climatology by more than 3*std at 250.0 m
+18HU15030_196: Test 3.5 -> psal in box(es) 15 is out of TS Climatology by more than 3*std at 200.0 m
+18HU15030_202: Test 3.6 -> Profile 18HU15030_202 outside TS Monthly Climatology polygons

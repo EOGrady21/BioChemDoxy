@@ -1,6 +1,8 @@
 ---
-title: "Dissolved Oxygen Recovery Project "
-output: html_notebook
+title: 'Dissolved Oxygen Recovery Project '
+output:
+  pdf_document: default
+  html_notebook: default
 ---
 AZMP cruise data was searched manually to find cruises where there were both Winkler and probe measurements. Within Gordana's files there were three cruises which qualified, HUD2011004, HUD2011043 and HUD2012042
 
@@ -787,6 +789,131 @@ Regression was performed over groundfish surveys and AZMP cruies to find a commo
 
 ```{r}
 
+#typical O2 concentrations
+
+o <- seq(from = 4, to =8, by = 0.25)
+
+#write om as equation for linear regression
+x <- o
+
+y <- 0.253*x - 1.254
+
+x <- as.numeric(data$X__3)
+
+oo <- na.omit(y)
+
+#apply adjustment to data
+oc <- list()
+for (i in 1:length(data$X__3)){
+  oc[i] <- as.numeric(data$X__3[i]) + y[i]
+}
+
+occ <- na.omit(unlist(oc))
+
+#plot original vs corrected
+
+#regress original and corrected
+
+#apply regression of original data as correction coefficient
+ggg <- as.numeric(data$X__3) * 1.1170 - 0.3888
+
+
+
+#combine other data sources in correct order
+ordered11004 <- list()
+for (i in 1:175){
+  if(!is.null(match[[i]])){
+    ordered11004[i] <-  H11004_elec_data[[match[[i]]]]
+  }else{
+    ordered11004[i] <- NA
+  }
+}
+ordered11043 <- list()
+for (i in 1:309){
+  if(!is.null(match2[[i]])){
+    ordered11043[i] <-  H11043_elec_data[[match2[[i]]]]
+  }else{
+    ordered11043[i] <- NA
+  }
+}
+
+
+ordered12042 <- list()
+for (i in 1:486){
+  if(!is.null(match3[[i]])){
+    ordered12042[i] <-  H12042_elec_data[[match3[[i]]]]
+  }else{
+    ordered12042[i] <- NA
+  }
+}
+
+#combine into single vector for each measurement method from AZMP cruises
+ww <- as.vector(cbind(
+H11004_wink_data,
+H11043_wink_data,
+H12042_wink_data
+))
+
+ee <- as.vector(cbind(
+unlist(ordered11004),
+unlist(ordered11043),
+unlist(ordered12042)
+))
+
+#plot AZMP cruises
+
+
+
+#use method 1 of correction
+xx <- ee
+y <- 0.253*xx - 1.254
+
+ec <- list()
+for (i in 1:length(ee)){
+ec[i] <- ee[i] + y[i]
+}
+
+#plot for reference
+
+#issue with previous data, not plotting properly
+
+#try again, ensure samples are matching
+
+#use data that has been fully QC, remove outliers and flagged values
+
+H1 <- read.csv('H11004.csv', header = TRUE)
+H2 <- read.csv('H11043.csv', header = TRUE)
+H3 <- read.csv('H12042.csv', header = TRUE)
+
+
+#combine into single vectors
+wink <- as.vector(c(H1$DIS_DETAIL_DATA_VALUE, H2$DIS_DETAIL_DATA_VALUE, H3$DIS_DETAIL_DATA_VALUE))
+elec <- as.vector(c(H1$DIS_DETAIL_DATA_VALUE.1, H2$DIS_DETAIL_DATA_VALUE.1, H3$DIS_DETAIL_DATA_VALUE.1))
+
+#apply method 1 adjustment
+xxx <- elec
+y <- 0.253*xxx - 1.254
+
+eec <- list()
+for (i in 1:length(elec)){
+  eec[i] <- elec[i] + y[i]
+}
+
+
+
+
+#correct using regression on original data
+eee <- list()
+
+for (i in 1:length(elec)){
+  eee[i] <- elec[i] *1.1444 -0.6477
+}
+
+
+#combine all data from AZMP and groundfish
+wt <- as.vector(c(data$X__5[-1], wink))
+et <- as.vector(c(data$X__3[-1], elec))
+
 #plot original data
 plot(wt, et, xlim = c(0, 10), ylim = c(0,10), col = 'red', xlab = 'Winkler (ml/L)', ylab = 'Electrode (ml/L)')
 #regression of original data
@@ -858,4 +985,17 @@ abline(h = 0, lty = 2)
 This plot shows no significant trends in dissolved oxygen concentration over temperature differences.The points are mostly scattered around zero with some outliers at lower temperature differences, as well as some low values between 3 and 5 deg C temperature differences. 
 
 
+
+
+Plotting differences in oxygen over lab temperature was inconclusive. 
+Samples are from HUD2011004
+
+
+```{r}
+x <- readxl::read_xlsx('C:/Users/ChisholmE/Desktop/BIOCHEM/hud2011004_tdiff_exercise.xlsx' )
+
+w_e_diff <- x$`W - E difference`
+
+plot(x$X__11, w_e_diff, xlab = 'Temperature (degC)', ylab = 'Oxygen Difference (Winkler - electrode) ml/l')
+```
 

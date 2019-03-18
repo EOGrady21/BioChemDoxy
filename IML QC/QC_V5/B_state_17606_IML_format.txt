@@ -1,0 +1,223 @@
+Test 1.6 -> No known depth for 32EV17606_264
+Test 1.6 -> No known depth for 32EV17606_315
+Test 1.6 -> No known depth for 32EV17606_339
+Test 1.6 -> No known depth for 32EV17606_025
+Test 1.6 -> No known depth for 32EV17606_058
+Test 1.6 -> No known depth for 32EV17606_091
+Test 1.6 -> No known depth for 32EV17606_114
+Test 1.6 -> No known depth for 32EV17606_160
+Test 1.6 -> No known depth for 32EV17606_182
+Test 1.6 -> No known depth for 32EV17606_204
+Test 1.6 -> No known depth for 32EV17606_226
+Test 1.6 -> No known depth for 32EV17606_277
+Test 1.6 -> No known depth for 32EV17606_282
+Test 1.6 -> No known depth for 32EV17606_285
+Test 1.6 -> No known depth for 32EV17606_296
+Test 1.6 -> No known depth for 32EV17606_300
+Test 1.6 -> No known depth for 32EV17606_306
+Test 1.6 -> No known depth for 32EV17606_309
+Test 1.6 -> No known depth for 32EV17606_311
+Test 1.6 -> No known depth for 32EV17606_313
+Test 1.6 -> No known depth for 32EV17606_317
+Test 1.6 -> No known depth for 32EV17606_010
+Test 1.6 -> No known depth for 32EV17606_012
+Test 1.6 -> No known depth for 32EV17606_015
+Test 1.6 -> No known depth for 32EV17606_017
+Test 1.6 -> No known depth for 32EV17606_019
+Test 1.6 -> No known depth for 32EV17606_021
+Test 1.6 -> No known depth for 32EV17606_023
+Test 1.6 -> No known depth for 32EV17606_026
+Test 1.6 -> No known depth for 32EV17606_028
+Test 1.6 -> No known depth for 32EV17606_030
+Test 1.6 -> No known depth for 32EV17606_032
+Test 1.6 -> No known depth for 32EV17606_034
+Test 1.6 -> No known depth for 32EV17606_038
+Test 1.6 -> No known depth for 32EV17606_041
+Test 1.6 -> No known depth for 32EV17606_043
+Test 1.6 -> No known depth for 32EV17606_045
+Test 1.6 -> No known depth for 32EV17606_048
+Test 1.6 -> No known depth for 32EV17606_050
+Test 1.6 -> No known depth for 32EV17606_052
+Test 1.6 -> No known depth for 32EV17606_054
+Test 1.6 -> No known depth for 32EV17606_055
+Test 1.6 -> No known depth for 32EV17606_056
+Test 1.6 -> No known depth for 32EV17606_057
+Test 1.6 -> No known depth for 32EV17606_059
+Test 1.6 -> No known depth for 32EV17606_061
+Test 1.6 -> No known depth for 32EV17606_063
+Test 1.6 -> No known depth for 32EV17606_064
+Test 1.6 -> No known depth for 32EV17606_066
+Test 1.6 -> No known depth for 32EV17606_068
+Test 1.6 -> No known depth for 32EV17606_071
+Test 1.6 -> No known depth for 32EV17606_073
+Test 1.6 -> No known depth for 32EV17606_075
+Test 1.6 -> No known depth for 32EV17606_076
+Test 1.6 -> No known depth for 32EV17606_078
+Test 1.6 -> No known depth for 32EV17606_081
+Test 1.6 -> No known depth for 32EV17606_083
+Test 1.6 -> No known depth for 32EV17606_085
+32EV17606_315: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 2.7 m
+32EV17606_315: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 10.0 m
+32EV17606_339: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 3.4 m
+32EV17606_339: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 10.1 m
+32EV17606_339: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 20.5 m
+32EV17606_339: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 30.5 m
+32EV17606_339: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 40.3 m
+32EV17606_025: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 2.7 m
+32EV17606_025: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 10.4 m
+32EV17606_025: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 20.0 m
+32EV17606_025: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 29.3 m
+32EV17606_025: Test 3.6 -> ntrz in box(es) 5 is out of Nutrient Climatology at 40.3 m
+32EV17606_058: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 3.0 m
+32EV17606_058: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 9.0 m
+32EV17606_091: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 9.4 m
+32EV17606_091: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 30.6 m
+32EV17606_091: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 39.4 m
+32EV17606_114: Test 3.5 -> psal in box(es) 33 is out of TS Climatology by more than 3*std at 500.0 m
+32EV17606_160: Test 3.5 -> psal in box(es) 33 is out of TS Climatology by more than 3*std at 250.0 m
+32EV17606_160: Test 3.5 -> psal in box(es) 33 is out of TS Climatology by more than 3*std at 500.0 m
+32EV17606_182: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 500.0 m
+32EV17606_182: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 499.8 m
+32EV17606_182: Test 3.6 -> phos in box(es) 7 is out of Nutrient Climatology at 499.8 m
+32EV17606_182: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 499.8 m
+32EV17606_204: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 250.0 m
+32EV17606_204: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 500.0 m
+32EV17606_204: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 155.1 m
+32EV17606_226: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_226: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 250.0 m
+32EV17606_226: Test 3.5 -> psal in box(es) 34 is out of TS Climatology by more than 3*std at 500.0 m
+32EV17606_226: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 10.3 m
+32EV17606_226: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 20.4 m
+32EV17606_226: Test 3.6 -> phos in box(es) 7 is out of Nutrient Climatology at 151.0 m
+32EV17606_226: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 151.0 m
+32EV17606_277: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 19.5 m
+32EV17606_282: Test 3.5 -> psal in box(es) 8 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_282: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 39.8 m
+32EV17606_282: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 39.8 m
+32EV17606_296: Test 3.6 -> ntrz in box(es) 7 is out of Nutrient Climatology at 1158.3 m
+32EV17606_296: Test 3.6 -> slca in box(es) 7 is out of Nutrient Climatology at 1158.3 m
+32EV17606_300: Test 3.5 -> psal in box(es) 35 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_309: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_309: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 30.6 m
+32EV17606_309: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 40.4 m
+32EV17606_309: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 50.0 m
+32EV17606_309: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 250.7 m
+32EV17606_309: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 30.6 m
+32EV17606_309: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 40.4 m
+32EV17606_309: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 50.0 m
+32EV17606_311: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_311: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 30.6 m
+32EV17606_311: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 40.6 m
+32EV17606_311: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 30.6 m
+32EV17606_311: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 40.6 m
+32EV17606_313: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 40.8 m
+32EV17606_313: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 40.8 m
+32EV17606_317: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 30.3 m
+32EV17606_317: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 41.0 m
+32EV17606_319: Test 3.5 -> psal in box(es) 5 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_321: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_321: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 150.0 m
+32EV17606_323: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_323: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 75.0 m
+32EV17606_325: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_328: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_330: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_335: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_335: Test 3.5 -> psal in box(es) 6 is out of TS Climatology by more than 3*std at 150.0 m
+32EV17606_337: Test 3.5 -> psal in box(es) 2 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_407: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 333.4 m
+32EV17606_407: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 333.4 m
+32EV17606_409: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 10.3 m
+32EV17606_409: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 29.4 m
+32EV17606_005: Test 3.5 -> psal in box(es) 68 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_005: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 20.3 m
+32EV17606_008: Test 3.5 -> Profile 32EV17606_008 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+32EV17606_008: Test 3.5 -> psal in box(es) 2 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_008: Test 3.5 -> psal in box(es) 2 is out of TS Climatology by more than 3*std at 300.0 m
+32EV17606_008: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 39.8 m
+32EV17606_008: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 20.3 m
+32EV17606_008: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 29.7 m
+32EV17606_008: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 39.8 m
+32EV17606_008: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 39.8 m
+32EV17606_008: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 49.9 m
+32EV17606_010: Test 3.6 -> Profile 32EV17606_010 outside TS Monthly Climatology polygons
+32EV17606_010: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 4.3 m
+32EV17606_010: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 10.7 m
+32EV17606_010: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 20.1 m
+32EV17606_010: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 30.1 m
+32EV17606_010: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 40.0 m
+32EV17606_010: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 10.7 m
+32EV17606_010: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 20.1 m
+32EV17606_010: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 30.1 m
+32EV17606_010: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 40.0 m
+32EV17606_012: Test 3.6 -> Profile 32EV17606_012 outside TS Monthly Climatology polygons
+32EV17606_012: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 3.5 m
+32EV17606_012: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 20.4 m
+32EV17606_012: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 30.0 m
+32EV17606_012: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 40.0 m
+32EV17606_012: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 20.4 m
+32EV17606_012: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 30.0 m
+32EV17606_012: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 40.0 m
+32EV17606_012: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 40.0 m
+32EV17606_015: Test 3.5 -> Profile 32EV17606_015 slightly outside TS Monthly Climatology polygons; Test performed with the closest boxes
+32EV17606_015: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_015: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 250.0 m
+32EV17606_015: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 4.1 m
+32EV17606_015: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 10.5 m
+32EV17606_015: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 18.8 m
+32EV17606_015: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 31.6 m
+32EV17606_015: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 41.5 m
+32EV17606_015: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 50.2 m
+32EV17606_015: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 10.5 m
+32EV17606_015: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 18.8 m
+32EV17606_015: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 31.6 m
+32EV17606_015: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 41.5 m
+32EV17606_015: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 50.2 m
+32EV17606_015: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 31.6 m
+32EV17606_015: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 41.5 m
+32EV17606_015: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 50.2 m
+32EV17606_017: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_017: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 250.0 m
+32EV17606_017: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 39.8 m
+32EV17606_017: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 50.3 m
+32EV17606_017: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 10.8 m
+32EV17606_017: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 21.3 m
+32EV17606_017: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 29.8 m
+32EV17606_017: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 39.8 m
+32EV17606_017: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 50.3 m
+32EV17606_017: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 39.8 m
+32EV17606_017: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 50.3 m
+32EV17606_019: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_019: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 30.6 m
+32EV17606_021: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_021: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 41.3 m
+32EV17606_021: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 21.0 m
+32EV17606_021: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 29.6 m
+32EV17606_021: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 41.3 m
+32EV17606_021: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 41.3 m
+32EV17606_023: Test 3.5 -> psal in box(es) 3 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_023: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 39.9 m
+32EV17606_023: Test 3.6 -> ntrz in box(es) 8 is out of Nutrient Climatology at 49.5 m
+32EV17606_023: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 39.9 m
+32EV17606_023: Test 3.6 -> phos in box(es) 8 is out of Nutrient Climatology at 49.5 m
+32EV17606_023: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 39.9 m
+32EV17606_023: Test 3.6 -> slca in box(es) 8 is out of Nutrient Climatology at 49.5 m
+32EV17606_026: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_026: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 31.5 m
+32EV17606_026: Test 3.6 -> ntrz in box(es) 6 is out of Nutrient Climatology at 40.7 m
+32EV17606_026: Test 3.6 -> slca in box(es) 6 is out of Nutrient Climatology at 40.7 m
+32EV17606_028: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_030: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_030: Test 3.5 -> psal in box(es) 4 is out of TS Climatology by more than 3*std at 20.0 m
+32EV17606_032: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 4.5 m
+32EV17606_032: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 10.1 m
+32EV17606_032: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 19.7 m
+32EV17606_034: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 3.9 m
+32EV17606_034: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 20.1 m
+32EV17606_041: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 4.6 m
+32EV17606_043: Test 3.6 -> slca in box(es) 4 is out of Nutrient Climatology at 4.3 m
+32EV17606_055: Test 3.5 -> psal in box(es) 28 is out of TS Climatology by more than 3*std at 0.0 m
+32EV17606_063: Test 3.6 -> ntrz in box(es) 1 is out of Nutrient Climatology at 40.3 m
+32EV17606_071: Test 3.5 -> psal in box(es) 46 is out of TS Climatology by more than 3*std at 150.0 m
+32EV17606_078: Test 3.5 -> psal in box(es) 45 is out of TS Climatology by more than 3*std at 10.0 m
+32EV17606_083: Test 3.6 -> slca in box(es) 3 is out of Nutrient Climatology at 101.1 m

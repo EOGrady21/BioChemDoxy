@@ -1,0 +1,84 @@
+
+> cat("\n")
+
+
+> cat(paste(mission,"FLAG Report:, ", n))
+18HU16003 FLAG Report:,  2019-03-15 11:19:36
+> cat("\n")
+
+
+> cat(c("-----------------------","\n","\n"))
+----------------------- 
+ 
+
+> # ========================= #
+> # PLOT DATA FOR EACH EVENT
+> # ========================= #
+> 
+> 
+> for (i in 1:length(fe)) {
++   
++   event=sprintf( .... [TRUNCATED] 
+-> Flagged NITRATE, event 109, station LL_07:
+
+ sample_key  depth    value        method qc
+              3.58  1.25500 NO2NO3_Tech_F  1
+             10.04  1.21000 NO2NO3_Tech_F  1
+             20.47  1.20500 NO2NO3_Tech_F  1
+             30.17  0.92000 NO2NO3_Tech_F  1
+             41.01  0.41000 NO2NO3_Tech_F  1
+             50.67  1.08667 NO2NO3_Tech_F  1
+             59.65  4.01333 NO2NO3_Tech_F  1
+             79.08 10.06667 NO2NO3_Tech_F  1
+             98.05 12.77000 NO2NO3_Tech_F  1
+            250.27 24.48333 NO2NO3_Tech_F  2
+            499.33 21.61000 NO2NO3_Tech_F  1
+            865.39 18.02000 NO2NO3_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged NITRATE, event 86, station STAB_04:
+
+ sample_key  depth  value        method qc
+              3.46  1.645 NO2NO3_Tech_F  1
+             29.60  1.575 NO2NO3_Tech_F  1
+             40.00  1.545 NO2NO3_Tech_F  1
+             49.72  1.500 NO2NO3_Tech_F  1
+             61.60  1.675 NO2NO3_Tech_F  1
+             79.96  1.575 NO2NO3_Tech_F  1
+            100.96  1.990 NO2NO3_Tech_F  2
+            151.19 11.175 NO2NO3_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+-> Flagged SILICATE, event 86, station STAB_04:
+
+ sample_key  depth  value      method qc
+              3.46  0.595 SiO4_Tech_F  1
+             29.60  0.680 SiO4_Tech_F  1
+             40.00  0.655 SiO4_Tech_F  1
+             49.72  0.600 SiO4_Tech_F  1
+             61.60  0.625 SiO4_Tech_F  1
+             79.96  0.890 SiO4_Tech_F  1
+            100.96  2.005 SiO4_Tech_F  2
+            151.19 13.585 SiO4_Tech_F  1
+
+
+-> QC repot:
+[1] Filename    Pressure    Uniqueno    Variable    Values      Test.failed
+<0 rows> (or 0-length row.names)
+
+
+
+
+> sink()

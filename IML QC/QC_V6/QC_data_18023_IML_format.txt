@@ -1,0 +1,6 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+18TL18023_002; 1.77; 441760; psal; 30.63; Bottle-CTD Difference Problem
+18TL18023_002; 1.77; 441760; doxy; 6.65; Bottle-CTD Difference Problem
+18TL18023_204; 4.88; 441852; doxy; 7.35; Bottle-CTD Difference Problem
+18TL18023_407; 190 to 210 m; NaN; psal; 35.36  ; Out of TS Climatology by more than 3*std in box(es) 16 (35.09 ± 0.06)
+18TL18023_407; 24.06; 442092; phos; 0.09  ; Out of Nutrient Climatology in box(es) 5 (Min=0.12 Max=1.08 n=382)
