@@ -1,0 +1,16 @@
+Duplicated lat lon values, check cruise 90UG76003 against 90UG79002 
+Duplicated lat lon values, check cruise 90UG76003 against 9010082 
+Duplicated lat lon values, check cruise 90UG76003 against 909974802 
+Duplicated lat lon values, check cruise 90UG76003 against 9010120 
+Duplicated lat lon values, check cruise 90UG76003 against 90UG76001 
+Duplicated lat lon values, check cruise 90UG76003 against 90KE76001 
+Duplicated lat lon values, check cruise 90UG76003 against 9010078 
+Duplicated lat lon values, check cruise 90UG76003 against 90VC77001 
+Duplicated lat lon values, check cruise 90UG76003 against 90VC89001 
+Duplicated lat lon values, check cruise 90UG76003 against 9010129 
+Duplicated lat lon values, check cruise 90UG76003 against 90MU80001 
+Duplicated lat lon values, check cruise 90UG76003 against 90UG80001 
+Duplicated lat lon values, check cruise 90UG76003 against 909979850 
+Duplicated lat lon values, check cruise 90UG76003 against 90VC80002 
+Duplicated lat lon values, check cruise 90UG76003 against 9010075 
+Duplicated lat lon values, check cruise 90UG76003 against 9010079 

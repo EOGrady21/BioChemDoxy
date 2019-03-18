@@ -1,0 +1,980 @@
+ ODF_HEADER,
+   FILE_SPECIFICATION ='C:\USERS\CHISHOLME\DOCUMENTS\BIOCHEM\DATA\PRE2013\HUD2006019\CTDDATA\D019A005.ODF'
+ CRUISE_HEADER,
+   COUNTRY_INSTITUTE_CODE=1810,
+   CRUISE_NUMBER='HUD2006019',
+   ORGANIZATION='BIO',
+   CHIEF_SCIENTIST=' ',
+   START_DATE='17-NOV-1858 00:00:00.00',
+   END_DATE='17-NOV-1858 00:00:00.00',
+   PLATFORM='Hudson',
+   CRUISE_NAME='Labrador Sea',
+   CRUISE_DESCRIPTION='                     '
+ EVENT_HEADER,
+   DATA_TYPE='CTD',
+   EVENT_NUMBER='5',
+   EVENT_QUALIFIER1='1',
+   EVENT_QUALIFIER2='DN',
+   CREATION_DATE='31-OCT-2018 13:01:34.00',
+   ORIG_CREATION_DATE='31-OCT-2018 13:01:34.00',
+   START_DATE_TIME='25-MAY-2006 17:32:49.00',
+   END_DATE_TIME='17-NOV-1858 00:00:00.00',
+   INITIAL_LATITUDE= 50.8570,
+   INITIAL_LONGITUDE= -52.7865,
+   END_LATITUDE=-99.9000,
+   END_LONGITUDE=-999.9000,
+   MIN_DEPTH=   4.0,
+   MAX_DEPTH= 204.0,
+   SAMPLING_INTERVAL=    0.00000000,
+   SOUNDING= 371.0,
+   DEPTH_OFF_BOTTOM= 167.0,
+   EVENT_COMMENTS='              '
+ INSTRUMENT_HEADER,
+   INST_TYPE='Sea-Bird',
+   MODEL='SBE 9 ',
+   SERIAL_NUMBER=' ',
+   DESCRIPTION='C:\Users\ChisholmE\Documents\BIOCHEM\DATA\pre2013\HUD2006019\CTDDATA\019a005.dat C:\Users\ChisholmE\Documents\BIOCHEM\DATA\pre2013\HUD2006019\019A005_updated.xmlcon'
+ HISTORY_HEADER,
+   CREATION_DATE='31-OCT-2018 13:01:34.00',
+   PROCESS='* Sea-Bird SBE 9 Data File:',
+   PROCESS='* FileName = C:\2006019HUD\ctddata\019A005.HDR',
+   PROCESS='* Software Version Seasave Win32 V 5.37d',
+   PROCESS='* Temperature SN = 03P2129',
+   PROCESS='* Conductivity SN = 041730',
+   PROCESS='* Number of Bytes Per Scan = 30',
+   PROCESS='* Number of Voltage Words = 4',
+   PROCESS='* Number of Scans Averaged by the Deck Unit = 1',
+   PROCESS='* System UpLoad Time = May 25 2006 17:31:29',
+   PROCESS='* NMEA Latitude = 50 51.420 N',
+   PROCESS='* NMEA Longitude = 052 47.190 W',
+   PROCESS='* NMEA UTC (Time) = 17:32:49',
+   PROCESS='* Store Lat/Lon Data = Add to Header Only',
+   PROCESS='** Ship:               Hudson',
+   PROCESS='** Cruise:            HUD2006019',
+   PROCESS='** Area_of_Operation: Labrador Sea',
+   PROCESS='** Organization: BIO',
+   PROCESS='** Station: 5',
+   PROCESS='** Sounding: 371 m',
+   PROCESS='** Event_Comments:',
+   PROCESS='** Bio cast 25-May',
+   PROCESS='* Surface_Pressure_Offset =  3.525, Temperature = 3.3563, Scan = 1.0',
+   PROCESS='* Near_Surface_Scan = 25.0, P = 3.464, T = 3.3554, S = 33.4093',
+   PROCESS='# nquan = 24',
+   PROCESS='# nvalues = 201',
+   PROCESS='# units = specified',
+   PROCESS='# name 0 = scan: Scan Count',
+   PROCESS='# name 1 = timeS: Time, Elapsed [seconds]',
+   PROCESS='# name 2 = prDM: Pressure, Digiquartz [db]',
+   PROCESS='# name 3 = t068C: Temperature [IPTS-68, deg C]',
+   PROCESS='# name 4 = c0S/m: Conductivity [S/m]',
+   PROCESS='# name 5 = t168C: Temperature, 2 [IPTS-68, deg C]',
+   PROCESS='# name 6 = c1S/m: Conductivity, 2 [S/m]',
+   PROCESS='# name 7 = altM: Altimeter [m]',
+   PROCESS='# name 8 = flC: Fluorescence, Chelsea Aqua 3 Chl Con [ug/l]',
+   PROCESS='# name 9 = sbeox0V: Oxygen raw, SBE 43 [V]',
+   PROCESS='# name 10 = sbeox1V: Oxygen raw, SBE 43, 2 [V]',
+   PROCESS='# name 11 = par: PAR/Irradiance, Biospherical/Licor',
+   PROCESS='# name 12 = latitude: Latitude [deg]',
+   PROCESS='# name 13 = longitude: Longitude [deg]',
+   PROCESS='# name 14 = sal00: Salinity, Practical [PSU]',
+   PROCESS='# name 15 = sal11: Salinity, Practical, 2 [PSU]',
+   PROCESS='# name 16 = potemp068C: Potential Temperature [IPTS-68, deg C]',
+   PROCESS='# name 17 = potemp168C: Potential Temperature, 2 [IPTS-68, deg C]',
+   PROCESS='# name 18 = sigma-é00: Density [sigma-theta, kg/m^3]',
+   PROCESS='# name 19 = sigma-é11: Density, 2 [sigma-theta, kg/m^3]',
+   PROCESS='# name 20 = sbeox0ML/L: Oxygen, SBE 43 [ml/l], WS = 2',
+   PROCESS='# name 21 = sbeox1ML/L: Oxygen, SBE 43, 2 [ml/l], WS = 2',
+   PROCESS='# name 22 = nbin: number of scans per bin',
+   PROCESS='# name 23 = flag: flag',
+   PROCESS='# span 0 =        615,      10567',
+   PROCESS='# span 1 =     25.580,    440.255',
+   PROCESS='# span 2 =      4.000,    204.000',
+   PROCESS='# span 3 =    -0.8493,     3.3246',
+   PROCESS='# span 4 =   2.707217,   3.088850',
+   PROCESS='# span 5 =    -0.8500,     3.3285',
+   PROCESS='# span 6 =   2.707780,   3.088869',
+   PROCESS='# span 7 =      34.39,     100.62',
+   PROCESS='# span 8 =     0.0240,     0.1953',
+   PROCESS='# span 9 =     2.9847,     3.5835',
+   PROCESS='# span 10 =     2.7266,     3.2795',
+   PROCESS='# span 11 = 1.6091e-02, 6.5506e+02',
+   PROCESS='# span 12 =   50.85700,   50.85700',
+   PROCESS='# span 13 =  -52.78650,  -52.78650',
+   PROCESS='# span 14 =    32.8959,    34.3888',
+   PROCESS='# span 15 =    32.9001,    34.3901',
+   PROCESS='# span 16 =    -0.8510,     3.3243',
+   PROCESS='# span 17 =    -0.8518,     3.3282',
+   PROCESS='# span 18 =    26.1796,    27.4352',
+   PROCESS='# span 19 =    26.1799,    27.4364',
+   PROCESS='# span 20 =     6.7179,     8.6904',
+   PROCESS='# span 21 =     6.7455,     8.6020',
+   PROCESS='# span 22 =         13,        103',
+   PROCESS='# span 23 = 0.0000e+00, 0.0000e+00',
+   PROCESS='# interval = decibars: 1',
+   PROCESS='# start_time = May 25 2006 17:31:29 [System UpLoad Time]',
+   PROCESS='# bad_flag = -9.990e-29',
+   PROCESS='# <Sensors count="13" >',
+   PROCESS='#   <sensor Channel="1" >',
+   PROCESS='#     <!-- Frequency 0, Temperature -->',
+   PROCESS='#     <TemperatureSensor SensorID="55" >',
+   PROCESS='#       <SerialNumber>03P2129</SerialNumber>',
+   PROCESS='#       <CalibrationDate>14-June-2000</CalibrationDate>',
+   PROCESS='#       <!-- t0pcor = -2.0600e-007 specified on DatCnv command line -->',
+   PROCESS='#       <UseG_J>0</UseG_J>',
+   PROCESS='#       <A>3.67991912e-003</A>',
+   PROCESS='#       <B>5.99589563e-004</B>',
+   PROCESS='#       <C>1.60348742e-005</C>',
+   PROCESS='#       <D>2.26246728e-006</D>',
+   PROCESS='#       <F0_Old>2149.335</F0_Old>',
+   PROCESS='#       <G>0.00000000e+000</G>',
+   PROCESS='#       <H>0.00000000e+000</H>',
+   PROCESS='#       <I>0.00000000e+000</I>',
+   PROCESS='#       <J>0.00000000e+000</J>',
+   PROCESS='#       <F0>0.000</F0>',
+   PROCESS='#       <Slope>1.00000000</Slope>',
+   PROCESS='#       <Offset>0.0006</Offset>',
+   PROCESS='#     </TemperatureSensor>',
+   PROCESS='#   </sensor>',
+   PROCESS='#   <sensor Channel="2" >',
+   PROCESS='#     <!-- Frequency 1, Conductivity -->',
+   PROCESS='#     <ConductivitySensor SensorID="3" >',
+   PROCESS='#       <SerialNumber>041730</SerialNumber>',
+   PROCESS='#       <CalibrationDate>07-June-1996</CalibrationDate>',
+   PROCESS='#       <UseG_J>1</UseG_J>',
+   PROCESS='#       <!-- Cell const and series R are applicable only for wide range sensors. -->',
+   PROCESS='#       <SeriesR>0.0000</SeriesR>',
+   PROCESS='#       <CellConst>2000.0000</CellConst>',
+   PROCESS='#       <ConductivityType>0</ConductivityType>',
+   PROCESS='#       <Coefficients equation="0" >',
+   PROCESS='#         <A>0.00000000e+000</A>',
+   PROCESS='#         <B>0.00000000e+000</B>',
+   PROCESS='#         <C>0.00000000e+000</C>',
+   PROCESS='#         <D>0.00000000e+000</D>',
+   PROCESS='#         <M>0.0</M>',
+   PROCESS='#         <CPcor>-9.57000000e-008</CPcor>',
+   PROCESS='#       </Coefficients>',
+   PROCESS='#       <Coefficients equation="1" >',
+   PROCESS='#         <G>-4.07503162e+000</G>',
+   PROCESS='#         <H>4.88292197e-001</H>',
+   PROCESS='#         <I>-6.25770055e-004</I>',
+   PROCESS='#         <J>5.46652818e-005</J>',
+   PROCESS='#         <CPcor>-9.57000000e-008</CPcor>',
+   PROCESS='#         <CTcor>3.2500e-006</CTcor>',
+   PROCESS='#         <!-- WBOTC not applicable unless ConductivityType = 1. -->',
+   PROCESS='#         <WBOTC>0.00000000e+000</WBOTC>',
+   PROCESS='#       </Coefficients>',
+   PROCESS='#       <Slope>1.00099300</Slope>',
+   PROCESS='#       <Offset>-0.00115</Offset>',
+   PROCESS='#     </ConductivitySensor>',
+   PROCESS='#   </sensor>',
+   PROCESS='#   <sensor Channel="3" >',
+   PROCESS='#     <!-- Frequency 2, Pressure, Digiquartz with TC -->',
+   PROCESS='#     <PressureSensor SensorID="45" >',
+   PROCESS='#       <SerialNumber>69009/MOD12P-0362</SerialNumber>',
+   PROCESS='#       <CalibrationDate>05-Dec-1996/31-Jan-1997</CalibrationDate>',
+   PROCESS='#       <C1>-5.396574e+004</C1>',
+   PROCESS='#       <C2>-1.037259e-001</C2>',
+   PROCESS='#       <C3>1.543670e-002</C3>',
+   PROCESS='#       <D1>3.880000e-002</D1>',
+   PROCESS='#       <D2>0.000000e+000</D2>',
+   PROCESS='#       <T1>2.985151e+001</T1>',
+   PROCESS='#       <T2>-3.761054e-004</T2>',
+   PROCESS='#       <T3>3.763920e-006</T3>',
+   PROCESS='#       <T4>3.187530e-009</T4>',
+   PROCESS='#       <Slope>1.00000000</Slope>',
+   PROCESS='#       <Offset>0.00000</Offset>',
+   PROCESS='#       <T5>0.000000e+000</T5>',
+   PROCESS='#       <AD590M>1.281640e-002</AD590M>',
+   PROCESS='#       <AD590B>-9.148718e+000</AD590B>',
+   PROCESS='#     </PressureSensor>',
+   PROCESS='#   </sensor>',
+   PROCESS='#   <sensor Channel="4" >',
+   PROCESS='#     <!-- Frequency 3, Temperature, 2 -->',
+   PROCESS='#     <TemperatureSensor SensorID="55" >',
+   PROCESS='#       <SerialNumber>03P2303</SerialNumber>',
+   PROCESS='#       <CalibrationDate>03-Dec-1997</CalibrationDate>',
+   PROCESS='#       <!-- t1pcor = -2.0600e-007 specified on DatCnv command line -->',
+   PROCESS='#       <UseG_J>0</UseG_J>',
+   PROCESS='#       <A>3.68017216e-003</A>',
+   PROCESS='#       <B>5.98773888e-004</B>',
+   PROCESS='#       <C>1.58179382e-005</C>',
+   PROCESS='#       <D>2.20940238e-006</D>',
+   PROCESS='#       <F0_Old>2896.732</F0_Old>',
+   PROCESS='#       <G>0.00000000e+000</G>',
+   PROCESS='#       <H>0.00000000e+000</H>',
+   PROCESS='#       <I>0.00000000e+000</I>',
+   PROCESS='#       <J>0.00000000e+000</J>',
+   PROCESS='#       <F0>0.000</F0>',
+   PROCESS='#       <Slope>1.00004100</Slope>',
+   PROCESS='#       <Offset>-0.0010</Offset>',
+   PROCESS='#     </TemperatureSensor>',
+   PROCESS='#   </sensor>',
+   PROCESS='#   <sensor Channel="5" >',
+   PROCESS='#     <!-- Frequency 4, Conductivity, 2 -->',
+   PROCESS='#     <ConductivitySensor SensorID="3" >',
+   PROCESS='#       <SerialNumber>041874</SerialNumber>',
+   PROCESS='#       <CalibrationDate>21-Feb-1997</CalibrationDate>',
+   PROCESS='#       <UseG_J>1</UseG_J>',
+   PROCESS='#       <!-- Cell const and series R are applicable only for wide range sensors. -->',
+   PROCESS='#       <SeriesR>0.0000</SeriesR>',
+   PROCESS='#       <CellConst>2000.0000</CellConst>',
+   PROCESS='#       <ConductivityType>0</ConductivityType>',
+   PROCESS='#       <Coefficients equation="0" >',
+   PROCESS='#         <A>0.00000000e+000</A>',
+   PROCESS='#         <B>0.00000000e+000</B>',
+   PROCESS='#         <C>0.00000000e+000</C>',
+   PROCESS='#         <D>0.00000000e+000</D>',
+   PROCESS='#         <M>0.0</M>',
+   PROCESS='#         <CPcor>-9.99000000e-008</CPcor>',
+   PROCESS='#       </Coefficients>',
+   PROCESS='#       <Coefficients equation="1" >',
+   PROCESS='#         <G>-4.08770679e+000</G>',
+   PROCESS='#         <H>5.15866320e-001</H>',
+   PROCESS='#         <I>-1.06080083e-003</I>',
+   PROCESS='#         <J>7.93277368e-005</J>',
+   PROCESS='#         <CPcor>-9.99000000e-008</CPcor>',
+   PROCESS='#         <CTcor>3.2500e-006</CTcor>',
+   PROCESS='#         <!-- WBOTC not applicable unless ConductivityType = 1. -->',
+   PROCESS='#         <WBOTC>0.00000000e+000</WBOTC>',
+   PROCESS='#       </Coefficients>',
+   PROCESS='#       <Slope>1.00088800</Slope>',
+   PROCESS='#       <Offset>-0.00109</Offset>',
+   PROCESS='#     </ConductivitySensor>',
+   PROCESS='#   </sensor>',
+   PROCESS='#   <sensor Channel="6" >',
+   PROCESS='#     <!-- A/D voltage 0, Altimeter -->',
+   PROCESS='#     <AltimeterSensor SensorID="0" >',
+   PROCESS='#       <SerialNumber>222</SerialNumber>',
+   PROCESS='#       <CalibrationDate>18-May-1999</CalibrationDate>',
+   PROCESS='#       <ScaleFactor>15.000</ScaleFactor>',
+   PROCESS='#       <Offset>0.000</Offset>',
+   PROCESS='#     </AltimeterSensor>',
+   PROCESS='#   </sensor>',
+   PROCESS='#   <sensor Channel="7" >',
+   PROCESS='#     <!-- A/D voltage 1, Fluorometer, Chelsea Aqua 3 -->',
+   PROCESS='#     <FluoroChelseaAqua3Sensor SensorID="5" >',
+   PROCESS='#       <SerialNumber>088172</SerialNumber>',
+   PROCESS='#       <CalibrationDate>10-Feb-1997</CalibrationDate>',
+   PROCESS='#       <VB>0.212000</VB>',
+   PROCESS='#       <V1>1.974000</V1>',
+   PROCESS='#       <Vacetone>0.334000</Vacetone>',
+   PROCESS='#       <ScaleFactor>1.000000</ScaleFactor>',
+   PROCESS='#       <Slope>1.000000</Slope>',
+   PROCESS='#       <Offset>0.000000</Offset>',
+   PROCESS='#     </FluoroChelseaAqua3Sensor>',
+   PROCESS='#   </sensor>',
+   PROCESS='#   <sensor Channel="8" >',
+   PROCESS='#     <!-- A/D voltage 2, Oxygen, SBE 43 -->',
+   PROCESS='#     <OxygenSensor SensorID="38" >',
+   PROCESS='#       <SerialNumber>430133</SerialNumber>',
+   PROCESS='#       <CalibrationDate>21-Jan-2006</CalibrationDate>',
+   PROCESS='#       <Use2007Equation>0</Use2007Equation>',
+   PROCESS='#       <CalibrationCoefficients equation="0" >',
+   PROCESS='#         <!-- Coefficients for Owens-Millard equation. -->',
+   PROCESS='#         <Boc>0.0000</Boc>',
+   PROCESS='#         <Soc>3.6918e-001</Soc>',
+   PROCESS='#         <offset>-0.6451</offset>',
+   PROCESS='#         <Pcor>1.35e-004</Pcor>',
+   PROCESS='#         <Tcor>0.0001</Tcor>',
+   PROCESS='#         <Tau>0.0</Tau>',
+   PROCESS='#       </CalibrationCoefficients>',
+   PROCESS='#       <CalibrationCoefficients equation="1" >',
+   PROCESS='#         <!-- Coefficients for Sea-Bird equation - SBE calibration in 2007 and later. -->',
+   PROCESS='#         <Soc>0.0000e+000</Soc>',
+   PROCESS='#         <offset> 0.0000</offset>',
+   PROCESS='#         <A> 0.0000e+000</A>',
+   PROCESS='#         <B> 0.0000e+000</B>',
+   PROCESS='#         <C> 0.0000e+000</C>',
+   PROCESS='#         <D0> 2.5826e+000</D0>',
+   PROCESS='#         <D1> 1.92634e-004</D1>',
+   PROCESS='#         <D2>-4.64803e-002</D2>',
+   PROCESS='#         <E> 0.0000e+000</E>',
+   PROCESS='#         <Tau20> 0.0000</Tau20>',
+   PROCESS='#         <H1>-3.3000e-002</H1>',
+   PROCESS='#         <H2> 5.0000e+003</H2>',
+   PROCESS='#         <H3> 1.4500e+003</H3>',
+   PROCESS='#       </CalibrationCoefficients>',
+   PROCESS='#     </OxygenSensor>',
+   PROCESS='#   </sensor>',
+   PROCESS='#   <sensor Channel="9" >',
+   PROCESS='#     <!-- A/D voltage 3, Oxygen, SBE 43, 2 -->',
+   PROCESS='#     <OxygenSensor SensorID="38" >',
+   PROCESS='#       <SerialNumber>430042</SerialNumber>',
+   PROCESS='#       <CalibrationDate>29-Dec-2005</CalibrationDate>',
+   PROCESS='#       <Use2007Equation>0</Use2007Equation>',
+   PROCESS='#       <CalibrationCoefficients equation="0" >',
+   PROCESS='#         <!-- Coefficients for Owens-Millard equation. -->',
+   PROCESS='#         <Boc>0.0000</Boc>',
+   PROCESS='#         <Soc>3.8849e-001</Soc>',
+   PROCESS='#         <offset>-0.4993</offset>',
+   PROCESS='#         <Pcor>1.35e-004</Pcor>',
+   PROCESS='#         <Tcor>0.0012</Tcor>',
+   PROCESS='#         <Tau>0.0</Tau>',
+   PROCESS='#       </CalibrationCoefficients>',
+   PROCESS='#       <CalibrationCoefficients equation="1" >',
+   PROCESS='#         <!-- Coefficients for Sea-Bird equation - SBE calibration in 2007 and later. -->',
+   PROCESS='#         <Soc>0.0000e+000</Soc>',
+   PROCESS='#         <offset> 0.0000</offset>',
+   PROCESS='#         <A> 0.0000e+000</A>',
+   PROCESS='#         <B> 0.0000e+000</B>',
+   PROCESS='#         <C> 0.0000e+000</C>',
+   PROCESS='#         <D0> 2.5826e+000</D0>',
+   PROCESS='#         <D1> 1.92634e-004</D1>',
+   PROCESS='#         <D2>-4.64803e-002</D2>',
+   PROCESS='#         <E> 0.0000e+000</E>',
+   PROCESS='#         <Tau20> 0.0000</Tau20>',
+   PROCESS='#         <H1>-3.3000e-002</H1>',
+   PROCESS='#         <H2> 5.0000e+003</H2>',
+   PROCESS='#         <H3> 1.4500e+003</H3>',
+   PROCESS='#       </CalibrationCoefficients>',
+   PROCESS='#     </OxygenSensor>',
+   PROCESS='#   </sensor>',
+   PROCESS='#   <sensor Channel="10" >',
+   PROCESS='#     <!-- A/D voltage 4, PAR/Irradiance, Biospherical/Licor -->',
+   PROCESS='#     <PAR_BiosphericalLicorChelseaSensor SensorID="42" >',
+   PROCESS='#       <SerialNumber>SPQA280-LI-193SA/0002-PN90310-CH1</SerialNumber>',
+   PROCESS='#       <CalibrationDate>27-Mar-2003/17-Apr-1998</CalibrationDate>',
+   PROCESS='#       <M>-0.77322200</M>',
+   PROCESS='#       <B>-3.53659100</B>',
+   PROCESS='#       <CalibrationConstant>5.98000000</CalibrationConstant>',
+   PROCESS='#       <Multiplier>1.00000000</Multiplier>',
+   PROCESS='#       <Offset>0.00000000</Offset>',
+   PROCESS='#     </PAR_BiosphericalLicorChelseaSensor>',
+   PROCESS='#   </sensor>',
+   PROCESS='#   <sensor Channel="11" >',
+   PROCESS='#     <!-- A/D voltage 5, Free -->',
+   PROCESS='#   </sensor>',
+   PROCESS='#   <sensor Channel="12" >',
+   PROCESS='#     <!-- A/D voltage 6, Free -->',
+   PROCESS='#   </sensor>',
+   PROCESS='#   <sensor Channel="13" >',
+   PROCESS='#     <!-- A/D voltage 7, Free -->',
+   PROCESS='#   </sensor>',
+   PROCESS='# </Sensors>',
+   PROCESS='# datcnv_date = Oct 31 2018 12:25:21, 7.26.6.28 [datcnv_vars = 14]',
+   PROCESS='# datcnv_in = C:\Users\ChisholmE\Documents\BIOCHEM\DATA\pre2013\HUD2006019\CTDDATA\019a005.dat C:\Users\ChisholmE\Documents\BIOCHEM\DATA\pre2013\HUD2006019\019A005_updated.xmlcon',
+   PROCESS='# datcnv_skipover = 680',
+   PROCESS='# datcnv_ox_hysteresis_correction = no',
+   PROCESS='# wildedit_date = Oct 31 2018 12:25:23, 7.26.6.28',
+   PROCESS='# wildedit_in = C:\Users\ChisholmE\Documents\BIOCHEM\DATA\pre2013\HUD2006019\ctddata\019a005.cnv',
+   PROCESS='# wildedit_pass1_nstd = 2.0',
+   PROCESS='# wildedit_pass2_nstd = 4.0',
+   PROCESS='# wildedit_pass2_mindelta = 0.000e+000',
+   PROCESS='# wildedit_npoint = 19',
+   PROCESS='# wildedit_vars = prDM t068C c0S/m t168C c1S/m',
+   PROCESS='# wildedit_excl_bad_scans = yes',
+   PROCESS='# filter_date = Oct 31 2018 12:25:23, 7.26.6.28',
+   PROCESS='# filter_in = C:\Users\ChisholmE\Documents\BIOCHEM\DATA\pre2013\HUD2006019\ctddata\019a005.cnv',
+   PROCESS='# filter_low_pass_tc_A = 0.150',
+   PROCESS='# filter_low_pass_tc_B = 0.000',
+   PROCESS='# filter_low_pass_A_vars = prDM',
+   PROCESS='# filter_low_pass_B_vars = t068C c0S/m t168C c1S/m',
+   PROCESS='# alignctd_date = Oct 31 2018 12:25:23, 7.26.6.28',
+   PROCESS='# alignctd_in = C:\Users\ChisholmE\Documents\BIOCHEM\DATA\pre2013\HUD2006019\ctddata\019a005.cnv',
+   PROCESS='# alignctd_adv = c0S/m -0.010, c1S/m -0.010, sbeox0V 8.000, sbeox1V 8.000',
+   PROCESS='# celltm_date = Oct 31 2018 12:25:23, 7.26.6.28',
+   PROCESS='# celltm_in = C:\Users\ChisholmE\Documents\BIOCHEM\DATA\pre2013\HUD2006019\ctddata\019a005.cnv',
+   PROCESS='# celltm_alpha = 0.0300, 0.0300',
+   PROCESS='# celltm_tau = 7.0000, 7.0000',
+   PROCESS='# celltm_temp_sensor_use_for_cond = primary, secondary',
+   PROCESS='# Derive_date = Oct 31 2018 12:25:24, 7.26.6.28 [derive_vars = 8]',
+   PROCESS='# Derive_in = C:\Users\ChisholmE\Documents\BIOCHEM\DATA\pre2013\HUD2006019\ctddata\019a005.cnv C:\Users\ChisholmE\Documents\BIOCHEM\DATA\pre2013\HUD2006019\019A005_updated.xmlcon',
+   PROCESS='# derive_time_window_docdt = seconds: 2',
+   PROCESS='# derive_ox_tau_correction = yes',
+   PROCESS='# split_date = Oct 31 2018 12:25:24, 7.26.6.28',
+   PROCESS='# split_in = C:\Users\ChisholmE\Documents\BIOCHEM\DATA\pre2013\HUD2006019\ctddata\019a005.cnv',
+   PROCESS='# split_excl_bad_scans = yes',
+   PROCESS='# loopedit_date = Oct 31 2018 12:38:03, 7.26.6.28',
+   PROCESS='# loopedit_in = C:\Users\ChisholmE\Documents\BIOCHEM\DATA\pre2013\HUD2006019\ctddata\d019a005.cnv',
+   PROCESS='# loopedit_minVelocity = 0.050',
+   PROCESS='# loopedit_surfaceSoak: do not remove',
+   PROCESS='# loopedit_excl_bad_scans = yes',
+   PROCESS='# wildedit_date = Oct 31 2018 12:38:03, 7.26.6.28',
+   PROCESS='# wildedit_in = C:\Users\ChisholmE\Documents\BIOCHEM\DATA\pre2013\HUD2006019\ctddata\d019a005.cnv',
+   PROCESS='# wildedit_pass1_nstd = 2.0',
+   PROCESS='# wildedit_pass2_nstd = 4.0',
+   PROCESS='# wildedit_pass2_mindelta = 0.000e+000',
+   PROCESS='# wildedit_npoint = 19',
+   PROCESS='# wildedit_vars = sal00 sal11',
+   PROCESS='# wildedit_excl_bad_scans = yes',
+   PROCESS='# binavg_date = Oct 31 2018 12:38:03, 7.26.6.28',
+   PROCESS='# binavg_in = C:\Users\ChisholmE\Documents\BIOCHEM\DATA\pre2013\HUD2006019\ctddata\d019a005.cnv',
+   PROCESS='# binavg_bintype = decibars',
+   PROCESS='# binavg_binsize = 1',
+   PROCESS='# binavg_excl_bad_scans = yes',
+   PROCESS='# binavg_skipover = 0',
+   PROCESS='# binavg_surface_bin = no, min = 0.000, max = 0.000, value = 0.000',
+   PROCESS='# file_type = ascii',
+   PROCESS='*END*'
+ HISTORY_HEADER,
+   CREATION_DATE='31-OCT-2018 13:01:34.00',
+   SEAODF.exe version 2.11.2
+   PROCESS='During the creation of the ODF file, 0 records flagged bad have been removed.'
+   PROCESS='During the creation of the ODF file, Conductivity [S/m] has been converted to ratio (CRAT) as [ cond * 10.0 / 42.914 ] 
+   PROCESS='During the creation of the ODF file, [Elapsed Time, seconds] has been converted to 'DD-MON-YYYY HH:MM:SS.ss'. The Event start_date_time is used as the starting point for the calculation. 
+ PARAMETER_HEADER,
+   TYPE='INTE',
+   NAME='CNTR_01',
+   CODE='CNTR_01',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     0,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 6.15000000000000E+02,
+   MAXIMUM_VALUE= 1.05670000000000E+04,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='',
+ PARAMETER_HEADER,
+   TYPE='SYTM',
+   NAME='SYTM_01',
+   CODE='SYTM_01',
+   NULL_VALUE='17-NOV-1858 00:00:00.00',
+   PRINT_FIELD_WIDTH=    27,
+   PRINT_DECIMAL_PLACES=     0,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE='25-MAY-2006 17:33:14.00',
+   MAXIMUM_VALUE='25-MAY-2006 17:40:09.00',
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='UTC',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='PRES_01',
+   CODE='PRES_01',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     3,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 4.00000000000000E+00,
+   MAXIMUM_VALUE= 2.04000000000000E+02,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='db',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='TEMP_01',
+   CODE='TEMP_01',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     4,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE=-8.49300000000000E-01,
+   MAXIMUM_VALUE= 3.32460000000000E+00,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='IPTS-68, deg C',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='CRAT_01',
+   CODE='CRAT_01',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     6,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 6.30847042923055E-01,
+   MAXIMUM_VALUE= 7.19776762827982E-01,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='none',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='TEMP_02',
+   CODE='TEMP_02',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     4,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE=-8.50000000000000E-01,
+   MAXIMUM_VALUE= 3.32850000000000E+00,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='IPTS-68, deg C',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='CRAT_02',
+   CODE='CRAT_02',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     6,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 6.30978235540849E-01,
+   MAXIMUM_VALUE= 7.19781190287552E-01,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='none',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='ALT_01',
+   CODE='ALTB_01',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     2,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 3.43900000000000E+01,
+   MAXIMUM_VALUE= 1.00620000000000E+02,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='m',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='FC_01',
+   CODE='FLOR_01',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    12,
+   PRINT_DECIMAL_PLACES=     5,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 2.40000000000000E-02,
+   MAXIMUM_VALUE= 1.95300000000000E-01,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='ug/l',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='OXYV_01',
+   CODE='OXYV_01',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     4,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 2.98470000000000E+00,
+   MAXIMUM_VALUE= 3.58350000000000E+00,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='V',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='OXYV_02',
+   CODE='OXYV_02',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     4,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 2.72660000000000E+00,
+   MAXIMUM_VALUE= 3.27950000000000E+00,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='V',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='PSAR_01',
+   CODE='PSAR_01',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     5,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 1.60910000000000E-02,
+   MAXIMUM_VALUE= 6.55060000000000E+02,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='LATD_01',
+   CODE='LATD_01',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    13,
+   PRINT_DECIMAL_PLACES=     5,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 5.08570000000000E+01,
+   MAXIMUM_VALUE= 5.08570000000000E+01,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='deg',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='LOND_01',
+   CODE='LOND_01',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    14,
+   PRINT_DECIMAL_PLACES=     5,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE=-5.27865000000000E+01,
+   MAXIMUM_VALUE=-5.27865000000000E+01,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='deg',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='PSAL_01',
+   CODE='PSAL_01',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     4,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 3.28959000000000E+01,
+   MAXIMUM_VALUE= 3.43888000000000E+01,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='PSU',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='PSAL_02',
+   CODE='PSAL_02',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     4,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 3.29001000000000E+01,
+   MAXIMUM_VALUE= 3.43901000000000E+01,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='PSU',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='POTM_01',
+   CODE='POTM_01',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     4,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE=-8.51000000000000E-01,
+   MAXIMUM_VALUE= 3.32430000000000E+00,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='IPTS-68, deg C',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='POTM_02',
+   CODE='POTM_02',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     4,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE=-8.51800000000000E-01,
+   MAXIMUM_VALUE= 3.32820000000000E+00,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='IPTS-68, deg C',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='SIGP_01',
+   CODE='SIGP_01',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     4,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 2.61796000000000E+01,
+   MAXIMUM_VALUE= 2.74352000000000E+01,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='sigma-theta, kg/m^3',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='SIGP_02',
+   CODE='SIGP_02',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     4,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 2.61799000000000E+01,
+   MAXIMUM_VALUE= 2.74364000000000E+01,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='sigma-theta, kg/m^3',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='DOXY_01',
+   CODE='DOXY_01',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     4,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 6.71790000000000E+00,
+   MAXIMUM_VALUE= 8.69040000000000E+00,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='ml/l',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='DOXY_02',
+   CODE='DOXY_02',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     4,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 6.74550000000000E+00,
+   MAXIMUM_VALUE= 8.60200000000000E+00,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='ml/l',
+ PARAMETER_HEADER,
+   TYPE='INTE',
+   NAME='SNCNTR_01',
+   CODE='CNTR_02',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=    11,
+   PRINT_DECIMAL_PLACES=     0,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 1.30000000000000E+01,
+   MAXIMUM_VALUE= 1.03000000000000E+02,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='',
+ PARAMETER_HEADER,
+   TYPE='DOUB',
+   NAME='FFFF_01',
+   CODE='FFFF_01',
+   NULL_VALUE=  -99.00000000,
+   PRINT_FIELD_WIDTH=     6,
+   PRINT_DECIMAL_PLACES=     1,
+   ANGLE_OF_SECTION= 0.00000000000000E+00,
+   MAGNETIC_VARIATION= 0.00000000000000E+00,
+   DEPTH= 0.00000000000000E+00,
+   MINIMUM_VALUE= 0.00000000000000E+00,
+   MAXIMUM_VALUE= 0.00000000000000E+00,
+   NUMBER_VALID=         201,
+   NUMBER_NULL=           0
+   UNITS='',
+ RECORD_HEADER,
+   NUM_HISTORY=     1,
+   NUM_CYCLE=   201,
+   NUM_PARAM=    24
+-- DATA --
+        615   '25-MAY-2006 17:33:14.00'      4.000     3.3246   0.704061     3.3285   0.704122      75.89     0.09120     3.4465     3.1835  424.15000     50.85700     -52.78650    32.9005    32.9001     3.3243     3.3282    26.1806    26.1799     7.7533     7.8457        103   0.0
+       1683   '25-MAY-2006 17:33:59.00'      5.000     3.2958   0.703419     3.2930   0.703456      99.52     0.08720     3.5511     3.2517  641.64000     50.85700     -52.78650    32.8961    32.9009     3.2955     3.2927    26.1797    26.1837     8.0500     8.0526         71   0.0
+       2231   '25-MAY-2006 17:34:21.00'      6.000     3.2817   0.703159     3.2808   0.703214     100.00     0.09400     3.5543     3.2551  655.06000     50.85700     -52.78650    32.8964    32.9003     3.2814     3.2805    26.1812    26.1843     8.0628     8.0662         31   0.0
+       2236   '25-MAY-2006 17:34:22.00'      7.000     3.2886   0.703299     3.2862   0.703346     100.00     0.09450     3.5543     3.2560  606.89000     50.85700     -52.78650    32.8961    32.9010     3.2882     3.2858    26.1803    26.1845     8.0624     8.0689         24   0.0
+       2266   '25-MAY-2006 17:34:23.00'      8.000     3.2830   0.703199     3.2821   0.703274     100.00     0.09170     3.5504     3.2539  549.21000     50.85700     -52.78650    32.8961    32.9009     3.2826     3.2816    26.1808    26.1847     8.0540     8.0646         37   0.0
+       2308   '25-MAY-2006 17:34:25.00'      9.000     3.2813   0.703185     3.2803   0.703239     100.00     0.09560     3.5530     3.2573  526.15000     50.85700     -52.78650    32.8966    32.9006     3.2808     3.2798    26.1814    26.1845     8.0625     8.0759         40   0.0
+       2338   '25-MAY-2006 17:34:26.00'     10.000     3.2984   0.703526     3.2967   0.703590     100.00     0.09760     3.5559     3.2604  434.11000     50.85700     -52.78650    32.8963    32.9013     3.2978     3.2961    26.1796    26.1838     8.0682     8.0828         23   0.0
+       2360   '25-MAY-2006 17:34:27.00'     11.000     3.2865   0.703295     3.2853   0.703374     100.00     0.09990     3.5543     3.2592  363.11000     50.85700     -52.78650    32.8959    32.9012     3.2858     3.2846    26.1804    26.1848     8.0672     8.0826         24   0.0
+       2406   '25-MAY-2006 17:34:29.00'     12.000     3.2934   0.703452     3.2943   0.703542     100.00     0.10450     3.5527     3.2586  380.01000     50.85700     -52.78650    32.8965    32.9003     3.2927     3.2936    26.1802    26.1832     8.0625     8.0804         45   0.0
+       2483   '25-MAY-2006 17:34:32.00'     13.000     3.2853   0.703295     3.2834   0.703362     100.00     0.11850     3.5497     3.2564  393.78000     50.85700     -52.78650    32.8961    32.9015     3.2845     3.2826    26.1807    26.1851     8.0568     8.0770         23   0.0
+       2500   '25-MAY-2006 17:34:33.00'     14.000     3.2837   0.703279     3.2829   0.703348     100.00     0.10910     3.5494     3.2561  282.95000     50.85700     -52.78650    32.8963    32.9007     3.2829     3.2821    26.1810    26.1846     8.0576     8.0775         18   0.0
+       2516   '25-MAY-2006 17:34:33.00'     15.000     3.2848   0.703325     3.2857   0.703406     100.00     0.10330     3.5506     3.2558  296.73000     50.85700     -52.78650    32.8971    32.9003     3.2839     3.2848    26.1815    26.1840     8.0616     8.0771         16   0.0
+       2533   '25-MAY-2006 17:34:34.00'     16.000     3.2905   0.703444     3.2905   0.703520     100.00     0.10410     3.5505     3.2549  265.52000     50.85700     -52.78650    32.8969    32.9008     3.2895     3.2895    26.1808    26.1840     8.0612     8.0747         18   0.0
+       2554   '25-MAY-2006 17:34:35.00'     17.000     3.2951   0.703539     3.2957   0.703622     100.00     0.11170     3.5500     3.2540  246.20000     50.85700     -52.78650    32.8964    32.9002     3.2941     3.2947    26.1801    26.1830     8.0599     8.0721         26   0.0
+       2607   '25-MAY-2006 17:34:37.00'     18.000     3.2832   0.703335     3.2805   0.703349     100.00     0.12440     3.5487     3.2553  214.40000     50.85700     -52.78650    32.8974    32.9010     3.2821     3.2795    26.1819    26.1850     8.0601     8.0799         76   0.0
+       2662   '25-MAY-2006 17:34:39.00'     19.000     3.2515   0.702711     3.2489   0.702751     100.00     0.12220     3.5510     3.2544  201.10000     50.85700     -52.78650    32.8971    32.9017     3.2504     3.2478    26.1845    26.1885     8.0738     8.0842         32   0.0
+       2689   '25-MAY-2006 17:34:41.00'     20.000     3.2436   0.702567     3.2430   0.702652     100.00     0.12550     3.5508     3.2548  189.49000     50.85700     -52.78650    32.8970    32.9021     3.2424     3.2418    26.1852    26.1893     8.0758     8.0876         25   0.0
+       2714   '25-MAY-2006 17:34:42.00'     21.000     3.2291   0.702300     3.2258   0.702353     100.00     0.13690     3.5466     3.2520  167.96000     50.85700     -52.78650    32.8972    32.9035     3.2282     3.2246    26.1866    26.1920     8.0688     8.0838         24   0.0
+       2739   '25-MAY-2006 17:34:43.00'     22.000     3.2189   0.702124     3.2168   0.702187     100.00     0.14620     3.5329     3.2379  160.41000     50.85700     -52.78650    32.8982    32.9036     3.2176     3.2155    26.1884    26.1929     8.0332     8.0451         28   0.0
+       2773   '25-MAY-2006 17:34:44.00'     23.000     3.2020   0.701823     3.2006   0.701903     100.00     0.17570     3.5267     3.2338  144.59000     50.85700     -52.78650    32.8993    32.9047     3.2006     3.1993    26.1908    26.1952     8.0203     8.0372         43   0.0
+       2840   '25-MAY-2006 17:34:47.00'     24.000     3.1832   0.701485     3.1842   0.701600     100.00     0.17570     3.5366     3.2398  138.72000     50.85700     -52.78650    32.9004    32.9052     3.1818     3.1828    26.1933    26.1971     8.0527     8.0592         71   0.0
+       2883   '25-MAY-2006 17:34:49.00'     25.000     3.1031   0.699968     3.0993   0.700200     100.00     0.17750     3.5594     3.2636  115.85000     50.85700     -52.78650    32.9028    32.9178     3.1016     3.0979    26.2023    26.2153     8.1335     8.1461         28   0.0
+       2907   '25-MAY-2006 17:34:50.00'     26.000     2.7335   0.693076     2.7183   0.693653     100.00     0.19410     3.5704     3.2745  103.88000     50.85700     -52.78650    32.9207    32.9665     2.7321     2.7169    26.2482    26.2860     8.2405     8.2519         23   0.0
+       2928   '25-MAY-2006 17:34:50.00'     27.000     2.5506   0.690046     2.5492   0.690156      34.39     0.19530     3.5729     3.2760   93.82300     50.85700     -52.78650    32.9489    32.9561     2.5492     2.5478    26.2859    26.2918     8.2851     8.2914         19   0.0
+       2948   '25-MAY-2006 17:34:51.00'     28.000     2.5132   0.689256     2.5099   0.689482      87.39     0.15510     3.5739     3.2742   90.49100     50.85700     -52.78650    32.9453    32.9606     2.5117     2.5085    26.2861    26.2985     8.2971     8.2950         20   0.0
+       2968   '25-MAY-2006 17:34:52.00'     29.000     2.2994   0.685123     2.2894   0.685643      99.56     0.11320     3.5788     3.2772   82.45500     50.85700     -52.78650    32.9468    32.9847     2.2979     2.2880    26.3042    26.3353     8.3572     8.3483         22   0.0
+       3000   '25-MAY-2006 17:34:53.00'     30.000     1.8680   0.677284     1.8567   0.677529     100.00     0.08780     3.5835     3.2795   83.72400     50.85700     -52.78650    32.9760    33.0009     1.8665     1.8553    26.3599    26.3806     8.4627     8.4441         50   0.0
+       3060   '25-MAY-2006 17:34:56.00'     31.000     1.5829   0.672052     1.5780   0.672248     100.00     0.06930     3.5766     3.2667   74.79100     50.85700     -52.78650    32.9915    33.0074     1.5815     1.5766    26.3927    26.4058     8.5048     8.4635         49   0.0
+       3094   '25-MAY-2006 17:34:57.00'     32.000     1.2457   0.665654     1.2364   0.666109     100.00     0.06520     3.5726     3.2581   60.41000     50.85700     -52.78650    32.9978    33.0325     1.2443     1.2350    26.4201    26.4486     8.5683     8.5085         30   0.0
+       3127   '25-MAY-2006 17:34:59.00'     33.000     0.9581   0.660400     0.9542   0.660607     100.00     0.05450     3.5739     3.2549   53.41000     50.85700     -52.78650    33.0133    33.0288     0.9568     0.9529    26.4506    26.4633     8.6367     8.5600         40   0.0
+       3174   '25-MAY-2006 17:35:01.00'     34.000     0.6758   0.654952     0.6664   0.655345     100.00     0.05340     3.5655     3.2461   52.24800     50.85700     -52.78650    33.0115    33.0434     0.6745     0.6651    26.4656    26.4918     8.6770     8.5945         46   0.0
+       3210   '25-MAY-2006 17:35:02.00'     35.000     0.3303   0.648472     0.3260   0.648706     100.00     0.05530     3.5434     3.2222   49.11700     50.85700     -52.78650    33.0190    33.0368     0.3290     0.3247    26.4907    26.5052     8.6904     8.5946         30   0.0
+       3239   '25-MAY-2006 17:35:03.00'     36.000     0.1491   0.645093     0.1451   0.645302     100.00     0.04560     3.5222     3.1992   50.01800     50.85700     -52.78650    33.0231    33.0393     0.1479     0.1439    26.5032    26.5164     8.6692     8.5622         29   0.0
+       3271   '25-MAY-2006 17:35:05.00'     37.000     0.0748   0.643837     0.0727   0.643957     100.00     0.04190     3.5021     3.1759   51.91000     50.85700     -52.78650    33.0317    33.0407     0.0736     0.0715    26.5138    26.5212     8.6260     8.5046         36   0.0
+       3305   '25-MAY-2006 17:35:06.00'     38.000     0.0488   0.643439     0.0468   0.643522     100.00     0.03930     3.4837     3.1580   45.79900     50.85700     -52.78650    33.0367    33.0430     0.0475     0.0455    26.5191    26.5248     8.5776     8.4546         31   0.0
+       3332   '25-MAY-2006 17:35:07.00'     39.000     0.0208   0.642856     0.0175   0.643054     100.00     0.04050     3.4742     3.1497   42.81100     50.85700     -52.78650    33.0334    33.0480     0.0195     0.0163    26.5178    26.5298     8.5565     8.4353         23   0.0
+       3354   '25-MAY-2006 17:35:08.00'     40.000    -0.1838   0.638690    -0.1926   0.639208     100.00     0.03600     3.4673     3.1440   41.47100     50.85700     -52.78650    33.0174    33.0565    -0.1850    -0.1938    26.5144    26.5463     8.5844     8.4632         22   0.0
+       3388   '25-MAY-2006 17:35:10.00'     41.000    -0.3738   0.635134    -0.3889   0.635124     100.00     0.03590     3.4675     3.1484   39.80700     50.85700     -52.78650    33.0195    33.0356    -0.3750    -0.3901    26.5244    26.5382     8.6296     8.5225         56   0.0
+       3468   '25-MAY-2006 17:35:13.00'     42.000    -0.4152   0.634516    -0.4031   0.634737     100.00     0.04240     3.4820     3.1712   37.02100     50.85700     -52.78650    33.0284    33.0321    -0.4157    -0.4043    26.5333    26.5335     8.6832     8.5998         48   0.0
+       3492   '25-MAY-2006 17:35:14.00'     43.000    -0.3220   0.636548    -0.3229   0.636571     100.00     0.04080     3.4845     3.1761   32.07400     50.85700     -52.78650    33.0434    33.0457    -0.3233    -0.3242    26.5415    26.5434     8.6703     8.5986         24   0.0
+       3514   '25-MAY-2006 17:35:15.00'     44.000    -0.3109   0.636860    -0.3118   0.636869     100.00     0.04040     3.4849     3.1777   29.51600     50.85700     -52.78650    33.0486    33.0501    -0.3122    -0.3131    26.5453    26.5465     8.6698     8.6020         21   0.0
+       3536   '25-MAY-2006 17:35:16.00'     45.000    -0.1360   0.640758    -0.1321   0.640484     100.00     0.04560     3.4822     3.1752   28.73600     50.85700     -52.78650    33.0803    33.0605    -0.1374    -0.1335    26.5630    26.5468     8.6208     8.5553         25   0.0
+       3565   '25-MAY-2006 17:35:17.00'     46.000     0.0078   0.643685     0.0086   0.643680     100.00     0.06730     3.4748     3.1679   26.69000     50.85700     -52.78650    33.0903    33.0890     0.0063     0.0071    26.5642    26.5633     8.5661     8.5010         34   0.0
+       3603   '25-MAY-2006 17:35:19.00'     47.000     0.0354   0.644293     0.0351   0.644335     100.00     0.05400     3.4637     3.1561   24.43800     50.85700     -52.78650    33.0942    33.0969     0.0338     0.0336    26.5662    26.5683     8.5272     8.4583         40   0.0
+       3643   '25-MAY-2006 17:35:20.00'     48.000     0.0257   0.644266     0.0234   0.644377     100.00     0.04910     3.4534     3.1438   25.15100     50.85700     -52.78650    33.1026    33.1113     0.0241     0.0218    26.5734    26.5806     8.4987     8.4219         38   0.0
+       3678   '25-MAY-2006 17:35:22.00'     49.000    -0.0113   0.643611    -0.0125   0.643693     100.00     0.04490     3.4441     3.1340   23.89700     50.85700     -52.78650    33.1049    33.1111    -0.0129    -0.0141    26.5771    26.5819     8.4798     8.3995         31   0.0
+       3706   '25-MAY-2006 17:35:23.00'     50.000    -0.0382   0.643120    -0.0407   0.643261     100.00     0.04520     3.4371     3.1289   22.22400     50.85700     -52.78650    33.1056    33.1164    -0.0398    -0.0423    26.5789    26.5877     8.4658     8.3902         26   0.0
+       3732   '25-MAY-2006 17:35:24.00'     51.000    -0.0969   0.642141    -0.0988   0.642256      69.53     0.05740     3.4354     3.1275   20.62200     50.85700     -52.78650    33.1130    33.1213    -0.0985    -0.1004    26.5877    26.5947     8.4746     8.3989         30   0.0
+       3780   '25-MAY-2006 17:35:26.00'     52.000    -0.1225   0.641747    -0.1235   0.641820      96.79     0.05750     3.4252     3.1183   16.80600     50.85700     -52.78650    33.1178    33.1232    -0.1242    -0.1252    26.5927    26.5970     8.4502     8.3758         66   0.0
+       3836   '25-MAY-2006 17:35:28.00'     53.000    -0.1448   0.641460    -0.1474   0.641571     100.12     0.06220     3.3989     3.0911   14.69100     50.85700     -52.78650    33.1248    33.1335    -0.1465    -0.1490    26.5994    26.6068     8.3750     8.2931         38   0.0
+       3866   '25-MAY-2006 17:35:30.00'     54.000    -0.1787   0.641007    -0.1812   0.640935     100.00     0.05800     3.3747     3.0697   14.23800     50.85700     -52.78650    33.1355    33.1342    -0.1804    -0.1829    26.6097    26.6087     8.3111     8.2340         26   0.0
+       3890   '25-MAY-2006 17:35:31.00'     55.000    -0.0525   0.643687    -0.0509   0.643645     100.00     0.05930     3.3534     3.0480   11.54900     50.85700     -52.78650    33.1504    33.1463    -0.0543    -0.0527    26.6157    26.6123     8.2183     8.1380         24   0.0
+       3916   '25-MAY-2006 17:35:32.00'     56.000    -0.0479   0.643901    -0.0506   0.644073     100.00     0.05530     3.3315     3.0258    8.78700     50.85700     -52.78650    33.1572    33.1688    -0.0497    -0.0524    26.6208    26.6312     8.1524     8.0676         29   0.0
+       3952   '25-MAY-2006 17:35:33.00'     57.000    -0.2967   0.639146    -0.3018   0.639340     100.00     0.05270     3.3112     3.0037    9.36850     50.85700     -52.78650    33.1560    33.1727    -0.2984    -0.3035    26.6314    26.6451     8.1450     8.0486         40   0.0
+       3986   '25-MAY-2006 17:35:35.00'     58.000    -0.2662   0.640087    -0.2653   0.640075     100.00     0.05920     3.2919     2.9859    9.76010     50.85700     -52.78650    33.1760    33.1743    -0.2680    -0.2670    26.6462    26.6448     8.0793     7.9850         26   0.0
+       4008   '25-MAY-2006 17:35:35.00'     59.000    -0.3124   0.639224    -0.3152   0.639439     100.00     0.05840     3.2789     2.9734    9.51110     50.85700     -52.78650    33.1765    33.1928    -0.3142    -0.3166    26.6487    26.6620     8.0505     7.9548         20   0.0
+       4027   '25-MAY-2006 17:35:36.00'     60.000    -0.4306   0.637075    -0.4356   0.637366     100.00     0.06430     3.2640     2.9591    9.38230     50.85700     -52.78650    33.1818    33.2040    -0.4323    -0.4373    26.6580    26.6762     8.0310     7.9338         21   0.0
+       4074   '25-MAY-2006 17:35:38.00'     61.000    -0.5475   0.634966    -0.5708   0.634898     100.00     0.06090     3.2236     2.9200    9.09940     50.85700     -52.78650    33.1880    33.2087    -0.5492    -0.5725    26.6679    26.6863     7.9329     7.8356         48   0.0
+       4159   '25-MAY-2006 17:35:42.00'     62.000    -0.6132   0.633993    -0.6452   0.633827     100.00     0.05500     3.1550     2.8574    8.24760     50.85700     -52.78650    33.2033    33.2290    -0.6150    -0.6469    26.6829    26.7049     7.7355     7.6475         24   0.0
+       4176   '25-MAY-2006 17:35:42.00'     63.000    -0.7374   0.632067    -0.7407   0.632261     100.00     0.05180     3.1453     2.8486    8.16960     50.85700     -52.78650    33.2279    33.2428    -0.7391    -0.7424    26.7077    26.7198     7.7313     7.6382         18   0.0
+       4193   '25-MAY-2006 17:35:43.00'     64.000    -0.7856   0.631382    -0.7878   0.631508     100.00     0.04290     3.1349     2.8400    7.87660     50.85700     -52.78650    33.2407    33.2504    -0.7873    -0.7894    26.7199    26.7278     7.7095     7.6200         18   0.0
+       4212   '25-MAY-2006 17:35:44.00'     65.000    -0.8300   0.630847    -0.8329   0.630978     100.00     0.04280     3.1245     2.8312    7.55750     50.85700     -52.78650    33.2581    33.2688    -0.8317    -0.8346    26.7356    26.7444     7.6866     7.6004         21   0.0
+       4243   '25-MAY-2006 17:35:45.00'     66.000    -0.8493   0.631049    -0.8500   0.631121     100.00     0.04610     3.1121     2.8212    7.31260     50.85700     -52.78650    33.2905    33.2955    -0.8510    -0.8518    26.7625    26.7666     7.6513     7.5708         42   0.0
+       4289   '25-MAY-2006 17:35:47.00'     67.000    -0.8382   0.631743    -0.8383   0.631807     100.00     0.04970     3.0964     2.8089    7.14150     50.85700     -52.78650    33.3179    33.3211    -0.8400    -0.8398    26.7844    26.7869     7.6001     7.5283         43   0.0
+       4325   '25-MAY-2006 17:35:49.00'     68.000    -0.8034   0.632785    -0.8036   0.632837      98.23     0.04710     3.0878     2.8032    6.77630     50.85700     -52.78650    33.3393    33.3426    -0.8052    -0.8054    26.8004    26.8030     7.5662     7.5026         32   0.0
+       4357   '25-MAY-2006 17:35:50.00'     69.000    -0.7921   0.633138    -0.7930   0.633214      99.99     0.05030     3.0796     2.7971    6.25290     50.85700     -52.78650    33.3466    33.3521    -0.7939    -0.7948    26.8059    26.8103     7.5390     7.4814         33   0.0
+       4394   '25-MAY-2006 17:35:52.00'     70.000    -0.7849   0.633449    -0.7856   0.633507      86.21     0.05790     3.0709     2.7892    5.90030     50.85700     -52.78650    33.3562    33.3603    -0.7868    -0.7875    26.8134    26.8167     7.5112     7.4549         42   0.0
+       4439   '25-MAY-2006 17:35:53.00'     71.000    -0.7693   0.634008    -0.7697   0.634058      78.21     0.04980     3.0599     2.7796    5.62000     50.85700     -52.78650    33.3707    33.3740    -0.7712    -0.7716    26.8245    26.8272     7.4744     7.4207         45   0.0
+       4477   '25-MAY-2006 17:35:55.00'     72.000    -0.7267   0.635248    -0.7262   0.635250      87.37     0.04400     3.0510     2.7707    5.38220     50.85700     -52.78650    33.3948    33.3944    -0.7286    -0.7281    26.8424    26.8420     7.4381     7.3834         32   0.0
+       4508   '25-MAY-2006 17:35:56.00'     73.000    -0.6850   0.636211    -0.6847   0.636258      88.97     0.04650     3.0443     2.7646    5.09620     50.85700     -52.78650    33.4039    33.4063    -0.6870    -0.6868    26.8481    26.8501     7.4095     7.3562         30   0.0
+       4539   '25-MAY-2006 17:35:58.00'     74.000    -0.6618   0.636884    -0.6622   0.636922     100.24     0.04700     3.0386     2.7606    4.83490     50.85700     -52.78650    33.4165    33.4191    -0.6638    -0.6642    26.8574    26.8596     7.3878     7.3391         32   0.0
+       4568   '25-MAY-2006 17:35:59.00'     75.000    -0.6497   0.637344    -0.6507   0.637390     100.00     0.04880     3.0355     2.7572    4.59140     50.85700     -52.78650    33.4294    33.4330    -0.6520    -0.6528    26.8673    26.8703     7.3762     7.3265         25   0.0
+       4591   '25-MAY-2006 17:36:00.00'     76.000    -0.6405   0.637741    -0.6410   0.637803     100.00     0.06010     3.0337     2.7554    4.39510     50.85700     -52.78650    33.4413    33.4454    -0.6426    -0.6431    26.8766    26.8800     7.3692     7.3191         22   0.0
+       4613   '25-MAY-2006 17:36:01.00'     77.000    -0.6359   0.638022    -0.6367   0.638077     100.00     0.04880     3.0320     2.7537    4.21100     50.85700     -52.78650    33.4520    33.4559    -0.6382    -0.6389    26.8851    26.8883     7.3633     7.3131         24   0.0
+       4676   '25-MAY-2006 17:36:03.00'     78.000    -0.6373   0.637956    -0.6375   0.638094     100.00     0.05160     3.0238     2.7481    3.96500     50.85700     -52.78650    33.4488    33.4572    -0.6394    -0.6397    26.8827    26.8893     7.3393     7.2962         56   0.0
+       4737   '25-MAY-2006 17:36:06.00'     79.000    -0.6360   0.638130    -0.6366   0.638193     100.00     0.05920     3.0152     2.7419    3.63660     50.85700     -52.78650    33.4570    33.4613    -0.6382    -0.6388    26.8891    26.8926     7.3133     7.2767         25   0.0
+       4757   '25-MAY-2006 17:36:07.00'     80.000    -0.6288   0.638477    -0.6295   0.638535     100.00     0.05710     3.0160     2.7425    3.41980     50.85700     -52.78650    33.4684    33.4726    -0.6310    -0.6318    26.8981    26.9015     7.3148     7.2776         19   0.0
+       4775   '25-MAY-2006 17:36:07.00'     81.000    -0.6184   0.638859    -0.6181   0.638868     100.00     0.05260     3.0159     2.7413    3.25950     50.85700     -52.78650    33.4784    33.4786    -0.6207    -0.6204    26.9058    26.9059     7.3128     7.2722         19   0.0
+       4795   '25-MAY-2006 17:36:08.00'     82.000    -0.5634   0.640361    -0.5626   0.640328     100.00     0.05210     3.0172     2.7404    3.13770     50.85700     -52.78650    33.5037    33.5008    -0.5658    -0.5650    26.9239    26.9216     7.3057     7.2588         23   0.0
+       4829   '25-MAY-2006 17:36:10.00'     83.000    -0.5099   0.641791    -0.5115   0.641803     100.00     0.05190     3.0158     2.7431    3.02930     50.85700     -52.78650    33.5262    33.5287    -0.5121    -0.5139    26.9397    26.9420     7.2909     7.2577         53   0.0
+       4898   '25-MAY-2006 17:36:13.00'     84.000    -0.5468   0.640848    -0.5118   0.641791     100.00     0.05360     3.0144     2.7439    2.85380     50.85700     -52.78650    33.5135    33.5244    -0.5493    -0.5143    26.9301    26.9403     7.2954     7.2618         55   0.0
+       4929   '25-MAY-2006 17:36:14.00'     85.000    -0.4313   0.644125    -0.4309   0.644185     100.00     0.04520     3.0096     2.7433    2.69420     50.85700     -52.78650    33.5723    33.5754    -0.4339    -0.4335    26.9739    26.9763     7.2562     7.2430         24   0.0
+       4950   '25-MAY-2006 17:36:15.00'     86.000    -0.4051   0.644859    -0.4050   0.644796     100.00     0.04530     3.0111     2.7445    2.54270     50.85700     -52.78650    33.5849    33.5812    -0.4077    -0.4076    26.9829    26.9799     7.2560     7.2428         20   0.0
+       4971   '25-MAY-2006 17:36:16.00'     87.000    -0.3252   0.646836    -0.3234   0.646769     100.00     0.04650     3.0144     2.7489    2.39920     50.85700     -52.78650    33.6094    33.6036    -0.3279    -0.3262    26.9991    26.9944     7.2504     7.2417         23   0.0
+       4995   '25-MAY-2006 17:36:17.00'     88.000    -0.2696   0.648125    -0.2695   0.648154     100.00     0.04770     3.0197     2.7532    2.27300     50.85700     -52.78650    33.6211    33.6227    -0.2724    -0.2723    27.0061    27.0074     7.2564     7.2455         27   0.0
+       5030   '25-MAY-2006 17:36:18.00'     89.000    -0.1638   0.650768    -0.1594   0.650787     100.00     0.04740     3.0261     2.7588    2.18260     50.85700     -52.78650    33.6504    33.6466    -0.1629    -0.1621    27.0242    27.0214     7.2546     7.2427         47   0.0
+       5107   '25-MAY-2006 17:36:21.00'     90.000    -0.2596   0.648234    -0.2371   0.648898     100.00     0.04860     3.0313     2.7641    2.08730     50.85700     -52.78650    33.6162    33.6283    -0.2635    -0.2400    27.0018    27.0114     7.2922     7.2768         73   0.0
+       5141   '25-MAY-2006 17:36:23.00'     91.000    -0.0548   0.653219    -0.0555   0.653163     100.00     0.05610     3.0335     2.7657    1.96020     50.85700     -52.78650    33.6729    33.6705    -0.0578    -0.0586    27.0377    27.0359     7.2574     7.2465         21   0.0
+       5158   '25-MAY-2006 17:36:23.00'     92.000    -0.0237   0.654103    -0.0241   0.654108     100.00     0.05920     3.0350     2.7666    1.86720     50.85700     -52.78650    33.6881    33.6889    -0.0268    -0.0272    27.0486    27.0492     7.2562     7.2437         16   0.0
+       5176   '25-MAY-2006 17:36:24.00'     93.000     0.0168   0.655089     0.0167   0.655084     100.00     0.06160     3.0362     2.7676    1.78390     50.85700     -52.78650    33.6991    33.6988     0.0136     0.0136    27.0553    27.0551     7.2525     7.2400         20   0.0
+       5212   '25-MAY-2006 17:36:26.00'     94.000     0.0178   0.655076     0.0202   0.655227     100.00     0.05010     3.0332     2.7653    1.69250     50.85700     -52.78650    33.6976    33.7022     0.0145     0.0170    27.0540    27.0580     7.2441     7.2329         51   0.0
+       5276   '25-MAY-2006 17:36:28.00'     95.000     0.0154   0.655068     0.0087   0.654933     100.00     0.03890     3.0290     2.7597    1.61450     50.85700     -52.78650    33.6980    33.6990     0.0122     0.0059    27.0545    27.0554     7.2330     7.2180         30   0.0
+       5295   '25-MAY-2006 17:36:29.00'     96.000     0.0616   0.656236     0.0601   0.656274     100.00     0.04000     3.0309     2.7617    1.53420     50.85700     -52.78650    33.7130    33.7167     0.0582     0.0568    27.0644    27.0674     7.2301     7.2152         18   0.0
+       5311   '25-MAY-2006 17:36:30.00'     97.000     0.0868   0.656924     0.0838   0.656864     100.00     0.03850     3.0345     2.7651    1.46790     50.85700     -52.78650    33.7237    33.7236     0.0834     0.0804    27.0717    27.0717     7.2366     7.2223         16   0.0
+       5330   '25-MAY-2006 17:36:31.00'     98.000     0.1344   0.658040     0.1318   0.658015     100.00     0.04480     3.0373     2.7679    1.40220     50.85700     -52.78650    33.7337    33.7352     0.1310     0.1283    27.0773    27.0787     7.2364     7.2229         24   0.0
+       5404   '25-MAY-2006 17:36:34.00'     99.000     0.1384   0.658112     0.1326   0.658040     100.00     0.04660     3.0420     2.7722    1.30820     50.85700     -52.78650    33.7327    33.7346     0.1349     0.1291    27.0763    27.0785     7.2510     7.2374         39   0.0
+       5463   '25-MAY-2006 17:36:36.00'    100.000     0.1485   0.658411     0.1617   0.658695     100.00     0.04270     3.0406     2.7712    1.19620     50.85700     -52.78650    33.7332    33.7410     0.1449     0.1582    27.0782    27.0806     7.2462     7.2296         20   0.0
+       5479   '25-MAY-2006 17:36:37.00'    101.000     0.2775   0.661576     0.2742   0.661393     100.00     0.04030     3.0390     2.7703    1.13990     50.85700     -52.78650    33.7743    33.7676     0.2738     0.2705    27.1025    27.0973     7.2150     7.2058         15   0.0
+       5494   '25-MAY-2006 17:36:37.00'    102.000     0.3115   0.662300     0.3105   0.662331     100.00     0.03660     3.0381     2.7698    1.10410     50.85700     -52.78650    33.7771    33.7800     0.3077     0.3067    27.1030    27.1053     7.2068     7.1981         15   0.0
+       5508   '25-MAY-2006 17:36:38.00'    103.000     0.3347   0.663131     0.3328   0.663024     100.00     0.03410     3.0397     2.7709    1.07440     50.85700     -52.78650    33.7967    33.7938     0.3319     0.3290    27.1174    27.1153     7.2071     7.1977         14   0.0
+       5524   '25-MAY-2006 17:36:39.00'    104.000     0.3665   0.663865     0.3651   0.663871     100.00     0.03520     3.0430     2.7737    1.04070     50.85700     -52.78650    33.8036    33.8055     0.3626     0.3612    27.1213    27.1229     7.2119     7.2013         18   0.0
+       5563   '25-MAY-2006 17:36:40.00'    105.000     0.3736   0.664046     0.3761   0.664151     100.00     0.03550     3.0513     2.7826    0.99310     50.85700     -52.78650    33.8054    33.8072     0.3697     0.3721    27.1223    27.1241     7.2362     7.2284         35   0.0
+       5687   '25-MAY-2006 17:36:45.00'    106.000     0.3612   0.663827     0.3533   0.663524     100.00     0.03790     3.0475     2.7728    0.90504     50.85700     -52.78650    33.8061    33.7977     0.3572     0.3494    27.1236    27.1172     7.2282     7.2027         20   0.0
+       5701   '25-MAY-2006 17:36:46.00'    107.000     0.4686   0.666497     0.4985   0.667053      91.58     0.05160     3.0441     2.7706    0.86245     50.85700     -52.78650    33.8421    33.8359     0.4645     0.4943    27.1428    27.1399     7.1971     7.1686         16   0.0
+       5716   '25-MAY-2006 17:36:47.00'    108.000     0.6317   0.670310     0.6260   0.669951     100.25     0.07930     3.0421     2.7684    0.81390     50.85700     -52.78650    33.8712    33.8575     0.6274     0.6217    27.1607    27.1500     7.1597     7.1389         15   0.0
+       5731   '25-MAY-2006 17:36:47.00'    109.000     0.7770   0.673600     0.7752   0.673409      98.46     0.06630     3.0411     2.7694    0.77592     50.85700     -52.78650    33.8925    33.8849     0.7725     0.7707    27.1691    27.1631     7.1292     7.1147         15   0.0
+       5747   '25-MAY-2006 17:36:48.00'    110.000     0.8424   0.674959     0.8408   0.674960      98.10     0.05400     3.0423     2.7716    0.74483     50.85700     -52.78650    33.8984    33.9002     0.8378     0.8362    27.1699    27.1714     7.1215     7.1105         17   0.0
+       5766   '25-MAY-2006 17:36:49.00'    111.000     0.8535   0.675243     0.8526   0.675290      65.41     0.05500     3.0424     2.7727    0.71239     50.85700     -52.78650    33.9015    33.9051     0.8488     0.8480    27.1717    27.1746     7.1206     7.1124         23   0.0
+       5836   '25-MAY-2006 17:36:52.00'    112.000     0.8223   0.674504     0.8045   0.674224      89.99     0.04590     3.0402     2.7720    0.68913     50.85700     -52.78650    33.8940    33.8978     0.8176     0.7999    27.1675    27.1717     7.1213     7.1200         46   0.0
+       5913   '25-MAY-2006 17:36:55.00'    113.000     0.8366   0.674962     0.8396   0.674977     100.10     0.04220     3.0383     2.7723    0.65979     50.85700     -52.78650    33.9032    33.9008     0.8319     0.8348    27.1740    27.1719     7.1136     7.1156         26   0.0
+       5938   '25-MAY-2006 17:36:56.00'    114.000     0.8920   0.676187     0.8913   0.676201     100.00     0.03990     3.0401     2.7731    0.61634     50.85700     -52.78650    33.9100    33.9115     0.8872     0.8865    27.1761    27.1774     7.1090     7.1093         26   0.0
+       5966   '25-MAY-2006 17:36:57.00'    115.000     0.9278   0.677105     0.9271   0.677114     100.00     0.04890     3.0408     2.7743    0.57527     50.85700     -52.78650    33.9211    33.9229     0.9230     0.9222    27.1828    27.1843     7.1051     7.1073         30   0.0
+       5995   '25-MAY-2006 17:36:58.00'    116.000     0.9141   0.676824     0.9134   0.676978     100.00     0.05100     3.0422     2.7753    0.54008     50.85700     -52.78650    33.9201    33.9293     0.9091     0.9085    27.1829    27.1903     7.1127     7.1135         26   0.0
+       6018   '25-MAY-2006 17:36:59.00'    117.000     0.8324   0.675192     0.8327   0.675342     100.00     0.04170     3.0441     2.7793    0.51866     50.85700     -52.78650    33.9182    33.9262     0.8275     0.8278    27.1864    27.1928     7.1346     7.1413         21   0.0
+       6038   '25-MAY-2006 17:37:00.00'    118.000     0.8257   0.675171     0.8256   0.675243     100.00     0.03870     3.0464     2.7809    0.50155     50.85700     -52.78650    33.9238    33.9279     0.8208     0.8206    27.1913    27.1947     7.1435     7.1484         19   0.0
+       6057   '25-MAY-2006 17:37:01.00'    119.000     0.8439   0.675705     0.8430   0.675704     100.00     0.03660     3.0466     2.7817    0.48414     50.85700     -52.78650    33.9329    33.9339     0.8389     0.8380    27.1975    27.1984     7.1410     7.1487         21   0.0
+       6106   '25-MAY-2006 17:37:03.00'    120.000     0.8600   0.676092     0.8579   0.676097     100.00     0.03190     3.0479     2.7830    0.47049     50.85700     -52.78650    33.9362    33.9388     0.8550     0.8528    27.1992    27.2014     7.1426     7.1507         65   0.0
+       6185   '25-MAY-2006 17:37:06.00'    121.000     0.8931   0.676937     0.8909   0.676815     100.00     0.03290     3.0546     2.7893    0.45670     50.85700     -52.78650    33.9451    33.9420     0.8890     0.8857    27.2042    27.2019     7.1568     7.1654         37   0.0
+       6215   '25-MAY-2006 17:37:07.00'    122.000     0.9607   0.678449     0.9601   0.678504     100.00     0.03320     3.0538     2.7878    0.43081     50.85700     -52.78650    33.9556    33.9592     0.9555     0.9549    27.2085    27.2114     7.1426     7.1485         31   0.0
+       6246   '25-MAY-2006 17:37:09.00'    123.000     0.9535   0.678400     0.9526   0.678439     100.00     0.02760     3.0504     2.7832    0.40269     50.85700     -52.78650    33.9602    33.9633     0.9482     0.9473    27.2126    27.2152     7.1345     7.1361         31   0.0
+       6276   '25-MAY-2006 17:37:10.00'    124.000     0.9624   0.678689     0.9617   0.678706     100.00     0.03010     3.0473     2.7800    0.38003     50.85700     -52.78650    33.9658    33.9676     0.9571     0.9563    27.2166    27.2181     7.1244     7.1253         28   0.0
+       6300   '25-MAY-2006 17:37:11.00'    125.000     1.0044   0.679744     1.0049   0.679705     100.00     0.03300     3.0459     2.7798    0.36482     50.85700     -52.78650    33.9777    33.9750     0.9990     0.9995    27.2234    27.2213     7.1128     7.1177         20   0.0
+       6319   '25-MAY-2006 17:37:12.00'    126.000     1.0706   0.681274     1.0687   0.681201      77.99     0.03340     3.0470     2.7805    0.35229     50.85700     -52.78650    33.9893    33.9873     1.0650     1.0632    27.2286    27.2271     7.1043     7.1090         18   0.0
+       6336   '25-MAY-2006 17:37:12.00'    127.000     1.1352   0.682774     1.1334   0.682694      86.36     0.03480     3.0481     2.7811    0.33987     50.85700     -52.78650    34.0009    33.9986     1.1296     1.1277    27.2336    27.2319     7.0959     7.0998         18   0.0
+       6362   '25-MAY-2006 17:37:14.00'    128.000     1.1719   0.683597     1.1713   0.683610      84.26     0.03660     3.0486     2.7814    0.32880     50.85700     -52.78650    34.0057    34.0071     1.1661     1.1655    27.2351    27.2362     7.0915     7.0948         36   0.0
+       6477   '25-MAY-2006 17:37:18.00'    129.000     1.1836   0.683992     1.1817   0.683849     100.27     0.03080     3.0454     2.7812    0.33110     50.85700     -52.78650    34.0133    34.0088     1.1778     1.1759    27.2404    27.2369     7.0807     7.0929         19   0.0
+       6493   '25-MAY-2006 17:37:19.00'    130.000     1.2214   0.684879     1.2206   0.684853     100.00     0.03360     3.0463     2.7822    0.31273     50.85700     -52.78650    34.0211    34.0205     1.2155     1.2147    27.2441    27.2437     7.0767     7.0899         17   0.0
+       6510   '25-MAY-2006 17:37:20.00'    131.000     1.2388   0.685316     1.2379   0.685345     100.00     0.03170     3.0463     2.7818    0.29417     50.85700     -52.78650    34.0255    34.0281     1.2328     1.2320    27.2465    27.2487     7.0743     7.0860         19   0.0
+       6533   '25-MAY-2006 17:37:21.00'    132.000     1.2592   0.685894     1.2580   0.685901     100.00     0.03080     3.0462     2.7805    0.27626     50.85700     -52.78650    34.0345    34.0361     1.2531     1.2520    27.2524    27.2537     7.0708     7.0791         27   0.0
+       6567   '25-MAY-2006 17:37:22.00'    133.000     1.2755   0.686276     1.2746   0.686313     100.00     0.02840     3.0435     2.7768    0.26188     50.85700     -52.78650    34.0371    34.0402     1.2694     1.2685    27.2534    27.2559     7.0609     7.0654         41   0.0
+       6612   '25-MAY-2006 17:37:24.00'    134.000     1.3117   0.687154     1.3105   0.687141     100.00     0.03530     3.0384     2.7724    0.25392     50.85700     -52.78650    34.0453    34.0459     1.3055     1.3043    27.2575    27.2581     7.0397     7.0462         47   0.0
+       6662   '25-MAY-2006 17:37:26.00'    135.000     1.3773   0.688711     1.3760   0.688696     100.00     0.03840     3.0331     2.7685    0.24879     50.85700     -52.78650    34.0586    34.0596     1.3710     1.3699    27.2636    27.2646     7.0126     7.0230         49   0.0
+       6702   '25-MAY-2006 17:37:28.00'    136.000     1.4027   0.689415     1.4023   0.689473     100.00     0.03670     3.0296     2.7656    0.24489     50.85700     -52.78650    34.0689    34.0725     1.3963     1.3959    27.2701    27.2730     6.9982     7.0097         32   0.0
+       6728   '25-MAY-2006 17:37:29.00'    137.000     1.3794   0.689040     1.3786   0.689075     100.00     0.03770     3.0300     2.7654    0.23794     50.85700     -52.78650    34.0731    34.0759     1.3730     1.3722    27.2752    27.2774     7.0044     7.0140         23   0.0
+       6751   '25-MAY-2006 17:37:30.00'    138.000     1.3723   0.688964     1.3712   0.689042     100.00     0.03800     3.0303     2.7657    0.22840     50.85700     -52.78650    34.0762    34.0816     1.3658     1.3647    27.2781    27.2825     7.0072     7.0171         23   0.0
+       6777   '25-MAY-2006 17:37:31.00'    139.000     1.4006   0.689742     1.3991   0.689684     100.00     0.03750     3.0298     2.7660    0.21646     50.85700     -52.78650    34.0868    34.0857     1.3941     1.3926    27.2847    27.2839     7.0012     7.0139         31   0.0
+       6826   '25-MAY-2006 17:37:33.00'    140.000     1.4154   0.690123     1.4144   0.690173      98.50     0.03660     3.0310     2.7673    0.20392     50.85700     -52.78650    34.0915    34.0953     1.4088     1.4078    27.2874    27.2905     7.0028     7.0158         62   0.0
+       6874   '25-MAY-2006 17:37:35.00'    141.000     1.4365   0.690702     1.4357   0.690644      82.63     0.03950     3.0351     2.7715    0.19915     50.85700     -52.78650    34.0994    34.0980     1.4298     1.4290    27.2924    27.2906     7.0114     7.0258         33   0.0
+       6906   '25-MAY-2006 17:37:36.00'    142.000     1.5256   0.692742     1.5251   0.692694      81.12     0.03510     3.0367     2.7728    0.19400     50.85700     -52.78650    34.1134    34.1114     1.5187     1.5182    27.2972    27.2957     7.0005     7.0149         35   0.0
+       6947   '25-MAY-2006 17:37:38.00'    143.000     1.5742   0.693847     1.5732   0.693848      55.83     0.03400     3.0322     2.7698    0.18713     50.85700     -52.78650    34.1202    34.1214     1.5672     1.5662    27.2993    27.3003     6.9791     6.9976         47   0.0
+       6988   '25-MAY-2006 17:37:40.00'    144.000     1.6205   0.694992     1.6195   0.694944      51.20     0.04010     3.0248     2.7623    0.18055     50.85700     -52.78650    34.1314    34.1316     1.6135     1.6124    27.3050    27.3046     6.9497     6.9673         31   0.0
+       7011   '25-MAY-2006 17:37:41.00'    145.000     1.6954   0.696833     1.6932   0.696640     100.62     0.04330     3.0248     2.7628    0.17389     50.85700     -52.78650    34.1498    34.1417     1.6881     1.6860    27.3142    27.3078     6.9363     6.9565         18   0.0
+       7026   '25-MAY-2006 17:37:41.00'    146.000     1.7646   0.698405     1.7627   0.698285     100.00     0.04320     3.0269     2.7645    0.16952     50.85700     -52.78650    34.1591    34.1549     1.7573     1.7554    27.3167    27.3133     6.9306     6.9503         13   0.0
+       7039   '25-MAY-2006 17:37:42.00'    147.000     1.8122   0.699531     1.8107   0.699493     100.00     0.03930     3.0287     2.7663    0.16260     50.85700     -52.78650    34.1682    34.1678     1.8048     1.8032    27.3202    27.3200     6.9281     6.9479         13   0.0
+       7051   '25-MAY-2006 17:37:42.00'    148.000     1.8322   0.700041     1.8308   0.699989     100.00     0.03530     3.0304     2.7676    0.15751     50.85700     -52.78650    34.1735    34.1722     1.8247     1.8233    27.3230    27.3220     6.9302     6.9491         13   0.0
+       7069   '25-MAY-2006 17:37:43.00'    149.000     1.8803   0.701225     1.8795   0.701179     100.00     0.03170     3.0326     2.7695    0.15222     50.85700     -52.78650    34.1849    34.1833     1.8726     1.8718    27.3285    27.3272     6.9285     6.9471         28   0.0
+       7226   '25-MAY-2006 17:37:50.00'    150.000     1.8629   0.700686     1.8633   0.700806     100.00     0.03340     3.0218     2.7597    0.14453     50.85700     -52.78650    34.1741    34.1801     1.8552     1.8556    27.3211    27.3259     6.9017     6.9208         15   0.0
+       7242   '25-MAY-2006 17:37:50.00'    151.000     1.9280   0.702397     1.9287   0.702394     100.00     0.03390     3.0211     2.7591    0.13728     50.85700     -52.78650    34.1949    34.1949     1.9201     1.9209    27.3332    27.3324     6.8881     6.9087         16   0.0
+       7258   '25-MAY-2006 17:37:51.00'    152.000     1.9398   0.702655     1.9390   0.702671     100.00     0.03020     3.0204     2.7579    0.13173     50.85700     -52.78650    34.1959    34.1976     1.9319     1.9311    27.3328    27.3342     6.8848     6.9036         16   0.0
+       7273   '25-MAY-2006 17:37:52.00'    153.000     1.9495   0.702951     1.9486   0.702961     100.00     0.03050     3.0200     2.7570    0.12690     50.85700     -52.78650    34.2008    34.2023     1.9415     1.9406    27.3359    27.3372     6.8827     6.9000         16   0.0
+       7289   '25-MAY-2006 17:37:52.00'    154.000     1.9501   0.703010     1.9495   0.703062     100.00     0.03250     3.0194     2.7567    0.12239     50.85700     -52.78650    34.2028    34.2062     1.9421     1.9415    27.3375    27.3402     6.8816     6.8998         16   0.0
+       7308   '25-MAY-2006 17:37:53.00'    155.000     1.9352   0.702746     1.9346   0.702800     100.00     0.03500     3.0184     2.7558    0.11788     50.85700     -52.78650    34.2041    34.2076     1.9271     1.9266    27.3397    27.3425     6.8824     6.9005         21   0.0
+       7363   '25-MAY-2006 17:37:55.00'    156.000     1.9401   0.702914     1.9395   0.702944     100.00     0.03440     3.0166     2.7546    0.11578     50.85700     -52.78650    34.2073    34.2095     1.9320     1.9314    27.3419    27.3437     6.8768     6.8968         42   0.0
+       7479   '25-MAY-2006 17:38:00.00'    157.000     1.9572   0.703394     1.9569   0.703404      89.63     0.03400     3.0109     2.7507    0.11178     50.85700     -52.78650    34.2141    34.2149     1.9490     1.9487    27.3460    27.3467     6.8581     6.8825         18   0.0
+       7494   '25-MAY-2006 17:38:01.00'    158.000     1.9679   0.703692     1.9672   0.703705      69.66     0.02970     3.0106     2.7503    0.10679     50.85700     -52.78650    34.2179    34.2194     1.9597     1.9589    27.3482    27.3495     6.8559     6.8805         17   0.0
+       7511   '25-MAY-2006 17:38:01.00'    159.000     1.9776   0.703974     1.9767   0.703963      99.13     0.02960     3.0093     2.7495    0.10112     50.85700     -52.78650    34.2221    34.2225     1.9693     1.9683    27.3509    27.3512     6.8512     6.8772         18   0.0
+       7531   '25-MAY-2006 17:38:02.00'    160.000     2.0118   0.704839     2.0107   0.704805     100.00     0.03260     3.0070     2.7483    0.09524     50.85700     -52.78650    34.2311    34.2304     2.0034     2.0023    27.3554    27.3549     6.8391     6.8683         22   0.0
+       7556   '25-MAY-2006 17:38:03.00'    161.000     2.0414   0.705530     2.0406   0.705542     100.00     0.03350     3.0045     2.7463    0.09158     50.85700     -52.78650    34.2356    34.2372     2.0329     2.0321    27.3567    27.3580     6.8276     6.8579         28   0.0
+       7586   '25-MAY-2006 17:38:05.00'    162.000     2.0514   0.705768     2.0504   0.705788     100.00     0.03230     3.0030     2.7442    0.08886     50.85700     -52.78650    34.2371    34.2392     2.0428     2.0418    27.3572    27.3589     6.8224     6.8505         31   0.0
+       7618   '25-MAY-2006 17:38:06.00'    163.000     2.0730   0.706288     2.0717   0.706278     100.00     0.03140     3.0028     2.7433    0.08713     50.85700     -52.78650    34.2411    34.2420     2.0643     2.0630    27.3586    27.3594     6.8188     6.8451         35   0.0
+       7681   '25-MAY-2006 17:38:08.00'    164.000     2.0926   0.706749     2.0948   0.706836     100.00     0.03090     3.0039     2.7448    0.08590     50.85700     -52.78650    34.2441    34.2465     2.0838     2.0860    27.3595    27.3612     6.8194     6.8467         94   0.0
+       7756   '25-MAY-2006 17:38:12.00'    165.000     2.1074   0.707106     2.1061   0.707124     100.00     0.02880     2.9992     2.7413    0.08275     50.85700     -52.78650    34.2468    34.2494     2.0986     2.0973    27.3605    27.3626     6.8039     6.8348         40   0.0
+       7783   '25-MAY-2006 17:38:13.00'    166.000     2.1252   0.707572     2.1243   0.707521     100.00     0.02990     2.9952     2.7380    0.07878     50.85700     -52.78650    34.2519    34.2509     2.1163     2.1163    27.3632    27.3627     6.7899     6.8226         23   0.0
+       7803   '25-MAY-2006 17:38:14.00'    167.000     2.1483   0.708117     2.1477   0.708138     100.00     0.03710     2.9939     2.7361    0.07481     50.85700     -52.78650    34.2556    34.2574     2.1393     2.1387    27.3643    27.3658     6.7829     6.8135         18   0.0
+       7819   '25-MAY-2006 17:38:14.00'    168.000     2.1640   0.708552     2.1629   0.708502     100.00     0.03750     2.9937     2.7357    0.07120     50.85700     -52.78650    34.2614    34.2600     2.1549     2.1538    27.3677    27.3666     6.7803     6.8107         16   0.0
+       7835   '25-MAY-2006 17:38:15.00'    169.000     2.2044   0.709554     2.2027   0.709441     100.00     0.03610     2.9934     2.7345    0.06791     50.85700     -52.78650    34.2710    34.2668     2.1952     2.1935    27.3721    27.3689     6.7731     6.8009         15   0.0
+       7851   '25-MAY-2006 17:38:16.00'    170.000     2.2557   0.710793     2.2547   0.710750     100.00     0.03210     2.9930     2.7334    0.06480     50.85700     -52.78650    34.2813    34.2801     2.2463     2.2454    27.3763    27.3754     6.7634     6.7895         18   0.0
+       7875   '25-MAY-2006 17:38:17.00'    171.000     2.2838   0.711489     2.2830   0.711485     100.00     0.03060     2.9911     2.7326    0.06237     50.85700     -52.78650    34.2875    34.2885     2.2744     2.2738    27.3790    27.3798     6.7538     6.7828         35   0.0
+       7969   '25-MAY-2006 17:38:20.00'    172.000     2.2877   0.711595     2.2863   0.711593     100.00     0.03320     2.9882     2.7288    0.06197     50.85700     -52.78650    34.2884    34.2899     2.2783     2.2768    27.3794    27.3806     6.7457     6.7714         84   0.0
+       8027   '25-MAY-2006 17:38:23.00'    173.000     2.3032   0.711955     2.3023   0.711983     100.00     0.04330     2.9880     2.7284    0.05999     50.85700     -52.78650    34.2905    34.2929     2.2936     2.2928    27.3798    27.3817     6.7433     6.7686         36   0.0
+       8057   '25-MAY-2006 17:38:24.00'    174.000     2.3041   0.711991     2.3034   0.712019     100.00     0.04610     2.9868     2.7276    0.05736     50.85700     -52.78650    34.2908    34.2931     2.2945     2.2938    27.3799    27.3818     6.7405     6.7667         28   0.0
+       8082   '25-MAY-2006 17:38:25.00'    175.000     2.3067   0.712071     2.3060   0.712096     100.00     0.04180     2.9863     2.7267    0.05468     50.85700     -52.78650    34.2918    34.2938     2.2970     2.2963    27.3805    27.3822     6.7396     6.7644         22   0.0
+       8104   '25-MAY-2006 17:38:26.00'    176.000     2.3109   0.712186     2.3103   0.712209     100.00     0.04050     2.9859     2.7268    0.05207     50.85700     -52.78650    34.2929    34.2947     2.3011     2.3005    27.3810    27.3826     6.7386     6.7649         22   0.0
+       8127   '25-MAY-2006 17:38:27.00'    177.000     2.3253   0.712568     2.3246   0.712558     100.00     0.03790     2.9854     2.7268    0.04949     50.85700     -52.78650    34.2971    34.2973     2.3155     2.3148    27.3832    27.3835     6.7354     6.7635         26   0.0
+       8161   '25-MAY-2006 17:38:28.00'    178.000     2.3549   0.713295     2.3542   0.713298     100.00     0.04250     2.9847     2.7266    0.04715     50.85700     -52.78650    34.3035    34.3043     2.3449     2.3443    27.3859    27.3866     6.7289     6.7586         48   0.0
+       8224   '25-MAY-2006 17:38:31.00'    179.000     2.3708   0.713696     2.3699   0.713718     100.00     0.05390     2.9868     2.7302    0.04603     50.85700     -52.78650    34.3070    34.3093     2.3607     2.3599    27.3874    27.3893     6.7329     6.7676         54   0.0
+       8261   '25-MAY-2006 17:38:33.00'    180.000     2.4011   0.714492     2.4002   0.714454     100.00     0.02940     2.9883     2.7316    0.04549     50.85700     -52.78650    34.3163    34.3152     2.3910     2.3901    27.3924    27.3916     6.7327     6.7676         30   0.0
+       8288   '25-MAY-2006 17:38:34.00'    181.000     2.4248   0.715102     2.4239   0.715093     100.00     0.03210     2.9888     2.7331    0.04421     50.85700     -52.78650    34.3227    34.3232     2.4146     2.4137    27.3955    27.3960     6.7308     6.7688         24   0.0
+       8312   '25-MAY-2006 17:38:35.00'    182.000     2.4402   0.715576     2.4398   0.715577     100.00     0.03180     2.9889     2.7332    0.04242     50.85700     -52.78650    34.3312    34.3312     2.4300     2.4295    27.4006    27.4011     6.7290     6.7671         27   0.0
+       8345   '25-MAY-2006 17:38:36.00'    183.000     2.4458   0.715757     2.4452   0.715784     100.00     0.03230     2.9897     2.7332    0.04024     50.85700     -52.78650    34.3338    34.3359     2.4355     2.4348    27.4026    27.4044     6.7310     6.7668         40   0.0
+       8389   '25-MAY-2006 17:38:38.00'    184.000     2.4500   0.715876     2.4494   0.715903     100.00     0.02960     2.9904     2.7338    0.03805     50.85700     -52.78650    34.3350    34.3371     2.4396     2.4390    27.4033    27.4050     6.7333     6.7689         46   0.0
+       8435   '25-MAY-2006 17:38:40.00'    185.000     2.4543   0.715999     2.4535   0.716026     100.00     0.02400     2.9926     2.7360    0.03601     50.85700     -52.78650    34.3364    34.3387     2.4438     2.4430    27.4041    27.4059     6.7398     6.7758         44   0.0
+       8472   '25-MAY-2006 17:38:41.00'    186.000     2.4513   0.715970     2.4505   0.716002     100.00     0.02700     2.9952     2.7376    0.03478     50.85700     -52.78650    34.3375    34.3400     2.4408     2.4400    27.4052    27.4073     6.7484     6.7819         27   0.0
+       8495   '25-MAY-2006 17:38:42.00'    187.000     2.4501   0.715982     2.4494   0.716006     100.00     0.02740     2.9971     2.7380    0.03378     50.85700     -52.78650    34.3389    34.3409     2.4395     2.4388    27.4064    27.4080     6.7551     6.7841         22   0.0
+       8515   '25-MAY-2006 17:38:43.00'    188.000     2.4511   0.716036     2.4504   0.716056     100.00     0.03000     2.9989     2.7402    0.03263     50.85700     -52.78650    34.3401    34.3419     2.4405     2.4398    27.4072    27.4088     6.7609     6.7915         19   0.0
+       8535   '25-MAY-2006 17:38:44.00'    189.000     2.4526   0.716095     2.4520   0.716126     100.00     0.02990     3.0002     2.7417    0.03152     50.85700     -52.78650    34.3411    34.3434     2.4419     2.4412    27.4079    27.4098     6.7652     6.7966         21   0.0
+       8561   '25-MAY-2006 17:38:45.00'    190.000     2.4349   0.715743     2.4341   0.715791     100.00     0.02520     3.0015     2.7430    0.03032     50.85700     -52.78650    34.3408    34.3442     2.4242     2.4234    27.4092    27.4120     6.7730     6.8044         36   0.0
+       8632   '25-MAY-2006 17:38:48.00'    191.000     2.4244   0.715548     2.4242   0.715577     100.00     0.02710     3.0044     2.7458    0.02911     50.85700     -52.78650    34.3411    34.3430     2.4136     2.4134    27.4104    27.4119     6.7840     6.8155         66   0.0
+       8668   '25-MAY-2006 17:38:50.00'    192.000     2.4282   0.715726     2.4275   0.715720     100.00     0.03180     3.0043     2.7455    0.02849     50.85700     -52.78650    34.3460    34.3465     2.4174     2.4166    27.4139    27.4143     6.7837     6.8149         23   0.0
+       8692   '25-MAY-2006 17:38:51.00'    193.000     2.4423   0.716084     2.4416   0.716098     100.00     0.03440     3.0032     2.7450    0.02709     50.85700     -52.78650    34.3493    34.3508     2.4314     2.4307    27.4154    27.4166     6.7789     6.8117         28   0.0
+       8738   '25-MAY-2006 17:38:53.00'    194.000     2.4518   0.716332     2.4511   0.716353     100.00     0.03050     3.0009     2.7421    0.02580     50.85700     -52.78650    34.3516    34.3535     2.4408     2.4401    27.4165    27.4180     6.7714     6.8022         63   0.0
+       8786   '25-MAY-2006 17:38:55.00'    195.000     2.4674   0.716755     2.4669   0.716752     100.00     0.03510     2.9985     2.7406    0.02516     50.85700     -52.78650    34.3568    34.3572     2.4563     2.4558    27.4193    27.4197     6.7626     6.7958         28   0.0
+       8806   '25-MAY-2006 17:38:55.00'    196.000     2.4896   0.717329     2.4890   0.717315     100.00     0.05830     2.9993     2.7406    0.02446     50.85700     -52.78650    34.3628    34.3628     2.4784     2.4778    27.4222    27.4223     6.7618     6.7928         18   0.0
+       8823   '25-MAY-2006 17:38:56.00'    197.000     2.4936   0.717445     2.4929   0.717461     100.00     0.04610     3.0000     2.7408    0.02361     50.85700     -52.78650    34.3641    34.3657     2.4824     2.4816    27.4229    27.4243     6.7638     6.7935         16   0.0
+       8840   '25-MAY-2006 17:38:57.00'    198.000     2.5151   0.717996     2.5140   0.717952     100.00     0.04840     2.9994     2.7399    0.02262     50.85700     -52.78650    34.3696    34.3686     2.5038     2.5026    27.4256    27.4248     6.7590     6.7881         17   0.0
+       8867   '25-MAY-2006 17:38:58.00'    199.000     2.5312   0.718368     2.5307   0.718379     100.00     0.04340     2.9973     2.7372    0.02103     50.85700     -52.78650    34.3715    34.3727     2.5198     2.5192    27.4257    27.4267     6.7511     6.7780         39   0.0
+       8962   '25-MAY-2006 17:39:02.00'    200.000     2.5382   0.718566     2.5372   0.718530     100.00     0.03140     2.9919     2.7314    0.02058     50.85700     -52.78650    34.3739    34.3736     2.5267     2.5262    27.4270    27.4265     6.7355     6.7602         31   0.0
+       8983   '25-MAY-2006 17:39:03.00'    201.000     2.5796   0.719589     2.5798   0.719594     100.00     0.03100     2.9911     2.7308    0.02035     50.85700     -52.78650    34.3831    34.3831     2.5680     2.5682    27.4308    27.4309     6.7264     6.7519         23   0.0
+       9034   '25-MAY-2006 17:39:05.00'    202.000     2.5853   0.719729     2.5860   0.719781     100.00     0.02790     2.9902     2.7307    0.01903     50.85700     -52.78650    34.3839    34.3859     2.5736     2.5743    27.4310    27.4325     6.7239     6.7514         45   0.0
+       9288   '25-MAY-2006 17:39:15.00'    203.000     2.5675   0.719312     2.5678   0.719372     100.00     0.03140     2.9882     2.7288    0.01838     50.85700     -52.78650    34.3803    34.3831     2.5558     2.5561    27.4296    27.4319     6.7222     6.7496         53   0.0
+      10567   '25-MAY-2006 17:40:09.00'    204.000     2.5820   0.719777     2.5808   0.719777     100.00     0.02930     2.9874     2.7279    0.01609     50.85700     -52.78650    34.3888    34.3901     2.5702     2.5690    27.4352    27.4364     6.7179     6.7455         41   0.0
