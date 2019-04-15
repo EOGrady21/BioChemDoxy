@@ -1,0 +1,317 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={Oxygen QC},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\newcommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+
+  \title{Oxygen QC}
+    \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+    \author{}
+    \preauthor{}\postauthor{}
+    \date{}
+    \predate{}\postdate{}
+  
+
+\begin{document}
+\maketitle
+
+This notebook describes the pre processing done on Oxygen data in order
+to parse historical data before QC procedures. There have been
+consistent issues with the quality of historical oxygen data at BIO and
+this project for Catherine Johnson requires high quality, reliable
+oxygen data for analyzing nutrient and oxygen trends on the scotian
+shelf. The following stes were taken to ensure the removal of any
+unreliable data from the historical set.
+
+Data was pulled from BIOCHEM database by Shelley Bond, where possible,
+data was pulled from an updated set known as the BIOCHEM reboot. This
+updated set has been quality controlled by Gordana Lazin and is already
+high quality, reliable data from 1990-2013. There were significant
+issues in the pre 1990 data set from BIOCHEM. These issues have been
+described in multiple reports by Bond and Lazin. The main issues that
+were identified and that this pre processing attempts to remove were as
+follows:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  The data set included a large chunk of data collected by external
+  organizations and groups outside DFO which were considered unreliable
+  as there is often little informations about the source methods used on
+  collection.
+\item
+  The data set needed to be isolated to a relevant geographical area for
+  the area of concern to this particular study
+\item
+  There were many input errors in the data set from cruises being
+  duplicated to incorrect metadata including start/end dates, lat/lon
+  information and mission descriptor and sample ID information
+\item
+  The units in BIOCHEM for oxygen were all listed as mmol/m3 however
+  this is incorrect and was the default setting depsite data being
+  entered in various units including ml/l and \% saturation
+\end{enumerate}
+
+The data set pulled by Bond was according to the following SQL script
+
+\begin{Shaded}
+\begin{Highlighting}[]
+
+\KeywordTok{alter} \KeywordTok{session} \KeywordTok{set} \KeywordTok{nls_date_format}\NormalTok{ = }\StringTok{'DD/MM/YYYY'}\NormalTok{;}
+
+\KeywordTok{call} \KeywordTok{the} \KeywordTok{file}\NormalTok{ below Emily_Winkler}
+
+\KeywordTok{SELECT} 
+\KeywordTok{NULL}\NormalTok{ dis_data_num,}
+\NormalTok{  name mission,}
+\NormalTok{  DESCRIPTOR mission_descriptor,}
+\CommentTok{--  LEADER,}
+\CommentTok{--  MISSION_START,}
+\CommentTok{--  MISSION_END,}
+\CommentTok{--  INSTITUTE,}
+\NormalTok{  COLLECTOR_EVENT_ID event_collector_Event_id,}
+\NormalTok{  COLLECTOR_STATION_NAME event_collector_stn_name,}
+\NormalTok{  HEADER_START_DEPTH Dis_header_start_depth,}
+\NormalTok{  HEADER_END_DEPTH dis_header_end_depth,}
+\NormalTok{  HEADER_START_LAT dis_header_slat,}
+\NormalTok{  HEADER_START_LON dis_header_slon,}
+\NormalTok{  HEADER_START dis_header_sdate,}
+\NormalTok{  HEADER_START_TIME dis_header_stime,}
+\NormalTok{  DATA_TYPE_SEQ dis_data_type_seq,}
+  \KeywordTok{METHOD}\NormalTok{ Data_type_method,}
+\NormalTok{  DATA_VALUE dis_detail_data_val,   }
+\NormalTok{  DATA_QC_CODE dis_detail_data_qc_code,}
+  \KeywordTok{null}\NormalTok{ Dis_detail_detection_limit,}
+\NormalTok{  COLLECTOR Dis_detail_detail_collector,}
+\NormalTok{  COLLECTOR_SAMPLE_ID dis_detail_collector_samp_id,}
+  \StringTok{'Jay Bugden'}\NormalTok{ created_by,}
+  \KeywordTok{null}\NormalTok{ created_date,}
+\NormalTok{  DATA_CENTER_CODE,}
+\NormalTok{  Institute,}
+  \StringTok{'NR'}\NormalTok{ Process_flag,}
+  \KeywordTok{null}\NormalTok{ batch_seq,}
+\NormalTok{  discrete_detail_seq dis_sample_key_value}
+\KeywordTok{FROM}\NormalTok{ DISCRETE_DATA}
+\KeywordTok{WHERE} \FunctionTok{upper}\NormalTok{(}\KeywordTok{method}\NormalTok{) }\KeywordTok{like} \StringTok{'%WINKLER%'}
+\KeywordTok{and}\NormalTok{ institute }\KeywordTok{not} \KeywordTok{in}\NormalTok{ (}\StringTok{'Ministerio de la Ind'}\NormalTok{,}\StringTok{'IOS'}\NormalTok{,}\StringTok{'DALHOUSIE UNIVERSITY'}\NormalTok{,}
+\StringTok{'DAL'}\NormalTok{,}\StringTok{'DalhousieU'}\NormalTok{,}\StringTok{'Private'}\NormalTok{,}\StringTok{'PINRO'}\NormalTok{,}\StringTok{'US DOC NOAA NMFS (WO'}\NormalTok{,}\StringTok{'DREP'}\NormalTok{)}
+\KeywordTok{and}\NormalTok{ descriptor }\KeywordTok{NOT} \KeywordTok{IN}
+\NormalTok{(}\KeywordTok{select} \KeywordTok{distinct}\NormalTok{ mission_descriptor }\KeywordTok{from}\NormalTok{ gordana_winkler)}
+\KeywordTok{UNION} \KeywordTok{ALL}
+\KeywordTok{select}\NormalTok{ * }\KeywordTok{from}\NormalTok{ gordana_winkler}
+\NormalTok{;}
+
+\KeywordTok{The} \KeywordTok{next} \KeywordTok{file}\NormalTok{ should be called Emily_all_dupe_sampleids}
+
+\KeywordTok{select}\NormalTok{ mission, mission_descriptor, w.dis_detail_collector_samp_id,}
+\NormalTok{dis_header_sdate, dis_header_stime,}
+\NormalTok{Dis_header_start_depth,}
+\NormalTok{dis_detail_data_val}
+\KeywordTok{from}\NormalTok{ emily_winkler w, (}
+\KeywordTok{select}\NormalTok{ dis_detail_collector_samp_id, }\FunctionTok{count}\NormalTok{(}\DecValTok{1}\NormalTok{)}
+\KeywordTok{from}\NormalTok{ emily_winkler }
+\KeywordTok{group} \KeywordTok{by}\NormalTok{ dis_detail_collector_samp_id}
+\KeywordTok{having} \FunctionTok{count}\NormalTok{(}\DecValTok{1}\NormalTok{) > }\DecValTok{1}\NormalTok{) e}
+\KeywordTok{where}
+\NormalTok{w.dis_detail_collector_samp_id = e.dis_detail_collector_samp_id}
+\CommentTok{--and w.dis_detail_collector_samp_id not like '-%'}
+\CommentTok{--and data_center_code != 30}
+\KeywordTok{order} \KeywordTok{by}\NormalTok{ dis_detail_collector_samp_id}
+\NormalTok{;}
+
+\KeywordTok{The} \KeywordTok{next} \KeywordTok{file}\NormalTok{ Emily_dupe_sampids_metadata}
+
+\KeywordTok{select}\NormalTok{ e.mission_descriptor, e.dis_detail_collector_samp_id,}
+\NormalTok{e.dis_header_sdate, e.dis_header_stime,}
+\NormalTok{e.Dis_header_start_depth, e.dis_detail_data_val}
+\KeywordTok{from}\NormalTok{ emily_winkler e, (}
+\KeywordTok{select}\NormalTok{ mission_descriptor, dis_detail_collector_samp_id,}
+\NormalTok{dis_header_sdate, dis_header_stime,}
+\NormalTok{Dis_header_start_depth, }\FunctionTok{count}\NormalTok{(}\DecValTok{1}\NormalTok{)}
+\KeywordTok{from}\NormalTok{ emily_winkler }
+\KeywordTok{group} \KeywordTok{by}\NormalTok{ mission_descriptor, dis_detail_collector_samp_id, }
+\NormalTok{dis_header_sdate, dis_header_stime, Dis_header_start_depth}
+\KeywordTok{having} \FunctionTok{count}\NormalTok{(}\DecValTok{1}\NormalTok{) > }\DecValTok{1}\NormalTok{) d}
+\KeywordTok{where}\NormalTok{  e.mission_descriptor =  d.mission_descriptor}
+\KeywordTok{and}\NormalTok{  e.dis_detail_collector_samp_id = d.dis_detail_collector_samp_id}
+\KeywordTok{and}\NormalTok{ e.dis_header_sdate = d.dis_header_sdate}
+\KeywordTok{and}\NormalTok{ e.dis_header_stime = d.dis_header_stime}
+\KeywordTok{and}\NormalTok{ e.Dis_header_start_depth = d.Dis_header_start_depth;}
+\end{Highlighting}
+\end{Shaded}
+
+This script pulled all relevant Winkler oxygen data from BIOCHEM after
+it was previously established that electrode and probe data were too
+unreliable to be included.
+
+The first step was to determine the actual units of the data within the
+historical set. This was done using Lazin's ranges for oxygen units.
+
+0-14 is assumed to be ml/l 50-105 is assumed to be \% stauration 105-400
+is assumed to be mmol/m3 14-90 is considered suspect as it is possible
+these values could be recorded in multiple units Values less than 0 were
+thrown out due to them being outside of possible data range
+
+Data was grouped by potential unit.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{mll <-}\StringTok{ }\KeywordTok{length}\NormalTok{(data}\OperatorTok{$}\NormalTok{DIS_DETAIL_DATA_VAL[data}\OperatorTok{$}\NormalTok{DIS_DETAIL_DATA_VAL }\OperatorTok{<}\StringTok{ }\DecValTok{14}\NormalTok{])}
+\NormalTok{mmolm <-}\StringTok{ }\KeywordTok{length}\NormalTok{(data}\OperatorTok{$}\NormalTok{DIS_DETAIL_DATA_VAL[data}\OperatorTok{$}\NormalTok{DIS_DETAIL_DATA_VAL }\OperatorTok{>}\StringTok{ }\DecValTok{105}\NormalTok{])}
+\NormalTok{unkn <-}\StringTok{ }\KeywordTok{length}\NormalTok{(data}\OperatorTok{$}\NormalTok{DIS_DETAIL_DATA_VAL[data}\OperatorTok{$}\NormalTok{DIS_DETAIL_DATA_VAL }\OperatorTok{>=}\StringTok{ }\DecValTok{14} \OperatorTok{&}\StringTok{ }\NormalTok{data}\OperatorTok{$}\NormalTok{DIS_DETAIL_DATA_VAL }\OperatorTok{<=}\StringTok{ }\DecValTok{105}\NormalTok{])}
+\NormalTok{err <-}\StringTok{ }\KeywordTok{length}\NormalTok{(data}\OperatorTok{$}\NormalTok{DIS_DETAIL_DATA_VAL[data}\OperatorTok{$}\NormalTok{DIS_DETAIL_DATA_VAL }\OperatorTok{<}\StringTok{ }\DecValTok{0}\NormalTok{])}
+\end{Highlighting}
+\end{Shaded}
+
+Data was then checked for duplicate using a file pulled by Bond from SQL
+to identify duplicates in metadata and flags were placed in data set if
+data values were exactly duplicated.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{dupes <-}\StringTok{ }\KeywordTok{read_xlsx}\NormalTok{(}\StringTok{'D:/DATA/Dec27-Winkler/Emily_dupe_sampids_metadata.xlsx'}\NormalTok{)}
+
+\CommentTok{#flag duplicated data values}
+\NormalTok{tf <-}\StringTok{ }\KeywordTok{duplicated}\NormalTok{(dupes}\OperatorTok{$}\NormalTok{DIS_DETAIL_DATA_VAL)}
+\ControlFlowTok{for}\NormalTok{ (i }\ControlFlowTok{in} \DecValTok{1}\OperatorTok{:}\KeywordTok{length}\NormalTok{(dupes}\OperatorTok{$}\NormalTok{DIS_DETAIL_DATA_VAL))\{}
+
+\ControlFlowTok{if}\NormalTok{ (tf[i] }\OperatorTok{==}\StringTok{ }\NormalTok{T)\{}
+\NormalTok{  dupes}\OperatorTok{$}\NormalTok{flag[i] <-}\StringTok{ }\DecValTok{4}
+\NormalTok{\}}
+
+\NormalTok{\}}
+\end{Highlighting}
+\end{Shaded}
+
+Geographical limitations were then set on data based on area of interest
+to the specific study. Records outside the boundaries of -72:-48
+Latitude and 37.5:48 Longitude were then flagged ``5'' in the data set.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{geolim <-}\StringTok{ }\NormalTok{data}\OperatorTok{$}\NormalTok{DIS_DETAIL_DATA_VAL[data}\OperatorTok{$}\NormalTok{DIS_HEADER_SLON }\OperatorTok{>}\StringTok{ }\OperatorTok{-}\DecValTok{72} \OperatorTok{&}\StringTok{ }\NormalTok{data}\OperatorTok{$}\NormalTok{DIS_HEADER_SLON }\OperatorTok{<}\StringTok{ }\OperatorTok{-}\DecValTok{48} \OperatorTok{&}\StringTok{ }\NormalTok{data}\OperatorTok{$}\NormalTok{DIS_HEADER_SLAT }\OperatorTok{>}\StringTok{ }\FloatTok{37.5} \OperatorTok{&}\StringTok{ }\NormalTok{data}\OperatorTok{$}\NormalTok{DIS_HEADER_SLAT }\OperatorTok{<}\StringTok{ }\DecValTok{48}\NormalTok{]}
+
+
+\ControlFlowTok{for}\NormalTok{ (i }\ControlFlowTok{in} \DecValTok{1}\OperatorTok{:}\KeywordTok{length}\NormalTok{(data}\OperatorTok{$}\NormalTok{DIS_DATA_NUM))\{}
+  \ControlFlowTok{if}\NormalTok{ (}\OperatorTok{!}\NormalTok{(data}\OperatorTok{$}\NormalTok{DIS_HEADER_SLON[i] }\OperatorTok{>}\StringTok{ }\OperatorTok{-}\DecValTok{72} \OperatorTok{&}\StringTok{ }\NormalTok{data}\OperatorTok{$}\NormalTok{DIS_HEADER_SLON[i] }\OperatorTok{<}\StringTok{ }\OperatorTok{-}\DecValTok{48} \OperatorTok{&}\StringTok{ }\NormalTok{data}\OperatorTok{$}\NormalTok{DIS_HEADER_SLAT[i] }\OperatorTok{>}\StringTok{ }\FloatTok{37.5} \OperatorTok{&}\StringTok{ }\NormalTok{data}\OperatorTok{$}\NormalTok{DIS_HEADER_SLAT[i] }\OperatorTok{<}\StringTok{ }\DecValTok{48}\NormalTok{))\{}
+\NormalTok{    data}\OperatorTok{$}\NormalTok{DIS_DETAIL_DATA_QC_CODE[i] <-}\StringTok{ }\DecValTok{5} \CommentTok{#outside geographical limits}
+    
+\NormalTok{  \}}
+\NormalTok{\}}
+\end{Highlighting}
+\end{Shaded}
+
+Check for start and end dates within correct boundaries.
+
+
+\end{document}

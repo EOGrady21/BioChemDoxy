@@ -8,7 +8,7 @@ clean_xls = function(dfin) {
   df=dfin
   
   # determine which columns have POSIXt or Date formats
-  posixt=which(sapply(df, is.POSIXt)) # columns with POSIXlt or POSIXct format
+  posixt=which(sapply(df, FUN = is.POSIXt)) # columns with POSIXlt or POSIXct format
   dates=which(sapply(df, is.Date)) # columns with date format
   
   # columns with either date or POSIXt formats

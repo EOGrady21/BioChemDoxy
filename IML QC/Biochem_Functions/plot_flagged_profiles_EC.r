@@ -11,7 +11,7 @@ source("plot_profiles.r")
 wd="C:/Users/ChisholmE/Documents/BIOCHEM/IML QC"
 
 # load flagged BCD file
-mission="181079022"
+mission="18HU04016"
 
 fn=file.path(paste0(wd,'/BCD/',mission, '/',mission,"_BCD_flagged.csv"))
 
@@ -56,6 +56,12 @@ fe=unique(df$EVENT_COLLECTOR_EVENT_ID[fi])
 
 # order flagged events by event number
 fe=fe[order(fe)]
+
+# make sure flags are present
+if(length(fe) == 0){
+  stop(paste("ERROR: Cruise", mission, "does not contain any flagged profiles"))
+  
+}
 
 # =================== #
 # DEFINE REPORT FILE
