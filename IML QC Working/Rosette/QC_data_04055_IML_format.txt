@@ -1,0 +1,6 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+2; 40.63; 281505; doxy; 6.57; Bottle-CTD Difference Problem
+13; 40.49; 281532; ntrz; 0.18  ; Out of Nutrient Climatology in box(es) 4 (Min=0.18 Max=16.38 n=614)
+25; 99.98; 281558; ntrz; 16.20  ; Out of Nutrient Climatology in box(es) 1 (Min=0.00 Max=16.20 n=420)
+52; 20.78; 281632; psal; 34.93; Bottle-CTD Difference Problem
+77; 129.82; 281688; doxy; 3.09; Bottle-CTD Difference Problem

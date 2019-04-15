@@ -1,0 +1,72 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+2; 147.38; 281501; psal; 33.77  33.72  ; Duplicate Problem
+2; 5.20; 281509; doxy; 5.73  4.80  ; Duplicate Problem
+2; 40.63; 281505; doxy; 6.57  5.40  ; Duplicate Problem
+2; 147.38; 281501; doxy; 4.48  3.90  ; Duplicate Problem
+2; 40.63; 281505; doxy; 6.57; Bottle-CTD Difference Problem
+2; 1.38; 281510; doxy; 4.80; Surface O2 Out of Prescribed Limits
+2; 5.20; 281509; doxy; 4.80; Surface O2 Out of Prescribed Limits
+6; 159.88; 281511; psal; 33.71  33.62  ; Duplicate Problem
+7; 59.25; 281521; psal; 32.27  32.20  ; Duplicate Problem
+13; 109.51; 281528; psal; 32.82  32.77  ; Duplicate Problem
+13; 0.82; 281536; doxy; 5.63  5.10  ; Duplicate Problem
+13; 2.56; 281537; doxy; 4.30; Surface O2 Out of Prescribed Limits
+13; 40.49; 281532; ntrz; 0.18  ; Out of Nutrient Climatology in box(es) 4 (Min=0.18 Max=16.38 n=614)
+16; 95.81; 281538; psal; 32.98  32.96  ; Duplicate Problem
+16; 45 to 55 m; NaN; temp; 3.49  ; Out of TS Climatology by more than 3*std in box(es) 22 (9.03 ± 5.01)
+22; 2.64; 281555; doxy; 6.01  5.50  ; Duplicate Problem
+25; 156.38; 281556; psal; 35.12  35.09  ; Duplicate Problem
+25; 99.98; 281558; ntrz; 16.20  ; Out of Nutrient Climatology in box(es) 1 (Min=0.00 Max=16.20 n=420)
+32; 1211.50; 281567; psal; 34.98  34.92  ; Duplicate Problem
+35; 1894.02; 281580; psal; 34.93  34.92  ; Duplicate Problem
+38; 15 to 25 m; NaN; temp; 9.66  ; Out of TS Climatology by more than 3*std in box(es) 33 (15.11 ± 5.34)
+38; 25 to 35 m; NaN; temp; 4.05  ; Out of TS Climatology by more than 3*std in box(es) 33 (14.12 ± 6.45)
+47; 3775.87; 281605; psal; 34.91  34.89  ; Duplicate Problem
+47; 3775.87; 281605; doxy; 6.22  5.70  ; Duplicate Problem
+52; 20.78; 281632; psal; 34.93  32.81  ; Duplicate Problem
+52; 1001.18; 281622; doxy; 6.10  5.50  ; Duplicate Problem
+52; 20.78; 281632; psal; 34.93; Bottle-CTD Difference Problem
+55; 781.44; 281638; doxy; 5.92  5.40  ; Duplicate Problem
+55; -5 to 5 m; NaN; psal; 32.10  ; Out of TS Climatology by more than 3*std in box(es) 4 (30.88 ± 1.20)
+55; 5 to 15 m; NaN; psal; 32.10  ; Out of TS Climatology by more than 3*std in box(es) 4 (30.79 ± 0.96)
+55; 15 to 25 m; NaN; psal; 32.10  ; Out of TS Climatology by more than 3*std in box(es) 4 (30.98 ± 1.11)
+55; 240 to 260 m; NaN; psal; 34.72  ; Out of TS Climatology by more than 3*std in box(es) 4 (34.74 ± 0.00)
+59; 65.38; 281650; psal; 32.43  32.36  ; Duplicate Problem
+63; 232.28; 281657; psal; 32.88  32.87  ; Duplicate Problem
+70; 94.34; 281669; doxy; 6.33  5.80  ; Duplicate Problem
+73; 144.93; 281678; psal; 33.40  33.42  ; Duplicate Problem
+77; 129.82; 281688; psal; 33.20  33.19  ; Duplicate Problem
+77; 129.82; 281688; doxy; 3.09  5.20  ; Duplicate Problem
+77; 129.82; 281688; doxy; 3.09; Bottle-CTD Difference Problem
+77; 15 to 25 m; NaN; psal; 31.28  ; Out of TS Climatology by more than 3*std in box(es) 6 (30.11 ± 1.14)
+79; 84.42; 281698; psal; 32.53  32.52  ; Duplicate Problem
+81; 75.56; 281706; psal; 32.46  32.38  ; Duplicate Problem
+87; 170.47; 281714; psal; 33.97  33.94  ; Duplicate Problem
+90; 324.69; 281725; psal; 34.77  34.75  ; Duplicate Problem
+95; 275 to 325 m; NaN; temp; 5.91  ; Out of TS Climatology by more than 3*std in box(es) 67 (5.06 ± 0.69)
+99; -5 to 5 m; NaN; psal; 30.59  ; Out of TS Climatology by more than 3*std in box(es) 68 (31.69 ± 0.66)
+99; 275 to 325 m; NaN; psal; 34.81  ; Out of TS Climatology by more than 3*std in box(es) 68 (34.62 ± 0.15)
+103; 45 to 55 m; NaN; temp; 9.10  ; Out of TS Climatology by more than 3*std in box(es) 68 (2.82 ± 3.96)
+103; 70 to 80 m; NaN; temp; 5.56  ; Out of TS Climatology by more than 3*std in box(es) 68 (1.46 ± 2.52)
+103; 90 to 110 m; NaN; temp; 2.91  ; Out of TS Climatology by more than 3*std in box(es) 68 (1.09 ± 1.65)
+103; 25 to 35 m; NaN; psal; 31.45  ; Out of TS Climatology by more than 3*std in box(es) 68 (32.17 ± 0.69)
+103; 45 to 55 m; NaN; psal; 31.65  ; Out of TS Climatology by more than 3*std in box(es) 68 (32.39 ± 0.18)
+103; 70 to 80 m; NaN; psal; 32.12  ; Out of TS Climatology by more than 3*std in box(es) 68 (32.62 ± 0.06)
+106; 364.04; 281775; psal; 34.73  34.71  ; Duplicate Problem
+106; 5 to 15 m; NaN; psal; 32.13  ; Out of TS Climatology by more than 3*std in box(es) 8 (29.86 ± 0.00)
+106; 15 to 25 m; NaN; psal; 32.12  ; Out of TS Climatology by more than 3*std in box(es) 8 (30.55 ± 1.53)
+106; 25 to 35 m; NaN; psal; 32.13  ; Out of TS Climatology by more than 3*std in box(es) 8 (31.05 ± 0.03)
+106; 70 to 80 m; NaN; psal; 32.98  ; Out of TS Climatology by more than 3*std in box(es) 8 (32.65 ± 0.00)
+106; 90 to 110 m; NaN; psal; 33.30  ; Out of TS Climatology by more than 3*std in box(es) 8 (32.92 ± 0.24)
+110; 2875.27; 281786; psal; 34.93  34.92  ; Duplicate Problem
+110; 2875.27; 281786; doxy; 6.26  5.60  ; Duplicate Problem
+114; 1026.96; 281800; doxy; 6.04  5.50  ; Duplicate Problem
+114; 39.24 to 50.34; 281808, 281807; psal; 34.44  32.65  ; Gradient or Inversion too high
+114; -5 to 5 m; NaN; psal; 34.48  ; Out of TS Climatology by more than 3*std in box(es) 33 (32.48 ± 1.98)
+114; 5 to 15 m; NaN; psal; 34.48  ; Out of TS Climatology by more than 3*std in box(es) 33 (32.40 ± 1.95)
+117; 97.02; 281813; doxy; 6.34  5.70  ; Duplicate Problem
+120; 81.19; 281822; psal; 33.04  33.02  ; Duplicate Problem
+120; 81.19; 281822; doxy; 6.29  5.70  ; Duplicate Problem
+124; 147.37; 281841; psal; 33.42  33.40  ; Duplicate Problem
+127; 45 to 55 m; NaN; temp; 11.83  ; Out of TS Climatology by more than 3*std in box(es) 14 (6.13 ± 4.77)
+127; 45 to 55 m; NaN; psal; 30.60  ; Out of TS Climatology by more than 3*std in box(es) 14 (31.97 ± 1.11)

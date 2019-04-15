@@ -1,0 +1,13 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+q64a015; 1.90; 247067; psal; 31.59  ; Constant profile problem
+q64a015; 16.50; 247066; psal; 31.59  ; Constant profile problem
+q64a021; 190 to 210 m; NaN; temp; 0.08  ; Out of TS Climatology by more than 3*std in box(es) 4 (4.78 ± 1.68)
+q64a021; 190 to 210 m; NaN; psal; 32.58  ; Out of TS Climatology by more than 3*std in box(es) 4 (34.28 ± 0.45)
+q64a046; -5 to 5 m; NaN; psal; 27.02  ; Out of TS Climatology by more than 3*std in box(es) 7 (30.09 ± 2.52)
+q64a047; -5 to 5 m; NaN; psal; 26.56  ; Out of TS Climatology by more than 3*std in box(es) 7 (30.09 ± 2.52)
+q64a048; -5 to 5 m; NaN; psal; 26.41  ; Out of TS Climatology by more than 3*std in box(es) 7 (30.09 ± 2.52)
+q64a049; -5 to 5 m; NaN; psal; 27.44  ; Out of TS Climatology by more than 3*std in box(es) 7 (30.09 ± 2.52)
+q64a050; -5 to 5 m; NaN; psal; 27.25  ; Out of TS Climatology by more than 3*std in box(es) 7 (30.09 ± 2.52)
+q64a051; -5 to 5 m; NaN; psal; 27.10  ; Out of TS Climatology by more than 3*std in box(es) 7 (30.09 ± 2.52)
+q64a051; 5 to 15 m; NaN; psal; 27.22  ; Out of TS Climatology by more than 3*std in box(es) 7 (30.26 ± 2.85)
+q64a052; -5 to 5 m; NaN; psal; 27.15  ; Out of TS Climatology by more than 3*std in box(es) 7 (30.09 ± 2.52)

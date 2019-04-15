@@ -1,0 +1,4 @@
+Filename; Pressure; Uniqueno; Variable; Values; Test failed
+q64a001; 2.60; 247006; cphl; 1.05  1.26  0.72  0.84  ; Duplicate Problem
+q64a001; 5.70; 247005; cphl; 1.53  NaN  1.00  NaN  ; Duplicate Problem
+q64a002; 4.90; 247012; cphl; 1.32  1.59  1.00  1.15  ; Duplicate Problem
